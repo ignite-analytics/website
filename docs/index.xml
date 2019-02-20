@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ignite Procuement</title>
-    <link>https://ignite-analytics.github.io/website/</link>
+    <link>https://beta.ignite.no/</link>
     <description>Recent content on Ignite Procuement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Feb 2019 10:56:46 +0100</lastBuildDate>
     
-	<atom:link href="https://ignite-analytics.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beta.ignite.no/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eqt</title>
-      <link>https://ignite-analytics.github.io/website/customers/eqt/</link>
+      <link>https://beta.ignite.no/customers/eqt/</link>
       <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
       
-      <guid>https://ignite-analytics.github.io/website/customers/eqt/</guid>
+      <guid>https://beta.ignite.no/customers/eqt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eqt</title>
-      <link>https://ignite-analytics.github.io/website/partners/innovasjon_norge/</link>
+      <link>https://beta.ignite.no/partners/innovasjon_norge/</link>
       <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
       
-      <guid>https://ignite-analytics.github.io/website/partners/innovasjon_norge/</guid>
+      <guid>https://beta.ignite.no/partners/innovasjon_norge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Valdemar Rolfsen</title>
-      <link>https://ignite-analytics.github.io/website/team/valdemar/</link>
+      <link>https://beta.ignite.no/team/valdemar/</link>
       <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
       
-      <guid>https://ignite-analytics.github.io/website/team/valdemar/</guid>
+      <guid>https://beta.ignite.no/team/valdemar/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-baseURL = "https://ignite-analytics.github.io/website/"
+baseURL = "https://beta.ignite.no"
 languageCode = "en-us"
 title = "Ignite Procuement"
 publishDir = "docs"

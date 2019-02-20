@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team on Ignite Procuement</title>
-    <link>https://ignite-analytics.github.io/website/team/</link>
+    <link>https://beta.ignite.no/team/</link>
     <description>Recent content in Team on Ignite Procuement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Dec 2018 14:24:18 +0100</lastBuildDate>
     
-	<atom:link href="https://ignite-analytics.github.io/website/team/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beta.ignite.no/team/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Valdemar Rolfsen</title>
-      <link>https://ignite-analytics.github.io/website/team/valdemar/</link>
+      <link>https://beta.ignite.no/team/valdemar/</link>
       <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
       
-      <guid>https://ignite-analytics.github.io/website/team/valdemar/</guid>
+      <guid>https://beta.ignite.no/team/valdemar/</guid>
       <description></description>
     </item>
     

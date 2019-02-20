@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ignite Analytics on Ignite Procuement</title>
-    <link>https://ignite-analytics.github.io/website/ignite-analytics/</link>
+    <link>https://beta.ignite.no/ignite-analytics/</link>
     <description>Recent content in Ignite Analytics on Ignite Procuement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Dec 2018 15:31:35 +0100</lastBuildDate>
     
-	<atom:link href="https://ignite-analytics.github.io/website/ignite-analytics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beta.ignite.no/ignite-analytics/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

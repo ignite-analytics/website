@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Partners on Ignite Procuement</title>
-    <link>https://ignite-analytics.github.io/website/partners/</link>
+    <link>https://beta.ignite.no/partners/</link>
     <description>Recent content in Partners on Ignite Procuement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Feb 2019 10:56:46 +0100</lastBuildDate>
     
-	<atom:link href="https://ignite-analytics.github.io/website/partners/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beta.ignite.no/partners/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eqt</title>
-      <link>https://ignite-analytics.github.io/website/partners/innovasjon_norge/</link>
+      <link>https://beta.ignite.no/partners/innovasjon_norge/</link>
       <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
       
-      <guid>https://ignite-analytics.github.io/website/partners/innovasjon_norge/</guid>
+      <guid>https://beta.ignite.no/partners/innovasjon_norge/</guid>
       <description></description>
     </item>
     
