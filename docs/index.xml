@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ignite Procuement</title>
-    <link>/</link>
+    <link>/website/</link>
     <description>Recent content on Ignite Procuement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Feb 2019 10:56:46 +0100</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eqt</title>
-      <link>/customers/eqt/</link>
+      <link>/website/customers/eqt/</link>
       <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
       
-      <guid>/customers/eqt/</guid>
+      <guid>/website/customers/eqt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eqt</title>
-      <link>/partners/innovasjon_norge/</link>
+      <link>/website/partners/innovasjon_norge/</link>
       <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
       
-      <guid>/partners/innovasjon_norge/</guid>
+      <guid>/website/partners/innovasjon_norge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Valdemar Rolfsen</title>
-      <link>/team/valdemar/</link>
+      <link>/website/team/valdemar/</link>
       <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
       
-      <guid>/team/valdemar/</guid>
+      <guid>/website/team/valdemar/</guid>
       <description></description>
     </item>
     

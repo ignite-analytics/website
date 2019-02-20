@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Selected Customers on Ignite Procuement</title>
-    <link>/customers/</link>
+    <link>/website/customers/</link>
     <description>Recent content in Selected Customers on Ignite Procuement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Feb 2019 10:56:46 +0100</lastBuildDate>
     
-	<atom:link href="/customers/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/website/customers/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eqt</title>
-      <link>/customers/eqt/</link>
+      <link>/website/customers/eqt/</link>
       <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
       
-      <guid>/customers/eqt/</guid>
+      <guid>/website/customers/eqt/</guid>
       <description></description>
     </item>
     

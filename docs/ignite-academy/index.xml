@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ignite Academy on Ignite Procuement</title>
-    <link>/ignite-academy/</link>
+    <link>/website/ignite-academy/</link>
     <description>Recent content in Ignite Academy on Ignite Procuement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Dec 2018 15:31:35 +0100</lastBuildDate>
     
-	<atom:link href="/ignite-academy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/website/ignite-academy/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

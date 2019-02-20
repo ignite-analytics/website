@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/website/"
 languageCode = "en-us"
 title = "Ignite Procuement"
 publishDir = "docs"

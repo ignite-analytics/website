@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team on Ignite Procuement</title>
-    <link>/team/</link>
+    <link>/website/team/</link>
     <description>Recent content in Team on Ignite Procuement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Dec 2018 14:24:18 +0100</lastBuildDate>
     
-	<atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/website/team/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Valdemar Rolfsen</title>
-      <link>/team/valdemar/</link>
+      <link>/website/team/valdemar/</link>
       <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
       
-      <guid>/team/valdemar/</guid>
+      <guid>/website/team/valdemar/</guid>
       <description></description>
     </item>
     
