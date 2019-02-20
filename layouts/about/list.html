@@ -6,9 +6,13 @@
                 {{ .Content }}
             </div>
         </div>
-    </div>
 
-    {{ with .Site.GetPage "team" }}
-        {{ partial "sections/team.html" . }}
-    {{ end }}
+        {{ with .Site.GetPage "team" }}
+            {{ partial "sections/team.html" . }}
+        {{ end }}
+
+        {{ with .Site.GetPage "career" }}
+            {{ partial "sections/career.html" . }}
+        {{ end }}
+    </div>
 {{ end }}

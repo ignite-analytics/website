@@ -3,6 +3,7 @@ title: "About"
 date: 2018-12-16T15:31:35+01:00
 draft: false
 ---
+
 ### Ignite Analytics
 Our digital platform for strategic procurement, represents the cornerstone of our offering. Combining new technology with a battle-proven approach, our unique solution supports the full strategic procurement cycle – from spend analysis, identification of opportunities and risks, implementation and tracking.​
 
