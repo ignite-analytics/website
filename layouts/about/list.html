@@ -1,0 +1,14 @@
+{{ define "main" }}
+    <div class="container">
+        <div class="row p-5">
+            <h1>{{.Title}}</h1>
+            <div>
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+
+    {{ with .Site.GetPage "team" }}
+        {{ partial "sections/team.html" . }}
+    {{ end }}
+{{ end }}

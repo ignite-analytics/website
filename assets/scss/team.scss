@@ -1,0 +1,12 @@
+$profile-pic-size: 200px;
+
+.profile-picture {
+    width: $profile-pic-size;
+    height: $profile-pic-size;
+
+    border-radius: $profile-pic-size / 2;
+    display: inline-block;
+
+    background-position: center center;
+    background-size: cover;
+}
