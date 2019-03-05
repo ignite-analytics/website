@@ -1,13 +1,367 @@
+/** COLORS **/
+
+    /**primary**/
+
+    $blue: #3C6FE9;  
+    $green: #31B096; 
+    $yellow: #ebaf41;
+    $dark-blue: #153559;
+    $dark: #18243f;
+    $white: #fff;
+    $light-grey: #fafafa;
+    
+    
+    
+        /**secondary**/
+    
+        $blue-hover: #0038ba;  
+        $green-hover: #1f7060; 
+        $yellow-hover: #F0C161;
+        $dark-blue-secondary: #18243F;
+
 @import "home.scss";
 @import "team.scss";
 @import "header.scss";
 @import "customers.scss";
 @import "footer.scss";
+@import "services.scss";
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
+html {
+    font-size: 18px;
+    background: none;
+    @media screen and (max-width: 991px) {
+        font-size: 16px;
+
+    }
+}
+
 
 body {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
 }
 
 div {
     max-width: 100%;
+}
+
+
+    
+/** fonts **/
+h1, h2, h3, h4, p, li {
+    color: $dark-blue;
+}    
+
+h1 {
+    font-size: 2em;
+    line-height: 1.2em;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 1.8em;
+}
+h3 {
+    font-size: 1.5em;
+
+}
+
+h4,
+a.social-contact {
+    font-size: 1.2em;
+    font-weight: 300;
+    line-height: 1.8em;
+    margin-top: 25px;
+}
+
+h4.bold {
+    font-weight: 500;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.7;
+}
+a {
+    list-style: none;
+}
+
+/** Lists **/
+ul {
+    text-decoration: none;
+    list-style-type: none;
+    padding-left: 0;
+    & li {
+        margin-bottom: 1.5em !important;
+    }
+}
+
+/** Buttons **/
+
+.btn {
+    border: 0px;   
+    border-radius: 25px;
+    min-width: 200px;
+    height: 50px;
+    margin-top: 25px;
+    font-size: 1em;
+    font-weight: 500;
+    &-primary {
+        background: $blue;
+        color: $white;
+        &:hover {
+            background-color: $blue-hover;
+        }
+    }
+    &-primary.yellow {
+        background: $yellow;
+        color: $white;
+        &:hover {
+            background-color: $yellow-hover;
+            }
+    }
+    &-primary.green {
+        background: $green;
+        color: $white;
+        &:hover {
+            background-color: $green-hover;
+            }
+    }
+    &-outline-primary {
+        border: 2px solid $blue;
+        color: $blue;
+        &:hover {
+            background-color: $blue-hover;
+            color: $white;
+            border: none;
+        }
+        
+    }
+    &-outline-primary.yellow {
+        border: 2px solid $yellow;
+        color: $yellow;
+        &:hover {
+        background-color: $yellow-hover;
+        color: $dark-blue;
+    }
+    }
+    &-outline-primary.green {
+        border: 2px solid $green;
+        color: $green;
+        &:hover {
+            background-color: $green;
+            color: $dark-blue;
+        }
+}
+
+}
+
+
+
+/** services-list**/
+.service_list li {
+    padding-left: 18px;
+    margin-left: 1em;
+    width: 100%;
+}
+.fa-li {
+    color: $blue;
+    padding-right: 18px;
+    &.yellow{
+        color: $yellow !important;
+    }
+    &.green{
+        color: $green;
+    }
+}
+
+i.fas,
+i.fab {
+    color: #3C6FE9;
+    padding-right: .5em;
+  }
+
+
+
+
+.header-content,
+.header-content-img {
+    width: 100%;
+}
+
+/**NAVIGATION**/
+
+.navbar {
+    background: $dark !important;
+    height: 80px;
+    .nav-item {
+        color: $white;
+        height: 80px;
+        padding: 1.45em 1em !important;
+        &.nav-link:hover {
+            color: $white;
+            background: $dark-blue;
+        }
+        &.nav-link:hover:first-child {
+            background: $blue;
+        }
+        &.nav-link:hover:nth-of-type(3) {
+            background: $yellow;
+        }
+        &.nav-link:hover:nth-of-type(2) {
+            background: $green;
+        }
+
+        
+        &.nav-link.active {
+            background: $blue;
+        }
+}
+
+}
+
+.full-width {
+    background: $light-grey;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+/** HEADER **/
+.header {
+    max-height: 700px;
+    margin-bottom: 120px;
+    padding-top: 100px;
+}
+.header-content-img {
+    max-height: 700px;
+}
+
+
+/** LOGOLIST **/
+
+.customer-logo {
+    margin: 0 auto;
+}
+/** Clients-list**/
+.client-heading {
+    padding-top: 3em;
+    text-align: center;
+    color: #153559;
+    text-align: center;
+}
+
+.client-list {
+    align-items: center;
+    justify-content: center;
+    min-height: 10em;
+}
+
+.client-logo {
+    text-align: center;
+    padding: 1em !important;
+    margin-bottom: 2em;
+    width: 170px !important;
+    filter: grayscale(100%);
+    &.client-logo:hover {
+        filter: none;
+    }
+}
+
+
+/** NEWSLETTER**/
+.newsletter {
+    text-align: center;
+    
+}
+
+.social-media-icons {
+    margin: 3em auto;
+}
+.icon {
+    margin: 0 .5em;
+}
+.newsletter-content {
+    margin-top: 4em;
+}
+.newsletter-form {
+    max-width: 90%;
+}
+.form-group {
+    margin-top: 4em;
+}
+.form-control {
+    height: 50px;
+    width: 100%;
+    border: 2px solid #d7d7d7;
+    border-radius: 25px;
+}
+.submit {
+    width: 100%;
+    margin-top: 0;
+}
+
+
+
+/** TEAM **/
+.main-contact-block {
+    padding: 0 !important;
+}
+
+.main-contact {
+    padding: 0 !important;
+    margin-bottom: 2em;
+}
+
+
+img.contact {
+    margin-right: 2em;
+    border-radius: 15px;
+}
+h4.title {
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+.main-contact-info {
+    margin-bottom: 2em;
+}
+  .phoneto,
+  .mailto
+   {
+      display: block;
+      color: $dark-blue;
+  }
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1440px;
+}
+ /** NEWSLETTER-media**/
+ .newsletter-content {
+    width: 40%;
+    margin: 4em auto;  
+  }
+  .form-group {
+      display: inline-block;
+      width: 40%;
+      margin-top: 0;
+  }
+  .submit {
+      display: inline-block;
+      width: 175px;
+      margin-left: 1em;
+  }
+
+  .form-control.contact {
+      width: 100%;
+  }
+  .form-group-contact {
+      border-radius: 10px;
+  }
+  img.contact {
+      width: 300px;
+      height: 300px;
+  }
 }

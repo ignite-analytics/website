@@ -1,14 +1,36 @@
 {{ define "main" }}
-    <div class="container">
-        <div class="row p-5">
-            <h1>{{.Title}}</h1>
-            <div>
+<section class="container">
+    {{ with .Site.GetPage "top-banner-about" }}
+    {{ partial "top-banner.html" . }}
+{{ end }}
+</section>
+    <section class="container">
+            {{ with .Site.GetPage "services" }}
+            {{ partial "sections/services.html" . }}
+        {{ end }}
+</section>
+<section class="container">
+        <div class="col-md-6">
                 {{ .Content }}
-            </div>
         </div>
-    </div>
-
+        <div class="col-md-6">
+           
+        </div>
+        
+</section>
+<section class="container">
     {{ with .Site.GetPage "team" }}
         {{ partial "sections/team.html" . }}
     {{ end }}
+</section>
+<div class="container p-5">
+        {{ with .Site.GetPage "partners" }}
+        {{ partial "sections/partners.html" . }}
+        {{ end }}
+    </div>
+<section class="container">
+            {{ with .Site.GetPage "newsletter" }}
+            {{ partial "sections/newsletter.html" . }}
+            {{ end }}
+</section>
 {{ end }}

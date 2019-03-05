@@ -1,0 +1,33 @@
+{{ define "main" }}
+<section class="container">
+    {{ with .Site.GetPage "karriere" }}
+    {{ partial "top-banner.html" . }}
+{{ end }}
+</section>
+
+</section>
+<section class="container">
+              {{ with .Site.GetPage "realisering" }}
+              {{ partial "sections/infoblock.html" . }}
+              {{ end }}
+
+</section>
+<section class="container">
+              {{ with .Site.GetPage "utvikling" }}
+              {{ partial "sections/infoblock-reverse.html" . }}
+              {{ end }}
+
+</section>
+<section class="container">
+              {{ with .Site.GetPage "forbedring" }}
+              {{ partial "sections/infoblock.html" . }}
+              {{ end }}
+
+</section>
+<section class="container">
+       {{ with .Site.GetPage "newsletter" }}
+       {{ partial "sections/newsletter.html" . }}
+       {{ end }}
+</section>
+
+{{ end }}

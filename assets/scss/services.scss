@@ -1,0 +1,29 @@
+.grey {
+    background: $light-grey;
+    width: 100%;
+    padding: 0 !important;
+    max-width: 100% !important;
+}
+.services {
+    text-align: center;
+    border-radius: 15px;
+    
+}
+.description-block {
+    bottom: 0;
+    margin-bottom: 2em;
+}
+
+.services-logo {
+    display: block;
+    max-width: 200px;
+    text-align: center;
+    padding: 1em !important;
+    margin: 0 auto;
+    }
+#service-btn{
+    text-align: center;
+}
+   #service-btn:nth-of-type(2){
+        background: $green !important;
+    }

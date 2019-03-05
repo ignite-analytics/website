@@ -1,6 +1,70 @@
 {{ define "main" }}
-<div class="p-5">
+<section class="container d-flex bd-highlight flex-column-reverse flex-lg-row align-items-center">
+<div class="header-content p-2 flex-fill bd-highlight pr-sm-3 pr-lg-5">
         <h1>{{.Title}}</h1>
-        {{ .Content }}
+        <h4>{{.Description}}</h4>
+        {{ .Content }}   
+                    <a><button type="button" class="btn btn-primary yellow btn-lg  " data-toggle="modal" data-target="#modalbook">Book et møte</button></a> 
+                        <div class="modal fade" id="modalbook" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-lg" role="document">
+                          
+                              <!--Content-->
+                              <div class="modal-content">
+                          
+                                <!--Body-->
+                                <div class="modal-body mb-0 p-0">
+                          
+                                   <!-- Start of Meetings Embed Script -->
+
+                                    <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/borge-langedal/mte-med-ignite-procurement?embed=true"></div>
+
+                                    <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script>
+
+                                  <!-- End of Meetings Embed Script -->
+                                                       
+                                </div>
+                          
+                                <!--Footer-->
+                                <div class="modal-footer justify-content-center">
+                                  <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
+                          
+                                </div>
+                          
+                              </div>
+                              <!--/.Content-->
+                          
+                            </div>
+                          </div>   
+                       
 </div>
+
+ <div class="header-content-img p-2 flex-fill bd-highlight pl-sm-3 pl-lg-5">
+       <img class="" src="{{ .Params.Image }}">
+ </div>
+
+</section>
+<section class="container">
+              {{ with .Site.GetPage "realisering" }}
+              {{ partial "sections/infoblock.html" . }}
+              {{ end }}
+
+</section>
+<section class="container">
+              {{ with .Site.GetPage "utvikling" }}
+              {{ partial "sections/infoblock-reverse.html" . }}
+              {{ end }}
+
+</section>
+<section class="container">
+              {{ with .Site.GetPage "forbedring" }}
+              {{ partial "sections/infoblock.html" . }}
+              {{ end }}
+
+</section>
+<section class="container">
+       {{ with .Site.GetPage "newsletter" }}
+       {{ partial "sections/newsletter.html" . }}
+       {{ end }}
+</section>
+
 {{ end }}

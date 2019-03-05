@@ -1,0 +1,20 @@
+
+<div class="row">
+        {{ range .Pages }}
+        
+            
+         <div class="services col-lg-4 col-md-12 wrap pr-4">
+            <img class="services-logo" src="{{ .Params.logo }}">
+                
+             <div class="description-block px-4">
+                  <p>{{ .Description }}</p>
+            </div>
+            <div class="row px-2 justify-content-center align-items-center">
+                
+                    <a href="{{ .URL }}"><button type="button" id="service-btn" class="btn btn-outline-primary mt-3">Finn ut mer</button></a>
+             </div>
+        </div>
+        
+            {{ end }}
+
+    </div>

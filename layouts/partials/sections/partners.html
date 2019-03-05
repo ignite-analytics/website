@@ -1,12 +1,11 @@
-<div class="container">
-    <div class="text-center">
-        <h2>{{ .Title }}</h2>
-    </div>
-    <div class="row p-5">
-        {{ range .Pages }}
-            <div class="col-md-4 mb-2 text-center">
-                <img class="customer-logo" src="{{ .Params.logo }}">
-            </div>
-        {{ end }}
-    </div>
-</div>
+
+<section class="client-list wrap d-flex p-2 bd-highlight flex-column flex-md-row flex-wrap justify-content-between">
+    {{ range .Pages }}
+        <div class="client-logo p-2 bd-highlight">
+            <img class="" src="{{ .Params.logo }}">
+        </div>
+    {{ end }}
+ </section>  
+    
+
+

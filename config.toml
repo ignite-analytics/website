@@ -1,5 +1,5 @@
 baseURL = "https://beta.ignite.no"
-languageCode = "en-us"
+languageCode = "no"
 title = "Ignite Procuement"
 publishDir = "docs"
 
@@ -11,46 +11,46 @@ publishDir = "docs"
     description = "Vi hjelper deg med å optimaliser dine innkjøp ved hjelp av vårt verktøy Ignite Analytics og våre konsulenter som er eksperter på strategiske innkjøp."
     image = "/images/infographics/dashboard2.svg"
 
+ 
+
 
 [menu]
-    [[menu.main]]
-        name = "Home"
-        identifier = "default"
-        title = "Home"
-        url = "/"
-        weight = 1
+ 
 
     [[menu.main]]
         name = "Ignite Analytics"
         identifier = "ignite-analytics"
         title = "Ignite Analytics"
         url = "/ignite-analytics/"
-        weight = 2
+        weight = 1
 
     [[menu.main]]
         name = "Ignite Academy"
         identifier = "ignite-academy"
         title = "Ignite Academy"
         url = "/ignite-academy/"
-        weight = 3
+        weight = 2
 
     [[menu.main]]
         name = "Ignite Services"
         identifier = "ignite-services"
         title = "Ignite Services"
         url = "/ignite-services/"
-        weight = 4
+        id = "ignite-services"
+        weight = 3
 
     [[menu.main]]
         name = "About"
         identifier = "about"
         title = "About"
         url = "/about/"
-        weight = 5
+        weight = 4
 
     [[menu.main]]
-        name = "Contact"
-        identifier = "contact"
-        title = "Contact"
-        url = "/contact/"
-        weight = 6
+        name = "kontakt"
+        identifier = "kontakt"
+        title = "kontakt"
+        url = "/kontakt/"
+        weight = 5
+
+
