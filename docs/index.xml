@@ -5,11 +5,20 @@
     <link>https://beta.ignite.no/</link>
     <description>Recent content on Ignite Procuement</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 20 Feb 2019 10:56:46 +0100</lastBuildDate>
+    <language>no</language>
+    <lastBuildDate>Wed, 20 Feb 2019 13:09:05 +0100</lastBuildDate>
     
 	<atom:link href="https://beta.ignite.no/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ignite-analytics</title>
+      <link>https://beta.ignite.no/ignite-analytics/</link>
+      <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/ignite-analytics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Eqt</title>
@@ -21,12 +30,75 @@
     </item>
     
     <item>
-      <title>Eqt</title>
-      <link>https://beta.ignite.no/partners/innovasjon_norge/</link>
+      <title>Sigbjørn Nome</title>
+      <link>https://beta.ignite.no/mainteam/sigbj%C3%B8rn/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/mainteam/sigbj%C3%B8rn/</guid>
+      <description>CEO &amp;amp; Product Director​ +47 944 88 923 sigbjørn.nome@ignite.no Linkedin</description>
+    </item>
+    
+    <item>
+      <title>Sigbjørn Nome</title>
+      <link>https://beta.ignite.no/team/sigbj%C3%B8rn/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/sigbj%C3%B8rn/</guid>
+      <description>CEO &amp;amp; Product Director​ +47 944 88 923 sigbjørn.nome@ignite.no Linkedin</description>
+    </item>
+    
+    <item>
+      <title>Ignite-academy</title>
+      <link>https://beta.ignite.no/ignite-academy/</link>
+      <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/ignite-academy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obos</title>
+      <link>https://beta.ignite.no/customers/obos/</link>
       <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
       
-      <guid>https://beta.ignite.no/partners/innovasjon_norge/</guid>
+      <guid>https://beta.ignite.no/customers/obos/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Børge Langedal</title>
+      <link>https://beta.ignite.no/mainteam/b%C3%B8rge/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/mainteam/b%C3%B8rge/</guid>
+      <description>Sales Director +47 992 38 391 borge.langedal@ignite.no Linkedin</description>
+    </item>
+    
+    <item>
+      <title>Børge Langedal</title>
+      <link>https://beta.ignite.no/team/b%C3%B8rge/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/b%C3%B8rge/</guid>
+      <description>Sales Director +47 992 38 391 borge.langedal@ignite.no Linkedin</description>
+    </item>
+    
+    <item>
+      <title>Ignite-services</title>
+      <link>https://beta.ignite.no/ignite-services/</link>
+      <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/ignite-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valdemar Rolfsen</title>
+      <link>https://beta.ignite.no/mainteam/valdemar/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/mainteam/valdemar/</guid>
+      <description>Technology Director +47 993 22 797 valdemar.rolfsen@ignite.no Linkedin</description>
     </item>
     
     <item>
@@ -35,7 +107,268 @@
       <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
       
       <guid>https://beta.ignite.no/team/valdemar/</guid>
+      <description>Technology Director +47 993 22 797 valdemar.rolfsen@ignite.no Linkedin</description>
+    </item>
+    
+    <item>
+      <title>Frank-Willie Bødal</title>
+      <link>https://beta.ignite.no/mainteam/frank/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/mainteam/frank/</guid>
+      <description>Marketing Director +47 959 98 283 frank.bodal@ignite.no Linkedin</description>
+    </item>
+    
+    <item>
+      <title>Frank-Willie Bødal</title>
+      <link>https://beta.ignite.no/team/frank/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/frank/</guid>
+      <description>Marketing Director +47 959 98 283 frank.bodal@ignite.no Linkedin</description>
+    </item>
+    
+    <item>
+      <title>Rikard Bakkehaug</title>
+      <link>https://beta.ignite.no/team/rikard/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/rikard/</guid>
+      <description>Tech Lead​ Back End +47 416 94 078 rikard.bakkehaug@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Arkwright</title>
+      <link>https://beta.ignite.no/customers/arkwright/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/customers/arkwright/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Con-Form</title>
+      <link>https://beta.ignite.no/customers/con-form/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/customers/con-form/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forskningsrådet</title>
+      <link>https://beta.ignite.no/partners/forskningsr%C3%A5det/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/partners/forskningsr%C3%A5det/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hexagon</title>
+      <link>https://beta.ignite.no/customers/hexagon/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/customers/hexagon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implenia</title>
+      <link>https://beta.ignite.no/customers/implenia/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/customers/implenia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innovasjon Norge</title>
+      <link>https://beta.ignite.no/partners/innovasjon_norge/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/partners/innovasjon_norge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kolonial</title>
+      <link>https://beta.ignite.no/customers/kolonial/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/customers/kolonial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StartupLab</title>
+      <link>https://beta.ignite.no/partners/startuplab/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/partners/startuplab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://beta.ignite.no/about/textblock/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/about/textblock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://beta.ignite.no/karriere/textblock/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/karriere/textblock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Forbedring av prosesser​</title>
+      <link>https://beta.ignite.no/ignite-services/forbedring/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/ignite-services/forbedring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatisk identifikasjon av muligheter og risikoer</title>
+      <link>https://beta.ignite.no/ignite-analytics/item2/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/ignite-analytics/item2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enkel implementering ​av forbedringstiltak</title>
+      <link>https://beta.ignite.no/ignite-analytics/item3/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/ignite-analytics/item3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full oversikt og dyp innsikt i innkjøpet</title>
+      <link>https://beta.ignite.no/ignite-analytics/item1/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/ignite-analytics/item1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Om oss</title>
+      <link>https://beta.ignite.no/about/top-banner-about/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/about/top-banner-about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realisering av besparelser</title>
+      <link>https://beta.ignite.no/ignite-services/realisering/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/ignite-services/realisering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sømløs og kompromissløs ​oppfølging av innkjøpet</title>
+      <link>https://beta.ignite.no/ignite-analytics/item4/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/ignite-analytics/item4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utvikling av innkjøpsorganisasjon​</title>
+      <link>https://beta.ignite.no/ignite-services/utvikling/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/ignite-services/utvikling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vi skal vokse</title>
+      <link>https://beta.ignite.no/karriere/top-banner/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/karriere/top-banner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bendik Molland</title>
+      <link>https://beta.ignite.no/team/bendik/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/bendik/</guid>
+      <description>Business Development Consultant​ +47 920 22 954 bendik.molland@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Hege Obstfelder​</title>
+      <link>https://beta.ignite.no/team/hege/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/hege/</guid>
+      <description>Chairman of the Board +47 959 98 283 hege.obstfelder@diplom-is.no</description>
+    </item>
+    
+    <item>
+      <title>Henrik Høiness</title>
+      <link>https://beta.ignite.no/team/henrik/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/henrik/</guid>
+      <description>Software Engineer +47 480 39 233 henrik.hoiness@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Jon Riege</title>
+      <link>https://beta.ignite.no/team/jon/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/jon/</guid>
+      <description>Software Engineer +47 482 68 862 jon.riege@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Jørgen Juel</title>
+      <link>https://beta.ignite.no/team/j%C3%B8rgen/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/j%C3%B8rgen/</guid>
+      <description>Software Engineer +47 975 06 012 jorgen.juel@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Kristian Morthen</title>
+      <link>https://beta.ignite.no/team/kristian/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/kristian/</guid>
+      <description>Business Development Manager​ +47 950 52 444 kristian.morthen@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Lars Lien Ankile</title>
+      <link>https://beta.ignite.no/team/lars/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/lars/</guid>
+      <description>Software Engineer +47 948 97 416 lars.lien@ignite.no</description>
     </item>
     
   </channel>
