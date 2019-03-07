@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Team on Ignite Procuement</title>
+    <title>Team on Ignite Procurement</title>
     <link>https://beta.ignite.no/team/</link>
-    <description>Recent content in Team on Ignite Procuement</description>
+    <description>Recent content in Team on Ignite Procurement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <lastBuildDate>Sun, 16 Dec 2018 14:24:18 +0100</lastBuildDate>
@@ -54,6 +54,15 @@
       
       <guid>https://beta.ignite.no/team/rikard/</guid>
       <description>Tech Lead​ Back End +47 416 94 078 rikard.bakkehaug@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Bendik Molland</title>
+      <link>https://beta.ignite.no/team/bendik.enmd/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/bendik.enmd/</guid>
+      <description>Business Development Consultant​ +47 920 22 954 bendik.molland@ignite.no</description>
     </item>
     
     <item>
