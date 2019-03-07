@@ -5,11 +5,29 @@
     <link>https://beta.ignite.no/team/</link>
     <description>Recent content in Team on Ignite Procuement</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>no</language>
     <lastBuildDate>Sun, 16 Dec 2018 14:24:18 +0100</lastBuildDate>
     
 	<atom:link href="https://beta.ignite.no/team/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sigbjørn Nome</title>
+      <link>https://beta.ignite.no/team/sigbj%C3%B8rn/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/sigbj%C3%B8rn/</guid>
+      <description>CEO &amp;amp; Product Director​ +47 944 88 923 sigbjørn.nome@ignite.no Linkedin</description>
+    </item>
+    
+    <item>
+      <title>Børge Langedal</title>
+      <link>https://beta.ignite.no/team/b%C3%B8rge/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/b%C3%B8rge/</guid>
+      <description>Sales Director +47 992 38 391 borge.langedal@ignite.no Linkedin</description>
+    </item>
     
     <item>
       <title>Valdemar Rolfsen</title>
@@ -17,7 +35,88 @@
       <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
       
       <guid>https://beta.ignite.no/team/valdemar/</guid>
-      <description></description>
+      <description>Technology Director +47 993 22 797 valdemar.rolfsen@ignite.no Linkedin</description>
+    </item>
+    
+    <item>
+      <title>Frank-Willie Bødal</title>
+      <link>https://beta.ignite.no/team/frank/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/frank/</guid>
+      <description>Marketing Director +47 959 98 283 frank.bodal@ignite.no Linkedin</description>
+    </item>
+    
+    <item>
+      <title>Rikard Bakkehaug</title>
+      <link>https://beta.ignite.no/team/rikard/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/rikard/</guid>
+      <description>Tech Lead​ Back End +47 416 94 078 rikard.bakkehaug@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Bendik Molland</title>
+      <link>https://beta.ignite.no/team/bendik/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/bendik/</guid>
+      <description>Business Development Consultant​ +47 920 22 954 bendik.molland@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Hege Obstfelder​</title>
+      <link>https://beta.ignite.no/team/hege/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/hege/</guid>
+      <description>Chairman of the Board +47 959 98 283 hege.obstfelder@diplom-is.no</description>
+    </item>
+    
+    <item>
+      <title>Henrik Høiness</title>
+      <link>https://beta.ignite.no/team/henrik/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/henrik/</guid>
+      <description>Software Engineer +47 480 39 233 henrik.hoiness@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Jon Riege</title>
+      <link>https://beta.ignite.no/team/jon/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/jon/</guid>
+      <description>Software Engineer +47 482 68 862 jon.riege@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Jørgen Juel</title>
+      <link>https://beta.ignite.no/team/j%C3%B8rgen/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/j%C3%B8rgen/</guid>
+      <description>Software Engineer +47 975 06 012 jorgen.juel@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Kristian Morthen</title>
+      <link>https://beta.ignite.no/team/kristian/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/kristian/</guid>
+      <description>Business Development Manager​ +47 950 52 444 kristian.morthen@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Lars Lien Ankile</title>
+      <link>https://beta.ignite.no/team/lars/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/team/lars/</guid>
+      <description>Software Engineer +47 948 97 416 lars.lien@ignite.no</description>
     </item>
     
   </channel>

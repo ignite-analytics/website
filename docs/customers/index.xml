@@ -5,7 +5,7 @@
     <link>https://beta.ignite.no/customers/</link>
     <description>Recent content in Selected Customers on Ignite Procuement</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>no</language>
     <lastBuildDate>Wed, 20 Feb 2019 10:56:46 +0100</lastBuildDate>
     
 	<atom:link href="https://beta.ignite.no/customers/index.xml" rel="self" type="application/rss+xml" />
@@ -17,6 +17,60 @@
       <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
       
       <guid>https://beta.ignite.no/customers/eqt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obos</title>
+      <link>https://beta.ignite.no/customers/obos/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/customers/obos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arkwright</title>
+      <link>https://beta.ignite.no/customers/arkwright/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/customers/arkwright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Con-Form</title>
+      <link>https://beta.ignite.no/customers/con-form/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/customers/con-form/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hexagon</title>
+      <link>https://beta.ignite.no/customers/hexagon/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/customers/hexagon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implenia</title>
+      <link>https://beta.ignite.no/customers/implenia/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/customers/implenia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kolonial</title>
+      <link>https://beta.ignite.no/customers/kolonial/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/customers/kolonial/</guid>
       <description></description>
     </item>
     
