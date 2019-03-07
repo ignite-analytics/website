@@ -5,6 +5,6 @@ description: "Bli inspirert og videreutvikle din ekspertise gjennom våre videoe
 draft: false
 logo: "/images/logo-academy-square.svg"
 weight: "2"
-url: "/ignite-academy"
+url: "/ignite-academy/"
 ---
 

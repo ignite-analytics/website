@@ -1,33 +1,25 @@
 {{ define "main" }}
 <section class="container">
-    {{ with .Site.GetPage "karriere" }}
+  <div>
+    {{ with .Site.GetPage "karriere/top-banner" }}
     {{ partial "top-banner.html" . }}
-{{ end }}
-</section>
+    {{ end }}
+</div>  
+<div class="">
+    <div class="col-md-6">
+        {{ .Content }}
+    </div>
+    <div class="col-md-6">
+            
+    </div>
+</div>
 
-</section>
-<section class="container">
-              {{ with .Site.GetPage "realisering" }}
-              {{ partial "sections/infoblock.html" . }}
-              {{ end }}
-
-</section>
-<section class="container">
-              {{ with .Site.GetPage "utvikling" }}
-              {{ partial "sections/infoblock-reverse.html" . }}
-              {{ end }}
-
-</section>
-<section class="container">
-              {{ with .Site.GetPage "forbedring" }}
-              {{ partial "sections/infoblock.html" . }}
-              {{ end }}
-
-</section>
-<section class="container">
+<section class="">
        {{ with .Site.GetPage "newsletter" }}
        {{ partial "sections/newsletter.html" . }}
        {{ end }}
+</section>
+
 </section>
 
 {{ end }}

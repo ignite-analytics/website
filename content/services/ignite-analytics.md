@@ -5,6 +5,6 @@ description: "Optimaliser dine innkjøp med enkelhet gjennom vår unike plattfor
 draft: false
 logo: "/images/logo-analytics-standard-square.svg"
 weight: "1"
-url: "/ignite-analytics"
+url: "/ignite-analytics/"
 ---
 

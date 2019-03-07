@@ -5,11 +5,11 @@
         <div class="container px-2">
             <div class="row vertical-align py-5">
                 <div class="col-md-6 pr-5">
-                    <h1>{{ $.Site.Params.header }}</h1>
-                    <h4>{{ $.Site.Params.description }}</h4>
+                    <h1>{{ .Site.Params.header }}</h1>
+                    <h4>{{ .Site.Params.description }}</h4>
                     <div class="mt-5">
-                            <button type="button" class="btn btn-primary mr-3 mt-3">Finn ut mer</button>
-                            <button type="button" class="btn btn-outline-primary mt-3">Book demo</button>
+                            <a href="ignite-analytics"><button type="button" class="btn btn-primary btn-lg">Finn ut mer</button></a>
+                        <a href="https://meetings.hubspot.com/borge-langedal" target="blank"><button type="button" class="btn btn-outline-primary">Book Demo</button></a>
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -47,8 +47,8 @@
 <div class="container px-2">            
  <div class="row py-5">
      <div class="col">      
-            {{ with .Site.GetPage "career" }}
-                {{ partial "sections/career.html" . }}
+            {{ with .Site.GetPage "karrierebanner" }}
+                {{ partial "sections/karrierebanner.html" . }}
             {{ end }}
         </div>
     </div>

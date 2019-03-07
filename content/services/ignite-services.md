@@ -6,6 +6,6 @@ draft: false
 logo: "/images/logo-services-square.svg"
 image: "/images/infographics/newsletter.svg"
 weight: "3"
-url: "/ignite-services"
+url: "/ignite-services/"
 ---
 

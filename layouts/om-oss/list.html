@@ -1,14 +1,16 @@
 {{ define "main" }}
 <section class="container">
-    {{ with .Site.GetPage "top-banner-about" }}
+    {{ with .Site.GetPage "om-oss" }}
     {{ partial "top-banner.html" . }}
 {{ end }}
 </section>
-    <section class="container">
-            {{ with .Site.GetPage "services" }}
-            {{ partial "sections/services.html" . }}
-        {{ end }}
-</section>
+<div class="full-width py-5">
+        <div class="container">
+                 {{ with .Site.GetPage "services" }}
+                     {{ partial "sections/services.html" . }}
+                {{ end }}
+        </div>
+</div>                
 <section class="container">
         <div class="col-md-6">
                 {{ .Content }}

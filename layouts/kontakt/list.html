@@ -10,15 +10,31 @@
 {{ with .Site.GetPage "contactform" }}
 {{ partial "sections/contactform.html" . }}
 {{ end }}
- <section>
-        <div class=" wrap">
+<section class="container business-contact-block wrap d-flex p-2 flex-column flex-md-row justify-content-between">
+    <div class="main-contact-info">
+        {{ with .Site.GetPage "adresse" }}
+        {{ partial "sections/contactinfo.html" . }}
+        {{ end }}
+    </div>
+    <div class="main-contact-info">
+        {{ with .Site.GetPage "kontaktinformasjon" }}
+        {{ partial "sections/contactinfo.html" . }}
+        {{ end }}
+    </div>
+    <div class="main-contact-info">
+        {{ with .Site.GetPage "sosialemedier" }}
+        {{ partial "sections/contactinfo.html" . }}
+        {{ end }}
+    </div>
+</section> 
+        <div class="">
                 <div class="gmap_canvas">
                   <iframe width="100%" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=epicenter%20oslo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
                 </div>
                 <style>.mapouter{text-align:right;height:500px;width:100%;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:100%;}</style>
-                </div>
- </section>   
- <section class="container">
+        </div>
+ 
+ <section class="">
         {{ with .Site.GetPage "newsletter" }}
         {{ partial "sections/newsletter.html" . }}
         {{ end }}
@@ -26,8 +42,8 @@
  <div class="container px-2">            
         <div class="row py-5">
             <div class="col">      
-                   {{ with .Site.GetPage "career" }}
-                       {{ partial "sections/career.html" . }}
+                   {{ with .Site.GetPage "karrierebanner" }}
+                       {{ partial "sections/karrierebanner.html" . }}
                    {{ end }}
                </div>
            </div>

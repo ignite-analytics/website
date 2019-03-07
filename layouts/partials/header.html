@@ -1,3 +1,4 @@
+
 <nav class="navbar fixed-top navbar-expand-lg">
     <div class="container py-1">
             <a class="navbar-brand" href="/">
@@ -7,12 +8,27 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            
                 <div class="navbar-nav">
                     {{ $currentPage := . }}
                     {{ range .Site.Menus.main }}
-                        <a class="nav-item nav-link {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+                        <a class="nav-item nav-link {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
                     {{ end }}
                 </div>
+                <div class="language-list">
+                    {{ if .Site.IsMultiLingual }}
+                    {{ range .Site.Languages }}
+                    {{ if eq . $.Site.Language }}
+                    <a href="#" class="nav-link language">{{ .LanguageName }}</a>
+                    {{ else }}
+                    {{ range $.Translations }}
+                            <a href="{{ .Permalink }}" class="nav-link language">{{ .Language.LanguageName }}</a>
+                            {{ end }}
+                        {{ end }}
+                        {{ end }}
+                    {{ end }}
+                </div>
+
             </div>
     </div>
-</nav>
+</nav> 

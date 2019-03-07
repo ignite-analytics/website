@@ -5,10 +5,10 @@
         </div>
     </div>
     <div class="col-md-6 pr-5 text-center">
-        <h2>{{ .Params.header }}</h2>
+        <h2>{{ .Title }}</h2>
         <h4>{{ .Description }}</h4>
         <div class="mt-5">
-                <a href="{{ .URL }}"><button type="button" id="service-btn" class="btn btn-outline-primary mt-3">Ledige stillinger</button></a>
+                <a href="{{ "/karriere/" | relLangURL }}"><button type="button" id="service-btn" class="btn btn-outline-primary mt-3">Ledige stillinger</button></a>
         </div>
     </div>
 </div>
