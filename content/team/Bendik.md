@@ -3,7 +3,7 @@ title: "Bendik Molland"
 date: 2018-12-16T14:24:18+01:00
 description: ""
 draft: false
-weight: ""
+weight: "7"
 image: "/images/team/Bendik_Johnsen_Molland.jpg"
 ---
 #### Business Development Consultant​

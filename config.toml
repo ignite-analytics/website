@@ -1,6 +1,6 @@
 baseURL = "https://beta.ignite.no"
 DefaultContentLanguage = "no"
-languageName = "Norwegian"
+languageName = "No"
 languageCode = "no"
 title = "Ignite Procurement"
 publishDir = "docs"
@@ -17,19 +17,14 @@ image = "/images/infographics/dashboard2.svg"
 
 [languages]
   [languages.no]
-    languageName = "Norwegian"
+    languageName = "No"
     languageCode = "no"
     weight = "1"
 
   [languages.en]
-    languageName = "English"
+    languageName = "En"
     languageCode = "en"
     weight = "2"
-
-[[languages.no.menu.main]]
-url    = "/"
-name   = "Hjem"
-weight = "0"
 
  
 [[languages.no.menu.main]]
@@ -69,13 +64,6 @@ weight = "0"
      weight = "5"
 
 
-
-
-#Menu english
-[[languages.en.menu.main]]
-url    = "/"
-name   = "Home"
-weight = "0"
 
 [[languages.en.menu.main]]
     name = "Ignite Analytics"
