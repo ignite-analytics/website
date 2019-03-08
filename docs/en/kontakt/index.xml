@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact us on Ignite Procurement</title>
+    <link>https://beta.ignite.no/en/kontakt/</link>
+    <description>Recent content in Contact us on Ignite Procurement</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Feb 2019 13:09:05 +0100</lastBuildDate>
+    
+	<atom:link href="https://beta.ignite.no/en/kontakt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Address</title>
+      <link>https://beta.ignite.no/en/kontakt/adresse/</link>
+      <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/en/kontakt/adresse/</guid>
+      <description>Pilestredet 33
+0166, Oslo
+Norway</description>
+    </item>
+    
+    <item>
+      <title>Contact information</title>
+      <link>https://beta.ignite.no/en/kontakt/kontaktinformasjon/</link>
+      <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/en/kontakt/kontaktinformasjon/</guid>
+      <description>+47 944 88 923 post@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Social media</title>
+      <link>https://beta.ignite.no/en/kontakt/sosialemedier/</link>
+      <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/en/kontakt/sosialemedier/</guid>
+      <description>Facebook
+Linkedin</description>
+    </item>
+    
+  </channel>
+</rss>
