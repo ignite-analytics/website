@@ -1,4 +1,10 @@
-<section class="grey">
+<!-- Tittel-->
+<div class="container pt-5">
+        {{ with .Site.GetPage "tjenester-tittel" }}
+        {{ partial "tittel.html" . }}
+        {{ end }}
+</div>
+<section class="">
 <div class="container row">
         {{ range .Pages }}
         

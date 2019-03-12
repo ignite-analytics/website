@@ -36,13 +36,18 @@
     {{ partial "sections/customers.html" . }}
     {{ end }}
  </div>
-
+ <!-- Tittel-->
+<div class="container pt-5">
+        {{ with .Site.GetPage "tjenester-tittel" }}
+        {{ partial "tittel.html" . }}
+        {{ end }}
+</div>
 <div class="full-width py-5">
         <div class="container">
-                 {{ with .Site.GetPage "services" }}
-                     {{ partial "sections/services.html" . }}
+                 {{ with .Site.GetPage "main-services" }}
+                     {{ partial "sections/main-services.html" . }}
                 {{ end }}
-                </div>
+         </div>
 </div>
 <div class="container px-2">            
     <div class="row py-5">

@@ -1,3 +1,9 @@
+<!-- Tittel-->
+<div class="container pt-5">
+        {{ with .Site.GetPage "newsletter-tittel" }}
+        {{ partial "tittel.html" . }}
+        {{ end }}
+</div>
 <section class="newsletter">
   <img class="newsletter-img" src="{{ .Params.image }}" width="255px;">
   <div class="newsletter-content">

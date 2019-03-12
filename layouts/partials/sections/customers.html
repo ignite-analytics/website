@@ -1,3 +1,9 @@
+<!-- Tittel-->
+<div class="container pt-5">
+        {{ with .Site.GetPage "kunder-tittel" }}
+        {{ partial "tittel.html" . }}
+        {{ end }}
+</div>
 <section class="client-list wrap d-flex p-2 bd-highlight flex-column flex-md-row flex-wrap justify-content-between">
         {{ range .Pages }}
             <div class="customer-logo p-2 bd-highlight">

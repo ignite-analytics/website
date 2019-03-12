@@ -1,3 +1,9 @@
+<!-- Tittel-->
+<div class="container pt-5">
+        {{ with .Site.GetPage "karriere-tittel" }}
+        {{ partial "tittel.html" . }}
+        {{ end }}
+</div>
 <div class="row vertical-align py-5">
     <div class="col-md-6">
         <div class="main-image-container">

@@ -100,6 +100,46 @@ ul {
     }
 }
 
+
+/** ARROW-HEADING **/
+.tittel {
+    text-align: center;
+    margin: 0 auto;
+}
+.tittel-line {
+    stroke: 2px-solid #eee;
+    width: 100%;
+}
+
+h4.arrow {
+    background-color: $white;
+    display: inline-block;
+    padding: 1em;
+    text-transform: uppercase;
+    color: #153559;
+}
+
+/** ARROW-HEADING " **/
+.tittel2 {
+    margin: 0 auto;
+    text-align: center;
+}
+.tittel-line {
+    stroke: 2px-solid #eee;
+    width: 100%;
+}
+
+h4.arrow2 {
+    background-color: $white;
+    display:block;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    color: #153559;
+}
+
+
+
 /** Buttons **/
 
 .btn {
@@ -110,6 +150,7 @@ ul {
     margin-top: 25px;
     font-size: 1em;
     font-weight: 500;
+    transition: color .7s ease-in-out,background-color .3s ease-in-out,border-color .1s ease-in-out,box-shadow .15s ease-in-out;
     &-primary {
         background: $blue;
         color: $white;
@@ -137,7 +178,8 @@ ul {
         &:hover {
             background-color: $blue-hover;
             color: $white;
-            border: none;
+            border-color: $blue-hover;
+  
         }
         
     }
@@ -147,6 +189,7 @@ ul {
         &:hover {
         background-color: $yellow-hover;
         color: $white;
+        border-color: $yellow-hover;
     }
     }
     &-outline-primary.green {
@@ -160,6 +203,7 @@ ul {
 }
 
 }
+
 
 button.btn-demo {
     font-size: 16px;
@@ -222,6 +266,8 @@ i.fab {
         color: $white !important;
         height: 80px;
         padding: 1.9em .8em!important;
+        transition: color .4s ease-in-out,background-color .3s ease-in,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+
         &.nav-link:hover {
             color: $white;
             background: $dark-blue;
@@ -251,8 +297,6 @@ li.nav-item {
     position: absolute;
     right: 0;
 }
-
-
 
 
 
@@ -549,7 +593,6 @@ a.language {
 }
 
 .full-width {
-    background: $light-grey;
     width: 100%;
     margin: 0;
     padding: 0;

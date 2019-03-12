@@ -16,6 +16,12 @@
 <div class="col-md-6"></div>
 {{ end }}
 </div>
+<!-- Tittel-->
+<div class="container p-5">
+        {{ with .Site.GetPage "contactinfo-tittel" }}
+        {{ partial "tittel.html" . }}
+        {{ end }}
+</div>
 <section class="container business-contact-block wrap d-flex p-2 flex-column flex-md-row justify-content-between">
     <div class="main-contact-info">
         {{ with .Site.GetPage "adresse" }}
