@@ -14,13 +14,20 @@
 	
 	
 
-	<link rel="stylesheet" href="/style.min.c4fee910a6f1b5b8393eab750fe47a56e6d9570df1c0d1f96d68db782a59624e.css">
+	<link rel="stylesheet" href="/style.min.a635935b30dede16c9746c6fc70393c01278bbb9f8fe31c51881fdc3a9efc95c.css">
 
 	<title>Ignite Procurement</title>
 </head>
 <body>
 <script src="js/navigation.js"></script>
 <script src="jq/navigation.js"></script>
+  
+    
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script src="js/navigation.js"></script>
     
     <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/4304957.js"></script>
     
@@ -46,11 +53,23 @@
                     
                         <a class="nav-item nav-link " href="https://beta.ignite.no/ignite-services/">Ignite Services</a>
                     
-                        <a class="nav-item nav-link " href="https://beta.ignite.no/om-oss/">Om oss</a>
+                        <a class="nav-item nav-link " href="https://beta.ignite.no/om-oss/">Om selskapet</a>
                     
-                        <a class="nav-item nav-link " href="https://beta.ignite.no/kontakt/">kontakt</a>
+                        <a class="nav-item nav-link " href="https://medium.com/ignite-procurement">Innsikt</a>
                     
                 </div>
+                
+                <div class="navbar-nav">
+                        
+                        
+                            <a class="nav-item nav-link " href="https://beta.ignite.no/kontakt/">kontakt</a>
+                        
+                            <a class="nav-item nav-link " href="https://beta.ignite.no/log_in/">Logg inn</a>
+                        
+                    </div>
+                <div>
+
+                </div>    
                 <div class="language-list">
                     
                     
@@ -71,6 +90,14 @@
     </div>
 </nav> 
 
+
+
+
+          
+
+
+
+
         <div class="nav-padding" id="content">
         
 <section class="container d-flex bd-highlight flex-column-reverse flex-lg-row align-items-center">
@@ -83,10 +110,13 @@
 <li><i class="fas fa-magic" style="color: #3C6FE9"></i> Enkel implementering ​av forbedringstiltak<br /></li>
 <li><i class="fas fa-sync" style="color: #3C6FE9"></i> Sømløs og kompromissløs ​oppfølging av innkjøpet</li>
 </ul>
- 
-                        <a href="https://meetings.hubspot.com/borge-langedal" target="blank"><button type="button" class="btn btn-primary btn-lg">Book Demo</button></a>           
-                        <button type="button" class="btn btn-outline-primary icon-btn" data-toggle="modal" data-target="#modalYT">Se video<i class="fas fa-play-circle fa-lg"></i></button>
-                        <div class="modal fade" id="modalYT" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+
+<p><a class="btn btn-primary btn-lg" href="" data-toggle="modal" data-target="#modalbook" icon="">Book en demo</a>
+
+<a class="btn btn-outline-primary btn-lg" href="" data-toggle="modal" data-target="#modalYT" icon="">Se video</a>
+</p>
+  
+                        <div class="modal fade" id="modalbook" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                             <div class="modal-dialog modal-lg" role="document">
                           
                               
@@ -95,9 +125,13 @@
                                 
                                 <div class="modal-body mb-0 p-0">
                           
-                                  <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/o2clte4Ds2w  " allowfullscreen></iframe>
-                                  </div>
+                                   
+
+                                   <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/post3?embed=true"></div> 
+
+                                   <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script> 
+
+                                  
                                                        
                                 </div>
                           
@@ -112,7 +146,34 @@
                           
                             </div>
                           </div>    
-                                                                       
+                          
+                          
+                          <div class="modal fade" id="modalYT" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                              <div class="modal-dialog modal-lg" role="document">
+                            
+                                
+                                <div class="modal-content">
+                            
+                                  
+                                  <div class="modal-body mb-0 p-0">
+                            
+                                    <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+                                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/o2clte4Ds2w  " allowfullscreen></iframe>
+                                    </div>
+                                                         
+                                  </div>
+                            
+                                  
+                                  <div class="modal-footer justify-content-center">
+                                    <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
+                            
+                                  </div>
+                            
+                                </div>
+                                
+                            
+                              </div>
+                            </div>
         </div>            
         <div class="header-content-img p-2 flex-fill bd-highlight pl-sm-3 pl-lg-5">
                 <img class="" src="/images/infographics/analytics-2.svg">
@@ -190,16 +251,16 @@
         <h2>Motta Nyhetsbrev</h2>
         <h4>Få siste nytt om våre produkter, tjenester og eventer</h4>
     <div class="">
-        <script>
-         hbspt.forms.create({
-          portalId: "4304957",
-          formId: "b46283cb-637c-46a5-8b9c-4cb06bc46bd3"
-          });
-          </script>  
-           <div class="social-media-icons">
-              <a href="https://www.facebook.com/igniteprocurement/" target="_blank"><img class="icon" src="/images/icons/facebook.svg" alt="Follow us on facebook" width="40px"></a>
-               <a href="https://www.linkedin.com/company/ignite-procurement/" target="_blank"><img class="icon" src="/images/icons/linkedin.svg" alt="Follow us on linkedin" width="40px"></a>
-          </div> 
+          <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script> 
+
+<script> 
+
+  hbspt.forms.create({ 
+
+portalId: "4304957", 
+
+formId: "b46283cb-637c-46a5-8b9c-4cb06bc46bd3" });</script> 
+
     </div>                     
 </section>
 
@@ -222,9 +283,9 @@
                     
                         <li><a href="/ignite-services/"><i class="fa fa-angle-double-right"></i>Ignite Services</a></li>
                     
-                        <li><a href="/om-oss/"><i class="fa fa-angle-double-right"></i>Om oss</a></li>
+                        <li><a href="/om-oss/"><i class="fa fa-angle-double-right"></i>Om selskapet</a></li>
                     
-                        <li><a href="/kontakt/"><i class="fa fa-angle-double-right"></i>kontakt</a></li>
+                        <li><a href="https://medium.com/ignite-procurement"><i class="fa fa-angle-double-right"></i>Innsikt</a></li>
                     
                 </ul>
             </div>

@@ -683,6 +683,21 @@
   </url>
   
   <url>
+    <loc>https://beta.ignite.no/header/</loc>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.ignite.no/en/header/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://beta.ignite.no/header/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.ignite.no/ignite-analytics/item4/</loc>
     <lastmod>2018-12-16T15:31:35+01:00</lastmod>
     <xhtml:link
