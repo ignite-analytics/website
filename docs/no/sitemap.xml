@@ -203,6 +203,51 @@
   </url>
   
   <url>
+    <loc>https://beta.ignite.no/team/kristian/</loc>
+    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.ignite.no/en/team/kristian/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://beta.ignite.no/team/kristian/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://beta.ignite.no/team/bendik/</loc>
+    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.ignite.no/en/team/bendik/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://beta.ignite.no/team/bendik/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://beta.ignite.no/team/hege/</loc>
+    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.ignite.no/en/team/hege/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://beta.ignite.no/team/hege/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.ignite.no/kontakt/adresse/</loc>
     <lastmod>2019-02-20T13:09:05+01:00</lastmod>
     <xhtml:link
@@ -728,31 +773,6 @@
   </url>
   
   <url>
-    <loc>https://beta.ignite.no/team/bendik.enmd/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://beta.ignite.no/team/bendik/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://beta.ignite.no/team/hege/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.ignite.no/en/team/hege/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://beta.ignite.no/team/hege/"
-                />
-  </url>
-  
-  <url>
     <loc>https://beta.ignite.no/team/henrik/</loc>
     <lastmod>2018-12-16T14:24:18+01:00</lastmod>
     <xhtml:link
@@ -809,21 +829,6 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://beta.ignite.no/mainteam/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://beta.ignite.no/team/kristian/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.ignite.no/en/team/kristian/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://beta.ignite.no/team/kristian/"
                 />
   </url>
   
