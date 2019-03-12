@@ -53,6 +53,7 @@ image = "/images/infographics/dashboard2.svg"
      name = "Om selskapet"
     identifier = "om-selskapet"
      title = "Om selskapet"
+     url = "/om-oss/"
      weight = "4"
      hasChildren = "true"
 
