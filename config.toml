@@ -50,18 +50,34 @@ image = "/images/infographics/dashboard2.svg"
      weight = "3"
 
 [[languages.no.menu.main]]
-     name = "Om oss"
-    identifier = "om-oss"
-     title = "Om oss"
-     url = "/om-oss/"
+     name = "Om selskapet"
+    identifier = "om-selskapet"
+     title = "Om selskapet"
      weight = "4"
+     hasChildren = "true"
 
- [[languages.no.menu.main]]
+     
+[[languages.no.menu.main]]
+     name = "Innsikt"
+    identifier = "innsikt"
+     title = "Innsikt"
+     url = "https://medium.com/ignite-procurement"
+     weight = "5"
+
+
+ [[languages.no.menu.secondary]]
      name = "kontakt"
      identifier = "kontakt"
      title = "kontakt"
      url = "/kontakt/"
-     weight = "5"
+     weight = "1"
+
+[[languages.no.menu.secondary]]
+     name = "Logg inn"
+     identifier = "logg inn"
+     title = "Logg inn"
+     url = "/log_in/"
+     weight = "2"
 
 
 
@@ -95,8 +111,22 @@ image = "/images/infographics/dashboard2.svg"
     weight = "4"
 
 [[languages.en.menu.main]]
+    name = "Insight"
+    identifier = "insight"
+    title = "Insight"
+    url = "https://medium.com/ignite-procurement"
+    weight = "4"    
+
+[[languages.en.menu.main]]
     name = "Contact"
     identifier = "kontakt"
     title = "kontakt"
     url = "/en/kontakt/"
     weight = "5"
+
+[[languages.en.menu.secondary]]
+     name = "Log in"
+     identifier = "log in"
+     title = "Log in"
+     url = "/log_in/"
+     weight = "6"

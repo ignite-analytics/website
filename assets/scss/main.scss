@@ -25,6 +25,7 @@
 @import "customers.scss";
 @import "footer.scss";
 @import "services.scss";
+@import "navigation.scss";
 
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
@@ -84,6 +85,7 @@ p {
     font-size: 1em;
     line-height: 1.7;
 }
+
 a {
     list-style: none;
 }
@@ -144,7 +146,7 @@ ul {
         color: $yellow;
         &:hover {
         background-color: $yellow-hover;
-        color: $dark-blue;
+        color: $white;
     }
     }
     &-outline-primary.green {
@@ -152,10 +154,28 @@ ul {
         color: $green;
         &:hover {
             background-color: $green;
-            color: $dark-blue;
+            color: $white;
         }
+
 }
 
+}
+
+button.btn-demo {
+    font-size: 16px;
+    width: 100px !important;
+    height: 40px;
+    margin: 1em;
+    border-radius: 25px;
+    border-color: $blue;
+    background: $blue;
+    color: $white;
+    &:hover {
+        background-color: $blue-hover;
+    }
+    &:active {
+        border-color: $white;
+    }
 }
 
 
@@ -197,9 +217,11 @@ i.fab {
     background: $dark !important;
     height: 80px;
     .nav-item {
-        color: $white;
+        font-size: 16px;
+        font-weight: 300;
+        color: $white !important;
         height: 80px;
-        padding: 1.45em 1em !important;
+        padding: 1.9em .8em!important;
         &.nav-link:hover {
             color: $white;
             background: $dark-blue;
@@ -219,7 +241,15 @@ i.fab {
             background: $blue;
         }
 }
+li.nav-item {
+    margin: 0;
+    padding: 0;
+}
+}
 
+.navbar-nav.secondary {
+    position: absolute;
+    right: 0;
 }
 
 
@@ -269,19 +299,6 @@ i.fab {
 }
 
 
-a.nav-link {
-    font-size: 20px;
-    font-weight: 400;
-    color: #fff !important;
-    margin-top: 0;
-    padding: 35px 20px !important;
-        &:hover {
-            background: $dark-blue-secondary;
-    }
-
-
-
-}
 
 
 a.analytics:hover {
@@ -523,8 +540,12 @@ a.academy:hover {
 }
 a.language {
     display: inline-block;
-    color: #3C6FE9 !important;
-    padding: 35px 5px !important;
+    color: $blue !important;
+    padding: 25px 5px !important;
+    &.nav-link:hover {
+        color: $white !important;
+        background: $dark-blue;
+    }
 }
 
 .full-width {
@@ -533,6 +554,13 @@ a.language {
     margin: 0;
     padding: 0;
 }
+
+
+
+
+
+
+
 /** HEADER **/
 .header {
     max-height: 700px;
@@ -541,37 +569,6 @@ a.language {
 }
 .header-content-img {
     max-height: 700px;
-}
-
-
-/** LOGOLIST **/
-
-.customer-logo {
-    margin: 0 auto;
-}
-/** Clients-list**/
-.client-heading {
-    padding-top: 3em;
-    text-align: center;
-    color: #153559;
-    text-align: center;
-}
-
-.client-list {
-    align-items: center;
-    justify-content: center;
-    min-height: 10em;
-}
-
-.client-logo {
-    text-align: center;
-    padding: 1em !important;
-    margin-bottom: 2em;
-    width: 170px !important;
-    filter: grayscale(100%);
-    &.client-logo:hover {
-        filter: none;
-    }
 }
 
 

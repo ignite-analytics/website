@@ -8,3 +8,4 @@ weight: "1"
 url: "/en/ignite-analytics/"
 ---
 
+{{< button href="/en/ignite-analytics/" class="btn btn-outline-primary btn-lg" >}}Find out more{{< /button >}}

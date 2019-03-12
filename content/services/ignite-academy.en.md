@@ -8,3 +8,4 @@ weight: "2"
 url: "/en/ignite-academy/"
 ---
 
+{{< button href="/en/ignite-academy/" class="btn btn-outline-primary green btn-lg" >}}Find out more{{< /button >}}

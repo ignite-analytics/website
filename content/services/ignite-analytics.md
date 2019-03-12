@@ -8,3 +8,4 @@ weight: "1"
 url: "/ignite-analytics/"
 ---
 
+{{< button href="/ignite-analytics/" class="btn btn-outline-primary btn-lg" >}}Finn ut mer{{< /button >}}

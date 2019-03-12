@@ -8,4 +8,4 @@ image: /images/infographics/work.svg
 
 ---
 
-<a href="{{ "/karriere/" | relLangURL }}"><button type="button" id="service-btn" class="btn btn-outline-primary mt-3">Ledige stillinger</button></a>
+{{< button href="/en/karriere/" class="btn btn-outline-primary btn-lg" >}}Vacancies{{< /button >}}

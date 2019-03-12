@@ -12,3 +12,4 @@ image: "/images/infographics/academy.svg"
 + <i class="fas fa-indent" style="color: #31B096"></i></span>Webinars
 + <i class="fas fa-chalkboard-teacher" style="color: #31B096"></i></span>Classroom courses​
 
+{{< button href="mailto:post@ignite.no" class="btn btn-primary green btn-lg" >}}Show interest{{< /button >}}

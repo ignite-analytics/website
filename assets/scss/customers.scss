@@ -2,15 +2,47 @@
     padding-left: 0 !important;
     padding-right: 0 !important;
 }
+
+
+/** LOGOLIST **/
+
 .customer-logo {
-    max-width: 160px;
-    max-height: 100px;
+    margin: 0 auto;
+}
+/** Clients-list**/
+.client-heading {
+    padding-top: 3em;
+    text-align: center;
+    color: #153559;
+    text-align: center;
+}
+
+.client-list {
+    align-items: center;
+    justify-content: center;
+    min-height: 10em;
+}
+
+.client-logo {
     text-align: center;
     padding: 1em !important;
     margin-bottom: 2em;
+    max-width: 170px !important;
+    max-height: 120px;
     filter: grayscale(100%);
-    &:hover {
+    &.client-logo:hover {
         filter: none;
     }
 }
 
+.partner-logo {
+    text-align: center;
+    padding: 1em !important;
+    margin-bottom: 2em;
+    min-width: 120px;
+    max-height: 120px;
+    filter: grayscale(100%);
+    &.partner-logo:hover {
+        filter: none;
+    }
+}

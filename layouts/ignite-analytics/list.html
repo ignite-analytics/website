@@ -3,10 +3,8 @@
         <div class="header-content p-2 flex-fill bd-highlight pr-sm-3 pr-lg-5">
                         <h1>{{.Title}}</h1>
                         <h4>{{.Description}}</h4>  
-                        {{ .Content }} 
-                        <a href="https://meetings.hubspot.com/borge-langedal" target="blank"><button type="button" class="btn btn-primary btn-lg">Book Demo</button></a>           
-                        <button type="button" class="btn btn-outline-primary icon-btn" data-toggle="modal" data-target="#modalYT">Se video<i class="fas fa-play-circle fa-lg"></i></button>
-                        <div class="modal fade" id="modalYT" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        {{ .Content }}  
+                        <div class="modal fade" id="modalbook" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                             <div class="modal-dialog modal-lg" role="document">
                           
                               <!--Content-->
@@ -15,9 +13,13 @@
                                 <!--Body-->
                                 <div class="modal-body mb-0 p-0">
                           
-                                  <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/o2clte4Ds2w  " allowfullscreen></iframe>
-                                  </div>
+                                   <!-- Start of Meetings Embed Script -->
+
+                                   <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/post3?embed=true"></div> 
+
+                                   <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script> 
+
+                                  <!-- End of Meetings Embed Script -->
                                                        
                                 </div>
                           
@@ -32,7 +34,34 @@
                           
                             </div>
                           </div>    
-                                                                       
+                          
+                          
+                          <div class="modal fade" id="modalYT" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                              <div class="modal-dialog modal-lg" role="document">
+                            
+                                <!--Content-->
+                                <div class="modal-content">
+                            
+                                  <!--Body-->
+                                  <div class="modal-body mb-0 p-0">
+                            
+                                    <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+                                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/o2clte4Ds2w  " allowfullscreen></iframe>
+                                    </div>
+                                                         
+                                  </div>
+                            
+                                  <!--Footer-->
+                                  <div class="modal-footer justify-content-center">
+                                    <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
+                            
+                                  </div>
+                            
+                                </div>
+                                <!--/.Content-->
+                            
+                              </div>
+                            </div>
         </div>            
         <div class="header-content-img p-2 flex-fill bd-highlight pl-sm-3 pl-lg-5">
                 <img class="" src="{{ .Params.Image }}">

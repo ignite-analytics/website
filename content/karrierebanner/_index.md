@@ -9,3 +9,4 @@ image: /images/infographics/work.svg
 
 ---
 
+{{< button href="/karriere/" class="btn btn-outline-primary btn-lg" >}}Ledige stillinger{{< /button >}}

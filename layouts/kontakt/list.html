@@ -7,9 +7,15 @@
 
         </div>
 </section>
+<div class="container mb-5">
 {{ with .Site.GetPage "contactform" }}
 {{ partial "sections/contactform.html" . }}
+<div class="col-md-6">
+{{ .Content }}
+</div>
+<div class="col-md-6"></div>
 {{ end }}
+</div>
 <section class="container business-contact-block wrap d-flex p-2 flex-column flex-md-row justify-content-between">
     <div class="main-contact-info">
         {{ with .Site.GetPage "adresse" }}

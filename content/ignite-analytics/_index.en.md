@@ -10,3 +10,7 @@ image: "/images/infographics/analytics-2.svg"
 + <i class="fas fa-exclamation-triangle" style="color: #3C6FE9"></i>Automatic identification of opportunities and risks
 + <i class="fas fa-magic" style="color: #3C6FE9"></i>Easy implementation of improvement measures        
 + <i class="fas fa-sync" style="color: #3C6FE9"></i>Seemless and rigorous ​tracking of spend development
+
+
+{{< button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#modalbook">}}Book a demo{{< /button >}}
+{{< button class="btn btn-outline-primary btn-lg" data-toggle="modal" data-target="#modalYT">}}See video{{< /button >}}

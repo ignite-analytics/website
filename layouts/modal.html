@@ -1,9 +1,6 @@
-<section class="d-flex bd-highlight flex-column-reverse flex-lg-row align-items-center flex-fill">
-    <div class="header-content p-2 bd-highlight pr-sm-3 pr-lg-5 flex-fill">
-                    <h1>{{.Title}}</h1>
-                    <h4>{{.Description}}</h4>  
-                    {{ .Content }} 
-                    <div class="modal fade" id="modalbook" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+
+<a><button type="button" class="btn btn-primary btn-lg yellow " data-toggle="modal" data-target="#modalbook">Book et møte</button></a> 
+                        <div class="modal fade" id="modalbook" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                             <div class="modal-dialog modal-lg" role="document">
                           
                               <!--Content-->
@@ -14,9 +11,9 @@
                           
                                    <!-- Start of Meetings Embed Script -->
 
-                                   <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/post3?embed=true"></div> 
+                                    <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/borge-langedal/mte-med-ignite-procurement?embed=true"></div>
 
-                                   <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script> 
+                                    <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script>
 
                                   <!-- End of Meetings Embed Script -->
                                                        
@@ -32,9 +29,4 @@
                               <!--/.Content-->
                           
                             </div>
-                          </div>                                                            
-    </div>            
-    <div class="header-content p-2 bd-highlight pl-sm-3 pl-lg-5 flex-fill">
-            <img class="header-content-img" src="{{ .Params.Image }}">
-     </div>
-</section> 
+                          </div>

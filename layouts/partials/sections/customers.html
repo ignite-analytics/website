@@ -1,12 +1,8 @@
-<div class="container">
-    <div class="text-center">
-        <h2>{{ .Title }}</h2>
-    </div>
-    <div class="row p-5 customer-list align-items-center">
+<section class="client-list wrap d-flex p-2 bd-highlight flex-column flex-md-row flex-wrap justify-content-between">
         {{ range .Pages }}
-            <div class="col-md mb-2 justify-content-center">
-                <img class="customer-logo" src="{{ .Params.logo }}">
+            <div class="customer-logo p-2 bd-highlight">
+                <img class="client-logo" src="{{ .Params.logo }}">
             </div>
         {{ end }}
-    </div>
-</div>
+     </section>  
+        

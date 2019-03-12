@@ -1,6 +1,15 @@
 {{ define "main" }}
+<section class="container">
+        <div class="header-content p-2 flex-fill bd-highlight pr-sm-3 pr-lg-5">
+                {{ with .Site.GetPage "header" }}
+                {{ partial "top-banner.html" . }}
+                {{ end }}  
+        </div>
+        
+        
+</section>        
 
-<div class="container-fluid">
+<!-- <div class="container-fluid">
     <div class="row">
         <div class="container px-2">
             <div class="row vertical-align py-5">
@@ -18,16 +27,16 @@
                     </div>
                 </div>
             </div>
-            <div class="row py-5">
-                <div class="col">
-                    {{ with .Site.GetPage "customers" }}
-                        {{ partial "sections/customers.html" . }}
-                    {{ end }}
-                </div>
-            </div>
+
         </div>
     </div>
-</div>         
+</div>  -->
+<div class="container p-5">
+    {{ with .Site.GetPage "customers" }}
+    {{ partial "sections/customers.html" . }}
+    {{ end }}
+ </div>
+
 <div class="full-width py-5">
         <div class="container">
                  {{ with .Site.GetPage "services" }}
