@@ -1,6 +1,6 @@
 
-<nav class="navbar fixed-top navbar-expand-lg">
-    <div class="container py-1">
+<nav class="navbar navbar-dark fixed-top navbar-expand-xl" style="background-color: #18243f;">
+    <div class="container full py-1">
             <a class="navbar-brand" href="/">
                 <img class="header-logo" src="{{ $.Site.Params.logo }} " /> 
             </a>
@@ -23,7 +23,7 @@
                         {{ end }}
                     </div>
                 <div>
-
+                        <button id="btn-demo" type="button">Demo</button>
                 </div>    
                 <div class="language-list">
                     {{ if .Site.IsMultiLingual }}
