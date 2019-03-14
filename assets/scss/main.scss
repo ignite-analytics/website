@@ -68,6 +68,9 @@ h3 {
     font-size: 1.5em;
 
 }
+h4 {
+    margin-bottom: 1em;
+}
 
 h4,
 a.social-contact {
@@ -115,7 +118,7 @@ ul {
     list-style-type: none;
     padding-left: 0;
     & li {
-        margin-bottom: 1.5em !important;
+        margin-bottom: 1em;
     }
 }
 
@@ -413,11 +416,12 @@ a.academy:hover {
 
   
   .button_container {
+      background-color: $dark;
     position: fixed;
     top: 0;
     right: 0;
-    height: 100px;
-    width: 100px;
+    height: 80px;
+    width: 80px;
     cursor: pointer;
     z-index: 100;
     transition: opacity .25s ease;
@@ -449,18 +453,18 @@ a.academy:hover {
     background: #fff;
     border: none;
     height: 2px;
-    width: 50%;
+    width: 40%;
     position: absolute;
-    top: 35px;
+    top: 30px;
     left: 25px;
     transition: all .35s ease;
     cursor: pointer;
     &:nth-of-type(2) {
-        top: 46px;
+        top: 40px;
         width: 35%;
       }
     &:nth-of-type(3) {
-        top: 58px;
+        top: 50px;
       }  
   }
 
