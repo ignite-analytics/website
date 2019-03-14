@@ -1,0 +1,13 @@
+<!-- Tittel-->
+<div class="container pt-5">
+            {{ with .Site.GetPage "quote-tittel" }}
+            {{ partial "tittel.html" . }}
+            {{ end }}
+    </div>
+ <section class="newsletter">
+      <img class="logo" src="{{ .Params.image }}" width="150px;">
+      <div class="newsletter-content">
+                  {{ .Content }}
+            <p>{{ .Params.author }}</p>
+            <p>{{ .Params.position }}</p>                    
+    </section>

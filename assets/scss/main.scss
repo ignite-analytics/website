@@ -79,15 +79,34 @@ a.social-contact {
 
 h4.bold {
     font-weight: 500;
-}
+    }
 
+h4.footer {
+    font-weight: 500;
+    color: $white;
+}
 p {
     font-size: 1em;
     line-height: 1.7;
 }
+p.white {
+    color: $white;
+}
 
 a {
     list-style: none;
+}
+
+a.inline {
+    font-weight: 500;
+    color: #000;
+    border-bottom: 2px solid #3C6FE9;
+    text-decoration: none;
+}
+a.inline:hover {
+    color: #3C6FE9;
+    border-bottom: none;
+    text-decoration: none;
 }
 
 /** Lists **/
@@ -145,7 +164,8 @@ h4.arrow2 {
 .btn {
     border: 0px;   
     border-radius: 25px;
-    min-width: 200px;
+    min-width: 225px;
+    padding: 11px;
     height: 50px;
     margin-top: 25px;
     font-size: 1em;
@@ -256,7 +276,7 @@ i.fab {
             color: $white;
             background: $dark-blue;
         }
-        &.nav-link:hover:first-child {
+/*         &.nav-link:hover:first-child {
             background: $blue;
         }
         &.nav-link:hover:nth-of-type(3) {
@@ -264,7 +284,7 @@ i.fab {
         }
         &.nav-link:hover:nth-of-type(2) {
             background: $green;
-        }
+        } */
 
         
         &.nav-link.active {
@@ -693,4 +713,27 @@ h4.title {
       width: 300px;
       height: 300px;
   }
+}
+
+@media (max-width: 991px) {
+
+.header {
+    display: block;
+    margin-bottom: 1em;
+    margin-top: 2em;
+    padding-top: 100px;
+}
+.header-content {
+
+    max-height: 1000px;
+    margin-top: 1em;
+    margin-bottom: 0em;
+    margin-top: 5em;
+}
+.header-content-img {
+
+    max-height: 500px;
+    max-width: 500px;
+
+}
 }

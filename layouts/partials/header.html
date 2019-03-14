@@ -11,7 +11,14 @@
             
                 <div class="navbar-nav">
                     {{ $currentPage := . }}
-                    {{ range .Site.Menus.main }}
+                    {{ range .Site.Menus.services }}
+                        <a class="nav-item nav-link {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                    {{ end }}
+                </div>
+                <div class="navbar-nav">
+                    {{ $currentPage := . }}
+                    {{ range .Site.Menus.main}}
+   
                         <a class="nav-item nav-link {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
                     {{ end }}
                 </div>
@@ -21,10 +28,7 @@
                         {{ range .Site.Menus.secondary }}
                             <a class="nav-item nav-link {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
                         {{ end }}
-                    </div>
-                <div>
-                        <button id="btn-demo" type="button">Demo</button>
-                </div>    
+                    </div>   
                 <div class="language-list">
                     {{ if .Site.IsMultiLingual }}
                     {{ range .Site.Languages }}
@@ -42,120 +46,3 @@
             </div>
     </div>
 </nav> 
-
-
-
-<!-- <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div class="container">
-        <a class="navbar-brand" href="/">
-            <img class="header-logo" src="{{ $.Site.Params.logo }} " /> 
-        </a>        <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation"
-          aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-    
-        <div class="collapse navbar-collapse text-center" id="navigation">
-          <ul class="navbar-nav ml-auto">
-            {{ range .Site.Menus.main }}
-            {{ if .HasChildren }}
-            <li class="nav-item nav-link dropdown">
-              <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-                aria-expanded="false">
-                {{ .Name }}
-              </a>
-              <div class="dropdown-menu" >
-                {{ range .Children }}
-                <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
-                {{ end }}
-              </div>
-            </li>
-            {{ else }}
-            <li class="nav-item nav-link">
-                <a class="nav-item text-light" href="{{ .URL }}">{{ .Name }}</a>
-            </li>
-            {{ end }}
-            {{ end }}
-            <div class="navbar-nav">
-                    {{ range .Site.Menus.secondary }}
-                    <li class="nav-item nav-link">
-                            <a class="nav-item text-light" href="{{ .URL }}">{{ .Name }}</a>
-                        </li>                   
-                    {{ end }}
-                </div>
-          </ul> -->
-          <!-- Language List -->
-<!--           <ul class="list-inline text-center mb-0">
-            {{ range $.Site.Home.AllTranslations }}
-            <li class="list-inline-item"><a class="text-light" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
-            {{ end }}
-          </ul>
-        </div>
-    </div>
-      </nav> -->
-
-
-<!-- <nav class="navbar fixed-top navbar-expand-lg">
-        <div class="container py-1">
-          <a class="navbar-brand" href="/">
-            <img class="header-logo" src="{{ $.Site.Params.logo }} " /> 
-          </a>
-          <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive"
-            aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                  Menu
-                  <i class="fa fa-bars"></i>
-                </button>
-
-          <div class="collapse navbar-collapse" id="navbarResponsive">
-                {{ $currentPage := . }}
-            <ul class="navbar-nav ml-auto">
-                {{ range .Site.Menus.main }}
-                    {{ if .HasChildren }}
-              <li class="navbar-nav nav-item dropdown">
-                <a class="nav-link nav-item dropdown-toggle" href="{{.URL}}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
-                  aria-expanded="false">
-                    {{ .Pre }}
-                    <span>{{ .Name }}</span>
-                      </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    {{ range .Children }}
-                  <a class="dropdown-item" href="{{.URL}}">{{.Name}}</a>
-                    {{ end }}
-                </div>
-              </li>
-              {{else}}
-              <li class="nav-item">
-                <a class="nav-item nav-link" href="{{.URL}}">
-                  {{ .Pre }}
-                    <span>{{ .Name }}</span>
-                </a>
-              </li>
-                {{end}}
-              {{end}}
-            </ul>
-          </div>
-          <div class="navbar-nav">
-                {{ $currentPage := . }}
-                {{ range .Site.Menus.secondary }}
-                    <a class="nav-item nav-link {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
-                {{ end }}
-            </div>
-        <div>
-                <button class="btn-demo blue" href="/ignite-analytics" type="button">
-                      Book demo
-                    </button>
-        </div>   
-          <div class="language-list">
-                {{ if .Site.IsMultiLingual }}
-                {{ range .Site.Languages }}
-                {{ if eq . $.Site.Language }}
-                <a href="#" class="nav-link language">{{ .LanguageName }}</a>
-                {{ else }}
-                {{ range $.Translations }}
-                        <a href="{{ .Permalink }}" class="nav-link language">{{ .Language.LanguageName }}</a>
-                        {{ end }}
-                    {{ end }}
-                    {{ end }}
-                {{ end }}
-            </div>
-        </div>
-      </nav> -->

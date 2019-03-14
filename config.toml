@@ -27,21 +27,21 @@ image = "/images/infographics/dashboard2.svg"
     weight = "2"
 
  
-[[languages.no.menu.main]]
+[[languages.no.menu.services]]
     name = "Ignite Analytics"
      identifier = "ignite-analytics"
      title = "Ignite Analytics"
      url = "/ignite-analytics/"
      weight = "1"
 
-[[languages.no.menu.main]]
+[[languages.no.menu.services]]
     name = "Ignite Academy"
      identifier = "ignite-academy"
      title = "Ignite Academy"
      url = "/ignite-academy/"
      weight = "2"
 
-[[languages.no.menu.main]]
+[[languages.no.menu.services]]
      name = "Ignite Services"
      identifier = "ignite-services"
      title = "Ignite Services"
@@ -56,6 +56,8 @@ image = "/images/infographics/dashboard2.svg"
      url = "/om-oss/"
      weight = "4"
      hasChildren = "true"
+
+
 
      
 [[languages.no.menu.main]]
@@ -77,26 +79,26 @@ image = "/images/infographics/dashboard2.svg"
      name = "Logg inn"
      identifier = "logg inn"
      title = "Logg inn"
-     url = "/log_in/"
+     url = "https://app.ignite.no/dashboard/"
      weight = "2"
 
 
 
-[[languages.en.menu.main]]
+[[languages.en.menu.services]]
     name = "Ignite Analytics"
     identifier = "ignite-analytics"
     title = "Ignite Analytics"
     url = "/en/ignite-analytics/"
      weight = "1"
 
-[[languages.en.menu.main]]
+[[languages.en.menu.services]]
     name = "Ignite Academy"
     identifier = "ignite-academy"
     title = "Ignite Academy"
     url = "/en/ignite-academy/"
     weight = "2"
 
-[[languages.en.menu.main]]
+[[languages.en.menu.services]]
     name = "Ignite Services"
     identifier = "ignite-services"
     title = "Ignite Services"
@@ -118,7 +120,7 @@ image = "/images/infographics/dashboard2.svg"
     url = "https://medium.com/ignite-procurement"
     weight = "4"    
 
-[[languages.en.menu.main]]
+[[languages.en.menu.secondary]]
     name = "Contact"
     identifier = "kontakt"
     title = "kontakt"
@@ -129,5 +131,5 @@ image = "/images/infographics/dashboard2.svg"
      name = "Log in"
      identifier = "log in"
      title = "Log in"
-     url = "/log_in/"
+     url = "https://app.ignite.no/"
      weight = "6"

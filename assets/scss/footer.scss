@@ -1,7 +1,7 @@
 /* Footer */
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 section {
-    padding: 60px 0;
+    padding: 60px 0 18px 0;
 }
 
 section .section-title {
@@ -64,6 +64,113 @@ section .section-title {
 #footer ul.quick-links li:hover a i {
     font-weight: 700;
 }
+
+
+img.footer-logo {
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+i.social {
+    width: 25px;
+}
+
+
+/** FOOTER**/
+.footer {
+    min-height: 10em;
+}
+
+.footer-left {
+    background: #18243F;
+    padding: 5em !important;
+    min-width: 20%;
+    text-align: center;
+}
+.la-footer-list {
+    text-align: center;
+}
+.footer-right {
+    background: #153559;
+    padding: 5em 2em !important;
+}
+.footer ul {
+    margin-top: 0;
+    margin-bottom: 2em;
+    padding-inline-start: 0;
+}
+.la-footer-list li{
+    font-size: 1.2em;
+    font-weight: 300;
+}
+.footer-list {
+    padding: 0 1em;
+    text-align: center;
+}
+.footer li {
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: .5em;
+    text-decoration: underline;
+
+}
+
+.footer li:hover {
+   text-decoration-color: #3C6FE9;
+}
+.footer-logobox {
+    margin: 25px auto;
+    text-align: center;
+    align-content: center;
+
+}
+.footer-social {
+    padding: 0 1em;
+}
+.footer-logo {
+    margin: 0 auto;
+    align-items: center;
+}
+.footer-icons {
+    display: block;
+    width: 90%;
+    text-align: center;
+    margin: 1em;
+}
+a.social-icon {
+    color: $white;
+    width: 50px;
+    margin: 1em;
+    margin: 1em;
+}
+.footer h4 {
+    color: #fff;
+    margin-top: 0;
+
+}
+.personvern {
+    display: block;
+    min-height: 40px;
+    width: 100%;
+    background: #153559;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    padding: .6em;
+}
+.personvern a,
+.personvern p {
+    color: #fff;
+    margin: 0;
+
+}
+
+footer p {
+    color: $white;
+}
+
+
 
 @media (max-width:767px){
 	#footer h5 {
