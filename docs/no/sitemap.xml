@@ -383,6 +383,21 @@
   </url>
   
   <url>
+    <loc>https://beta.ignite.no/quote/</loc>
+    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.ignite.no/en/quote/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://beta.ignite.no/quote/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.ignite.no/kontakt/sosialemedier/</loc>
     <lastmod>2019-02-20T13:09:05+01:00</lastmod>
     <xhtml:link
@@ -643,6 +658,21 @@
   </url>
   
   <url>
+    <loc>https://beta.ignite.no/personvernerkl%C3%A6ring/</loc>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.ignite.no/en/personvernerkl%C3%A6ring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://beta.ignite.no/personvernerkl%C3%A6ring/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.ignite.no/ignite-analytics/item3/</loc>
     <lastmod>2018-12-16T15:31:35+01:00</lastmod>
     <xhtml:link
@@ -838,6 +868,21 @@
   </url>
   
   <url>
+    <loc>https://beta.ignite.no/footer/social-links/</loc>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.ignite.no/en/footer/social-links/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://beta.ignite.no/footer/social-links/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.ignite.no/ignite-analytics/item4/</loc>
     <lastmod>2018-12-16T15:31:35+01:00</lastmod>
     <xhtml:link
@@ -898,6 +943,21 @@
   </url>
   
   <url>
+    <loc>https://beta.ignite.no/tittel/quote-tittel/</loc>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.ignite.no/en/tittel/quote-tittel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://beta.ignite.no/tittel/quote-tittel/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.ignite.no/footer/</loc>
     <lastmod>2018-12-16T15:31:35+01:00</lastmod>
     <xhtml:link
@@ -954,21 +1014,6 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://beta.ignite.no/tittel/tjenester-tittel/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://beta.ignite.no/footer/personvern/</loc>
-    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.ignite.no/en/footer/personvern/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://beta.ignite.no/footer/personvern/"
                 />
   </url>
   
