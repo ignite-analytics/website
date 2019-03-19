@@ -3,7 +3,7 @@ title: "Personvernerklæring og vår bruk av cookies"
 description: "Følgende personvernerklæring gjelder for Ignite Procurement sitt nettsted, www.ignite.no, og vårt nyhetsbrevprogram. Vår personvernerklæring beskriver hvordan vi samler inn og bruker personopplysninger når du benytter eller inngår avtale om bruk av tjenestene."
 date: 2018-12-18T15:31:35+01:00
 draft: false
-url: "/personvernerklæring"
+url: "/personvernerklæring/"
 ---
 
 
