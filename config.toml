@@ -1,4 +1,4 @@
-baseURL = "https://www.ignite.no/"
+baseURL = "https://beta.ignite.no/"
 DefaultContentLanguage = "no"
 languageName = "No"
 languageCode = "no"
