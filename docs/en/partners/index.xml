@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Selected Partners on Ignite Procurement</title>
-    <link>https://beta.ignite.no/en/partners/</link>
+    <link>https://ignite.no/en/partners/</link>
     <description>Recent content in Selected Partners on Ignite Procurement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 20 Feb 2019 10:56:46 +0100</lastBuildDate>
     
-	<atom:link href="https://beta.ignite.no/en/partners/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ignite.no/en/partners/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Forskningsrådet</title>
-      <link>https://beta.ignite.no/en/partners/forskningsra%CC%8Adet/</link>
+      <link>https://ignite.no/en/partners/forskningsra%CC%8Adet/</link>
       <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
       
-      <guid>https://beta.ignite.no/en/partners/forskningsra%CC%8Adet/</guid>
+      <guid>https://ignite.no/en/partners/forskningsra%CC%8Adet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Innovasjon Norge</title>
-      <link>https://beta.ignite.no/en/partners/innovasjon_norge/</link>
+      <link>https://ignite.no/en/partners/innovasjon_norge/</link>
       <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
       
-      <guid>https://beta.ignite.no/en/partners/innovasjon_norge/</guid>
+      <guid>https://ignite.no/en/partners/innovasjon_norge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>StartupLab</title>
-      <link>https://beta.ignite.no/en/partners/startuplab/</link>
+      <link>https://ignite.no/en/partners/startuplab/</link>
       <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
       
-      <guid>https://beta.ignite.no/en/partners/startuplab/</guid>
+      <guid>https://ignite.no/en/partners/startuplab/</guid>
       <description></description>
     </item>
     
