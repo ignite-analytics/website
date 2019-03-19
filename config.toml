@@ -135,7 +135,14 @@ image = "/images/infographics/dashboard2.svg"
      identifier = "#modalbooknor"
      title = "Book demo"
      id = "#modalbook"
-     weight = "3"     
+     weight = "1"   
+
+[[languages.no.menu.personvern]]
+     name = "Cookies og personvernerklæring"
+     identifier = "personvernerklæring"
+     title = "personvernerklæring"
+     url = "/personvernerklæring"
+     weight = "1"        
 
 
 
@@ -250,6 +257,13 @@ image = "/images/infographics/dashboard2.svg"
      title = "Book demo"
      id = "#modalbook"
      weight = "3" 
+
+[[languages.en.menu.personvern]]
+     name = "Privacy policy"
+     identifier = "personvernerklæring"
+     title = "personvernerklæring"
+     url = "/en/privacy-policy"
+     weight = "1"      
 
 
 
