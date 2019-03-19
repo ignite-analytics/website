@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kontakt oss on Ignite Procurement</title>
-    <link>https://beta.ignite.no/kontakt/</link>
+    <link>https://www.ignite.no/kontakt/</link>
     <description>Recent content in Kontakt oss on Ignite Procurement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <lastBuildDate>Wed, 20 Feb 2019 13:09:05 +0100</lastBuildDate>
     
-	<atom:link href="https://beta.ignite.no/kontakt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.ignite.no/kontakt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Adresse</title>
-      <link>https://beta.ignite.no/kontakt/adresse/</link>
+      <link>https://www.ignite.no/kontakt/adresse/</link>
       <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
       
-      <guid>https://beta.ignite.no/kontakt/adresse/</guid>
+      <guid>https://www.ignite.no/kontakt/adresse/</guid>
       <description>Pilestredet 33
 0166, Oslo
 Norway</description>
@@ -24,19 +24,19 @@ Norway</description>
     
     <item>
       <title>Kontaktinformasjon</title>
-      <link>https://beta.ignite.no/kontakt/kontaktinformasjon/</link>
+      <link>https://www.ignite.no/kontakt/kontaktinformasjon/</link>
       <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
       
-      <guid>https://beta.ignite.no/kontakt/kontaktinformasjon/</guid>
+      <guid>https://www.ignite.no/kontakt/kontaktinformasjon/</guid>
       <description>+47 944 88 923 post@ignite.no</description>
     </item>
     
     <item>
       <title>Sosiale medier</title>
-      <link>https://beta.ignite.no/kontakt/sosialemedier/</link>
+      <link>https://www.ignite.no/kontakt/sosialemedier/</link>
       <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
       
-      <guid>https://beta.ignite.no/kontakt/sosialemedier/</guid>
+      <guid>https://www.ignite.no/kontakt/sosialemedier/</guid>
       <description>Facebook
 Linkedin</description>
     </item>
