@@ -49,7 +49,7 @@
 	
 	
 
-	<link rel="stylesheet" href="/style.min.c59d3fd9f9f27589fed84374233e9e7d4e6586e0b73097bce81fe565a38a2894.css">
+	<link rel="stylesheet" href="/style.min.f12eded09ad742faf8084197b5a01214d77c9f8f082b7a45732b58f093268d50.css">
 
 	<title>Ignite Procurement</title>
 </head>
@@ -72,228 +72,285 @@
 
 </body>
     <body class="bg-white">
-        
-<nav class="navbar navbar-dark fixed-top navbar-expand-xl" style="background-color: #18243f;">
-    <div class="container full py-1">
-            <a class="navbar-brand" href="/">
-                <img class="header-logo" src="/images/logo.svg " /> 
-            </a>
-            <button class="navigation navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                
-                <div class="button_container" id="toggle">
-                    <span class="top"></span>
-                    <span class="middle"></span>
-                    <span class="bottom"></span>
-                  </div>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <nav class="menu">
+        <div class="container">
+            <div>
+                    
+                <ul class="nav-list">
+                        <a class="navbar-brand" href="/">
+                            <img class="header-logo" src="/images/logo.svg " /> 
+                        </a>
             
-                <div class="navbar-nav">
+                            
                     
                     
-                        <a class="nav-item nav-link " href="https://beta.ignite.no/ignite-analytics/">Ignite Analytics</a>
-                    
-                        <a class="nav-item nav-link " href="https://beta.ignite.no/ignite-academy/">Ignite Academy</a>
-                    
-                        <a class="nav-item nav-link " href="https://beta.ignite.no/ignite-services/">Ignite Services</a>
-                    
-                </div>
-                <div class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link nav-services" href="/ignite-analytics/">Ignite Analytics</a>
+                    </li>
                     
                     
-   
-                        <a class="nav-item nav-link " href="https://beta.ignite.no/om-oss/">Om selskapet</a>
                     
-   
-                        <a class="nav-item nav-link " href="https://medium.com/ignite-procurement">Innsikt</a>
+                    <li class="nav-item">
+                        <a class="nav-link nav-services" href="/ignite-academy/">Ignite Academy</a>
+                    </li>
                     
-                </div>
-                
-                <div class="navbar-nav">
+                    
+                    
+                    <li class="nav-item">
+                        <a class="nav-link nav-services" href="/ignite-services/">Ignite Services</a>
+                    </li>
+                    
+                    
+                    
+                    
+                    <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">
+                        Selskapet
+                    </a>
+                    <div class="dropdown-submenu" >
                         
+                        <a class="dropdown-item" href="/om-oss">Om oss</a>
                         
-                            <a class="nav-item nav-link " href="https://beta.ignite.no/kontakt/">kontakt</a>
+                        <a class="dropdown-item" href="/om-oss/#team">Team</a>
                         
-                            <a class="nav-item nav-link " href="https://app.ignite.no/dashboard/">Logg inn</a>
+                        <a class="dropdown-item" href="/karriere">Karriere</a>
                         
-                    </div>   
-                <div class="language-list">
+                    </div>
+                    </li>
                     
                     
                     
-                    <a href="#" class="nav-link language">No</a>
-                    
+                    <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">
+                        Blogg
+                    </a>
+                    <div class="dropdown-submenu" >
                         
+                        <a class="dropdown-item" href="https://medium.com/ignite-procurement/insight/home">Innsikt</a>
+                        
+                        <a class="dropdown-item" href="https://medium.com/ignite-procurement/cases/home">Caser</a>
+                        
+                        <a class="dropdown-item" href="https://medium.com/ignite-procurement/news/home">Nyheter</a>
+                        
+                    </div>
+                    </li>
                     
                     
-                            <a href="https://beta.ignite.no/en/personvernerkl%C3%A6ring/" class="nav-link language">En</a>
+                   <div class="naving">
+                    
+                    <li class="nav-item nav-right">
+                        <a class="nav-link" href="/kontakt/">Kontakt oss</a>
+                    </li>
+                 
+                    
+                    <li class="nav-item nav-right">
+                        <a class="nav-link" href="https://app.ignite.no/dashboard/">Logg inn</a>
+                    </li>
+                 
+                    
+                    
+                    <div class="nav-right">
+                        <button class="btn-demo" data-toggle="modal" data-target="#modalbooknor">Book demo</button>                         
+                    </div>
+                    
+       
+                        <div class="language-list nav-right">
+                            
+                            
                             
                         
-                        
-                    
-                </div>
-
+                            
+                                
+                            
+                            
+                                    <a href="https://beta.ignite.no/en/personvernerkl%C3%A6ring/" class="nav-link language">Eng</a>
+                                    
+                                
+                                
+                            
+                        </div> 
+                    </div>
+                    </ul>
             </div>
+  
+           
+   
+
+        <section class="navigation">   
+                <a class="navbar-brand" href="/">
+                    <img class="header-logo" src="/images/logo.svg " /> 
+                </a>   
+                <div class="button_container" id="toggle">
+                  <span class="top"></span>
+                  <span class="middle"></span>
+                  <span class="bottom"></span>
+                </div>
+                
+                <div class="overlay" id="overlay">
+                    <script>
+                        $('#toggle').click(function() {
+                            $(this).toggleClass('active');
+                            $('#overlay').toggleClass('open');
+                           });
+                    </script>     
+                    <nav class="overlay-menu">
+                      <ul class="">
+                          
+                            <li class="">
+                                <a class="nav-reg" href="/ignite-analytics/">Ignite Analytics</a>
+                            </li>
+                            
+                            <li class="">
+                                <a class="nav-reg" href="/ignite-academy/">Ignite Academy</a>
+                            </li>
+                            
+                            <li class="">
+                                <a class="nav-reg" href="/ignite-services/">Ignite Services</a>
+                            </li>
+                            
+                            
+            
+        
+                            <li class="">
+                                <a class="nav-reg" href="/om-oss/">Selskapet</a>
+                            </li>
+                      
+                            
+            
+        
+                            <li class="">
+                                <a class="nav-reg" href="https://medium.com/ignite-procurement">Blogg</a>
+                            </li>
+                      
+                            
+                            
+                            <li class="">
+                                <a class="nav-reg" href="/kontakt/">Kontakt oss</a>
+                            </li>
+                            
+                            <li class="">
+                                <a class="nav-reg" href="https://app.ignite.no/dashboard/">Logg inn</a>
+                            </li>
+                            
+                
+                      </ul>
+                      
+                      <div class="language-list">
+                            
+                            
+                            
+                        
+                            
+                                
+                            
+                            
+                                    <a href="https://beta.ignite.no/en/personvernerkl%C3%A6ring/" class="nav-link language">Eng</a>
+                                    
+                                
+                                
+                            
+                        </div> 
+                      
+                  </nav>
+            </div>
+          
+        </section>
     </div>
-</nav> 
+</nav>
+
+<div class="modal fade" id="modalbook" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+      
+          
+          <div class="modal-content">
+      
+            
+            <div class="modal-body mb-0 p-0">
+      
+               
+
+               <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/post3?embed=true"></div> 
+
+               <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script> 
+
+              
+                                   
+            </div>
+      
+            
+            <div class="modal-footer justify-content-center">
+              <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
+      
+            </div>
+      
+          </div>
+          
+      
+        </div>
+      </div>    
+      
+ 
+    
+  <div class="modal fade" id="modalbooknor" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+      
+          
+          <div class="modal-content">
+      
+            
+            <div class="modal-body mb-0 p-0">
+      
+             
+
+    <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/post3/demo-ignite-analytics-nor?embed=true"></div> 
+
+    <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script> 
+
+   
+                                   
+            </div>
+      
+            
+            <div class="modal-footer justify-content-center">
+              <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
+      
+            </div>
+      
+          </div>
+          
+      
+        </div>
+      </div>   
+
+
+
+
+
+
+
+
+                
+
+
+
+
+
+
+
+
         <div class="nav-padding" id="content">
         
-<section class="container">
-    <section class="col-md-7">
-        <h1>Personvernerklæring og vår bruk av cookies</h1>
-        <h4>Følgende personvernerklæring gjelder for Ignite Procurement sitt nettsted, www.ignite.no, og vårt nyhetsbrevprogram. Vår personvernerklæring beskriver hvordan vi samler inn og bruker personopplysninger når du benytter eller inngår avtale om bruk av tjenestene.</h4>
-    </section>     
-   <div class="col-md-7">
-       
-
-<h3 id="dine-personopplysninger-dine-innstillinger">Dine personopplysninger - dine innstillinger</h3>
-
-<p>Opplysninger du gir oss eller opplysninger vi registrerer om deg når du bruker våre Tjenester, vil utelukkende bli brukt til legitime formål og i tråd med gjeldende personvernregler. Vi ivaretar ditt personvern og sikkerheten knyttet til bruken av dine opplysninger.</p>
-
-<p>Du kan rette henvendelser vedrørende behandling av personopplysninger til vår <a href="mailto:valdemar.rolfsen@ignite.no" class="inline">CTO.</a></p>
-
-<h3 id="personvernerklæring-for-ignite-procurement">Personvernerklæring for Ignite Procurement</h3>
-
-<p>Hos Ignite Procurement er vi forpliktet til å beskytte og respektere personvernet ditt. Denne Personvernerklæringen gjelder våre nettsider, påmelding til vårt nyhetsbrev og bruk av Ignite Analytics («Tjenestene»). Personvernerklæringen beskriver hvordan vi samler inn og bruker personopplysninger når du benytter eller inngår avtale om bruk av Tjenestene.</p>
-
-<h3 id="1-hva-er-personopplysninger">1. Hva er personopplysninger?</h3>
-
-<p>Personopplysninger er opplysninger og vurderinger som kan knyttes til en enkeltperson. Vår behandling av personopplysninger skjer innenfor rammen av de generelle reglene i den norske personopplysningsloven som implementerer EUs personvernforordning (Regulation <sup>2016</sup>&frasl;<sub>679</sub>), samt øvrig relevant regelverk.</p>
-
-<h3 id="2-formål-og-rettslig-grunnlag">2. Formål og rettslig grunnlag</h3>
-
-<p>Vi bruker dine personopplysninger:</p>
-
-<ol>
-<li>for å kunne levere tjenestene</li>
-<li>for å yte kundeservice, herunder svare på henvendelser fra deg</li>
-<li>for å sende deg informasjon på e-post (eksempelvis nyhetsbrev)</li>
-<li>for å analysere bruken av Tjenestene for analyseformål</li>
-<li>for å hindre misbruk av Tjenestene</li>
-<li>for overholdelse av lovpålagte forpliktelser, eksempelvis bokføringsloven</li>
-<li>i øvrige sammenhenger der vi må vite hvem vi har kontakt med</li>
-</ol>
-
-<p>Vi benytter personopplysningene utelukkende til formål som har et gyldig behandlingsgrunnlag. Enkelte typer bruk forutsetter at du har gitt ditt samtykke.</p>
-
-<p>Vi er databehandler for alle kunder som inngår lisensavtale for bruk av Ignite Analytics. For denne typen avtaler inngås det en egen databehandleravtale («DPA») med kunden.</p>
-
-<h3 id="3-opplysningene-som-behandles">3. Opplysningene som behandles</h3>
-
-<p>Vi samler inn opplysninger fra ulike kilder for å oppfylle de formålene som er beskrevet ovenfor. Kildene kan deles inn i to hovedkategorier:</p>
-
-<ul>
-<li>Opplysninger du gir oss</li>
-<li>Opplysninger vi registrerer om deg når du bruker Tjenestene</li>
-</ul>
-
-<h3 id="opplysninger-du-gir-oss">Opplysninger du gir oss</h3>
-
-<p>Dersom du tar kontakt med oss, melder deg på vårt nyhetsbrev eller oppretter en bruker på Ignite Analytics, oppgir du opplysninger om:</p>
-
-<ol>
-<li>ditt navn</li>
-<li>din e-postadresse</li>
-<li>ditt telefonnummer</li>
-<li>selskapsnavn</li>
-</ol>
-
-<p>Du kan også oppgi ytterligere opplysninger i forbindelse med at du velger å bestille lisens på Ignite Analytics fra oss.</p>
-
-<h3 id="opplysninger-vi-registrerer-om-deg-når-du-bruker-tjenestene">Opplysninger vi registrerer om deg når du bruker Tjenestene</h3>
-
-<p>Når du benytter en Tjeneste, bruker vi ulike teknologier for å gjenkjenne og lære mer om deg som bruker – både på nettsidene og i Ignite Analytics. Informasjonen vi innhenter kan omfatte informasjon om operativsystem, nettleserversjon, IP-adresser, identifikatorer fra din nettleser og brukeratferd (eksempelvis tidsbruk).</p>
-
-<h3 id="4-markedsføring-av-tjenestene">4. Markedsføring av Tjenestene</h3>
-
-<p>Har du meldt deg på vårt nyhetsbrev gjennom samtykke, vil du motta disse ved publisering, såfremt du ikke i senere korrespondanse har valgt å avregistrere deg fra nyhetsbrevet.</p>
-
-<h3 id="5-deling-av-informasjon">5. Deling av informasjon</h3>
-
-<p>Det er ansatte i Ignite Procurement som har tilgang til informasjonen. Vi verken selger eller leier informasjonen din til tredjeparter.</p>
-
-<p>Vi inngår avtaler for å sikre at våre partnere behandler opplysningene i samsvar med denne Personvernerklæringen og kravene i gjeldende personvernlovgivning. Hvis personopplysninger overføres til mottakere i et land utenfor EU/EØS, inngår vi avtaler og tar de nødvendige forholdsregler i samsvar med lovmessige krav.</p>
-
-<p>Dine opplysninger vil også kunne bli utlevert i lovpålagte tilfelle, som ledd i betalingsinnkreving (inkasso), regnskapsbehandling, eller som følge av pålegg fra relevant offentlig myndighet.</p>
-
-<h3 id="6-deling-av-informasjon-på-sosiale-medier">6. Deling av informasjon på sosiale medier</h3>
-
-<p>Du kan dele informasjon fra våre Tjenester på sosiale medier, for eksempel Facebook, LinkedIn og Twitter. Dersom du velger å dele informasjon i sosiale medier, vil disse mediene kunne samle inn opplysninger om din aktivitet på Tjenesten. Ignite Procurement har ingen kontroll med eller ansvar for hvordan sosiale medier bruker personopplysninger de samler inn om deg.</p>
-
-<h3 id="7-nærmere-om-bruk-av-sporingsteknologier-cookies-mv">7. Nærmere om bruk av sporingsteknologier (cookies mv.)</h3>
-
-<p>Vi benytter informasjonskapsler («cookies») og annen sporingsteknologi for å analysere ditt brukermønster. Bruken av slik teknologi er allerede omtalt i relasjon til enkelte behandlingsformål over.</p>
-
-<p>Informasjonskapsler er tekstfiler som Tjenesten lagrer på din datamaskin. Filene kan kun leses av oss og av deg selv. Vi bruker informasjonskapsler for følgende formål:</p>
-
-<p>å analysere bruken av våre Tjenester: Vi benytter ulike måleverktøy som gir oss statistikk og analyser av våre Tjenester. Verktøyene gjør at vi kan gjenkjenne din nettleser over tid og dermed vite om du har besøkt nettsiden og hvor ofte. Disse verktøyene gir oss også mulighet til å ha oversikt over hvor mange unike brukere vi har og hvordan disse bruker våre Tjenester.Informasjonen vi samler bruker vi til å analysere brukermønster, samt utvikle og forbedre Tjenestene våre.</p>
-
-<p>Vi benytter følgende tjenester for å analysere bruken av våre Tjenester:</p>
-
-<p><strong>- Google Analytics:</strong> Samle og analysere data om hvordan besøkende på nettsiden bruker Tjenesten. Les mer om dette på <a href="https://policies.google.com/technologies/partner-sites?hl=no">Googles nettside</a>.</p>
-
-<p><strong>- HubSpot:</strong> Behandling av kundeopplysninger og kommunikasjon. Les mer om dette på <a href="https://legal.hubspot.com/cookie-policy">HubSpots nettside</a>.</p>
-
-<p>Alle IP-adresser er anonymiserte i tjenestene vi benytter.</p>
-
-<h3 id="8-brukerinnstillinger-for-informasjonskapsler">8. Brukerinnstillinger for informasjonskapsler</h3>
-
-<p>Du kan hindre at informasjonskapsler lagres på datamaskinen ved å endre innstillingene i nettleseren. Dette kan imidlertid påvirke funksjonaliteten og kvaliteten på Tjenestene.</p>
-
-<h3 id="9-sikkerhet">9. Sikkerhet</h3>
-
-<p>Vi arbeider kontinuerlig for å ivareta våre kunders personvern. Vårt sikkerhetsarbeid omfatter blant annet arbeid med IT-infrastruktur, opplæring av personell og sikring av lokaler og utstyr.</p>
-
-<p>Ignite Procurement skal sørge for at opplysninger som er samlet inn ikke blir brukt i strid med formålet de er samlet inn for og de avtaler og brukervilkår som til enhver tid foreligger.</p>
-
-<p>Ignite Procurement har etablert både tekniske og organisatoriske rutiner og tiltak for å sørge for at uvedkommende ikke får tilgang til dine personopplysninger. Eksempler på slike tiltak er risikovurderinger, databehandleravtaler, ulike rutiner for håndtering av data og oppfølging av forespørsler knyttet til tilgang, retting, sperring og sletting, se seksjon 10 nedenfor.</p>
-
-<p>Det er viktig at du holder passordet som gir tilgang til Ignite Analytics hemmelig, og også at du beskytter din mobiltelefon, PC og nettbrett med passord eller lignende identitetskontroll. Dette er ditt ansvar.</p>
-
-<h3 id="10-lagring-og-sletting">10. Lagring og sletting</h3>
-
-<p>Vi oppbevarer personopplysningene så lenge du har en aktiv lisens på Ignite Analytics eller så lenge opplysningene er nødvendige for å oppfylle formålene som er beskrevet i denne personvernerklæringen. Når personopplysningene dine ikke lengre er relevante for formålene de ble innhentet for, vil vi slette eller anonymisere opplysningene, inkludert alle logger og annen backup-informasjon. Du kan også, når som helst, be om at vi enten retter, sperrer eller sletter personopplysninger i henhold til våre rettslige forpliktelser, se seksjon 11 nedenfor.</p>
-
-<p>Merk at brukerinformasjon i Ignite Analytics vil bli slettet i tråd med inngått lisensavtale for ditt selskap.</p>
-
-<p>Vi kan sperre tilgang til din Ignite Analytics-bruker dersom vi har grunn til å mistenke bedrageri eller brudd på avtalevilkårene i lisensavtalen.</p>
-
-<p>I noen tilfeller vil vi kunne be om ditt samtykke til å beholde opplysninger i et lengre tidsrom. Du vil i et slikt tilfelle bli opplyst om hva som er formålet med å ta vare på opplysningene. Formålet kan for eksempel være å beholde dine kontaktopplysninger etter at du har meldt deg av vårt nyhetsbrev.</p>
-
-<h3 id="11-dine-rettigheter">11. Dine rettigheter</h3>
-
-<p>Personopplysningsloven gir deg flere rettigheter som du kan utøve på ulike måter. Dine rettigheter går ut på:</p>
-
-<p><strong>-</strong> Å kunne trekke et samtykke tilbake</p>
-
-<p><strong>-</strong> Å be om at personopplysninger om deg rettes eller slettes</p>
-
-<p><strong>-</strong> Å be om innsyn i personopplysninger vi har registrert om deg</p>
-
-<p><strong>-</strong> Å kunne motsette deg visse typer bruk av dine
-personopplysninger eller kreve at behandlingen begrenses</p>
-
-<p><strong>-</strong> Kreve å få opplysninger utlevert eller overført til en ny tjenestetilbyder</p>
-
-<p><strong>-</strong> Å klage til Datatilsynet</p>
-
-<p>Du kan rette henvendelser vedrørende behandling av personopplysninger til vår <a href="mailto:valdemar.rolfsen@ignite.no">CTO.</a> For å sikre at personopplysninger utleveres til rett person, kan vi stille krav om at begjæring om innsyn skjer skriftlig eller at identitet verifiseres på annen måte.</p>
-
-<h3 id="12-endringer">12. Endringer</h3>
-
-<p>Vi forbeholder oss retten til å gjøre endringer i Personvernerklæringen. Den til enhver tid gjeldende Personvernerklæringen er tilgjengelig på våre nettsider. Ignite Analytics-brukere vil bli varslet om vesentlige endringer i Personvernerklæringen.</p>
-
-   </div>
-</section>
-
+    <h1>Cookies og personvernerklæring</h1>
 
         </div>
         <section id="footer">
     <div class="container">
-
+        
         <div class="row text-center text-xs-center text-sm-left text-md-left">
                 <div class="col-xs-12 col-sm-6 col-md-3">
-                        
+            
                                <ul class="list-unstyled quick-links">
                                    
                                    
@@ -306,22 +363,22 @@ personopplysninger eller kreve at behandlingen begrenses</p>
                                </ul>
                            </div>
             <div class="col-xs-12 col-sm-6 col-md-3">
-         
+              
                 <ul class="footer-list list-unstyled quick-links">
                     
                     
-                        <li><a href="/om-oss/"></i>Om selskapet</a></li>
+                        <li><a href="/om-oss/"></i>Selskapet</a></li>
                     
-                        <li><a href="https://medium.com/ignite-procurement"></i>Innsikt</a></li>
+                        <li><a href="https://medium.com/ignite-procurement"></i>Blogg</a></li>
                     
                 </ul>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3">
-                
+                      
                        <ul class="list-unstyled quick-links">
                            
                            
-                               <li><a href="/kontakt/"></i>kontakt</a></li>
+                               <li><a href="/kontakt/"></i>Kontakt oss</a></li>
                            
                                <li><a href="https://app.ignite.no/dashboard/"></i>Logg inn</a></li>
                            

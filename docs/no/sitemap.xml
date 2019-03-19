@@ -33,6 +33,21 @@
   </url>
   
   <url>
+    <loc>https://beta.ignite.no/ignite-analytics/</loc>
+    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.ignite.no/en/ignite-analytics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://beta.ignite.no/ignite-analytics/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.ignite.no/customers/eqt/</loc>
     <lastmod>2019-02-20T10:56:46+01:00</lastmod>
   </url>
@@ -98,6 +113,21 @@
   </url>
   
   <url>
+    <loc>https://beta.ignite.no/ignite-academy/</loc>
+    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.ignite.no/en/ignite-academy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://beta.ignite.no/ignite-academy/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.ignite.no/customers/obos/</loc>
     <lastmod>2019-02-20T10:56:46+01:00</lastmod>
     <xhtml:link
@@ -109,66 +139,6 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://beta.ignite.no/customers/obos/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://beta.ignite.no/mainteam/b%C3%B8rge/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.ignite.no/en/mainteam/b%C3%B8rge/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://beta.ignite.no/mainteam/b%C3%B8rge/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://beta.ignite.no/team/b%C3%B8rge/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.ignite.no/en/team/b%C3%B8rge/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://beta.ignite.no/team/b%C3%B8rge/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://beta.ignite.no/ignite-services/</loc>
-    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.ignite.no/en/ignite-services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://beta.ignite.no/ignite-services/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://beta.ignite.no/ignite-services/</loc>
-    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.ignite.no/en/ignite-services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://beta.ignite.no/ignite-services/"
                 />
   </url>
   
@@ -203,6 +173,51 @@
   </url>
   
   <url>
+    <loc>https://beta.ignite.no/ignite-services/</loc>
+    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.ignite.no/en/ignite-services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://beta.ignite.no/ignite-services/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://beta.ignite.no/ignite-services/</loc>
+    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.ignite.no/en/ignite-services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://beta.ignite.no/ignite-services/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://beta.ignite.no/ignite-services/</loc>
+    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.ignite.no/en/ignite-services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://beta.ignite.no/ignite-services/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.ignite.no/mainteam/frank/</loc>
     <lastmod>2018-12-16T14:24:18+01:00</lastmod>
     <xhtml:link
@@ -229,6 +244,36 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://beta.ignite.no/team/frank/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://beta.ignite.no/mainteam/b%C3%B8rge/</loc>
+    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.ignite.no/en/mainteam/b%C3%B8rge/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://beta.ignite.no/mainteam/b%C3%B8rge/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://beta.ignite.no/team/b%C3%B8rge/</loc>
+    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.ignite.no/en/team/b%C3%B8rge/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://beta.ignite.no/team/b%C3%B8rge/"
                 />
   </url>
   
@@ -398,6 +443,21 @@
   </url>
   
   <url>
+    <loc>https://beta.ignite.no/sertifisering/</loc>
+    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.ignite.no/en/sertifisering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://beta.ignite.no/sertifisering/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.ignite.no/kontakt/sosialemedier/</loc>
     <lastmod>2019-02-20T13:09:05+01:00</lastmod>
     <xhtml:link
@@ -514,6 +574,21 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://beta.ignite.no/customers/kolonial/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://beta.ignite.no/main-buttons/</loc>
+    <lastmod>2019-02-20T10:56:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.ignite.no/en/main-buttons/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://beta.ignite.no/main-buttons/"
                 />
   </url>
   
@@ -864,6 +939,21 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://beta.ignite.no/tittel/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://beta.ignite.no/tittel/sertifiserings-tittel/</loc>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.ignite.no/en/tittel/sertifiserings-tittel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://beta.ignite.no/tittel/sertifiserings-tittel/"
                 />
   </url>
   
