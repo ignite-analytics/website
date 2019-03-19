@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Main services on Ignite Procurement</title>
+    <link>https://beta.ignite.no/en/main-buttons/</link>
+    <description>Recent content in Main services on Ignite Procurement</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Feb 2019 10:56:46 +0100</lastBuildDate>
+    
+	<atom:link href="https://beta.ignite.no/en/main-buttons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ignite-analytics</title>
+      <link>https://beta.ignite.no/en/ignite-analytics/</link>
+      <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/en/ignite-analytics/</guid>
+      <description> Full spend transparency and deep insight Automatic identification of opportunities and risks Easy implementation of improvement measures
+ Seemless and rigorous ​tracking of spend development  Find out more Book a demo </description>
+    </item>
+    
+    <item>
+      <title>Ignite-academy</title>
+      <link>https://beta.ignite.no/en/ignite-academy/</link>
+      <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/en/ignite-academy/</guid>
+      <description> Best practice tips and tricks Online video tutorials​ Webinars Classroom courses​  Find out more </description>
+    </item>
+    
+    <item>
+      <title>Ignite-services</title>
+      <link>https://beta.ignite.no/en/ignite-services/</link>
+      <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/en/ignite-services/</guid>
+      <description> Savings realization Organizational development Process optimization​ And much more  Find out more Book a meeting </description>
+    </item>
+    
+  </channel>
+</rss>
