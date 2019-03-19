@@ -20,19 +20,24 @@
         </div>
         
 </section>
-<div class="container pt-5">
+<div class="container pt-3">
         {{ with .Site.GetPage "team-tittel" }}
         {{ partial "tittel.html" . }}
         {{ end }}
 </div>
-<section class="container">
+<section class="container p3">
     {{ with .Site.GetPage "team" }}
         {{ partial "sections/team.html" . }}
     {{ end }}
 </section>
-<div class="container p-5">
+<div class="container p-3">
         {{ with .Site.GetPage "partners" }}
         {{ partial "sections/partners.html" . }}
+        {{ end }}
+    </div>
+    <div class="container p-3">
+        {{ with .Site.GetPage "sertifisering" }}
+        {{ partial "sections/sertifisering.html" . }}
         {{ end }}
     </div>
 <section class="container">

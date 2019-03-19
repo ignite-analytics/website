@@ -3,8 +3,8 @@ title: "Newsletter"
 date: 2019-02-20T13:09:05+01:00
 draft: false
 
-header: "Motta Nyhetsbrev"
-description: "Få siste nytt om våre produkter, tjenester og eventer"
+header: "Meld deg på vårt nyhetsbrev"
+description: "Registrer deg for å motta nyheter, oppdateringer og tips fra oss direkte til innboksen din"
 image: /images/infographics/newsletter.svg
 
 ---

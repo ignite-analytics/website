@@ -22,7 +22,7 @@ image = "/images/infographics/dashboard2.svg"
     weight = "1"
 
   [languages.en]
-    languageName = "En"
+    languageName = "Eng"
     languageCode = "en"
     weight = "2"
 
@@ -50,28 +50,76 @@ image = "/images/infographics/dashboard2.svg"
      weight = "3"
 
 [[languages.no.menu.main]]
-     name = "Om selskapet"
-    identifier = "om-selskapet"
-     title = "Om selskapet"
+     name = "Selskapet"
+    identifier = "selskapet"
+     title = "selskapet"
      url = "/om-oss/"
      weight = "4"
      hasChildren = "true"
 
+     [[languages.no.menu.main]]
+            parent = "selskapet"
+            name = "Om oss"
+            identifier = "Om oss"
+            title = "Om oss"
+            url = "/om-oss"
+            weight = "1"
+
+      [[languages.no.menu.main]]
+            parent = "selskapet"
+            name = "Team"
+            identifier = "Team"
+            title = "Team"
+            url = "/om-oss/#team"
+            weight = "2"
+
+      [[languages.no.menu.main]]
+            parent = "selskapet"
+            name = "Karriere"
+            identifier = "Karriere"
+            title = "Karriere"
+            url = "/karriere"
+            weight = "3"            
 
 
-     
 [[languages.no.menu.main]]
-     name = "Innsikt"
-    identifier = "innsikt"
-     title = "Innsikt"
+     name = "Blogg"
+    identifier = "blogg"
+     title = "Blogg"
      url = "https://medium.com/ignite-procurement"
      weight = "5"
+     hasChildren = "true"
 
+        [[languages.no.menu.main]]
+            parent = "blogg"
+            name = "Innsikt"
+            identifier = "innsikt"
+            title = "Innsikt"
+            url = "https://medium.com/ignite-procurement/insight/home"
+            weight = "1"
+
+         [[languages.no.menu.main]]
+            parent = "blogg"
+            name = "Caser"
+            identifier = "caser"
+            title = "Caser"
+            url = "https://medium.com/ignite-procurement/cases/home"
+            weight = "2"  
+
+            [[languages.no.menu.main]]
+            parent = "blogg"
+            name = "Nyheter"
+            identifier = "nyheter"
+            title = "Nyheter"
+            url = "https://medium.com/ignite-procurement/news/home"
+            weight = "3" 
+
+    
 
  [[languages.no.menu.secondary]]
-     name = "kontakt"
-     identifier = "kontakt"
-     title = "kontakt"
+     name = "Kontakt oss"
+     identifier = "kontakt oss"
+     title = "Kontakt oss"
      url = "/kontakt/"
      weight = "1"
 
@@ -81,6 +129,15 @@ image = "/images/infographics/dashboard2.svg"
      title = "Logg inn"
      url = "https://app.ignite.no/dashboard/"
      weight = "2"
+
+[[languages.no.menu.btn]]
+     name = "Book demo"
+     identifier = "#modalbooknor"
+     title = "Book demo"
+     id = "#modalbook"
+     weight = "3"     
+
+
 
 
 
@@ -107,29 +164,95 @@ image = "/images/infographics/dashboard2.svg"
     weight = "3"
 
 [[languages.en.menu.main]]
-    name = "About"
-    identifier = "about"
-    title = "About"
+    name = "Company"
+    identifier = "company"
+    title = "Company"
     url = "/en/om-oss/"
     weight = "4"
+    hasChildren = "true"
 
+     [[languages.en.menu.main]]
+            parent = "company"
+            name = "About us"
+            identifier = "About us"
+            title = "about us"
+            url = "/en/om-oss"
+            weight = "1"
+
+      [[languages.en.menu.main]]
+            parent = "company"
+            name = "Team"
+            identifier = "Team"
+            title = "Team"
+            url = "/en/om-oss/#team"
+            weight = "2"
+
+      [[languages.en.menu.main]]
+            parent = "company"
+            name = "Career"
+            identifier = "Career"
+            title = "Career"
+            url = "/en/karriere"
+            weight = "3"            
+
+
+  
 [[languages.en.menu.main]]
-    name = "Insight"
-    identifier = "insight"
-    title = "Insight"
-    url = "https://medium.com/ignite-procurement"
-    weight = "4"    
+     name = "Blog"
+    identifier = "blog"
+     title = "Blog"
+     url = "https://medium.com/ignite-procurement"
+     weight = "5"
+     hasChildren = "true"
+
+        [[languages.en.menu.main]]
+            parent = "blog"
+            name = "Insight"
+            identifier = "insight"
+            title = "insight"
+            url = "https://medium.com/ignite-procurement/insight/home"
+            weight = "1"
+
+         [[languages.en.menu.main]]
+            parent = "blog"
+            name = "Cases"
+            identifier = "cases"
+            title = "Cases"
+            url = "https://medium.com/ignite-procurement/cases/home"
+            weight = "2"  
+
+            [[languages.en.menu.main]]
+            parent = "blog"
+            name = "News"
+            identifier = "news"
+            title = "News"
+            url = "https://medium.com/ignite-procurement/news/home"
+            weight = "3" 
+
 
 [[languages.en.menu.secondary]]
     name = "Contact"
     identifier = "kontakt"
     title = "kontakt"
     url = "/en/kontakt/"
-    weight = "5"
+    weight = "1"
 
 [[languages.en.menu.secondary]]
      name = "Log in"
      identifier = "log in"
      title = "Log in"
      url = "https://app.ignite.no/"
-     weight = "6"
+     weight = "2"
+
+     [[languages.en.menu.btn]]
+     name = "Book demo"
+     identifier = "#modalbook"
+     title = "Book demo"
+     id = "#modalbook"
+     weight = "3" 
+
+
+
+
+
+#FOOTER

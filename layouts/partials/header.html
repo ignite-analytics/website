@@ -1,12 +1,352 @@
+<nav class="menu">
+        <div class="container">
+            <div>
+                    
+                <ul class="nav-list">
+                        <a class="navbar-brand" href="/">
+                            <img class="header-logo" src="{{ $.Site.Params.logo }} " /> 
+                        </a>
+            
+                    {{ $currentPage := . }}        
+                    {{ range .Site.Menus.services}}
+                    {{ if .HasChildren }}
+                    <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">
+                        {{ .Name }}
+                    </a>
+                    <div class="dropdown-submenu" >
+                        {{ range .Children }}
+                        <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
+                        {{ end }}
+                    </div>
+                    </li>
+                    {{ else }}
+                    <li class="nav-item">
+                        <a class="nav-link nav-services" href="{{ .URL }}">{{ .Name }}</a>
+                    </li>
+                    {{ end }}
+                    {{ end }}
+                    {{ range .Site.Menus.main }}
+                    {{ if .HasChildren }}
+                    <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">
+                        {{ .Name }}
+                    </a>
+                    <div class="dropdown-submenu" >
+                        {{ range .Children }}
+                        <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
+                        {{ end }}
+                    </div>
+                    </li>
+                    {{ else }}
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+                    </li>
+                    {{ end }}
+                    {{ end }}
+                   <div class="naving">
+                    {{ range .Site.Menus.secondary}}
+                    <li class="nav-item nav-right">
+                        <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+                    </li>
+                 
+                    {{ end }}
+                    {{ range .Site.Menus.btn}}
+                    <div class="nav-right">
+                        <button class="btn-demo" data-toggle="modal" data-target="{{ .Identifier }}">{{ .Name }}</button>                         
+                    </div>
+                    {{ end }}
+       
+                        <div class="language-list nav-right">
+                            {{ if .Site.IsMultiLingual }}
+                            {{ range .Site.Languages }}
+                            {{ if eq . $.Site.Language }}
+                        <!--    <a href="#" class="nav-link language">{{ .LanguageName }}</a> -->
+                            {{ else }}
+                            {{ range $.Translations }}
+                                    <a href="{{ .Permalink }}" class="nav-link language">{{ .Language.LanguageName }}</a>
+                                    {{ end }}
+                                {{ end }}
+                                {{ end }}
+                            {{ end }}
+                        </div> 
+                    </div>
+                    </ul>
+            </div>
+  
+           
+   
 
+        <section class="navigation">   
+                <a class="navbar-brand" href="/">
+                    <img class="header-logo" src="{{ $.Site.Params.logo }} " /> 
+                </a>   
+                <div class="button_container" id="toggle">
+                  <span class="top"></span>
+                  <span class="middle"></span>
+                  <span class="bottom"></span>
+                </div>
+                
+                <div class="overlay" id="overlay">
+                    <script>
+                        $('#toggle').click(function() {
+                            $(this).toggleClass('active');
+                            $('#overlay').toggleClass('open');
+                           });
+                    </script>     
+                    <nav class="overlay-menu">
+                      <ul class="">
+                          {{ range .Site.Menus.services}}
+                            <li class="">
+                                <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
+                            </li>
+                            {{ end }}
+                            {{ range .Site.Menus.main}}
+            
+        
+                            <li class="">
+                                <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
+                            </li>
+                      
+                            {{ end }}
+                            {{ range .Site.Menus.secondary}}
+                            <li class="">
+                                <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
+                            </li>
+                            {{ end }}
+                <!--             {{ range .Site.Menus.btn}}
+                    <div class="nav-right">
+                        <button class="btn-demo" data-toggle="modal" data-target="{{ .Identifier }}">{{ .Name }}</button>                         
+                    </div>
+                    {{ end }} -->
+                      </ul>
+                      
+                      <div class="language-list">
+                            {{ if .Site.IsMultiLingual }}
+                            {{ range .Site.Languages }}
+                            {{ if eq . $.Site.Language }}
+                        <!--    <a href="#" class="nav-link language">{{ .LanguageName }}</a> -->
+                            {{ else }}
+                            {{ range $.Translations }}
+                                    <a href="{{ .Permalink }}" class="nav-link language">{{ .Language.LanguageName }}</a>
+                                    {{ end }}
+                                {{ end }}
+                                {{ end }}
+                            {{ end }}
+                        </div> 
+                      
+                  </nav>
+            </div>
+          
+        </section>
+    </div>
+</nav>
+
+<div class="modal fade" id="modalbook" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+      
+          <!--Content-->
+          <div class="modal-content">
+      
+            <!--Body-->
+            <div class="modal-body mb-0 p-0">
+      
+               <!-- Start of Meetings Embed Script -->
+
+               <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/post3?embed=true"></div> 
+
+               <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script> 
+
+              <!-- End of Meetings Embed Script -->
+                                   
+            </div>
+      
+            <!--Footer-->
+            <div class="modal-footer justify-content-center">
+              <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
+      
+            </div>
+      
+          </div>
+          <!--/.Content-->
+      
+        </div>
+      </div>    
+      
+ 
+    
+  <div class="modal fade" id="modalbooknor" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+      
+          <!--Content-->
+          <div class="modal-content">
+      
+            <!--Body-->
+            <div class="modal-body mb-0 p-0">
+      
+            <!-- Start of Meetings Embed Script --> 
+
+    <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/post3/demo-ignite-analytics-nor?embed=true"></div> 
+
+    <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script> 
+
+  <!-- End of Meetings Embed Script --> 
+                                   
+            </div>
+      
+            <!--Footer-->
+            <div class="modal-footer justify-content-center">
+              <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
+      
+            </div>
+      
+          </div>
+          <!--/.Content-->
+      
+        </div>
+      </div>   
+
+
+<!-- <nav class="menu">
+    <div class="container ">
+
+                    
+
+        <ul class="nav-list">
+            <div>
+                <a class="navbar-brand" href="/">
+                    <img class="header-logo" src="{{ $.Site.Params.logo }} " /> 
+                </a>
+            </div>
+            {{ $currentPage := . }}        
+            {{ range .Site.Menus.main }}
+            {{ if .HasChildren }}
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+                aria-expanded="false">
+                {{ .Name }}
+              </a>
+              <div class="dropdown-menu" >
+                {{ range .Children }}
+                <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
+                {{ end }}
+              </div>
+            </li>
+            {{ else }}
+            <li class="nav-item">
+                <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+            {{ end }}
+          </ul>
+            {{ range .Site.Menus.main }}
+                {{ if .HasChildren }}
+                    <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                        <a class="nav-link dropdown-toggle" href="#">
+                            {{ .Pre }}
+                            <span>{{ .Name }}</span>
+                        </a>
+                    </li>
+                    <ul class="sub-menu dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        {{ range .Children }}
+                            <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                                <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
+                            </li>
+                        {{ end }}
+                    </ul>
+                {{ else }}
+                    <li>
+                        <a class="nav-link" href="{{ .URL }}">
+                            {{ .Pre }}
+                            <span>{{ .Name }}</span>
+                        </a>
+                    </li>
+                {{ end }}
+            {{ end }}
+            {{ range .Site.Menus.secondary }}
+                {{ if .HasChildren }}
+                    <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                        <a class="nav-link dropdown-toggle" href="#">
+                            {{ .Pre }}
+                            <span>{{ .Name }}</span>
+                        </a>
+                    </li>
+                    <ul class="sub-menu dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        {{ range .Children }}
+                            <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                                <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
+                            </li>
+                        {{ end }}
+                    </ul>
+                {{ else }}
+                    <li>
+                        <a class="nav-link" href="{{ .URL }}">
+                            {{ .Pre }}
+                            <span>{{ .Name }}</span>
+                        </a>
+                    </li>
+                {{ end }}
+            {{ end }}
+
+        </ul>
+    </div>
+</nav>
+ -->
+
+
+<!-- <nav class="navbar navbar-expand-lg navbar-dark">
+        <a class="navbar-brand" href="{{ .Site.BaseURL }}">{{ .Site.Params.logo }}</a>
+        <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation"
+          aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse text-center" id="navigation">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link text-dark" href="{{ .Site.BaseURL }}">{{ .Site.Params.home }}</a>
+            </li>
+            {{ range .Site.Menus.main }}
+            {{ if .HasChildren }}
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+                aria-expanded="false">
+                {{ .Name }}
+              </a>
+              <div class="dropdown-menu" >
+                {{ range .Children }}
+                <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
+                {{ end }}
+              </div>
+            </li>
+            {{ else }}
+            <li class="nav-item">
+                <a class="nav-link text-dark" href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+            {{ end }}
+          </ul>
+
+          <ul class="list-inline text-center mb-0">
+            {{ range $.Site.Home.AllTranslations }}
+            <li class="list-inline-item"><a class="text-dark" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+      </nav> -->
+
+
+<!-- 
 <nav class="navbar navbar-dark fixed-top navbar-expand-xl" style="background-color: #18243f;">
     <div class="container full py-1">
             <a class="navbar-brand" href="/">
                 <img class="header-logo" src="{{ $.Site.Params.logo }} " /> 
             </a>
             <button class="navigation navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                <!-- <span class="navbar-toggler-icon"></span> -->
-                <div class="button_container" id="toggle">
+ -->                <!-- <span class="navbar-toggler-icon"></span> -->
+<!--                 <div class="button_container" id="toggle">
                     <span class="top"></span>
                     <span class="middle"></span>
                     <span class="bottom"></span>
@@ -50,4 +390,62 @@
 
             </div>
     </div>
-</nav> 
+</nav>  -->
+
+
+
+
+
+
+<!-- 
+<nav class="navbar navbar-dark fixed-top navbar-expand-xl" style="background-color: #18243f;">
+        <div class="container full py-1">
+                <a class="navbar-brand" href="/">
+                    <img class="header-logo" src="{{ $.Site.Params.logo }} " /> 
+                </a>
+                <button class="navigation navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <div class="button_container" id="toggle">
+                        <span class="top"></span>
+                        <span class="middle"></span>
+                        <span class="bottom"></span>
+                      </div>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                
+                    <div class="navbar-nav">
+                        {{ $currentPage := . }}
+                        {{ range .Site.Menus.services }}
+                            <a class="nav-item nav-link {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                        {{ end }}
+                    </div>
+                    <div class="navbar-nav">
+                        {{ $currentPage := . }}
+                        {{ range .Site.Menus.main}}
+       
+                            <a class="nav-item nav-link {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                        {{ end }}
+                    </div>
+                    
+                    <div class="navbar-nav">
+                            {{ $currentPage := . }}
+                            {{ range .Site.Menus.secondary }}
+                                <a class="nav-item nav-link {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                            {{ end }}
+                        </div>   
+                    <div class="language-list">
+                        {{ if .Site.IsMultiLingual }}
+                        {{ range .Site.Languages }}
+                        {{ if eq . $.Site.Language }}
+                        <a href="#" class="nav-link language">{{ .LanguageName }}</a>
+                        {{ else }}
+                        {{ range $.Translations }}
+                                <a href="{{ .Permalink }}" class="nav-link language">{{ .Language.LanguageName }}</a>
+                                {{ end }}
+                            {{ end }}
+                            {{ end }}
+                        {{ end }}
+                    </div>
+    
+                </div>
+        </div>
+    </nav>  -->

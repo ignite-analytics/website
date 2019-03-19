@@ -13,5 +13,5 @@ url: "/en/ignite-analytics/"
 + <i class="fas fa-magic" style="color: #3C6FE9"></i>Easy implementation of improvement measures        
 + <i class="fas fa-sync" style="color: #3C6FE9"></i>Seemless and rigorous ​tracking of spend development
 
-{{< button href="/en/ignite-analytics/" class="service-btns2 btn btn-primary btn-lg" >}}Find out more{{< /button >}}
-{{< button class="service-btns btn btn-outline-primary btn-lg" data-toggle="modal" data-target="#modalbook">}}Book a demo{{< /button >}}
+{{< button href="/en/ignite-analytics/" class="btn btn-primary btn-lg" >}}Find out more{{< /button >}}
+{{< button class="btn btn-outline-primary btn-lg" data-toggle="modal" data-target="#modalbook">}}Book a demo{{< /button >}}

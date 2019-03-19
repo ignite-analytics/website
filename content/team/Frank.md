@@ -7,10 +7,10 @@ description: "Frank er konsulent i Ignite. Han har arbeidet med innkjøpsprosjek
             eiendom og finans. Frank er utdannet siviløkonom med spesialisering i finansiell økonomi fra Norges Handelshøyskole og 
             University of California. Han har også en mastergrad i regnskap og revisjon fra Handelshøyskolen BI."
 draft: false
-weight: "4"
+weight: "3"
 image: "/images/team/Frank_Willie_Bødal.jpg"
 ---
-#### Marketing Director
+##### Marketing Director
 <a class="phoneto" href="tel:+47 952 60 850"><i class="fas fa-phone"></i>+47 959 98 283</a>
 <a class="mailto" href="mailto:frank.bodal@ignite.no"><i class="fas fa-envelope"></i>frank.bodal@ignite.no</a>
 <a class="mailto" href="https://www.linkedin.com/in/frank-willie-b%C3%B8dal-b28bb213b/"><i class="fab fa-linkedin-in"></i>Linkedin</a>

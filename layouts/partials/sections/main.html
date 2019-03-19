@@ -1,29 +1,22 @@
-
-  <section class="container Services wrap d-flex p-2 bd-highlight flex-column flex-lg-row align-items-center justify-content-between flex-wrap">
-     
-        {{ range .Pages }}
-                 <article class="Service flex-column analytics p-2 bd-highlight main-wrap">
-                     <div class="service-link">
-                    <div class="service-inner flex column flex-fill">
-                        <figure class="service_illustration">
-                                <img class="" src="{{ .Params.logo }}">
-                        </figure>
-                    
-                        
+    <section class="">
+        <div class="container column">
+                 <div class="services col-lg-4 col-md-12 wrap pr-4">
+                     <figure class="service_illustration">
+                        <img class="" src="{{ .Params.logo }}">
+                    </figure>
                      <div class="description-block px-4">
                           <h5>{{ .Description }}</h5>
                     </div>
-                    <div class="row px-4 align-items-center">
+                    <div class="row px-2 justify-content-center align-items-center">
                         {{ .Content }} 
                     </div>
+ 
                 </div>
-            </div>
-                    
-            </article>
             
-            {{ end }}
-        </section>
         
+            </div>
+        </section>
+
 <!-- <article class="Service flex-column analytics p-2 bd-highlight main-wrap">
         <div class="service_inner flex column flex-fill">
           <figure class="service_illustration">

@@ -12,5 +12,6 @@ image: "/images/infographics/analytics-2.svg"
 + <i class="fas fa-sync" style="color: #3C6FE9"></i> Sømløs og kompromissløs ​oppfølging av innkjøpet
 
 
-{{< button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#modalbook">}}Book en demo{{< /button >}}
+{{< button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#modalbooknor">}}Book en demo{{< /button >}}
+
 {{< button class="btn btn-outline-primary btn-lg" data-toggle="modal" data-target="#modalYT">}}Se video{{< /button >}}

@@ -14,5 +14,5 @@ url: "/ignite-services/"
 + <i class="fas fa-chart-line" style="color: #ebaf41;"></i>Forbedring av prosesser​
 + <i class="fas fa-list-alt" style="color: #ebaf41;"></i>Og mye mer
 
-{{< button href="/ignite-services" class="service-btns2 btn btn-primary yellow btn-lg" >}}Finn ut mer{{< /button >}}
-{{< button class=" service-btns btn btn-outline-primary yellow btn-lg" data-toggle="modal" data-target="#modalbook">}}Book et møte{{< /button >}}
+{{< button href="/ignite-services" class="btn btn-primary yellow btn-lg" >}}Finn ut mer{{< /button >}}
+{{< button class="btn btn-outline-primary yellow btn-lg" data-toggle="modal" data-target="#modalbook">}}Book et møte{{< /button >}}
