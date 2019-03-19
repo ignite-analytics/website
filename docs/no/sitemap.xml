@@ -673,7 +673,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ignite.no/en/personvernerkl%C3%A6ring/"
+                href="https://ignite.no/en/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -729,21 +729,6 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://ignite.no/ignite-analytics/item2/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ignite.no/personvernerkl%C3%A6ring/</loc>
-    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/personvernerkl%C3%A6ring/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/personvernerkl%C3%A6ring/"
                 />
   </url>
   
