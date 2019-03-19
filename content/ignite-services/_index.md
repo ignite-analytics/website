@@ -11,5 +11,5 @@ image: "/images/infographics/analytics-2.svg"
 + <i class="fas fa-chart-line" style="color: #ebaf41;"></i>Forbedring av prosesser​
 + <i class="fas fa-list-alt" style="color: #ebaf41;"></i>Og mye mer
 
-{{< button class="btn btn-primary yellow btn-lg" data-toggle="modal" data-target="#modalbook">}}Book et møte{{< /button >}}
+{{< button class="btn btn-primary yellow btn-lg" data-toggle="modal" data-target="#modalbooknorw">}}Book et møte{{< /button >}}
 {{< button href="https://medium.com/ignite-procurement" class="btn btn-outline-primary yellow btn-lg" >}}Se eksempler{{< /button >}}

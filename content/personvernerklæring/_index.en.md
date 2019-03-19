@@ -3,7 +3,7 @@ title: "Privacy Policy and our use of cookies"
 description: "Our privacy policy describes how we gather and use personal data when you use or enter into an agreement to use the Services."
 date: 2018-12-18T15:31:35+01:00
 draft: false
-url: "/en/personvernerklæring/"
+
 ---
 
 

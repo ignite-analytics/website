@@ -11,5 +11,5 @@ image: "/images/infographics/analytics-2.svg"
 + <i class="fas fa-chart-line" style="color: #ebaf41;"></i>Process optimization​
 + <i class="fas fa-list-alt" style="color: #ebaf41;"></i>And much more
 
-{{< button class="btn btn-primary yellow btn-lg" data-toggle="modal" data-target="#modalbook">}}Book a meeting{{< /button >}}
-{{< button href="https://medium.com/ignite-procurement" class="btn btn-outline-primary yellow btn-lg" >}}See excamples{{< /button >}}
+{{< button class="btn btn-primary yellow btn-lg" data-toggle="modal" data-target="#modalbookeng">}}Book a meeting{{< /button >}}
+{{< button href="https://medium.com/ignite-procurement" class="btn btn-outline-primary yellow btn-lg" >}}See examples{{< /button >}}

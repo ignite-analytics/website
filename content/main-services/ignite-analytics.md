@@ -13,4 +13,4 @@ url: "/ignite-analytics/"
 + <i class="fas fa-sync" style="color: #3C6FE9"></i> Sømløs og kompromissløs ​oppfølging av innkjøpet
 
 {{< button href="/ignite-analytics/" class="service-btns2 btn btn-primary btn-lg" >}}Finn ut mer{{< /button >}}
-{{< button class="service-btns btn btn-outline-primary btn-lg" data-toggle="modal" data-target="#modalbook">}}Book en demo{{< /button >}}
+{{< button class="service-btns btn btn-outline-primary btn-lg" data-toggle="modal" data-target="#modalbooknor">}}Book en demo{{< /button >}}
