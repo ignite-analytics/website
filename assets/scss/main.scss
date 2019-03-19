@@ -65,6 +65,9 @@ h2 {
 }
 h3 {
     font-size: 1.5em;
+    &.white {
+        color: $white;
+    }
 
 }
 h4 {
@@ -85,6 +88,9 @@ h5 {
     font-weight: 300;
     line-height: 1.8em;
     margin-top: 25px;
+    &.center {
+        text-align: center;
+    }
 }
 
 h4.bold {
@@ -128,7 +134,11 @@ ul {
         margin-bottom: 1em;
     }
 }
-
+/* MODALS */
+.modal-content {
+    background: $dark;
+    color: $white;
+}
 
 /** ARROW-HEADING **/
 .tittel {

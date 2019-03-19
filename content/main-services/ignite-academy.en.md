@@ -13,4 +13,4 @@ url: "/en/ignite-academy/"
 + <i class="fas fa-chalkboard-teacher" style="color: #31B096"></i></span>Classroom courses​
 
 {{< button href="/en/ignite-academy/" class="service-btns2 btn btn-primary green btn-lg" >}}Find out more{{< /button >}}
-{{< button href="mailto:post@ignite.no" class="service-btns btn btn-outline-primary green btn-lg" >}}Show interest{{< /button >}}
+{{< button class="service-btns btn btn-outline-primary green btn-lg" data-toggle="modal" data-target="#modalacademy">}}Show interest{{< /button >}}
