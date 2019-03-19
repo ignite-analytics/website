@@ -377,11 +377,11 @@ Linkedin</description>
     
     <item>
       <title>Privacy policy</title>
-      <link>https://beta.ignite.no/en/footer/personvern/</link>
+      <link>https://beta.ignite.no/en/personvernerkl%C3%A6ring/</link>
       <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
       
-      <guid>https://beta.ignite.no/en/footer/personvern/</guid>
-      <description>privacy policy</description>
+      <guid>https://beta.ignite.no/en/personvernerkl%C3%A6ring/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -412,6 +412,15 @@ Linkedin</description>
     </item>
     
     <item>
+      <title>Social</title>
+      <link>https://beta.ignite.no/en/footer/social-links/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/en/footer/social-links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Team</title>
       <link>https://beta.ignite.no/en/tittel/team-tittel/</link>
       <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
@@ -426,6 +435,15 @@ Linkedin</description>
       <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
       
       <guid>https://beta.ignite.no/en/ignite-services/item6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WE HAVE WORKED WITH</title>
+      <link>https://beta.ignite.no/en/tittel/quote-tittel/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://beta.ignite.no/en/tittel/quote-tittel/</guid>
       <description></description>
     </item>
     
