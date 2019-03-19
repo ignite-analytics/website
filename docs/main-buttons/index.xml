@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Main services on Ignite Procurement</title>
-    <link>https://www.ignite.no/main-buttons/</link>
+    <link>https://beta.ignite.no/main-buttons/</link>
     <description>Recent content in Main services on Ignite Procurement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <lastBuildDate>Wed, 20 Feb 2019 10:56:46 +0100</lastBuildDate>
     
-	<atom:link href="https://www.ignite.no/main-buttons/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beta.ignite.no/main-buttons/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ignite-analytics</title>
-      <link>https://www.ignite.no/ignite-analytics/</link>
+      <link>https://beta.ignite.no/ignite-analytics/</link>
       <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
       
-      <guid>https://www.ignite.no/ignite-analytics/</guid>
+      <guid>https://beta.ignite.no/ignite-analytics/</guid>
       <description>Finn ut mer Book en demo </description>
     </item>
     
     <item>
       <title>Ignite-academy</title>
-      <link>https://www.ignite.no/ignite-academy/</link>
+      <link>https://beta.ignite.no/ignite-academy/</link>
       <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
       
-      <guid>https://www.ignite.no/ignite-academy/</guid>
+      <guid>https://beta.ignite.no/ignite-academy/</guid>
       <description> Beste praksis tips og triks Online videoopplæring Webinarer Kurs  Finn ut mer </description>
     </item>
     
     <item>
       <title>Ignite-services</title>
-      <link>https://www.ignite.no/ignite-services/</link>
+      <link>https://beta.ignite.no/ignite-services/</link>
       <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
       
-      <guid>https://www.ignite.no/ignite-services/</guid>
+      <guid>https://beta.ignite.no/ignite-services/</guid>
       <description> Realisering av besparelser​ Utvikling av innkjøpsorganisasjon​ Forbedring av prosesser​ Og mye mer  Finn ut mer Book et møte </description>
     </item>
     

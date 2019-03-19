@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ignite Procurement</title>
-    <link>https://www.ignite.no/navbar/</link>
+    <link>https://beta.ignite.no/navbar/</link>
     <description>Recent content on Ignite Procurement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <lastBuildDate>Sun, 16 Dec 2018 15:31:35 +0100</lastBuildDate>
     
-	<atom:link href="https://www.ignite.no/navbar/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beta.ignite.no/navbar/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
