@@ -73,9 +73,10 @@ h3 {
 h4 {
     margin-bottom: 1em;
 }
-h4.white{
+h4.white {
     color: $white;
 }
+
 h4,
 a.social-contact {
     font-size: 1.2em;
@@ -123,6 +124,12 @@ a.inline:hover {
     color: #3C6FE9;
     border-bottom: none;
     text-decoration: none;
+}
+
+.footer-title {
+    color: $white;
+    font-size: 1.2em;
+    font-weight: 400;
 }
 
 /** Lists **/

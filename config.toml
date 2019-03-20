@@ -15,6 +15,9 @@ description = "Vi hjelper deg med å optimaliser dine innkjøp ved hjelp av vår
 image = "/images/infographics/dashboard2.svg"
 
 
+
+# language support # no / en / other... translations present in i18n/
+
 [languages]
   [languages.no]
     languageName = "No"

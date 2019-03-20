@@ -3,7 +3,7 @@
         
         <div class="row text-center text-xs-center text-sm-left text-md-left">
                 <div class="col-xs-12 col-sm-6 col-md-3">
-            
+                    <div class="footer-title">{{ i18n "sitemap" }}</div>
                                <ul class="list-unstyled quick-links">
                                    {{ $currentPage := . }}
                                    {{ range .Site.Menus.services }}
@@ -21,7 +21,7 @@
                 </ul>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3">
-                      
+                
                        <ul class="list-unstyled quick-links">
                            {{ $currentPage := . }}
                            {{ range .Site.Menus.secondary }}
@@ -40,6 +40,16 @@
          <a class="social-icon" href="https://www.facebook.com/igniteprocurement" target="_blank"><i class="fa fa-lg fa-facebook social"></i></a>
             <a class="social-icon" href="https://www.linkedin.com/company/ignite-procurement/" target="_blank"><i class="fa fa-lg fa-linkedin"></i></a>
         </div>
+        {{ with .Site.Params.social.facebook }}
+                    <li>
+                        <a target="_blank" href="{{ . }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+		    {{ end }}
 </div> 
 </div>
 
