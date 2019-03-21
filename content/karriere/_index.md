@@ -7,6 +7,6 @@ image: "/images/infographics/work.svg"
 ---
 
 ## Ledige stillinger
-Vi har for tiden ingen utlyste stillinger, men er alltid på jakt etter gode kandidater som kan være med å styrke vår organisasjon. Send oss en åpen søknad via linken under så hører du fra oss.
+Vi er alltid på jakt etter gode kandidater som kan være med å styrke vår organisasjon. Du finner en oversikt over våre ledige stillinger via linken under.
 
-<a href="mailto:post@ignite.no"><button type="button" class="btn btn-primary btn-lg">Åpen søknad</button></a>
+<a href="https://www.koble.co/companies/ignite/postings" target="_blank"><button type="button" class="btn btn-primary btn-lg">Ledige stillinger</button></a>

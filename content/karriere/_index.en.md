@@ -7,6 +7,6 @@ image: "/images/infographics/work.svg"
 ---
 
 ## Vacancies
-We currently have no available positions, but we are always looking for good candidates to strengthen our organization. Please send us an open application and we will contact you.
+We are always looking for good candidates who can help strengthen our organization. You can find an overview of our vacancies via the link below.
 
-<a href="mailto:post@ignite.no"><button type="button" class="btn btn-primary btn-lg">Open application</button></a>
+<a href="https://www.koble.co/companies/ignite/postings" target="_blank"><button type="button" class="btn btn-primary btn-lg">Vacancies</button></a>
