@@ -37,7 +37,7 @@
       <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
       
       <guid>https://ignite.no/en/ignite-analytics/</guid>
-      <description>Find out more </description>
+      <description>Find out more Book a demo </description>
     </item>
     
     <item>
@@ -91,7 +91,7 @@
       <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
       
       <guid>https://ignite.no/en/ignite-academy/</guid>
-      <description>Find out more </description>
+      <description>Find out more Show interest </description>
     </item>
     
     <item>
@@ -145,7 +145,16 @@
       <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
       
       <guid>https://ignite.no/en/ignite-services/</guid>
-      <description>Find out more </description>
+      <description>Find out more Book a meeting </description>
+    </item>
+    
+    <item>
+      <title>Hexagon</title>
+      <link>https://ignite.no/en/customers/hexagon/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://ignite.no/en/customers/hexagon/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -167,6 +176,15 @@
     </item>
     
     <item>
+      <title>Arkwright</title>
+      <link>https://ignite.no/en/customers/arkwright/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://ignite.no/en/customers/arkwright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Børge Langedal</title>
       <link>https://ignite.no/en/mainteam/b%C3%B8rge/</link>
       <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
@@ -182,6 +200,15 @@
       
       <guid>https://ignite.no/en/team/b%C3%B8rge/</guid>
       <description>Sales &amp;amp; Customer Success Director +47 992 38 391 borge.langedal@ignite.no Linkedin</description>
+    </item>
+    
+    <item>
+      <title>Implenia</title>
+      <link>https://ignite.no/en/customers/implenia/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://ignite.no/en/customers/implenia/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -341,15 +368,6 @@ Linkedin</description>
     </item>
     
     <item>
-      <title>Arkwright</title>
-      <link>https://ignite.no/en/customers/arkwright/</link>
-      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
-      
-      <guid>https://ignite.no/en/customers/arkwright/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Con-Form</title>
       <link>https://ignite.no/en/customers/con-form/</link>
       <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
@@ -364,24 +382,6 @@ Linkedin</description>
       <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
       
       <guid>https://ignite.no/en/partners/forskningsra%CC%8Adet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hexagon</title>
-      <link>https://ignite.no/en/customers/hexagon/</link>
-      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
-      
-      <guid>https://ignite.no/en/customers/hexagon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Implenia</title>
-      <link>https://ignite.no/en/customers/implenia/</link>
-      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
-      
-      <guid>https://ignite.no/en/customers/implenia/</guid>
       <description></description>
     </item>
     

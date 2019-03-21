@@ -36,7 +36,7 @@
       <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
       
       <guid>https://ignite.no/ignite-analytics/</guid>
-      <description>Finn ut mer </description>
+      <description>Finn ut mer Book en demo </description>
     </item>
     
     <item>
@@ -90,7 +90,7 @@
       <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
       
       <guid>https://ignite.no/ignite-academy/</guid>
-      <description>Finn ut mer </description>
+      <description>Finn ut mer Meld din interesse </description>
     </item>
     
     <item>
@@ -144,7 +144,7 @@
       <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
       
       <guid>https://ignite.no/ignite-services/</guid>
-      <description>Finn ut mer </description>
+      <description>Finn ut mer Book et møte </description>
     </item>
     
     <item>
@@ -208,6 +208,15 @@
       
       <guid>https://ignite.no/team/ingeborg/</guid>
       <description>Business Development Consultant​ +47 906 59 693 ingeborg.bakke@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Nanna Kvannes</title>
+      <link>https://ignite.no/team/nanna/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://ignite.no/team/nanna/</guid>
+      <description>Business Development Consultant​ +47 404 50 707 nanna.kvannes@ignite.no</description>
     </item>
     
     <item>
@@ -571,15 +580,6 @@ Linkedin</description>
       
       <guid>https://ignite.no/tittel/tjenester-tittel/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Nanna Kvannes</title>
-      <link>https://ignite.no/team/nanna/</link>
-      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
-      
-      <guid>https://ignite.no/team/nanna/</guid>
-      <description>Business Development Consultant​ +47 404 50 707 nanna.kvannes@ignite.no</description>
     </item>
     
   </channel>

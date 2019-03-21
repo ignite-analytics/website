@@ -323,6 +323,21 @@
   </url>
   
   <url>
+    <loc>https://ignite.no/team/nanna/</loc>
+    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/team/nanna/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/team/nanna/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ignite.no/team/sander/</loc>
     <lastmod>2018-12-16T14:24:18+01:00</lastmod>
     <xhtml:link
@@ -1254,21 +1269,6 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://ignite.no/mainteam/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ignite.no/team/nanna/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/team/nanna/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/team/nanna/"
                 />
   </url>
   
