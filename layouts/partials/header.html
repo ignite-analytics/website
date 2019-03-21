@@ -68,6 +68,12 @@
                     {{ end }}
                     
                    <div class="naving">
+                        {{ range .Site.Menus.kontakt}}
+                        <li class="nav-item nav-right">
+                            <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+                        </li>
+                     
+                        {{ end }}   
                     {{ range .Site.Menus.secondary}}
                     <li class="nav-item nav-right">
                         <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>

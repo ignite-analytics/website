@@ -1,7 +1,7 @@
 /* Footer */
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 section {
-    padding: 60px 0 18px 0;
+    padding: 3em 0 0 0;
 }
 
 section .section-title {
@@ -86,11 +86,9 @@ i.social {
     margin-top: 0;
     margin-bottom: 1em;
     padding-inline-start: 0;
+    padding: 0;
 }
 
-.footer-list {
-    padding: 0 1em;
-}
 .footer-list li {
     color: #fff;
     margin-top: 0;
@@ -128,6 +126,14 @@ a.social-icon {
 .footer h4 {
     color: #fff;
 
+}
+.privacy-container {
+   margin-top: 1em;
+    background: $dark-blue;
+
+}
+.privacy-block {
+    padding: .9em 0;
 }
 .personvern {
     display: block;

@@ -74,6 +74,7 @@ h4 {
     margin-bottom: 1em;
 }
 h4.white {
+    margin: 0 0 .2em 0 ;
     color: $white;
 }
 
@@ -119,6 +120,15 @@ a.inline {
     color: #000;
     border-bottom: 2px solid #3C6FE9;
     text-decoration: none;
+    &-footer {
+        font-size: 14px;
+        border-bottom: 2px solid #3C6FE9;
+        &:hover {
+            color: #3C6FE9;
+            border-bottom: none;
+            text-decoration: none;
+        }
+    }
 }
 a.inline:hover {
     color: #3C6FE9;
@@ -126,11 +136,6 @@ a.inline:hover {
     text-decoration: none;
 }
 
-.footer-title {
-    color: $white;
-    font-size: 1.2em;
-    font-weight: 400;
-}
 
 /** Lists **/
 ul {

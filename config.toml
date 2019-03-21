@@ -119,7 +119,7 @@ image = "/images/infographics/dashboard2.svg"
 
     
 
- [[languages.no.menu.secondary]]
+ [[languages.no.menu.kontakt]]
      name = "Kontakt oss"
      identifier = "kontakt oss"
      title = "Kontakt oss"
@@ -246,8 +246,8 @@ image = "/images/infographics/dashboard2.svg"
             weight = "3" 
 
 
-[[languages.en.menu.contact]]
-    name = "Contact"
+[[languages.en.menu.kontakt]]
+    name = "Contact us"
     identifier = "kontakt"
     title = "kontakt"
     url = "/en/kontakt/"
