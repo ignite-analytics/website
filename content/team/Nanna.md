@@ -3,7 +3,7 @@ title: "Nanna Kvannes"
 date: 2018-12-16T14:24:18+01:00
 description: ""
 draft: false
-weight: ""
+weight: "8"
 image: "/images/team/Nanna Kvannes.jpg"
 ---
 ##### Business Development Consultant​
