@@ -9,4 +9,5 @@ weight: "3"
 url: "/ignite-services/"
 ---
 
-{{< button href="/ignite-services/" class="btn btn-outline-primary yellow btn-lg" >}}Finn ut mer{{< /button >}}
+{{< button href="/ignite-services" class="service-btns3 btn btn-primary yellow btn-lg" >}}Finn ut mer{{< /button >}}
+{{< button class=" service-btns4 btn btn-outline-primary yellow btn-lg" data-toggle="modal" data-target="#modalbooknorw">}}Book et møte{{< /button >}}

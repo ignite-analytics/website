@@ -414,6 +414,31 @@ i.fab {
 }
 
 
+
+/* SERVICES-BLOCK */
+
+
+.servicesblock {
+    height: 420px;
+}
+.service-btns4 {
+
+    position: absolute;
+    width: 50%;
+    bottom: .7em;
+    left: 25% !important;
+
+
+}
+.service-btns3 {
+    position: absolute;
+    width: 50%;
+    bottom: 80px;
+    left: 25% !important;
+
+}
+
+
 /** NEWSLETTER**/
 .newsletter {
     text-align: center;
@@ -544,8 +569,13 @@ h4.title {
 }
 
 /* SERTIFISERINGSBLOKK */
+@media (max-width: 1200px) {
+.servicesblock {
 
+    height: 350px;
 
+}
+}
 @media (max-width: 991px) {
 
 .header {
@@ -590,6 +620,7 @@ h4.title {
     left: 6% !important;
 
 }
+
 }
 @media (max-width: 767px) {
     .Service {
@@ -613,6 +644,25 @@ h4.title {
         bottom: 90px;
 
     
+    }
+    .servicesblock {
+
+        height: 400px;
+        margin-bottom: 2em;
+    
+    }
+    .service-btns3 {
+        position: absolute;
+        width: 87%;
+        bottom: 0;
+        left: 6% !important;
+    }
+    .service-btns4 {
+        position: absolute;
+        width: 87%;
+        bottom: 80px;
+        left: 6% !important;
+
     }
     
 }

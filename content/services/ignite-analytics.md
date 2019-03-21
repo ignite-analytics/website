@@ -8,4 +8,5 @@ weight: "1"
 url: "/ignite-analytics/"
 ---
 
-{{< button href="/ignite-analytics/" class="btn btn-outline-primary btn-lg" >}}Finn ut mer{{< /button >}}
+{{< button href="/ignite-analytics/" class="service-btns3 btn btn-primary btn-lg" >}}Finn ut mer{{< /button >}}
+{{< button class="service-btns4 btn btn-outline-primary btn-lg" data-toggle="modal" data-target="#modalbooknor">}}Book en demo{{< /button >}}

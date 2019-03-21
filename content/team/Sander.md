@@ -4,7 +4,7 @@ date: 2018-12-16T14:24:18+01:00
 description: ""
 draft: false
 weight: "9"
-image: "/images/team/Andreas Moldskred.jpg"
+image: "/images/team/Sander Aandal.jpg"
 ---
 ##### Business Development Consultant​
 <a class="phoneto" href="tel:+47 905 65 020"><i class="fas fa-phone"></i>+47 905 65 020</a>
