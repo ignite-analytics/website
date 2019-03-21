@@ -85,7 +85,7 @@ image = "/images/infographics/dashboard2.svg"
             weight = "3"            
 
 
-[[languages.no.menu.main]]
+[[languages.no.menu.blogg]]
      name = "Blogg"
     identifier = "blogg"
      title = "Blogg"
@@ -93,7 +93,7 @@ image = "/images/infographics/dashboard2.svg"
      weight = "5"
      hasChildren = "true"
 
-        [[languages.no.menu.main]]
+        [[languages.no.menu.blogg]]
             parent = "blogg"
             name = "Innsikt"
             identifier = "innsikt"
@@ -101,7 +101,7 @@ image = "/images/infographics/dashboard2.svg"
             url = "https://medium.com/ignite-procurement/insight/home"
             weight = "1"
 
-         [[languages.no.menu.main]]
+         [[languages.no.menu.blogg]]
             parent = "blogg"
             name = "Caser"
             identifier = "caser"
@@ -109,7 +109,7 @@ image = "/images/infographics/dashboard2.svg"
             url = "https://medium.com/ignite-procurement/cases/home"
             weight = "2"  
 
-            [[languages.no.menu.main]]
+            [[languages.no.menu.blogg]]
             parent = "blogg"
             name = "Nyheter"
             identifier = "nyheter"
@@ -139,6 +139,12 @@ image = "/images/infographics/dashboard2.svg"
      title = "Book demo"
      id = "#modalbook"
      weight = "1"   
+[[languages.no.menu.mote]]
+     name = "Book møte"
+     identifier = "#modalbooknorw"
+     title = "Book demo"
+     id = "#modalbooknorw"
+     weight = "1"        
 
 [[languages.no.menu.personvern]]
      name = "Cookies og personvernerklæring"
@@ -207,7 +213,7 @@ image = "/images/infographics/dashboard2.svg"
 
 
   
-[[languages.en.menu.main]]
+[[languages.en.menu.blogg]]
      name = "Blog"
     identifier = "blog"
      title = "Blog"
@@ -215,7 +221,7 @@ image = "/images/infographics/dashboard2.svg"
      weight = "5"
      hasChildren = "true"
 
-        [[languages.en.menu.main]]
+        [[languages.en.menu.blogg]]
             parent = "blog"
             name = "Insight"
             identifier = "insight"
@@ -223,7 +229,7 @@ image = "/images/infographics/dashboard2.svg"
             url = "https://medium.com/ignite-procurement/insight/home"
             weight = "1"
 
-         [[languages.en.menu.main]]
+         [[languages.en.menu.blogg]]
             parent = "blog"
             name = "Cases"
             identifier = "cases"
@@ -231,7 +237,7 @@ image = "/images/infographics/dashboard2.svg"
             url = "https://medium.com/ignite-procurement/cases/home"
             weight = "2"  
 
-            [[languages.en.menu.main]]
+            [[languages.en.menu.blogg]]
             parent = "blog"
             name = "News"
             identifier = "news"
@@ -240,7 +246,7 @@ image = "/images/infographics/dashboard2.svg"
             weight = "3" 
 
 
-[[languages.en.menu.secondary]]
+[[languages.en.menu.contact]]
     name = "Contact"
     identifier = "kontakt"
     title = "kontakt"
@@ -259,7 +265,14 @@ image = "/images/infographics/dashboard2.svg"
      identifier = "#modalbook"
      title = "Book demo"
      id = "#modalbook"
-     weight = "3" 
+     weight = "1" 
+
+     [[languages.en.menu.mote]]
+     name = "Book a meeting"
+     identifier = "#modalbookeng"
+     title = "Book meeting"
+     id = "#modalbooknorw"
+     weight = "1"        
 
 [[languages.en.menu.personvern]]
      name = "Privacy policy"

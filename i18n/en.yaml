@@ -2,16 +2,10 @@
   translation: Services
 
 - id: kontakt
-  translation: Contact
+  translation: Contact us
 
 - id: blogg
   translation: Blog
 
 - id: selskapet
   translation: Company
-
--id: book en demo
-translation: Book a demo
-
--id: book et møte
-translation: Book a meeting

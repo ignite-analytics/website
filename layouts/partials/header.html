@@ -47,6 +47,26 @@
                     </li>
                     {{ end }}
                     {{ end }}
+                    {{ range .Site.Menus.blogg }}
+                    {{ if .HasChildren }}
+                    <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">
+                        {{ .Name }}
+                    </a>
+                    <div class="dropdown-submenu" >
+                        {{ range .Children }}
+                        <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
+                        {{ end }}
+                    </div>
+                    </li>
+                    {{ else }}
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+                    </li>
+                    {{ end }}
+                    {{ end }}
+                    
                    <div class="naving">
                     {{ range .Site.Menus.secondary}}
                     <li class="nav-item nav-right">
