@@ -3,7 +3,7 @@ title: "Rikard Bakkehaug"
 date: 2018-12-16T14:24:18+01:00
 description: ""
 draft: false
-weight: "5"
+weight: "11"
 image: "/images/team/Rikard_Bakkehaug.jpg"
 ---
 ##### Tech Lead​ Back End
