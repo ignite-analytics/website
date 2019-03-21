@@ -185,15 +185,6 @@
     </item>
     
     <item>
-      <title>Rikard Bakkehaug</title>
-      <link>https://ignite.no/en/team/rikard/</link>
-      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
-      
-      <guid>https://ignite.no/en/team/rikard/</guid>
-      <description>Tech Lead​ Back End +47 416 94 078 rikard.bakkehaug@ignite.no</description>
-    </item>
-    
-    <item>
       <title>Kristian Morthen</title>
       <link>https://ignite.no/en/team/kristian/</link>
       <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
@@ -209,6 +200,105 @@
       
       <guid>https://ignite.no/en/team/bendik/</guid>
       <description>Business Development Consultant​ +47 920 22 954 bendik.molland@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Ingeborg Bakke</title>
+      <link>https://ignite.no/en/team/ingeborg/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://ignite.no/en/team/ingeborg/</guid>
+      <description>Business Development Consultant​ +47 906 59 693 ingeborg.bakke@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Nanna Kvannes</title>
+      <link>https://ignite.no/en/team/nanna/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://ignite.no/en/team/nanna/</guid>
+      <description>Business Development Consultant​ +47 404 50 707 nanna.kvannes@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Sander Åndal</title>
+      <link>https://ignite.no/en/team/sander/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://ignite.no/en/team/sander/</guid>
+      <description>Business Development Consultant​ +47 905 65 020 sander.aandal@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Amalie Holt</title>
+      <link>https://ignite.no/en/team/amalie/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://ignite.no/en/team/amalie/</guid>
+      <description>Marketing Consultant +47 907 26 036 amalie.holt@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Rikard Bakkehaug</title>
+      <link>https://ignite.no/en/team/rikard/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://ignite.no/en/team/rikard/</guid>
+      <description>Tech Lead​ Back End +47 416 94 078 rikard.bakkehaug@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Lars Lien Ankile</title>
+      <link>https://ignite.no/en/team/lars/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://ignite.no/en/team/lars/</guid>
+      <description>Platform Engineer +47 948 97 416 lars.lien@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Henrik Høiness</title>
+      <link>https://ignite.no/en/team/henrik/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://ignite.no/en/team/henrik/</guid>
+      <description>Platform Engineer +47 480 39 233 henrik.hoiness@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Jon Riege</title>
+      <link>https://ignite.no/en/team/jon/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://ignite.no/en/team/jon/</guid>
+      <description>Platform Engineer +47 482 68 862 jon.riege@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Tord Johan Espe</title>
+      <link>https://ignite.no/en/team/tord/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://ignite.no/en/team/tord/</guid>
+      <description>Platform Engineer +47 988 98 784 tord.espe@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Andreas Moldskred</title>
+      <link>https://ignite.no/en/team/andreas/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://ignite.no/en/team/andreas/</guid>
+      <description>Platform Engineer +47 993 89 920 andreas.moldskred@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Martin Egeli</title>
+      <link>https://ignite.no/en/team/martin/</link>
+      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
+      
+      <guid>https://ignite.no/en/team/martin/</guid>
+      <description>Platform Engineer +47 413 32 399 martin.egeli@ignite.no</description>
     </item>
     
     <item>
@@ -491,42 +581,6 @@ Linkedin</description>
       
       <guid>https://ignite.no/en/karriere/top-banner/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Henrik Høiness</title>
-      <link>https://ignite.no/en/team/henrik/</link>
-      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
-      
-      <guid>https://ignite.no/en/team/henrik/</guid>
-      <description>Software Engineer +47 480 39 233 henrik.hoiness@ignite.no</description>
-    </item>
-    
-    <item>
-      <title>Jon Riege</title>
-      <link>https://ignite.no/en/team/jon/</link>
-      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
-      
-      <guid>https://ignite.no/en/team/jon/</guid>
-      <description>Software Engineer +47 482 68 862 jon.riege@ignite.no</description>
-    </item>
-    
-    <item>
-      <title>Jørgen Juel</title>
-      <link>https://ignite.no/en/team/j%C3%B8rgen/</link>
-      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
-      
-      <guid>https://ignite.no/en/team/j%C3%B8rgen/</guid>
-      <description>Software Engineer +47 975 06 012 jorgen.juel@ignite.no</description>
-    </item>
-    
-    <item>
-      <title>Lars Lien Ankile</title>
-      <link>https://ignite.no/en/team/lars/</link>
-      <pubDate>Sun, 16 Dec 2018 14:24:18 +0100</pubDate>
-      
-      <guid>https://ignite.no/en/team/lars/</guid>
-      <description>Software Engineer +47 948 97 416 lars.lien@ignite.no</description>
     </item>
     
   </channel>
