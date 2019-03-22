@@ -833,12 +833,12 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/modals/textblock/</loc>
+    <loc>https://ignite.no/navbar/</loc>
     <lastmod>2018-12-16T15:31:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ignite.no/navbar/</loc>
+    <loc>https://ignite.no/om-oss/textblock/</loc>
     <lastmod>2018-12-16T15:31:35+01:00</lastmod>
   </url>
   
@@ -854,21 +854,6 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://ignite.no/ignite-services/item7/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ignite.no/om-oss/</loc>
-    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/om-oss/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/om-oss/"
                 />
   </url>
   
@@ -1010,6 +995,31 @@
   <url>
     <loc>https://ignite.no/modals/</loc>
     <lastmod>2018-12-16T15:31:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/modals/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/modals/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/om-oss/</loc>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/om-oss/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/om-oss/"
+                />
   </url>
   
   <url>
@@ -1088,17 +1098,17 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/om-oss/services/</loc>
+    <loc>https://ignite.no/modals/services/</loc>
     <lastmod>2018-12-16T15:31:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ignite.no/en/om-oss/services/"
+                href="https://ignite.no/en/modals/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://ignite.no/om-oss/services/"
+                href="https://ignite.no/modals/services/"
                 />
   </url>
   
