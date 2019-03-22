@@ -675,7 +675,7 @@ h4.title {
     }
     .servicesblock {
 
-        height: 400px;
+        height: 350px;
         margin-bottom: 2em;
     
     }
@@ -706,7 +706,8 @@ h4.title {
     .Service:after {
         height: 580px;
     }
-    .service-btns {
+    .service-btns,
+    .service-btns4 {
     
         position: absolute;
         width: 87%;
@@ -715,11 +716,18 @@ h4.title {
     
     
     }
-    .service-btns2 {
+    .service-btns2,
+    .service-btns3 {
         position: absolute;
         width: 87%;
         bottom: 70px;
         left: 6% !important;
+    
+    }
+    .servicesblock {
+
+        height: 420px;
+        margin-bottom: 2em;
     
     }
 
