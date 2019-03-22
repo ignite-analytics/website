@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Om oss on Ignite Procurement</title>
+    <title>About us on Ignite Procurement</title>
     <link>https://ignite.no/om-oss/</link>
-    <description>Recent content in Om oss on Ignite Procurement</description>
+    <description>Recent content in About us on Ignite Procurement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <lastBuildDate>Sun, 16 Dec 2018 15:31:35 +0100</lastBuildDate>
@@ -12,11 +12,11 @@
     
     
     <item>
-      <title></title>
-      <link>https://ignite.no/om-oss/textblock/</link>
+      <title>Services-nor</title>
+      <link>https://ignite.no/om-oss/services/</link>
       <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
       
-      <guid>https://ignite.no/om-oss/textblock/</guid>
+      <guid>https://ignite.no/om-oss/services/</guid>
       <description></description>
     </item>
     

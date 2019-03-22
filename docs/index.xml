@@ -413,10 +413,10 @@ Linkedin</description>
     
     <item>
       <title></title>
-      <link>https://ignite.no/om-oss/textblock/</link>
+      <link>https://ignite.no/modals/textblock/</link>
       <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
       
-      <guid>https://ignite.no/om-oss/textblock/</guid>
+      <guid>https://ignite.no/modals/textblock/</guid>
       <description></description>
     </item>
     
@@ -507,6 +507,15 @@ Linkedin</description>
       <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
       
       <guid>https://ignite.no/tittel/sertifiserings-tittel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Services-nor</title>
+      <link>https://ignite.no/om-oss/services/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://ignite.no/om-oss/services/</guid>
       <description></description>
     </item>
     

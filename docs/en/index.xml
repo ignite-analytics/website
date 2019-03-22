@@ -413,15 +413,6 @@ Linkedin</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://ignite.no/en/om-oss/textblock/</link>
-      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
-      
-      <guid>https://ignite.no/en/om-oss/textblock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title> Forbedring av prosesser​</title>
       <link>https://ignite.no/en/ignite-services/item7/</link>
       <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
@@ -526,6 +517,15 @@ Linkedin</description>
       <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
       
       <guid>https://ignite.no/en/ignite-analytics/item4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://ignite.no/en/om-oss/services/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://ignite.no/en/om-oss/services/</guid>
       <description></description>
     </item>
     
