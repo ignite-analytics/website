@@ -6,167 +6,35 @@
 </div>
 <section class="">
 <div class="container row">
-        {{ range .Pages }}
-        
-        <article class="servicesblock col-sm-12 col-xl-4 wrap pr-4">
-            
-               <div class="flex column ">
-                   <figure class="service_illustration">
-                           <img class="" src="{{ .Params.logo }}">
-                   </figure>
-               
-                   
-                <div class="description-block px-4">
-                     <h5 class="center">{{ .Description }}</h5>
-               </div>
-               <div class="row px-4 align-items-center">
-                   {{ .Content }} 
-               </div>
-               <!--MODAL SERVICES NOR-->
-               <div class="modal fade" id="modalbooknorw" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-lg" role="document">
-                  
-                      <!--Content-->
-                      <div class="modal-content">
-                  
-                        <!--Body-->
-                        <div class="modal-body mb-0 p-0">
-                  
-                          <!-- Start of Meetings Embed Script --> 
+    {{ range .Pages }}
+    <article class="servicesblock col-sm-12 col-xl-4 wrap pr-4">            
+        <div class="flex column ">
+            <figure class="service_illustration">
+               <img class="" src="{{ .Params.logo }}">
+            </figure>   
+              <div class="description-block px-4">
+                   <h5 class="center">{{ .Description }}</h5>
+             </div>
+             <div class="row px-4 align-items-center">
+                 {{ .Content }} 
+             </div>
+             <!--MODAL SERVICES -->
+             {{ with .Site.GetPage "services" }}
+              {{ partial "sections/modals/services-nor.html" . }}
+              {{ end }}
+              {{ with .Site.GetPage "services" }}
+              {{ partial "sections/modals/services-eng.html" . }}
+              {{ end }}
 
-                            <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/post3/ignite-mte-nor?embed=true"></div> 
-
-                            <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script> 
-
-                        <!-- End of Meetings Embed Script --> 
-                                                                        
-                        </div>
-                  
-                        <!--Footer-->
-                        <div class="modal-footer justify-content-center">
-                          <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
-                  
-                        </div>
-                  
-                      </div>
-                      <!--/.Content-->
-                  
-            </div>
-        </div> 
-        <!--MODAL SERVICES Eng-->
-        <div class="modal fade" id="modalbookeng" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                <div class="modal-dialog modal-lg" role="document">                
-                  <!--Content-->
-                  <div class="modal-content">
-                                    <!--Body-->
-                    <div class="modal-body mb-0 p-0">                
-                      <!-- Start of Meetings Embed Script --> 
-
-<div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/post3/ignite-services-mte-eng?embed=true"></div> 
-
-<script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script> 
-
-<!-- End of Meetings Embed Script -->                                                                         
-                    </div>         
-                    <!--Footer-->
-                    <div class="modal-footer justify-content-center">
-                      <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>               
-                    </div>                 
-                  </div>
-                  <!--/.Content-->              
-        </div>
-    </div> 
-
- <!--MODAL ACADEMY NOR-->
- <div class="modal fade" id="modalacademynor" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-lg" role="document">
-      
-          <!--Content-->
-          <div class="modal-content">
-      
-            <!--Body-->
-            <div class="modal-body mb-0 p-5">
-                    <h3 class="white">Meld din interesse for Ignite Academy</h3>
-              <!-- Start of Meetings Embed Script --> 
-
-              <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-                <script>
-               hbspt.forms.create({
-
-                                portalId: "4304957",
-
-                                formId: "a3036ba4-0468-45c6-86d6-8473ddce79eb"
-                });
-                </script>
-
-            <!-- End of Meetings Embed Script --> 
-                                                            
-            </div>
-      
-            <!--Footer-->
-            <div class="modal-footer justify-content-center">
-              <button type="button" class="btn btn-outline-primary btn-rounded btn-md" data-dismiss="modal">Close</button>
-      
-            </div>
-      
-          </div>
-          <!--/.Content-->
-      
-</div>
-</div>
- <!--MODAL ACADEMY Eng-->
- <div class="modal fade" id="modalacademy" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-lg" role="document">
-      
-          <!--Content-->
-          <div class="modal-content">
-      
-            <!--Body-->
-            <div class="modal-body mb-0 p-5">
-                <h3 class="white">Show your interest in Ignite Academy</h3>
-              <!-- Start of Meetings Embed Script --> 
-
-              <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-              <script>      
-                hbspt.forms.create({
-              
-                              portalId: "4304957",
-              
-                              formId: "238cefc4-fb32-4bf9-9604-ca53601f5dab"      
-              });       
-              </script>
-
-            <!-- End of Meetings Embed Script --> 
-                                                            
-            </div>
-      
-            <!--Footer-->
-            <div class="modal-footer justify-content-center">
-              <button type="button" class="btn btn-outline-primary btn-rounded btn-md" data-dismiss="modal">Close</button>
-      
-            </div>
-      
-          </div>
-          <!--/.Content-->
-      
-</div>
-</div>
-        
-       </div>
-               
-       </article> 
-<!--          <div class="Services col-lg-4 col-md-12 wrap pr-4">
-            <img class="services-logo" src="{{ .Params.logo }}">
-                
-             <div class="description-block px-4">
-                  <p>{{ .Description }}</p>
-            </div>
-            <div class="row px-2 justify-content-center align-items-center">
-                {{ .Content }}          
-            </div>
-        </div> -->
-        
-            {{ end }}
-
+            <!--MODAL ACADEMY-->
+            {{ with .Site.GetPage "interesse" }}
+                {{ partial "sections/modals/interesse-nor.html" . }}
+                {{ end }}
+                {{ with .Site.GetPage "interesse" }}
+                {{ partial "sections/modals/interesse-eng.html" . }}
+                {{ end }}       
+      </div>
+</article> 
+     {{ end }}
     </div>
 </section>

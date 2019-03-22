@@ -104,6 +104,31 @@
 </div>
     
 </section>
+<!--MODAL MOTE -->
+{{ with .Site.GetPage "mote" }}
+{{ partial "sections/modals/mote-nor.html" . }}
+{{ end }}
+{{ with .Site.GetPage "mote" }}
+{{ partial "sections/modals/mote-eng.html" . }}
+{{ end }}
+<!--MODAL SERVICES -->
+{{ with .Site.GetPage "services" }}
+{{ partial "sections/modals/services-nor.html" . }}
+{{ end }}
+{{ with .Site.GetPage "services" }}
+{{ partial "sections/modals/services-eng.html" . }}
+{{ end }}
+<!--MODAL ACADEMY-->
+{{ with .Site.GetPage "interesse" }}
+{{ partial "sections/modals/interesse-nor.html" . }}
+{{ end }}
+{{ with .Site.GetPage "interesse" }}
+{{ partial "sections/modals/interesse-eng.html" . }}
+{{ end }}
+<!--MODAL VIDEO-->
+{{ with .Site.GetPage "video" }}
+{{ partial "sections/modals/video.html" . }}
+{{ end }}  
 
 
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.bundle.min.js" integrity="sha384-pjaaA8dDz/5BgdFUPX6M/9SUZv4d12SUPF0axWc+VRZkx5xU3daN+lYb49+Ax+Tl" crossorigin="anonymous"></script>

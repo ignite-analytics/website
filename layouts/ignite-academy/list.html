@@ -3,81 +3,7 @@
         <div class="header-content p-2 flex-fill bd-highlight pr-sm-3 pr-lg-5">
                 <h1>{{.Title}}</h1>
                 <h4>{{.Description}}</h4>  
-                {{ .Content }}  
-                    <!--MODAL ACADEMY NOR-->
-     <div class="modal fade" id="modalacademynor" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                <div class="modal-dialog modal-lg" role="document">
-              
-                  <!--Content-->
-                  <div class="modal-content">
-              
-                    <!--Body-->
-                    <div class="modal-body mb-0 p-5">
-                                <h3 class="white">Meld din interesse for Ignite Academy</h3>
-                      <!-- Start of Meetings Embed Script --> 
-    
-                      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-                        <script>
-                       hbspt.forms.create({
-    
-                                        portalId: "4304957",
-    
-                                        formId: "a3036ba4-0468-45c6-86d6-8473ddce79eb"
-                        });
-                        </script>
-    
-                    <!-- End of Meetings Embed Script --> 
-                                                                    
-                    </div>
-              
-                    <!--Footer-->
-                    <div class="modal-footer justify-content-center">
-                      <button type="button" class="btn btn-outline-primary btn-rounded btn-md" data-dismiss="modal">Close</button>
-              
-                    </div>
-              
-                  </div>
-                  <!--/.Content-->
-              
-        </div>
-    </div>
-         <!--MODAL ACADEMY Eng-->
-         <div class="modal fade" id="modalacademy" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                <div class="modal-dialog modal-lg" role="document">
-              
-                  <!--Content-->
-                  <div class="modal-content">
-              
-                    <!--Body-->
-                    <div class="modal-body mb-0 p-5">
-                       <h3 class="white">Show your interest in Ignite Academy</h3>
-                      <!-- Start of Meetings Embed Script --> 
-    
-                      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-                      <script>      
-                        hbspt.forms.create({
-                      
-                                      portalId: "4304957",
-                      
-                                      formId: "238cefc4-fb32-4bf9-9604-ca53601f5dab"      
-                      });       
-                      </script>
-    
-                    <!-- End of Meetings Embed Script --> 
-                                                                    
-                    </div>
-              
-                    <!--Footer-->
-                    <div class="modal-footer justify-content-center">
-                      <button type="button" class="btn btn-outline-primary btn-rounded btn-md" data-dismiss="modal">Close</button>
-              
-                    </div>
-              
-                  </div>
-                  <!--/.Content-->
-              
-        </div>
-    </div>     
+                {{ .Content }}          
         </div>            
         <div class="header-content-img p-2 flex-fill bd-highlight pl-sm-3 pl-lg-5">
                 <img class="content-image" src="{{ .Params.Image }}" width="100%">
@@ -87,7 +13,5 @@
          {{ with .Site.GetPage "newsletter" }}
          {{ partial "sections/newsletter.html" . }}
          {{ end }}
-</section>      
-
-        
+</section>              
 {{ end }}
