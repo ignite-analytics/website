@@ -873,6 +873,21 @@
   </url>
   
   <url>
+    <loc>https://ignite.no/modals/mote/</loc>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/modals/mote/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/modals/mote/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ignite.no/ignite-analytics/item3/</loc>
     <lastmod>2018-12-16T15:31:35+01:00</lastmod>
     <xhtml:link
@@ -933,6 +948,21 @@
   </url>
   
   <url>
+    <loc>https://ignite.no/modals/video/</loc>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/modals/video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/modals/video/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ignite.no/ignite-services/</loc>
     <lastmod>2018-12-16T15:31:35+01:00</lastmod>
     <xhtml:link
@@ -974,6 +1004,21 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://ignite.no/tittel/contactinfo-tittel/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/modals/interesse/</loc>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/modals/interesse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/modals/interesse/"
                 />
   </url>
   
