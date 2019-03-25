@@ -323,6 +323,21 @@
   </url>
   
   <url>
+    <loc>https://ignite.no/en/customers/kolonial/</loc>
+    <lastmod>2019-02-20T10:56:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/customers/kolonial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/customers/kolonial/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ignite.no/en/team/kristian/</loc>
     <lastmod>2018-12-16T14:24:18+01:00</lastmod>
     <xhtml:link
@@ -334,6 +349,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ignite.no/en/team/kristian/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/en/customers/con-form/</loc>
+    <lastmod>2019-02-20T10:56:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/customers/con-form/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/customers/con-form/"
                 />
   </url>
   
@@ -668,21 +698,6 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/en/customers/con-form/</loc>
-    <lastmod>2019-02-20T10:56:46+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/customers/con-form/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/customers/con-form/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ignite.no/en/partners/forskningsra%CC%8Adet/</loc>
     <lastmod>2019-02-20T10:56:46+01:00</lastmod>
     <xhtml:link
@@ -709,21 +724,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ignite.no/en/partners/innovasjon_norge/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ignite.no/en/customers/kolonial/</loc>
-    <lastmod>2019-02-20T10:56:46+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/customers/kolonial/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/customers/kolonial/"
                 />
   </url>
   

@@ -218,6 +218,21 @@
   </url>
   
   <url>
+    <loc>https://ignite.no/customers/hexagon/</loc>
+    <lastmod>2019-02-20T10:56:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/customers/hexagon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/customers/hexagon/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ignite.no/mainteam/frank/</loc>
     <lastmod>2018-12-16T14:24:18+01:00</lastmod>
     <xhtml:link
@@ -244,6 +259,21 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://ignite.no/team/frank/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/customers/arkwright/</loc>
+    <lastmod>2019-02-20T10:56:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/customers/arkwright/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/customers/arkwright/"
                 />
   </url>
   
@@ -278,6 +308,36 @@
   </url>
   
   <url>
+    <loc>https://ignite.no/customers/implenia/</loc>
+    <lastmod>2019-02-20T10:56:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/customers/implenia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/customers/implenia/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/customers/kolonial/</loc>
+    <lastmod>2019-02-20T10:56:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/customers/kolonial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/customers/kolonial/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ignite.no/team/kristian/</loc>
     <lastmod>2018-12-16T14:24:18+01:00</lastmod>
     <xhtml:link
@@ -289,6 +349,21 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://ignite.no/team/kristian/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/customers/con-form/</loc>
+    <lastmod>2019-02-20T10:56:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/customers/con-form/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/customers/con-form/"
                 />
   </url>
   
@@ -623,36 +698,6 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/customers/arkwright/</loc>
-    <lastmod>2019-02-20T10:56:46+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/customers/arkwright/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/customers/arkwright/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ignite.no/customers/con-form/</loc>
-    <lastmod>2019-02-20T10:56:46+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/customers/con-form/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/customers/con-form/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ignite.no/partners/forskningsra%CC%8Adet/</loc>
     <lastmod>2019-02-20T10:56:46+01:00</lastmod>
     <xhtml:link
@@ -668,36 +713,6 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/customers/hexagon/</loc>
-    <lastmod>2019-02-20T10:56:46+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/customers/hexagon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/customers/hexagon/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ignite.no/customers/implenia/</loc>
-    <lastmod>2019-02-20T10:56:46+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/customers/implenia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/customers/implenia/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ignite.no/partners/innovasjon_norge/</loc>
     <lastmod>2019-02-20T10:56:46+01:00</lastmod>
     <xhtml:link
@@ -709,21 +724,6 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://ignite.no/partners/innovasjon_norge/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ignite.no/customers/kolonial/</loc>
-    <lastmod>2019-02-20T10:56:46+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/customers/kolonial/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/customers/kolonial/"
                 />
   </url>
   
