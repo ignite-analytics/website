@@ -1,34 +1,35 @@
 .customer-list {
-    padding-left: 0 !important;
-    padding-right: 0 !important;
 }
 
 
 /** LOGOLIST **/
 
-.customer-logo {
-    margin: 0 auto;
-}
 /** Clients-list**/
 .client-heading {
-    padding-top: 3em;
     text-align: center;
     color: #153559;
     text-align: center;
 }
 
 .client-list {
-    align-items: center;
-    justify-content: center;
-    min-height: 10em;
-}
 
+    min-height: 10em;
+    margin: 0 auto;
+}
+.customer-logo {
+width: 150px;
+padding: 1em;
+text-align: center;
+margin-top: 1.3em;
+
+
+}
 .client-logo {
-    text-align: center;
-    padding: 1em !important;
-    margin-bottom: 2em;
-    max-width: 170px !important;
-    max-height: 110px;
+    max-height: 60px;
+
+    max-width: 110px;
+ 
+
     filter: grayscale(100%);
     &.client-logo:hover {
         filter: none;

@@ -1,39 +1,30 @@
 <head>
 	<meta charset="utf-8">
-	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],	
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=		
-		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);		
-		})(window,document,'script','dataLayer','GTM-KS4MGZB');</script>	
-		<!-- End Google Tag Manager -->
-	<link rel="shortcut icon" href="/images/icons/favicon.ico">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="theme-color" content="#000000">
 	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
-	<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-	
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],	
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=		
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);		
+	})(window,document,'script','dataLayer','GTM-KS4MGZB');</script>	
+	<!-- End Google Tag Manager -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	{{ $options := (dict "targetPath" "style.css" "outputStyle" "compressed" "enableSourceMap" true ) }}
+	{{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options }}
+	<link rel="stylesheet" href="{{ ($style | minify | fingerprint).RelPermalink }}">	
+	<title>Ignite Procurement</title>
 	<!-- For Facebook -->
 	<meta property="og:title" content="Ignite Procurement" />
 	<meta property="og:url" content="https://www.ignite.no/" />
 	<meta property="og:type" content="website" />
 	<meta property="og:description" content="Vi hjelper deg med å optimalisere dine innkjøp ved hjelp av vårt verktøy Ignite Analytics og våre konsulenter som er eksperter på strategiske innkjøp" />
 	<meta property="og:image" content="https://www.ignite.no/images/ignitesite.jpg" />
-	
- 
-	{{ $options := (dict "targetPath" "style.css" "outputStyle" "compressed" "enableSourceMap" true ) }}
-	{{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options }}
-
-	<link rel="stylesheet" href="{{ ($style | minify | fingerprint).RelPermalink }}">
-
-	<title>Ignite Procurement</title>
+	<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+	<link rel="shortcut icon" href="/images/icons/favicon.ico">
 </head>
 <body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KS4MGZB"
-	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>	
-	<!-- End Google Tag Manager (noscript) -->	
+	
 
   <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -42,5 +33,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
-
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KS4MGZB"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>	
+	<!-- End Google Tag Manager (noscript) -->
 </body>

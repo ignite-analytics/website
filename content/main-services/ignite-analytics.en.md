@@ -3,7 +3,7 @@ title: "Ignite-analytics"
 date: 2019-02-20T13:09:05+01:00
 description: "Optimize your external spend easily with our unique end-to-end platform for strategic sourcing​"
 draft: false
-logo: "/images/logo-analytics-standard-square.svg"
+logo: "/images/analytics.svg"
 weight: "1"
 url: "/en/ignite-analytics/"
 ---
