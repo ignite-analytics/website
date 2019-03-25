@@ -13,5 +13,5 @@ image: "/images/team/Sigbjørn_Nome.jpg"
 ---
 ##### CEO & Product Director​
 <a class="phoneto" href="tel:+47 944 88 923"><i class="fas fa-phone"></i>+47 944 88 923</a>
-<a class="mailto" href="mailto:sigbjorn.nome@ignite.no"><i class="fas fa-envelope"></i>sigbjørn.nome@ignite.no</a>
+<a class="mailto" href="mailto:sigbjorn.nome@ignite.no"><i class="fas fa-envelope"></i>sigbjorn.nome@ignite.no</a>
 <a class="mailto" href="https://www.linkedin.com/in/sigbj%C3%B8rn-nome-1aaa1534/"><i class="fab fa-linkedin-in"></i>Linkedin</a>
