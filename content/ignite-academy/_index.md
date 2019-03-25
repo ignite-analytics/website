@@ -1,6 +1,6 @@
 ---
 title: "Ignite Academy"
-description: "Få skreddersydd støtte til å optimalisere innkjøpene til din virksomhet fra våre erfarne konsulenter​"
+description: "Bli inspirert og videreutvikle din ekspertise gjennom våre videoer og tilpassede kurs innenfor strategisk innkjøp"
 date: 2018-12-16T15:31:35+01:00
 draft: false
 image: "/images/infographics/academy.svg"
