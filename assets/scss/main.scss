@@ -257,7 +257,10 @@ h4.arrow2 {
 
 }
 
-
+.main-content-img {
+    width: 100%;
+    padding: 1.5em;
+}
 /** NEWSLETTER**/
 .newsletter {
     text-align: center;
@@ -334,6 +337,17 @@ h4.title {
       color: $dark-blue;
   }
 
+@media (min-width: 768px) {
+  .content-img {
+      width: 50%;
+  }
+  .content-txt {
+      width: 50%;
+  }
+  .main-content-img {
+
+  }
+}
 @media (min-width: 1200px) {
     .header-content-img {
         min-width: 700px;
