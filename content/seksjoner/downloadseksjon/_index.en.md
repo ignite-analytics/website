@@ -3,8 +3,8 @@ title: "Newsletter"
 date: 2019-02-20T13:09:05+01:00
 draft: false
 
-header: "Meld deg på vårt nyhetsbrev"
-description: "Registrer deg for å motta nyheter, oppdateringer og tips fra oss direkte til innboksen din"
+header: "Sign up for our newsletter"
+description: "Sign up to receive news, updates and tips from us directly to your inbox"
 image: /images/infographics/newsletter.svg
 
 ---
@@ -17,5 +17,8 @@ image: /images/infographics/newsletter.svg
 
 portalId: "4304957", 
 
-formId: "b46283cb-637c-46a5-8b9c-4cb06bc46bd3" });
+formId: "506acf1b-d291-445a-892e-986cbe5d21a4" 
+
+}); 
+
 </script> 

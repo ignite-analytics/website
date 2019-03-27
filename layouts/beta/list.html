@@ -1,7 +1,7 @@
 {{ define "main" }}
 <section class="container d-flex bd-highlight flex-column-reverse flex-lg-row align-items-center">
         <div class="header-content p-2 flex-fill bd-highlight pr-sm-3 pr-lg-5">
-                        <h1>Ignite <span style="color:#3c6fe9;">Analytics</span></h1>
+                        <h1>BETA Ignite <span style="color:#3c6fe9;">Analytics</span></h1>
                         <h4>{{.Description}}</h4>  
                         {{ .Content }}                        
                       
@@ -10,29 +10,30 @@
                 <img class="" src="{{ .Params.Image }}">
          </div>
 </section>  
-<section class="container">
-
-        
+<section class="seksjon">
+        {{ with .Site.GetPage "/seksjoner/downloadseksjon" }}
+        {{ partial "sections/downloadseksjon.html" . }}
+        {{ end }}
 </section>
 <section class="container">
         <section class="container">
-                {{ with .Site.GetPage "item1" }}
+                {{ with .Site.GetPage "item10" }}
                 {{ partial "sections/infoblock.html" . }}
                 {{ end }}
         </section>
         <section class="container">
-                {{ with .Site.GetPage "item2" }}
+                {{ with .Site.GetPage "item20" }}
                 {{ partial "sections/infoblock-reverse.html" . }}
                 {{ end }}
         </section>
         <section class="">
-                {{ with .Site.GetPage "item3" }}
+                {{ with .Site.GetPage "item30" }}
                 {{ partial "sections/infoblock.html" . }}
                 {{ end }}
   
         </section>
          <section class="">
-                {{ with .Site.GetPage "item4" }}
+                {{ with .Site.GetPage "item40" }}
                 {{ partial "sections/infoblock-reverse.html" . }}
                 {{ end }}
   

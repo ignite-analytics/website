@@ -198,7 +198,7 @@ h4.arrow2 {
     border: 0px;   
     border-radius: 25px;
     min-width: 225px;
-    padding: 11px;
+    padding: 12px;
     height: 50px;
     margin-top: 25px;
     font-size: 1em;
@@ -228,6 +228,7 @@ h4.arrow2 {
     &-outline-primary {
         border: 2px solid $blue;
         color: $blue;
+        padding: 10px;
         &:hover {
             background-color: $blue-hover;
             color: $white;
@@ -337,6 +338,39 @@ h4.title {
       color: $dark-blue;
   }
 
+/*  downloadseksjon  */
+.seksjon {
+    margin-top: 3em;
+}
+.download-content {
+    margin-bottom: 1em;
+/*     & h3 {
+        color: $blue;
+    } */
+    & h4 {
+        color: $dark-blue;
+    }
+}
+.full-widt-container {
+    display: block;
+    background: $light-grey;
+    padding: 1em;
+}
+.fas.btn-icon {
+    color: $white;
+    padding-left: 12px;
+}
+
+/*  CAROUSEL  */
+/* .carousel {
+    height: 200px;
+    background-color: $blue;
+}
+
+.carousel-inner {
+    height: 200px;
+}
+ */
 @media (min-width: 768px) {
   .content-img {
       width: 50%;
