@@ -1,0 +1,8 @@
+{{ define "main" }}
+<section class="container">
+            {{ with .Site.GetPage "kategoristrategi" }}
+            {{ partial "sections/newsletter.html" . }}
+            {{ end }}
+</section>
+<section></section>
+{{ end }}
