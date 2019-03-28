@@ -5,8 +5,8 @@ draft: false
 
 header: "Maler for kategoristrategier"
 description: "For deg som ønsker en mal for å definere en tydelig, aksjonsbasert kategoristrategi. Skriv inn din e-post adresse for å laste ned malen."
-image: /images/infographics/work.svg
-url: "ignite-academy/resources/kategoristrategi/"
+image: /images/infographics/triks.svg
+url: "/ignite-academy/resources/kategoristrategi/"
 
 ---
 
