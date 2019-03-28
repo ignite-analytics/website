@@ -343,8 +343,9 @@ h4.title {
 /*  downloadseksjon  */
 section.seksjon {
     margin-top: 3em;
-    border-top: 2px solid $dark-blue;
-    border-bottom: 5px solid $blue;
+    border-top: 1px solid $dark-blue;
+    border-bottom: 1px solid $dark-blue;
+   /*  border-bottom: 5px solid $blue; */
     padding-top: 0 !important;
 }
 .download-content {
@@ -356,9 +357,22 @@ section.seksjon {
         color: $dark-blue;
     }
 }
+.content {
+    display: block;
+
+    margin: 0;
+    & a.btn,
+    h4 {
+        margin: 0;
+    }
+    &.left {
+        width: 30%;
+        align-items: right;
+    }
+}
 .full-widt-container {
     display: block;
-    background: $grey;
+    background-color: $light-grey;
     padding: 1em;
 }
 .fas.btn-icon {

@@ -5,7 +5,7 @@ draft: false
 
 header: "Download product information:"
 description: "Learn more about the functionality in Ignite Analytics and how the platform can help you and your business"
-image: /images/infographics/newsletter.svg
+image: /images/produktinfo.png
 
 ---
 {{< button class="btn btn-primary btn-lg" href="/en/produktinformasjon">}}Download<i class="fas fa-download btn-icon"></i>{{< /button >}}

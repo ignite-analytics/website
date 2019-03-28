@@ -1,16 +1,23 @@
 
 <section class="full-widt-container">
-      <div class="container">
-                  <!-- <img class="img" src="{{ .Params.image }}" width="150px;"> -->
-            <div class="download-content">
-                  <div>
-                     <h2>{{ .Params.header }}</h2>
+      <div class="container d-flex">
+            <div class="p-2 content left">
+               
+                        <img class="section-image" src="{{ .Params.image }}" width="250px;">
+            
+            </div>
+            <div class="p-2 content">
+                  <div class=" pr-5 ">
+                     <h3>{{ .Params.header }}</h3>
                   </div>
-                   <div>
+                   <div class="pr-5 ">
                          <h4>{{ .Description }}</h4>
                   </div>
-                        <div>{{ .Content}}                        
+                  <div 
+                        class=""> {{ .Content}}                        
                    </div>
-            </div>  
-      </div>                              
+           
+      
+      </div>   
+      </div>                           
 </section>

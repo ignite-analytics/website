@@ -5,7 +5,7 @@ draft: false
 
 header: "Last ned produktinformasjon"
 description: "For deg som ønsker en mer detaljert beskrivelse av funksjonaliteten som finnes i Ignite Analytics. Send inn din e-post for å laste ned produktinformasjon"
-image: /images/infographics/setup.svg
+image: /images/produktinfo.png
 
 ---
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
