@@ -623,8 +623,18 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/ignite-academy/resources/kategoristrategi/</loc>
+    <loc>https://ignite.no/kategoristrategi/</loc>
     <lastmod>2019-02-20T13:09:05+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/ignite-academy/resources/kategoristrategi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/kategoristrategi/"
+                />
   </url>
   
   <url>
@@ -720,6 +730,16 @@
   <url>
     <loc>https://ignite.no/produktinformasjon/</loc>
     <lastmod>2019-02-20T13:09:05+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/produktinformasjon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/produktinformasjon/"
+                />
   </url>
   
   <url>
@@ -1469,8 +1489,18 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/ignite-academy/recources/</loc>
+    <loc>https://ignite.no/recources/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/recources/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/recources/"
+                />
   </url>
   
   <url>
