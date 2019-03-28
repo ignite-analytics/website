@@ -9,6 +9,8 @@
     $dark: #18243f;
     $white: #fff;
     $light-grey: #fafafa;
+    $grey: #e4e4e4;
+    $dark-grey: #3b455b;
     
     
     
@@ -339,11 +341,14 @@ h4.title {
   }
 
 /*  downloadseksjon  */
-.seksjon {
+section.seksjon {
     margin-top: 3em;
+    border-top: 2px solid $dark-blue;
+    border-bottom: 5px solid $blue;
+    padding-top: 0 !important;
 }
 .download-content {
-    margin-bottom: 1em;
+    margin: 1em auto;
 /*     & h3 {
         color: $blue;
     } */
@@ -353,7 +358,7 @@ h4.title {
 }
 .full-widt-container {
     display: block;
-    background: $light-grey;
+    background: $grey;
     padding: 1em;
 }
 .fas.btn-icon {

@@ -3,9 +3,10 @@ title: "Kategoristrategi"
 date: 2019-02-20T13:09:05+01:00
 draft: false
 
-header: "Kategoristrategi"
-description: "Få mer informasjon om hva Ignite Analytics er og hvordan det kan hjelpe din bedrift"
-image: /images/infographics/academy.svg
+header: "Maler for kategoristrategier"
+description: "For deg som ønsker en mal for å definere en tydelig, aksjonsbasert kategoristrategi. Skriv inn din e-post adresse for å laste ned malen."
+image: /images/infographics/work.svg
+url: "/resources/kategoristrategi/"
 
 ---
 

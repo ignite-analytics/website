@@ -1,17 +1,23 @@
 {{ define "main" }}
 <section class="container d-flex bd-highlight flex-column-reverse flex-lg-row align-items-center">
         <div class="header-content p-2 flex-fill bd-highlight pr-sm-3 pr-lg-5">
-                <h1>Ignite <span style="color:#31B096;">Academy</span></h1></h1>
-                <h4>{{.Description}}</h4>  
-                {{ .Content }}          
+                        <h1>Ignite <span style="color:#31B096;">Academy</span></h1>
+                        <h4>{{.Description}}</h4>  
+                        {{ .Content }}                        
+                      
         </div>            
         <div class="header-content-img p-2 flex-fill bd-highlight pl-sm-3 pl-lg-5">
-                <img class="content-image" src="{{ .Params.Image }}" width="100%">
-        </div>
-</section>    
+                <img class="" src="{{ .Params.Image }}">
+         </div>
+</section>  
+<section class="container">
+
+        
+</section>
+
 <section class="container">
          {{ with .Site.GetPage "newsletter" }}
          {{ partial "sections/newsletter.html" . }}
          {{ end }}
-</section>              
+  </section>
 {{ end }}

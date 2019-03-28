@@ -8,4 +8,4 @@ author: "Tom Erik Heggedal"
 position: "CFO Con-Form"
 ---
 
-#### “Ignite Procurement hjalp oss å realisere betydelige kostnadsbesparelser, og har bidratt til at vi nå jobber mer systematisk og analytisk med våre kostnader”
+#### “Ignite Procurement helped us realize significant cost savings and has helped us to work more systematically and analytically with our external spend”
