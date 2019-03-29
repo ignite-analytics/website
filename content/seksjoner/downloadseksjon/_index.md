@@ -4,7 +4,7 @@ date: 2019-02-20T13:09:05+01:00
 draft: false
 
 header: "Last ned produktinformasjon"
-description: "Få mer informasjon om funksjonaliteten som finnes i Ignite Analytics og hvordan plattformen kan hjelpe deg og din virksomhet"
+description: "Få mer informasjon om funksjonaliteten i Ignite Analytics og hvordan plattformen kan hjelpe deg og din virksomhet"
 image: /images/produktinfo.png
 
 ---
