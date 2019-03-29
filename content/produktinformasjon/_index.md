@@ -4,10 +4,11 @@ date: 2019-02-20T13:09:05+01:00
 draft: false
 
 header: "Last ned produktinformasjon"
-description: "For deg som ønsker en mer detaljert beskrivelse av funksjonaliteten som finnes i Ignite Analytics. Send inn din e-post for å laste ned produktinformasjon"
-image: /images/produktinfo.png
+description: "For deg som ønsker en mer detaljert beskrivelse av funksjonaliteten som finnes i Ignite Analytics. Send inn din e-post for å laste ned produktinformasjonen"
+image: /images/infographics/productinfo.svg
 
 ---
+
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 
 <script>

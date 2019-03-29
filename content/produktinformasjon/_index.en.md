@@ -5,7 +5,7 @@ draft: false
 
 header: "Download product information"
 description: "Get detailed information about the functionality in Ignite Analytics. Enter your email to download the product information"
-image: /images/infographics/setup.svg
+image: /images/infographics/productinfo.svg
 
 ---
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
