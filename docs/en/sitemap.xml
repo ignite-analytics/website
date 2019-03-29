@@ -638,17 +638,17 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/ignite-academy/resources/kategoristrategi/</loc>
+    <loc>https://ignite.no/en/resources/kategoristrategi/</loc>
     <lastmod>2019-02-20T13:09:05+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://ignite.no/ignite-academy/resources/kategoristrategi/"
+                href="https://ignite.no/resources/kategoristrategi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ignite.no/ignite-academy/resources/kategoristrategi/"
+                href="https://ignite.no/en/resources/kategoristrategi/"
                 />
   </url>
   
@@ -1466,17 +1466,17 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/en/recources/</loc>
+    <loc>https://ignite.no/en/resources/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://ignite.no/recources/"
+                href="https://ignite.no/resources/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ignite.no/en/recources/"
+                href="https://ignite.no/en/resources/"
                 />
   </url>
   
