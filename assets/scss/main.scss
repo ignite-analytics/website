@@ -2,7 +2,8 @@
 
     /**primary**/
 
-    $blue: #3C6FE9;  
+    $blue: #3C6FE9; 
+    $red: #e9425e;  
     $green: #31B096; 
     $yellow: #ebaf41;
     $dark-blue: #153559;
@@ -89,6 +90,7 @@ a.social-contact {
     margin-top: 25px;
 }
 h5 {
+    color: $dark-blue;
     font-size: 1.1em;
     font-weight: 300;
     line-height: 1.8em;
@@ -288,6 +290,12 @@ h4.arrow2 {
         text-align: left;
         list-style-type: none;
         margin-left: 10%;
+  }
+}
+  .newsletter-content ul li {
+    margin-bottom: 0;
+    & p {
+        margin-bottom: 0;
     }
   }
 

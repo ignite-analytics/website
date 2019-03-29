@@ -90,6 +90,7 @@ h4.service_title {
     width: 100%;
 }
 .fa-li {
+    
     color: $blue;
     padding-right: 18px;
     &.yellow{
@@ -102,8 +103,10 @@ h4.service_title {
 
 i.fas,
 i.fab {
+    width: 20px;
+
     color: #3C6FE9;
-    padding-right: .5em;
+    margin-right: .7em;
   }
 /* MAIN SERVICES */
 

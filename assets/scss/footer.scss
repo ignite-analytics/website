@@ -119,11 +119,13 @@ i.social {
     text-align: center;
     margin: 1em;
 }
+
 .footer-icons a {
-    color: $white;
     width: 70px;
     padding: .3em;
-
+}
+i.fab.red {
+    color: $red;
 }
 .footer h4 {
     color: #fff;

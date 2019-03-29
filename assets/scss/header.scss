@@ -326,9 +326,9 @@ a.language {
     position: relative;
     color: #FFF;
     text-decoration: none;
-    padding: .5em;
+    padding: .7em;
   }
-  .overlay ul li a:hover:after, .overlay ul li a:focus:after, .overlay ul li a:active:after {
+/*   .overlay ul li a:hover:after, .overlay ul li a:focus:after, .overlay ul li a:active:after {
     width: 100%;
   }
   .overlay ul li a:after {
@@ -342,7 +342,7 @@ a.language {
     height: 3px;
     background: $dark;
     transition: .5s;
-  }
+  } */
   
   @-webkit-keyframes fadeInRight {
     0% {

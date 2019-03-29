@@ -147,7 +147,7 @@ image = "/images/infographics/dashboard2.svg"
      weight = "1"        
 
 [[languages.no.menu.personvern]]
-     name = "Cookies og personvernerklæring"
+     name = "Personvernerklæring"
      identifier = "personvernerklæring"
      title = "personvernerklæring"
      url = "/personvernerklæring"
