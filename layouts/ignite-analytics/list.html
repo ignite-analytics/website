@@ -10,9 +10,10 @@
                 <img class="" src="{{ .Params.Image }}">
          </div>
 </section>  
-<section class="container">
-
-        
+<section class="seksjon">
+        {{ with .Site.GetPage "/seksjoner/downloadseksjon" }}
+        {{ partial "sections/downloadseksjon.html" . }}
+        {{ end }}
 </section>
 <section class="container">
         <section class="container">

@@ -359,16 +359,15 @@ section.seksjon {
 }
 .content {
     display: block;
-
+    width: 50%;
     margin: 0;
-    & a.btn,
-    h4 {
-        margin: 10px 0 0 0;
+    & h4 {
+        margin: .5em 0;
     }
-    &.left {
-        width: 30%;
-        align-items: right;
+    & a.btn {
+        margin: 1em 0 0 0;
     }
+
 }
 .full-widt-container {
     display: block;
@@ -465,8 +464,8 @@ section.seksjon {
 
 }
 
-.content.left {
-    display: none;
+.content {
+    width: 100%;
 }
 
 

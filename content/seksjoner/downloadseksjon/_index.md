@@ -8,4 +8,4 @@ description: "Få mer informasjon om funksjonaliteten som finnes i Ignite Analyt
 image: /images/produktinfo.png
 
 ---
-{{< button class="btn btn-primary btn-lg" href="/produktinformasjon">}}Last ned<i class="fas fa-download btn-icon"></i>{{< /button >}}
+{{< button class="btn btn-primary btn-lg" href="/ignite-analytics/produktinformasjon">}}Last ned<i class="fas fa-download btn-icon"></i>{{< /button >}}
