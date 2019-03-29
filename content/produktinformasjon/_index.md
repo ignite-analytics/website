@@ -6,6 +6,7 @@ draft: false
 header: "Last ned produktinformasjon"
 description: "For deg som ønsker en mer detaljert beskrivelse av funksjonaliteten som finnes i Ignite Analytics. Send inn din e-post for å laste ned produktinformasjonen"
 image: /images/infographics/productinfo.svg
+url: "/ignite-analytics/produktinformasjon"
 
 ---
 
