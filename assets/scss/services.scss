@@ -27,6 +27,27 @@
     background: #fff;
     z-index: -1;
 }
+.Service:after {
+    content: "";
+    position: absolute;
+    top: 70px;
+    left: 0;
+    height: calc(500px - 50px);
+    width: 100%;  
+    border: 2px solid $blue;
+    border-radius: 15px;
+    flex: 1;
+    background: #fff;
+    z-index: -1;
+}
+.Service:nth-of-type(2):after {
+
+    border: 2px solid $green;
+}
+.Service:nth-of-type(3):after {
+
+    border: 2px solid $yellow
+}
 
 
 .service-inner {

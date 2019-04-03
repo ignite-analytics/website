@@ -268,7 +268,7 @@ image = "/images/infographics/dashboard2.svg"
      weight = "1" 
 
      [[languages.en.menu.mote]]
-     name = "Book a meeting"
+     name = "Book meeting"
      identifier = "#modalbookeng"
      title = "Book meeting"
      id = "#modalbooknorw"

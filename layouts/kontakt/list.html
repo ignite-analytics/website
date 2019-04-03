@@ -1,5 +1,5 @@
 {{ define "main" }}
-<section>
+<section class="container">
             <div>
             {{ with .Site.GetPage "mainteam" }}
             {{ partial "sections/team.html" . }}
@@ -22,13 +22,13 @@
         {{ partial "tittel.html" . }}
         {{ end }}
 </div>
-<section class="container business-contact-block wrap d-flex p-2 flex-column flex-md-row justify-content-between">
-    <div class="main-contact-info">
+<section class="container business-contact-block wrap d-flex flex-column flex-md-row justify-content-center">
+    <div class="contact-info pr-5">
         {{ with .Site.GetPage "adresse" }}
         {{ partial "sections/contactinfo.html" . }}
         {{ end }}
     </div>
-    <div class="main-contact-info">
+    <div class="main-contact-info pr-5">
         {{ with .Site.GetPage "kontaktinformasjon" }}
         {{ partial "sections/contactinfo.html" . }}
         {{ end }}

@@ -10,3 +10,88 @@ $profile-pic-size: 200px;
     background-position: center center;
     background-size: cover;
 }
+
+
+
+.card {
+    padding: 1em;
+    border: none;
+}
+.team-title {
+    text-align: center;
+}
+.card-content {
+    padding-top: 1em;
+    & h4.bold {
+        margin-bottom: 0;
+        }        
+    & h5 {
+        font-size: 1em;
+        font-weight: 400;
+        margin: 0 0 .5em 0;
+    }       
+    & p {
+    font-weight: 300; 
+}
+}
+.card-img-top {
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+    display: block;
+}
+
+
+
+
+@media screen and (max-width: 1199px) {
+    .card {
+        width: 33%;
+    }
+    .card-content {  
+    & h5 {
+        font-size: .9em;
+        line-height: 1.3em;
+        }
+    & h4.bold {
+            font-size: 1em;
+            }        
+    & p {
+        font-size: 14px;
+    }
+    
+    i.fas, i.fab {
+        margin-right: 0 !important;
+    }
+
+}
+}
+
+@media screen and (min-width: 1200px) {
+    .card {
+        width: 25% !important;
+    }
+    .card-content {  
+    padding: 1em !important;    
+
+}
+}
+
+@media screen and (max-width: 762px) {
+    .card {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .card {
+        width: 60%;
+        margin: 0 auto;
+    }
+}
+@media screen and (max-width: 423px) {
+    .card {
+        width: 90%;
+        margin: 0 auto;
+    }
+}
