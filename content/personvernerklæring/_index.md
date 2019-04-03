@@ -102,6 +102,7 @@ Vi benytter informasjonskapsler («cookies») og annen sporingsteknologi for å 
 Informasjonskapsler er tekstfiler som tjenesten du bruker lagrer på din datamaskin. Filene kan kun leses av oss og av deg selv. Vi bruker informasjonskapsler for følgende formål: 
 
 * For å analysere bruken av våre Tjenester: Vi benytter ulike måleverktøy som gir oss statistikk og analyser av våre Tjenester. Verktøyene gjør at vi kan gjenkjenne din nettleser over tid og dermed vite om du har besøkt nettsiden og hvor ofte. Disse verktøyene gir oss også mulighet til å ha oversikt over hvor mange unike brukere vi har og hvordan disse bruker våre Tjenester. Informasjonen vi samler bruker vi til å analysere brukermønster, samt utvikle og forbedre Tjenestene våre. 
+* For å gi tilpasset markedsføring og annonsering ved bruk av våre Tjenester: Vi benytter ulike verktøy for å gi tilpasset markedsføring og annonser til brukere av våre Tjenester.
 
 Vi benytter følgende tjenester for å analysere bruken av våre Tjenester: 
 
@@ -116,6 +117,8 @@ Vi benytter følgende tjenester for å analysere bruken av våre Tjenester:
 <strong>Linkedin Insight Tag:</strong> Samle og analysere data knyttet til markedsføring og annonsering gjennom LinkedIn, for eksempel spore konverteringer og følge opp besøkende på nettsiden. Les mer om dette på [LinkedIns nettside] (https://www.linkedin.com/legal/privacy-policy) 
 
 <strong>Google Ads Conversion Tracking:</strong> Samle og analysere data knyttet til markedsføring og annonsering gjennom Google Ads, for eksempel spore konverteringer og følge opp besøkende på nettsiden. Les mer om dette på [Googles nettside] (https://policies.google.com/technologies) 
+
+<strong>AdRoll Group:</strong> Tilpasset markedsføring og annonsering for besøkende på nettsiden vår. Les mer om dette på [AdRolls nettside] (https://www.adrollgroup.com/privacy) 
 
 Alle IP-adresser er anonymiserte i tjenestene vi benytter. 
 

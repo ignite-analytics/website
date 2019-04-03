@@ -106,6 +106,7 @@ We use cookies and other tracking technology to analyze your user pattern. The u
 Cookies are text files that the Services stores on your computer. The files can only be read by us and by yourself. We use cookies for the following purposes: 
 
 - To analyze the use of our Services: We use different tools that provide us with statistics and analyzes of our Services. The tools allow us to recognize your browser over time and thus know if you have visited the website and how often. These tools also provide us with an overview of how many unique users we have and how they use our Services. The information we collect is used to analyze user patterns, as well as develop and improve our Services. 
+* To provide targeted marketing and advertising for the use of our Services: We use different tools to provide personalized marketing and advertising to the users of our Services. 
 
 We use the following services to analyze the use of our Services: 
 
@@ -115,11 +116,13 @@ We use the following services to analyze the use of our Services:
 
 <strong>Hotjar:</strong> Collect and analyze data about website visitors and Ignite Analytics users in order to better understand our users’ needs and to optimize the Services. Read more about this on [Hotjar's website] (https://www.hotjar.com/legal/policies/privacy)  
 
-<strong>Facebook Pixel:</strong> Collect and analyze data related to marketing and advertising on Facebook, such as conversion tracking and website visitors. Read more about this on [Facebook's website](https://www.facebook.com/policies/cookies/) 
+<strong>Facebook Pixel:</strong> Collect and analyze data related to marketing and advertising on Facebook, such as conversion tracking and website visitors. Read more about this on [Facebook's website] (https://www.facebook.com/policies/cookies/) 
 
 <strong>Linkedin Insight Tag:</strong> Collect and analyze data related to marketing and advertising on LinkedIn, such as conversion tracking and website visitors. Read more about this on [LinkedIn's website] (https://www.linkedin.com/legal/privacy-policy) 
 
 <strong>Google Ads Conversion Tracking:</strong> Collect and analyze data related to marketing and advertising on Google Ads, such as conversion tracking and website visitors. Read more about this on [Google's website] (https://policies.google.com/technologies) 
+
+<strong>AdRoll Group:</strong> Customized and personalized marketing and advertising for visitors on our website. Read more about this on [AdRoll’s website] (https://www.adrollgroup.com/privacy) 
 
 All IP addresses are anonymized in the services we use. 
 
