@@ -1,8 +1,8 @@
 ---
 title: "Bendik Molland"
 date: 2018-12-16T14:24:18+01:00
-position: "Platform Engineer"
-description: "Business Development Consultant​"
+position: "Business Development Consultant​"
+description: ""
 draft: false
 weight: "7"
 image: "/images/team/Bendik_Johnsen_Molland.jpg"

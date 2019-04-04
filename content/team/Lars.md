@@ -1,8 +1,8 @@
 ---
 title: "Lars Lien Ankile"
 date: 2018-12-16T14:24:18+01:00
-position: "Marketing Director"
-description: "Platform Engineer"
+position: "Platform Engineer"
+description: ""
 draft: false
 weight: "12"
 image: "/images/team/Lars_Ankile.jpg"

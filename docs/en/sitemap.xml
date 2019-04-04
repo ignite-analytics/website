@@ -848,21 +848,6 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/en/ignite-services/item7/</loc>
-    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/ignite-services/item7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/ignite-services/item7/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ignite.no/en/om-oss/</loc>
     <lastmod>2018-12-16T15:31:35+01:00</lastmod>
     <xhtml:link
@@ -874,6 +859,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ignite.no/en/om-oss/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/en/ignite-services/item8/</loc>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/ignite-services/item8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/ignite-services/item8/"
                 />
   </url>
   
@@ -1058,6 +1058,21 @@
   </url>
   
   <url>
+    <loc>https://ignite.no/en/ignite-services/item6/</loc>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/ignite-services/item6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/ignite-services/item6/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ignite.no/en/tittel/partners-tittel/</loc>
     <lastmod>2018-12-16T15:31:35+01:00</lastmod>
     <xhtml:link
@@ -1069,6 +1084,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ignite.no/en/tittel/partners-tittel/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/en/ignite-services/item7/</loc>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/ignite-services/item7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/ignite-services/item7/"
                 />
   </url>
   
@@ -1189,21 +1219,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ignite.no/en/tittel/team-tittel/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ignite.no/en/ignite-services/item6/</loc>
-    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/ignite-services/item6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/ignite-services/item6/"
                 />
   </url>
   
