@@ -131,9 +131,18 @@
                             </li>
                             {{ end }}
 
-
+                            {{ range .Site.Menus.main}}
+                            <li class="">
+                                <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
+                            </li>
+                            {{ end }}
+                            {{ range .Site.Menus.blogg}}
+                            <li class="">
+                                <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
+                            </li>
+                            {{ end }}
                             
-                    {{ range .Site.Menus.main}}
+<!--                     {{ range .Site.Menus.main}}
                     {{ if .HasChildren }}
                     <div id="accordion">
                         <div class="menu-card">
@@ -182,7 +191,7 @@
                                     </div>
 
                     {{ end }}
-                    {{ end }}
+                    {{ end }} -->
 
 
                             {{ range .Site.Menus.kontakt}}

@@ -12,6 +12,6 @@ weight: "3"
 image: "/images/team/Frank_Willie_Bødal.jpg"
 ---
 
-<a class="phoneto" href="tel:+47 952 60 850"><i class="fas fa-phone"></i>+47 952 60 850</a>
+<a class="phoneto" href="tel:+47 952 60 850"><i class="fas fa-phone"></i>+47 952 60 850</a>
 <a class="mailto" href="mailto:frank.bodal@ignite.no"><i class="fas fa-envelope"></i>frank.bodal@ignite.no</a>
 <a class="mailto" href="https://www.linkedin.com/in/frank-willie-b%C3%B8dal-b28bb213b/"><i class="fab fa-linkedin-in"></i>Linkedin</a>
