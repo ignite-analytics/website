@@ -251,7 +251,7 @@ a.language {
     height: 0%;
     opacity: 0;
     visibility: hidden;
-    transition: opacity .35s, visibility .35s, height .35s;
+  /*   transition: opacity .35s, visibility .35s, height .35s; */
     overflow: hidden;
   }
   .overlay.open {
@@ -319,7 +319,7 @@ a.language {
   .overlay ul li {
     display: block;
     margin-top: .5em;
-    height: calc(100% / 10);
+    height: calc(100% / 15);
     min-height: auto;
     position: relative;
     opacity: 0;
@@ -347,6 +347,35 @@ a.language {
     transition: .5s;
   } */
   
+
+  .menu-card {
+    width: 100%;
+    position: relative;
+  }
+
+a.nav-reg {
+  color: $white !important;
+  padding: .7em;
+}
+a.dropdown-item {
+  color: $blue;
+}
+
+
+#collapse.show {
+  width: 100%;
+  position: absolute;
+  top: -50px;
+  a{
+    border-bottom: 2px solid $dark-blue;
+      &:hover {
+          background: $blue;
+          color: $white;
+      }
+  }
+}
+
+
   @-webkit-keyframes fadeInRight {
     0% {
       opacity: 0;
@@ -432,7 +461,7 @@ a.language {
 @media screen and (min-width:900px) {
 .overlay nav {
      
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-weight: 400;
     text-align: center;
   }

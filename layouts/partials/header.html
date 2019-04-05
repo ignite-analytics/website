@@ -104,7 +104,7 @@
             </div>
   
            
-   
+<!--    DROPDOWN MENU -->
 
         <section class="navigation">   
                 <a class="navbar-brand" href="/">
@@ -130,14 +130,61 @@
                                 <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
                             </li>
                             {{ end }}
-                            {{ range .Site.Menus.main}}
-            
-        
-                            <li class="">
-                                <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
-                            </li>
-                      
-                            {{ end }}
+
+
+                            
+                    {{ range .Site.Menus.main}}
+                    {{ if .HasChildren }}
+                    <div id="accordion">
+                        <div class="menu-card">
+                                <div class="nav-item" role="button" >
+                                    <li>      
+                                        <a class="nav-reg dropdown-toggle" data-toggle="collapse" data-target="#collapseMenu" aria-expanded="true" aria-controls="collapseOne">
+                                                    {{ .Name }}
+                                            </a>
+                                    </li>   
+                                      </div>
+
+                                      <div id="collapseMenu" class="collapse hidden" data-parent="#accordion">
+                                            <div class="menu-body">
+                                                    {{ range .Children }}
+                                                    <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
+                                                    {{ end }}
+                                            </div>
+                                          </div>
+
+                                        </div>
+                                    </div>
+
+                    {{ end }}
+                    {{ end }}
+                    {{ range .Site.Menus.blogg}}
+                    {{ if .HasChildren }}
+                    <div id="accordion">
+                        <div class="menu-card">
+                                <div class="nav-item" role="button" >
+                                    <li>
+                                          <a class="nav-reg dropdown-toggle" data-toggle="collapse" data-target="#collapseBlogg" aria-expanded="true" aria-controls="collapseOne">
+                                                {{ .Name }}
+                                        </a>
+                                    </li>
+                                </div>
+
+                                      <div id="collapseBlogg" class="collapse hidden" data-parent="#accordion">
+                                            <div class="card-body">
+                                                    {{ range .Children }}
+                                                    <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
+                                                    {{ end }}
+                                            </div>
+                                          </div>
+
+                                        </div>
+                                    </div>
+
+                    {{ end }}
+                    {{ end }}
+
+
                             {{ range .Site.Menus.kontakt}}
                             <li class="">
                                 <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
