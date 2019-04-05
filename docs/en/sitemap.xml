@@ -533,6 +533,21 @@
   </url>
   
   <url>
+    <loc>https://ignite.no/en/team/%C3%B8ystein/</loc>
+    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/team/%C3%B8ystein/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/team/%C3%B8ystein/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ignite.no/en/team/hege/</loc>
     <lastmod>2018-12-16T14:24:18+01:00</lastmod>
     <xhtml:link
