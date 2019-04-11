@@ -1,5 +1,5 @@
 ---
-title: "Ignite Services"
+title: "Ignite Services – consulting services"
 description: "Get tailored support to optimize your external spend from our experienced consultants"
 date: 2018-12-16T15:31:35+01:00
 draft: false

@@ -9,10 +9,6 @@ weight = 1
 [params]
 logo = "/images/logo.svg"
 
-# Header
-header = "Reduser dine innkjøpskostnader"
-description = "Vi hjelper deg med å optimaliser dine innkjøp ved hjelp av vårt verktøy Ignite Analytics og våre konsulenter som er eksperter på strategiske innkjøp."
-image = "/images/infographics/dashboard2.svg"
 
 
 
@@ -33,7 +29,8 @@ image = "/images/infographics/dashboard2.svg"
 [[languages.no.menu.services]]
     name = "Ignite Analytics"
      identifier = "ignite-analytics"
-     title = "Ignite Analytics"
+     description = "Optimaliser dine innkjøp med enkelhet gjennom vår unike plattform for strategisk innkjøp"
+     title = "Ignite Analytics – plattform for strategisk innkjøp"
      url = "/ignite-analytics/"
      weight = "1"
 

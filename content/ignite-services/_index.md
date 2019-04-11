@@ -1,5 +1,5 @@
 ---
-title: "Ignite Services"
+title: "Ignite Services – konsulenttjenester"
 description: "Få skreddersydd støtte til å optimalisere innkjøpene til din virksomhet fra våre erfarne konsulenter​"
 date: 2018-12-16T15:31:35+01:00
 draft: false

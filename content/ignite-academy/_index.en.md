@@ -1,5 +1,5 @@
 ---
-title: "Ignite Academy"
+title: "Ignite Academy – courses and training"
 description: "Get inspired and strengthen your expertise through our videos and custom training courses within strategic sourcing"
 date: 2018-12-16T15:31:35+01:00
 draft: false

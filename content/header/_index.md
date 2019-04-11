@@ -1,5 +1,6 @@
 ---
 title: "Reduser dine innkjøpskostnader"
+heading: "Ignite Procurement – reduser dine innkjøpskostnader"
 description: "Vi hjelper deg med å optimalisere dine innkjøp ved hjelp av vårt verktøy Ignite Analytics og våre konsulenter som er eksperter på strategiske innkjøp"
 date: 2018-12-16T15:31:35+01:00
 draft: false

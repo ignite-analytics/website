@@ -12,14 +12,22 @@
 	{{ $options := (dict "targetPath" "style.css" "outputStyle" "compressed" "enableSourceMap" true ) }}
 	{{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options }}
 	<link rel="stylesheet" href="{{ ($style | minify | fingerprint).RelPermalink }}">	
-	<title>Ignite Procurement</title>
+	<!-- <title>Ignite Procurement</title> -->
+	<title>{{ if .Page.Title }}{{ .Page.Title }} - {{ end }}{{ .Site.Title }}</title>
+	<meta name="author" content="{{ $.Param "author" }}">
+	<meta name="description" content="{{ $.Param "description" }}">
+	
 	<!-- For Facebook -->
 	<meta property="og:title" content="Ignite Procurement" />
 	<meta property="og:url" content="https://www.ignite.no/" />
 	<meta property="og:type" content="website" />
 	<meta property="og:description" content="Vi hjelper deg med å optimalisere dine innkjøp ved hjelp av vårt verktøy Ignite Analytics og våre konsulenter som er eksperter på strategiske innkjøp" />
 	<meta property="og:image" content="https://www.ignite.no/images/ignitesite.jpg" />
+
+
+
 	<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 	<link rel="shortcut icon" href="/images/icons/favicon.ico">
 </head>

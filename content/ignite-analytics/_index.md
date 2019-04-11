@@ -1,5 +1,5 @@
 ---
-title: "Ignite Analytics"
+title: "Ignite Analytics – plattform for strategisk innkjøp"
 description: "Optimaliser dine innkjøp med enkelhet gjennom vår unike plattform for strategisk innkjøp"
 date: 2018-12-16T15:31:35+01:00
 draft: false

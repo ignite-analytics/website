@@ -14,4 +14,4 @@ image: "/images/team/Børge_Kvalheim_Langedal.jpg"
 
 <a class="phoneto" href="tel:+47 992 38 391"><i class="fas fa-phone"></i>+47 992 38 391</a>
 <a class="mailto" href="mailto:borge.langedal@ignite.no"><i class="fas fa-envelope"></i>borge.langedal@ignite.no</a>
-<a class="mailto" href="https://www.linkedin.com/in/b%C3%B8rge-langedal-4ab84b7a/"><i class="fab fa-linkedin-in"></i>Linkedin</a>
+<a class="mailto" target="_blank" href="https://www.linkedin.com/in/b%C3%B8rge-langedal-4ab84b7a/"><i class="fab fa-linkedin-in"></i>Linkedin</a>

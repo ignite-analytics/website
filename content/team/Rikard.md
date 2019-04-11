@@ -10,4 +10,4 @@ image: "/images/team/Rikard_Bakkehaug.jpg"
 
 <a class="phoneto" href="tel:+47 416 94 078"><i class="fas fa-phone"></i>+47 416 94 078</a> 
 <a class="mailto" href="mailto:rikard.bakkehaug@ignite.no"><i class="fas fa-envelope"></i></i>rikard.bakkehaug@ignite.no</a>
-<a class="mailto" href="https://www.linkedin.com/in/rikardbakkehaug/"><i class="fab fa-linkedin-in"></i>Linkedin</a>
+<a class="mailto" target="_blank" href="https://www.linkedin.com/in/rikardbakkehaug/"><i class="fab fa-linkedin-in"></i>Linkedin</a>

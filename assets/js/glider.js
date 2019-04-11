@@ -1,78 +1,42 @@
-<script>
-$('.responsive').slick({
-dots: true,
-prevArrow: $('.prev'),
-nextArrow: $('.next'),
-infinite: false,
-speed: 300,
-slidesToShow: 4,
-slidesToScroll: 1,
-responsive: [
-{
-breakpoint: 1024,
-settings: {
-slidesToShow: 3,
-slidesToScroll: 3,
-infinite: true,
-dots: true
-}
-},
-{
-breakpoint: 600,
-settings: {
-slidesToShow: 2,
-slidesToScroll: 2
-}
-},
-{
-breakpoint: 480,
-settings: {
-slidesToShow: 1,
-slidesToScroll: 1
-}
-}
-// You can unslick at a given breakpoint now by adding:
-// settings: "unslick"
-// instead of a settings object
-]
-});
-</script>
 
+$('#carouselExample').on('slide.bs.carousel', function (e) {
 
+  
+var $e = $(e.relatedTarget);
+var idx = $e.index();
+var itemsPerSlide = 4;
+var totalItems = $('.carousel-item').length;
 
-
-
-
-new Glider(document.querySelector('.glider'), {
-  // Mobile-first defaults
-  slidesToShow: 1,
-  slidesToScroll: 1,
-  scrollLock: true,
-  dots: '#resp-dots',
-  arrows: {
-    prev: '.glider-prev',
-    next: '.glider-next'
-  },
-  responsive: [
-    {
-      // screens greater than >= 775px
-      breakpoint: 775,
-      settings: {
-        // Set to `auto` and provide item width to adjust to viewport
-        slidesToShow: 'auto',
-        slidesToScroll: 'auto',
-        itemWidth: 150,
-        duration: 0.25
-      }
-    },{
-      // screens greater than >= 1024px
-      breakpoint: 1024,
-      settings: {
-        slidesToShow: 2,
-        slidesToScroll: 1,
-        itemWidth: 150,
-        duration: 0.25
-      }
+if (idx >= totalItems-(itemsPerSlide-1)) {
+    var it = itemsPerSlide - (totalItems - idx);
+    for (var i=0; i<it; i++) {
+        // append slides to end
+        if (e.direction=="left") {
+            $('.carousel-item').eq(i).appendTo('.carousel-inner');
+        }
+        else {
+            $('.carousel-item').eq(0).appendTo('.carousel-inner');
+        }
     }
-  ]
+}
+});
+
+
+$('#carouselExample').carousel({ 
+            interval: 2000
+    });
+
+
+$(document).ready(function() {
+/* show lightbox when clicking a thumbnail */
+$('a.thumb').click(function(event){
+  event.preventDefault();
+  var content = $('.modal-body');
+  content.empty();
+    var title = $(this).attr("title");
+    $('.modal-title').html(title);        
+    content.html($(this).html());
+    $(".modal-profile").modal({show:true});
+});
+
 });

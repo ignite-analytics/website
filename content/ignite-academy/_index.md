@@ -1,5 +1,5 @@
 ---
-title: "Ignite Academy"
+title: "Ignite Academy – kurs og opplæring"
 description: "Bli inspirert og videreutvikle din ekspertise gjennom våre videoer og tilpassede kurs innenfor strategisk innkjøp"
 date: 2018-12-16T15:31:35+01:00
 draft: false

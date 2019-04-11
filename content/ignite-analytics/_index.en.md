@@ -1,5 +1,5 @@
 ---
-title: "Ignite Analytics"
+title: "Ignite Analytics – strategic sourcing solution"
 description: "Optimize your external spend easily with our unique end-to-end platform for strategic sourcing​"
 date: 2018-12-16T15:31:35+01:00
 draft: false

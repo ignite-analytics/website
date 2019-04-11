@@ -10,4 +10,4 @@ image: "/images/team/Martin Egeli.jpg"
 
 <a class="phoneto" href="tel:+47 413 32 399"><i class="fas fa-phone"></i>+47 413 32 399</a>
 <a class="mailto" href="mailto:martin.egeli@ignite.no"><i class="fas fa-envelope"></i></i>martin.egeli@ignite.no</a>
-<a class="mailto" href="https://www.linkedin.com/in/martin-egeli/"><i class="fab fa-linkedin-in"></i>Linkedin</a>
+<a class="mailto" target="_blank" href="https://www.linkedin.com/in/martin-egeli/"><i class="fab fa-linkedin-in"></i>Linkedin</a>
