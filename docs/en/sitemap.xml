@@ -998,21 +998,6 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/en/ignite-analytics/</loc>
-    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/ignite-analytics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/ignite-analytics/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ignite.no/en/modals/video/</loc>
     <lastmod>2018-12-16T15:31:35+01:00</lastmod>
     <xhtml:link
@@ -1024,6 +1009,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ignite.no/en/modals/video/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/en/ignite-analytics/</loc>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/ignite-analytics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/ignite-analytics/"
                 />
   </url>
   

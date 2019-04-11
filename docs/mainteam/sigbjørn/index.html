@@ -13,15 +13,23 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	
 	
-	<link rel="stylesheet" href="/style.min.26e75bc10606b6fcb4d1eea1a863fc8c2792f7767a49438776360acc26745bdc.css">	
-	<title>Ignite Procurement</title>
+	<link rel="stylesheet" href="/style.min.66a14d7d9b10342175f4a4d66b7e3c592848cd7fa4ebd15cd3c3ce3633e7413d.css">	
+	
+	<title>Sigbjørn Nome - Ignite Procurement</title>
+	<meta name="author" content="">
+	<meta name="description" content="Sigbjørn fokuserte tidlig i sin konsulentkarriere på innkjøp, og har gjennomført prosjekter for store selskaper i Norge og internasjonalt på tvers av et bredt spekter av kategorier. Gjennom prosjektene har han anvendt en rekke virkemidler for reduserte innkjøpskostnader, samt forberedt og deltatt i over 200 forhandlingsmøter. Han var blant annet svært delaktig i å realisere 300 MNOK i besparelser hos en stor norsk næringsmiddelaktør. Sigbjørn var tidligere Sr. Revenue Manager i SAS og konsulent i BCG før han begynte i Ignite. Sigbjørn er utdannet siviløkonom fra Norges Handelshøyskole med spesialisering i økonomisk styring">
+	
 	
 	<meta property="og:title" content="Ignite Procurement" />
 	<meta property="og:url" content="https://www.ignite.no/" />
 	<meta property="og:type" content="website" />
 	<meta property="og:description" content="Vi hjelper deg med å optimalisere dine innkjøp ved hjelp av vårt verktøy Ignite Analytics og våre konsulenter som er eksperter på strategiske innkjøp" />
 	<meta property="og:image" content="https://www.ignite.no/images/ignitesite.jpg" />
+
+
+
 	<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 	<link rel="shortcut icon" href="/images/icons/favicon.ico">
 </head>
@@ -44,6 +52,7 @@
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>	
 	
 </body>
+
     <body class="bg-white">
         <nav class="menu">
         <div class="container">
@@ -521,8 +530,55 @@
     </div>
   </div>
   
-<script src="glider.js"></script>
+
+<script style="text/javascript">
+
+               
+               $('#carouselExample').on('slide.bs.carousel', function (e) {
+               
+                 
+               var $e = $(e.relatedTarget);
+               var idx = $e.index();
+               var itemsPerSlide = 6;
+               var totalItems = $('.carousel-item').length;
+               
+               if (idx >= totalItems-(itemsPerSlide-1)) {
+                   var it = itemsPerSlide - (totalItems - idx);
+                   for (var i=0; i<it; i++) {
+                       
+                       if (e.direction=="left") {
+                           $('.carousel-item').eq(i).appendTo('.carousel-inner');
+                       }
+                       else {
+                           $('.carousel-item').eq(0).appendTo('.carousel-inner');
+                       }
+                   }
+               }
+               });
+               
+               
+               $('#carouselExample').carousel({ 
+                           interval: 2000
+                   });
+               
+               
+               $(document).ready(function() {
+                
+               $('a.thumb').click(function(event){
+                 event.preventDefault();
+                 var content = $('.modal-body');
+                 content.empty();
+                   var title = $(this).attr("title");
+                   $('.modal-title').html(title);        
+                   content.html($(this).html());
+                   $(".modal-profile").modal({show:true});
+               });
+               
+               });
+
+</script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.bundle.min.js" integrity="sha384-pjaaA8dDz/5BgdFUPX6M/9SUZv4d12SUPF0axWc+VRZkx5xU3daN+lYb49+Ax+Tl" crossorigin="anonymous"></script>
+</body>
     
     
     </body>
