@@ -251,7 +251,7 @@ a.language {
     height: 0%;
     opacity: 0;
     visibility: hidden;
-  /*   transition: opacity .35s, visibility .35s, height .35s; */
+    transition: opacity .35s, visibility .35s, height .35s;
     overflow: hidden;
   }
   .overlay.open {
@@ -265,8 +265,8 @@ a.language {
   .overlay.open li {
     -webkit-animation: fadeInRight ease forwards;
             animation: fadeInRight ease forwards;
- /*    -webkit-animation-delay: .35s;
-            animation-delay: .35s; */
+    -webkit-animation-delay: .35s;
+            animation-delay: .35s;
             &:hover {
                 background: $dark-blue;
                 &:nth-of-type(1) {
@@ -274,7 +274,9 @@ a.language {
                 }
             }
   }
-/*   .overlay.open li:nth-of-type(2) {
+
+
+  .overlay.open li:nth-of-type(2) {
     -webkit-animation-delay: .4s;
             animation-delay: .4s;
             &:hover {
@@ -300,7 +302,7 @@ a.language {
     -webkit-animation-delay: .6s;
             animation-delay: .6s;
   }
- */
+
 
 
 
