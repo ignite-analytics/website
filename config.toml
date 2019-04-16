@@ -131,7 +131,7 @@ logo = "/images/logo.svg"
      weight = "2"
 
 [[languages.no.menu.btn]]
-     name = "Book demo"
+     name = "Prøv Ignite Analytics"
      identifier = "#modalbooknor"
      title = "Book demo"
      id = "#modalbook"
@@ -258,7 +258,7 @@ logo = "/images/logo.svg"
      weight = "2"
 
      [[languages.en.menu.btn]]
-     name = "Book demo"
+     name = "Try Ignite Analytics"
      identifier = "#modalbook"
      title = "Book demo"
      id = "#modalbook"

@@ -1,6 +1,6 @@
 ---
-title: "Ignite Services – konsulenttjenester"
-description: "Få skreddersydd støtte til å optimalisere innkjøpene til din virksomhet fra våre erfarne konsulenter​"
+title: "Ignite Services – Få aktiv støtte til å realisere ditt potensial på innkjøp"
+description: "Erfarne konsulenter er tilgjengelige for å skape raske resultater gjennom skreddersydde løsninger"
 date: 2018-12-16T15:31:35+01:00
 draft: false
 image: "/images/infographics/analytics-2.svg"

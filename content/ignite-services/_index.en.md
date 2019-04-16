@@ -1,6 +1,6 @@
 ---
-title: "Ignite Services – consulting services"
-description: "Get tailored support to optimize your external spend from our experienced consultants"
+title: "Ignite Services – Get active support to realize your procurement potential"
+description: "Experienced consultants are available to create fast results through customized solutions "
 date: 2018-12-16T15:31:35+01:00
 draft: false
 image: "/images/infographics/analytics-2.svg"

@@ -1,7 +1,7 @@
 ---
 title: "Ignite-services"
 date: 2019-02-20T13:09:05+01:00
-description: "Få skreddersydd støtte til å optimalisere innkjøpene til din virksomhet fra våre erfarne konsulenter​"
+description: "Erfarne konsulenter er tilgjengelige for å skape raske resultater gjennom skreddersydde løsninger"
 draft: false
 logo: "/images/services.svg"
 weight: "3"

@@ -1,7 +1,7 @@
 ---
 title: "Ignite-academy"
 date: 2019-02-20T13:09:05+01:00
-description: "Bli inspirert og videreutvikle din innkjøpsekspertise gjennom våre videoer og tilpassede kurs"
+description: "Få mer ut av dine innkjøpsaktiviteter gjennom beste-praksis-maler, online videoer og mer"
 draft: false
 logo: "/images/academy.svg"
 weight: "2"

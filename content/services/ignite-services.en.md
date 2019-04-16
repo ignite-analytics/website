@@ -1,7 +1,7 @@
 ---
 title: "Ignite-services"
 date: 2019-02-20T13:09:05+01:00
-description: "Get tailored support to optimize your external spend from our experienced consultants"
+description: "Experienced consultants are available to create fast results through customized solutions"
 draft: false
 logo: "/images/services.svg"
 image: "/images/infographics/newsletter.svg"

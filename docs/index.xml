@@ -26,7 +26,7 @@
       <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
       
       <guid>https://ignite.no/ignite-analytics/</guid>
-      <description>Full oversikt og dyp ​innsikt i innkjøpet Automatisk identifikasjon av muligheter og risikoer Enkel implementering ​av forbedringstiltak Sømløs og kompromissløs ​oppfølging av innkjøpet  Finn ut mer Book en demo </description>
+      <description>Full oversikt og dyp ​innsikt i innkjøpet Automatisk identifikasjon av muligheter og risikoer Enkel implementering ​av forbedringstiltak Sømløs ​oppfølging av innkjøpet  Finn ut mer Prøv Ignite Analytics </description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
       
       <guid>https://ignite.no/ignite-analytics/</guid>
-      <description>Finn ut mer Book en demo </description>
+      <description>Finn ut mer Prøv Ignite Analytics </description>
     </item>
     
     <item>
@@ -384,10 +384,10 @@ Norway</description>
     
     <item>
       <title>Forskningsrådet</title>
-      <link>https://ignite.no/partners/forskningsra%CC%8Adet/</link>
+      <link>https://ignite.no/partners/forskningsr%C3%A5det/</link>
       <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
       
-      <guid>https://ignite.no/partners/forskningsra%CC%8Adet/</guid>
+      <guid>https://ignite.no/partners/forskningsr%C3%A5det/</guid>
       <description></description>
     </item>
     
@@ -437,11 +437,20 @@ Norway</description>
     </item>
     
     <item>
-      <title>Book et møte</title>
+      <title>Du er ett skritt nærmere å frigjøre din tid og forbedre lønnsomheten for din virksomhet!</title>
       <link>https://ignite.no/modals/mote/</link>
       <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
       
       <guid>https://ignite.no/modals/mote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Du er ett skritt nærmere å videreutvikle din innkjøpskompetanse!</title>
+      <link>https://ignite.no/modals/interesse/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://ignite.no/modals/interesse/</guid>
       <description></description>
     </item>
     
@@ -487,15 +496,6 @@ Norway</description>
       <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
       
       <guid>https://ignite.no/tittel/contactinfo-tittel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meld din interesse for Ignite Academy</title>
-      <link>https://ignite.no/modals/interesse/</link>
-      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
-      
-      <guid>https://ignite.no/modals/interesse/</guid>
       <description></description>
     </item>
     
@@ -563,7 +563,7 @@ Norway</description>
     </item>
     
     <item>
-      <title>Sømløs og kompromissløs ​oppfølging av innkjøpet</title>
+      <title>Sømløs oppfølging av innkjøpet</title>
       <link>https://ignite.no/ignite-analytics/item4/</link>
       <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
       

@@ -1,7 +1,7 @@
 ---
 title: "Ignite-academy"
 date: 2019-02-20T13:09:05+01:00
-description: "Get inspired and strengthen your expertise through our videos and custom training courses within strategic sourcing"
+description: "Strengthen your sourcing activities by leveraging best practice templates, online videos and more"
 draft: false
 logo: "/images/academy.svg"
 weight: "2"

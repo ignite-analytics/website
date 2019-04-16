@@ -1,5 +1,5 @@
 ---
-title: "Meld din interesse for Ignite Academy"
+title: "Du er ett skritt nærmere å videreutvikle din innkjøpskompetanse!"
 description: ""
 date: 2018-12-16T15:31:35+01:00
 draft: false

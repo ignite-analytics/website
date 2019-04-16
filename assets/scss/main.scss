@@ -153,8 +153,11 @@ ul {
 }
 /* MODALS */
 .modal-content {
-    background: $dark;
-    color: $white;
+    background: $white;
+    color: $dark;
+}
+h3.modalheading {
+    margin-bottom: 1em;
 }
 
 /** ARROW-HEADING **/

@@ -3,11 +3,21 @@
       <!--Content-->
       <div class="modal-content">  
         <!--Body-->
-        <div class="modal-body mb-0 p-0"> 
+        <div class="modal-body mb-0 p-5"> 
            <!-- Start of Meetings Embed Script --> 
-              <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/post3/demo-ignite-analytics-nor?embed=true"></div> 
-
-              <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script> 
+           <h3 class="modalheading">{{ .Title }}</h3>
+           <!-- Start of Meetings Embed Script --> 
+           <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+           <script>      
+             hbspt.forms.create({
+           
+                           portalId: "4304957",
+           
+                           formId: "ec8bea86-3863-47f8-87f4-5130968cd023"    
+           });       
+           </script>
+ 
+         <!-- End of Meetings Embed Script --> 
             <!-- End of Meetings Embed Script -->                                                                  
         </div> 
         <!--Footer-->

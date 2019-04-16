@@ -13,7 +13,7 @@
 	{{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options }}
 	<link rel="stylesheet" href="{{ ($style | minify | fingerprint).RelPermalink }}">	
 	<!-- <title>Ignite Procurement</title> -->
-	<title>{{ if .Page.Title }}{{ .Page.Title }} - {{ end }}{{ .Site.Title }}</title>
+	<title>{{ if .Page.Title }}{{ .Page.Title }}  {{ end }}</title>
 	<meta name="author" content="{{ $.Param "author" }}">
 	<meta name="description" content="{{ $.Param "description" }}">
 	

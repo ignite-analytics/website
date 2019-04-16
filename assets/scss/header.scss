@@ -259,11 +259,14 @@ a.language {
     visibility: visible;
     height: 100%;
   }
+
+
+  
   .overlay.open li {
-    -webkit-animation: fadeInRight .5s ease forwards;
-            animation: fadeInRight .5s ease forwards;
-    -webkit-animation-delay: .35s;
-            animation-delay: .35s;
+    -webkit-animation: fadeInRight ease forwards;
+            animation: fadeInRight ease forwards;
+ /*    -webkit-animation-delay: .35s;
+            animation-delay: .35s; */
             &:hover {
                 background: $dark-blue;
                 &:nth-of-type(1) {
@@ -271,7 +274,7 @@ a.language {
                 }
             }
   }
-  .overlay.open li:nth-of-type(2) {
+/*   .overlay.open li:nth-of-type(2) {
     -webkit-animation-delay: .4s;
             animation-delay: .4s;
             &:hover {
@@ -297,6 +300,12 @@ a.language {
     -webkit-animation-delay: .6s;
             animation-delay: .6s;
   }
+ */
+
+
+
+
+
   .overlay nav {
     position: relative;
     height: 100%;
@@ -409,7 +418,7 @@ a.nav-reg {
 .btn-demo {
     font-size: 14px;
     min-width: 120px !important;
-    padding: .4em;
+    padding: .4em 1em;
     height: 35px;
     margin: 1.7em 0;
     border-radius: 25px;
@@ -424,7 +433,7 @@ a.nav-reg {
         border-color: $white;
     }
 }
-@media (max-width: 1363px) {
+@media (max-width: 1390px) {
     a.nav-link  {
         font-size: 14px;
         padding: 29px 10px !important;

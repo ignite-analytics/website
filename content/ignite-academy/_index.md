@@ -1,6 +1,6 @@
 ---
-title: "Ignite Academy – kurs og opplæring"
-description: "Bli inspirert og videreutvikle din ekspertise gjennom våre videoer og tilpassede kurs innenfor strategisk innkjøp"
+title: "Ignite Academy – Bli inspirert og videreutvikle din innkjøpskompetanse "
+description: "Få mer ut av dine innkjøpsaktiviteter gjennom beste-praksis-maler, online videoer og mer"
 date: 2018-12-16T15:31:35+01:00
 draft: false
 image: "/images/infographics/academy.svg"

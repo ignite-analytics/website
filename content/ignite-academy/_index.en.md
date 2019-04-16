@@ -1,6 +1,6 @@
 ---
-title: "Ignite Academy – courses and training"
-description: "Get inspired and strengthen your expertise through our videos and custom training courses within strategic sourcing"
+title: "Ignite Academy – Get inspired and deepen your sourcing expertise "
+description: "Strengthen your sourcing activities by leveraging best practice templates, online videos and more"
 date: 2018-12-16T15:31:35+01:00
 draft: false
 image: "/images/infographics/academy.svg"

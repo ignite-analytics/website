@@ -1,12 +1,12 @@
 ---
-title: "Reduser dine innkjøpskostnader"
+title: "Oppdag kraften i strategisk innkjøp gjort digitalt"
 heading: "Ignite Procurement – reduser dine innkjøpskostnader"
-description: "Vi hjelper deg med å optimalisere dine innkjøp ved hjelp av vårt verktøy Ignite Analytics og våre konsulenter som er eksperter på strategiske innkjøp"
+description: "Det er utfordrende å realisere det fulle potensialet innen innkjøp. Med Ignite har det aldri vært enklere – la oss hjelpe deg til en forenklet hverdag og forbedret lønnsomhet!"
 date: 2018-12-16T15:31:35+01:00
 draft: false
 image: "/images/infographics/dashboard2.svg"
 ---
 
 {{< button href="/ignite-analytics" class="btn btn-primary blue btn-lg" >}}Finn ut mer{{< /button >}}
-{{< button class="btn btn-outline-primary btn-lg" data-toggle="modal" data-target="#modalbooknor">}}Book en demo{{< /button >}}
+{{< button class="btn btn-outline-primary btn-lg" data-toggle="modal" data-target="#modalbooknor">}}Prøv Ignite Analytics{{< /button >}}
 
