@@ -6,6 +6,6 @@ draft: false
 image: "/images/infographics/dashboard2.svg"
 ---
 
-{{< button href="/ignite-analytics" class="btn btn-primary blue btn-lg" >}}Find out more{{< /button >}}
+{{< button href="/en/ignite-analytics" class="btn btn-primary blue btn-lg" >}}Find out more{{< /button >}}
 {{< button class="btn btn-outline-primary btn-lg" data-toggle="modal" data-target="#modalbook">}}Try Ignite Analytics{{< /button >}}
 
