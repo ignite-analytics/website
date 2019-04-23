@@ -593,6 +593,21 @@
   </url>
   
   <url>
+    <loc>https://ignite.no/en/ignite-analytics/produktinformasjon/</loc>
+    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/ignite-analytics/produktinformasjon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/ignite-analytics/produktinformasjon/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ignite.no/en/seksjoner/downloadseksjon/</loc>
     <lastmod>2019-02-20T13:09:05+01:00</lastmod>
     <xhtml:link
@@ -709,21 +724,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ignite.no/en/karrierebanner/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ignite.no/en/ignite-analytics/produktinformasjon/</loc>
-    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/ignite-analytics/produktinformasjon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/ignite-analytics/produktinformasjon/"
                 />
   </url>
   
