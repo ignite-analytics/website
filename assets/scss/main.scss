@@ -19,7 +19,7 @@
     
         $blue-hover: #0038ba;  
         $green-hover: #1f7060; 
-        $yellow-hover: #F0C161;
+        $yellow-hover: #e2970b;
         $dark-blue-secondary: #18243F;
 
 @import "home.scss";
@@ -211,6 +211,9 @@ h4.arrow2 {
     font-size: 1em;
     font-weight: 500;
     transition: color .7s ease-in-out,background-color .3s ease-in-out,border-color .1s ease-in-out,box-shadow .15s ease-in-out;
+    &:nth-of-type(1) {
+        margin-right: 1em;
+    }
     &-primary {
         background: $blue;
         color: $white;

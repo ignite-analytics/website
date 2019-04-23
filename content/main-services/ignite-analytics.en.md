@@ -15,5 +15,5 @@ url: "/en/ignite-analytics/"
 <li><span class="fa-li"><i class="fas fa-sync"></i></span>Seemless tracking of spend development</li>
 </ul>
 
-{{< button href="/en/ignite-analytics/" class="service-btns2 btn btn-primary btn-lg" >}}Find out more{{< /button >}}
-{{< button class="service-btns btn btn-outline-primary btn-lg" data-toggle="modal" data-target="#modalbook">}}Try Ignite Analytics{{< /button >}}
+{{< button class="service-btns2 btn btn-primary btn-lg" data-toggle="modal" data-target="#modalbook">}}Try Ignite Analytics{{< /button >}}
+{{< button href="/en/ignite-analytics" class="service-btns btn btn-outline-primary blue btn-lg" >}}Find out more{{< /button >}}

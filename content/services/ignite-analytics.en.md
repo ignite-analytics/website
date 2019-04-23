@@ -8,5 +8,7 @@ weight: "1"
 url: "/en/ignite-analytics/"
 ---
 
-{{< button href="/en/ignite-analytics/" class="service-btns3 btn btn-primary btn-lg" >}}Find out more{{< /button >}}
-{{< button class="service-btns4 btn btn-outline-primary btn-lg" data-toggle="modal" data-target="#modalbook">}}Try Ignite Analytics{{< /button >}}
+
+{{< button class="service-btns3 btn btn-primary btn-lg" data-toggle="modal" data-target="#modalbook">}}Try Ignite Analytics{{< /button >}}
+
+{{< button href="/en/ignite-analytics/" class="service-btns4 btn btn-outline-primary btn-lg" >}}Find out more{{< /button >}}

@@ -16,6 +16,7 @@ url: "/ignite-services/"
 <li><span class="fa-li"><i class="fas fa-list-alt" style="color: #ebaf41;"></i></span>Og mye mer</li>
 </ul>
 
+{{< button class=" service-btns2 btn btn-primary yellow btn-lg" data-toggle="modal" data-target="#modalbooknorw">}}Book et møte{{< /button >}}
 
-{{< button href="/ignite-services" class="service-btns2 btn btn-primary yellow btn-lg" >}}Finn ut mer{{< /button >}}
-{{< button class=" service-btns btn btn-outline-primary yellow btn-lg" data-toggle="modal" data-target="#modalbooknorw">}}Book et møte{{< /button >}}
+{{< button href="/ignite-services" class="service-btns btn btn-outline-primary yellow btn-lg" >}}Finn ut mer{{< /button >}}
+

@@ -14,5 +14,7 @@ url: "/en/ignite-services/"
 <li><span class="fa-li"><i class="fas fa-list-alt" style="color: #ebaf41;"></i></span>And much more</li>
 </ul>
 
-{{< button href="/en/ignite-services/" class="service-btns2 btn btn-primary yellow btn-lg" >}}Find out more{{< /button >}}
-{{< button class="service-btns btn btn-outline-primary yellow btn-lg" data-toggle="modal" data-target="#modalbookeng">}}Book a meeting{{< /button >}}
+
+{{< button class="service-btns2 btn btn-primary yellow btn-lg" data-toggle="modal" data-target="#modalbookeng">}}Book a meeting{{< /button >}}
+
+{{< button href="/en/ignite-services/" class="service-btns btn btn-outline-primary yellow btn-lg" >}}Find out more{{< /button >}}

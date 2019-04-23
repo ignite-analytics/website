@@ -8,5 +8,6 @@ weight: "2"
 url: "/ignite-academy/"
 ---
 
-{{< button href="/ignite-academy/" class="service-btns3 btn btn-primary green btn-lg" >}}Finn ut mer{{< /button >}}
-{{< button class="service-btns4 btn btn-outline-primary green btn-lg" data-toggle="modal" data-target="#modalacademynor">}}Meld din interesse{{< /button >}}
+{{< button class="service-btns3 btn btn-primary green btn-lg" data-toggle="modal" data-target="#modalacademynor">}}Meld din interesse{{< /button >}}
+
+{{< button href="/ignite-academy/" class="service-btns4 btn btn-outline-primary green btn-lg" >}}Finn ut mer{{< /button >}}

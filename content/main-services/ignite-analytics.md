@@ -14,5 +14,6 @@ url: "/ignite-analytics/"
 <li><span class="fa-li"><i class="fas fa-sync"></i></span>Sømløs ​oppfølging av innkjøpet</li>
 </ul>
 
-{{< button href="/ignite-analytics/" class="service-btns2 btn btn-primary btn-lg" >}}Finn ut mer{{< /button >}}
-{{< button class="service-btns btn btn-outline-primary btn-lg" data-toggle="modal" data-target="#modalbooknor">}}Prøv Ignite Analytics{{< /button >}}
+{{< button class="service-btns2 btn btn-primary btn-lg" data-toggle="modal" data-target="#modalbooknor">}}Prøv Ignite Analytics{{< /button >}}
+
+{{< button href="/ignite-analytics" class="service-btns btn btn-outline-primary blue btn-lg" >}}Finn ut mer{{< /button >}}

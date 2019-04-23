@@ -15,6 +15,8 @@ url: "/ignite-academy/"
 <li><span class="fa-li"><i class="fas fa-chalkboard-teacher" style="color: #31B096"></i></span>Kurs</li>
 </ul>
 
-{{< button href="/ignite-academy/" class="service-btns2 btn btn-primary green btn-lg" >}}Finn ut mer{{< /button >}}
-{{< button class="service-btns btn btn-outline-primary green btn-lg" data-toggle="modal" data-target="#modalacademynor">}}Meld din interesse{{< /button >}}
+
+{{< button class="service-btns2 btn btn-primary green btn-lg" data-toggle="modal" data-target="#modalacademynor">}}Meld din interesse{{< /button >}}
+
+{{< button href="/ignite-academy/" class="service-btns btn btn-outline-primary green btn-lg" >}}Finn ut mer{{< /button >}}
 
