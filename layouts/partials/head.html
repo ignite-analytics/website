@@ -16,6 +16,14 @@
 	<title>{{ if .Page.Title }}{{ .Page.Title }}  {{ end }}</title>
 	<meta name="author" content="{{ $.Param "author" }}">
 	<meta name="description" content="{{ $.Param "description" }}">
+
+	{{if .Params.image }}
+       <meta property="og:image" content="{{ .Params.image | relURL}}"/>
+    {{else}}
+        {{if .Site.Params.cover}}
+            <meta property="og:image" content="{{ .Site.Params.cover | relURL}}"/>
+        {{end}}
+    {{end}}
 	
 	<!-- For Facebook -->
 	<meta property="og:title" content="Ignite Procurement" />
