@@ -160,6 +160,7 @@ logo = "/images/logo.svg"
     title = "Ignite Analytics"
     url = "/en/ignite-analytics/"
      weight = "1"
+    image = "/images/infographics/academy.svg" 
 
 [[languages.en.menu.services]]
     name = "Ignite Academy"
