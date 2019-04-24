@@ -45,7 +45,7 @@ logo = "/images/logo.svg"
      description = "Få mer ut av dine innkjøpsaktiviteter gjennom beste-praksis-maler, online videoer og mer"
      url = "/ignite-academy/"
      weight = "2"
-     image = "/images/infographics/analytics-2.svg"
+     thumbnail = "/images/infographics/academy.png"
 
 [[languages.no.menu.services]]
      name = "Ignite Services"
