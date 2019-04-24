@@ -12,18 +12,32 @@
 	{{ $options := (dict "targetPath" "style.css" "outputStyle" "compressed" "enableSourceMap" true ) }}
 	{{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options }}
 	<link rel="stylesheet" href="{{ ($style | minify | fingerprint).RelPermalink }}">	
-	<!-- <title>Ignite Procurement</title> -->
-	<title>{{ if .Page.Title }}{{ .Page.Title }}  {{ end }}</title>
-	<meta name="author" content="{{ $.Param "author" }}">
-	<meta name="description" content="{{ if .Description }}{{ .Description }}{{else if .IsPage}}{{ .Summary | plainify}}{{ else }}{{.Site.Params.description}}{{ end }}">
-
 	
+<title>{{ if .Page.Title }}{{ .Page.Title }}  {{ end }}</title>
+<!-- 	<meta name="author" content="{{ $.Param "author" }}">
+	<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{.Site.Params.description}}{{ end }}">
+  -->
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}"/>
+	<meta property="og:site_name" content="{{ .Site.Title }}"/>
+	<meta property="og:url" content="{{ .Permalink }}"/>
+	<meta property="og:locale" content="en">
+		{{ if .Params.og_image }}
+	<meta property="og:image" content="https://www.ignite.no{{ .Params.og_image | relURL }}"/>
+	<meta property="og:image:secure_url" content="{{ .Params.og_image | absURL }}"/>
+	{{ else }}
+	<meta property="og:image" content="https://www.ignite.no{{ .Site.Params.og_image | relURL }}"/>
+	<meta property="og:image:secure_url" content="{{ .Site.Params.og_image | absURL }}"/>
+	{{ end }}
+
+
+
 	<!-- For Facebook -->
 	
 <!-- 	<meta property="og:title" content="Ignite Procurement" /> -->
-	<meta property="og:url" content="https://www.ignite.no/" />
+<!-- 	<meta property="og:url" content="https://www.ignite.no/" />
 	<meta property="og:image" content="{{ $.Param "image" | relURL}}" />
-	<meta property="og:type" content="website" />
+	<meta property="og:type" content="website" /> -->
 
 
 
