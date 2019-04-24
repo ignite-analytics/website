@@ -260,7 +260,8 @@ h4.arrow2 {
         border: 2px solid $green;
         color: $green;
         &:hover {
-            background-color: $green;
+            background-color: $green-hover;
+            border-color: $green-hover;
             color: $white;
         }
 

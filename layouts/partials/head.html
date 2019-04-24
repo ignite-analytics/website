@@ -15,7 +15,7 @@
 	<!-- <title>Ignite Procurement</title> -->
 	<title>{{ if .Page.Title }}{{ .Page.Title }}  {{ end }}</title>
 	<meta name="author" content="{{ $.Param "author" }}">
-	<meta name="description" content="{{ $.Param "description" }}">
+	<meta name="description" content="{{ if .Description }}{{ .Description }}{{else if .IsPage}}{{ .Summary | plainify}}{{ else }}{{.Site.Params.description}}{{ end }}">
 
 	
 	<!-- For Facebook -->
