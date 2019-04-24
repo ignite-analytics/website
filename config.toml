@@ -128,14 +128,14 @@ logo = "/images/logo.svg"
      identifier = "logg inn"
      title = "Logg inn"
      url = "https://app.ignite.no/dashboard/"
-     weight = "2"
+     weight = "3"
 
 [[languages.no.menu.btn]]
      name = "Prøv Ignite Analytics"
      identifier = "#modalbooknor"
      title = "Book demo"
      id = "#modalbook"
-     weight = "1"   
+     weight = "2"   
 [[languages.no.menu.mote]]
      name = "Book møte"
      identifier = "#modalbooknorw"
@@ -251,21 +251,23 @@ logo = "/images/logo.svg"
     url = "/en/kontakt/"
     weight = "1"
 
+
+
+[[languages.en.menu.btn]]
+     name = "Try Ignite Analytics"
+     identifier = "#modalbook"
+     title = "Book demo"
+     id = "#modalbook"
+     weight = "2" 
+
 [[languages.en.menu.secondary]]
      name = "Log in"
      identifier = "log in"
      title = "Log in"
      url = "https://app.ignite.no/"
-     weight = "2"
+     weight = "3"
 
-     [[languages.en.menu.btn]]
-     name = "Try Ignite Analytics"
-     identifier = "#modalbook"
-     title = "Book demo"
-     id = "#modalbook"
-     weight = "1" 
-
-     [[languages.en.menu.mote]]
+[[languages.en.menu.mote]]
      name = "Book meeting"
      identifier = "#modalbookeng"
      title = "Book meeting"

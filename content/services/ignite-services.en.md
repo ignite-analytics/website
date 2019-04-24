@@ -4,7 +4,7 @@ date: 2019-02-20T13:09:05+01:00
 description: "Experienced consultants are available to create fast results through customized solutions"
 draft: false
 logo: "/images/services.svg"
-image: "/images/infographics/newsletter.svg"
+
 weight: "3"
 url: "/en/ignite-services/"
 ---

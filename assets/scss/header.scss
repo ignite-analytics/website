@@ -39,6 +39,8 @@ h1.head{
     padding-left: 0;
 }
 
+
+
 .menu ul {
     height: 80px;
     text-align: center;
@@ -66,11 +68,15 @@ padding: 29px 20px !important;
         background: $blue!important;
     }
     &:nth-of-type(2) {
-        background: $green!important;
+        background: $green;
     }
     &:nth-of-type(3) {
         background: $yellow !important;
     }
+}
+
+#log-in:hover {
+  background: $dark-blue;
 }
 #kontakt:hover {
   background: $dark-blue;
@@ -307,7 +313,6 @@ a.language {
 
 
 
-
   .overlay nav {
     position: relative;
     height: 100%;
@@ -422,7 +427,7 @@ a.nav-reg {
     min-width: 120px !important;
     padding: .4em 1em;
     height: 35px;
-    margin: 1.7em 0;
+    margin: 1.7em .5em 1.7em 0;
     border-radius: 25px;
     border: 0;
     background: $blue;

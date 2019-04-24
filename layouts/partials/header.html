@@ -74,16 +74,18 @@
                         </li>
                      
                         {{ end }}   
-                    {{ range .Site.Menus.secondary}}
-                    <li class="nav-item nav-right">
-                        <a class="nav-link" id="kontakt" href="{{ .URL }}">{{ .Name }}</a>
-                    </li>
-                 
-                    {{ end }}
+
                     {{ range .Site.Menus.btn}}
                     <div class="nav-right">
                         <button class="btn-demo" data-toggle="modal" data-target="{{ .Identifier }}">{{ .Name }}</button>                         
                     </div>
+                    {{ end }}
+
+                    {{ range .Site.Menus.secondary}}
+                    <li class="nav-item nav-right">
+                        <a class="nav-link" id="log-in" href="{{ .URL }}">{{ .Name }}</a>
+                    </li>
+                 
                     {{ end }}
        
                         <div class="language-list nav-right">
@@ -199,16 +201,17 @@
                                 <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
                             </li>
                             {{ end }}
+                            {{ range .Site.Menus.btn}}
+                            <div class="nav-reg">
+                                <button class="btn-demo" data-toggle="modal" data-target="{{ .Identifier }}">{{ .Name }}</button>                         
+                            </div>
+                            {{ end }}
                             {{ range .Site.Menus.secondary}}
                             <li class="">
                                 <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
                             </li>
                             {{ end }}
-                            {{ range .Site.Menus.btn}}
-                    <div class="nav-reg">
-                        <button class="btn-demo" data-toggle="modal" data-target="{{ .Identifier }}">{{ .Name }}</button>                         
-                    </div>
-                    {{ end }}
+                            
                       </ul>
                       
                       <div class="language-list">
