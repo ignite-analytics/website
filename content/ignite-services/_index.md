@@ -4,6 +4,7 @@ description: "Erfarne konsulenter er tilgjengelige for å skape raske resultater
 date: 2018-12-16T15:31:35+01:00
 draft: false
 image: "/images/infographics/analytics-2.svg"
+thumbnail : "/images/infographics/besparelser.svg"
 ---
 
 <ul class="fa-ul">
