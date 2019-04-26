@@ -18,7 +18,12 @@
 <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}"/>
 <meta property="og:site_name" content="{{ .Site.Title }}"/>
 <meta property="og:url" content="{{ .Permalink }}"/>
+{{ if .Params.thumbnail }}
+<meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.Thumbnail }}">
+{{ else }}
 <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.Image }}">
+    {{ end }}
+
 <meta property="og:locale" content="en">
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
