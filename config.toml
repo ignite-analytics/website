@@ -4,7 +4,7 @@ languageName = "No"
 languageCode = "no"
 publishDir = "docs"
 weight = 1
-image = "/images/ignite.jpg"
+
 
 [params]
 logo = "/images/logo.svg"
