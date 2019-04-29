@@ -4,6 +4,7 @@ languageName = "No"
 languageCode = "no"
 publishDir = "docs"
 weight = 1
+image = "/images/ignite.jpg"
 
 [params]
 logo = "/images/logo.svg"
@@ -15,20 +16,20 @@ logo = "/images/logo.svg"
 
 [languages]
   [languages.no]
-    languageName = "No"
-    languageCode = "no"
-    weight = "1"
-    title = "Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt"
-    description = "Det er utfordrende å realisere det fulle potensialet innen innkjøp. Med Ignite har det aldri vært enklere – la oss hjelpe deg til en forenklet hverdag og forbedret lønnsomhet!"
-
+     languageName = "No"
+     languageCode = "no"
+     weight = "1"
+     thumbnail = "/images/ignite-services.jpg/"
+     title = "Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt"
+     description = "Det er utfordrende å realisere det fulle potensialet innen innkjøp. Med Ignite har det aldri vært enklere – la oss hjelpe deg til en forenklet hverdag og forbedret lønnsomhet!"
 
   [languages.en]
-    languageName = "Eng"
-    languageCode = "en"
-    weight = "2"
-    title = "Ignite Procurement - Unlock the power of strategic sourcing made digital "
-    description = "Realizing the full potential within procurement is challenging. With Ignite it has never been easier – let us help you simplify everyday life and improve profitability!"
-
+     languageName = "Eng"
+     languageCode = "en"
+     weight = "2"
+     title = "Ignite Procurement - Unlock the power of strategic sourcing made digital "
+     description = "Realizing the full potential within procurement is challenging. With Ignite it has never been easier – let us help you simplify everyday life and improve profitability!"
+     
  
 [[languages.no.menu.services]]
     name = "Ignite Analytics"

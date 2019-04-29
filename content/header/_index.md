@@ -5,6 +5,7 @@ description: "Det er utfordrende å realisere det fulle potensialet innen innkj�
 date: 2018-12-16T15:31:35+01:00
 draft: false
 image: "/images/infographics/dashboard2.svg"
+thumbnail : "/images/ignite-services.jpg/"
 ---
 
 {{< button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#modalbooknor">}}Prøv Ignite Analytics{{< /button >}}
