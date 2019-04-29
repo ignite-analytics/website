@@ -29,7 +29,7 @@ logo = "/images/logo.svg"
      weight = "2"
      title = "Ignite Procurement - Unlock the power of strategic sourcing made digital "
      description = "Realizing the full potential within procurement is challenging. With Ignite it has never been easier – let us help you simplify everyday life and improve profitability!"
-     
+     thumbnail = "/images/ignite-services.jpg/"
  
 [[languages.no.menu.services]]
     name = "Ignite Analytics"
