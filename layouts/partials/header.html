@@ -133,11 +133,33 @@
                             </li>
                             {{ end }}
 
-                            {{ range .Site.Menus.main}}
+<!--                             {{ range .Site.Menus.main}}
                             <li class="">
                                 <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
                             </li>
+                            {{ end }} -->
+
+                            {{ range .Site.Menus.main }}
+                            {{ if .HasChildren }}
+                            <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle"  href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+                                aria-expanded="false">
+                                {{ .Name }}
+                            </a>
+                            <div class="dropdown-menu small" aria-labelledby="navbarDropdown">
+                                {{ range .Children }}
+                                <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
+                                {{ end }}
+                            </div>
+                            </li>
+                            {{ else }}
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+                            </li>
                             {{ end }}
+                            {{ end }}
+
+
                             {{ range .Site.Menus.blogg}}
                             <li class="">
                                 <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>

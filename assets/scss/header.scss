@@ -131,8 +131,8 @@ a.language {
     visibility: hidden;
     transition: .3s ease;
     opacity: 0;
-    -webkit-transform: translateY(20px);
-    transform: translateY(20px);
+    -webkit-transform: translateY(10px);
+    transform: translateY(10px);
     background: $dark;
   }
 
@@ -155,7 +155,7 @@ a.language {
         }
     }
 }
-.box{
+/* .box{
     position: absolute;
     width: 100%;
     height: 100%;
@@ -191,10 +191,10 @@ a.language {
   .box a:hover:after, .box a:focus:after, .box a:active:after {
     width: 100%;
   }
-
+ */
   
   .button_container {
-      background-color: $dark;
+    background-color: $dark;
     position: fixed;
     top: 0;
     right: 0;
@@ -210,8 +210,8 @@ a.language {
   }
   .button_container.active {
     .top {
-        -webkit-transform: translateY(11px) translateX(0) rotate(45deg);
-                transform: translateY(11px) translateX(0) rotate(45deg);
+        -webkit-transform: translateY(10px) translateX(0) rotate(45deg);
+                transform: translateY(10px) translateX(0) rotate(45deg);
         background: $white;
       }
       .middle {
@@ -219,8 +219,8 @@ a.language {
         background: #FFF;
       }
       .bottom {
-        -webkit-transform: translateY(-11px) translateX(0) rotate(-45deg);
-                transform: translateY(-11px) translateX(0) rotate(-45deg);
+        -webkit-transform: translateY(-10px) translateX(0) rotate(-45deg);
+                transform: translateY(-10px) translateX(0) rotate(-45deg);
                 background: $white;
       }
 
@@ -257,11 +257,11 @@ a.language {
     height: 0%;
     opacity: 0;
     visibility: hidden;
-    transition: opacity .35s, visibility .35s, height .35s;
+  /*   transition: opacity .35s, visibility .35s, height .35s; */
     overflow: hidden;
   }
   .overlay.open {
-    opacity: .95;
+    opacity: 1;
     visibility: visible;
     height: 100%;
   }
@@ -270,9 +270,9 @@ a.language {
   
   .overlay.open li {
     -webkit-animation: fadeInRight ease forwards;
-            animation: fadeInRight ease forwards;
-    -webkit-animation-delay: .35s;
-            animation-delay: .35s;
+        /*     animation: fadeInRight ease forwards; */
+/*     -webkit-animation-delay: .35s;
+            animation-delay: .35s; */
             &:hover {
                 background: $dark-blue;
                 &:nth-of-type(1) {
@@ -283,20 +283,20 @@ a.language {
 
 
   .overlay.open li:nth-of-type(2) {
-    -webkit-animation-delay: .4s;
-            animation-delay: .4s;
+/*     -webkit-animation-delay: .4s;
+            animation-delay: .4s; */
             &:hover {
                 background: $green;
             }
   }
   .overlay.open li:nth-of-type(3) {
-    -webkit-animation-delay: .45s;
-            animation-delay: .45s;
+/*     -webkit-animation-delay: .45s;
+            animation-delay: .45s; */
             &:hover {
                 background: $yellow;
             }
   }
-  .overlay.open li:nth-of-type(4) {
+/*   .overlay.open li:nth-of-type(4) {
     -webkit-animation-delay: .50s;
             animation-delay: .50s;
   }
@@ -307,8 +307,7 @@ a.language {
   .overlay.open li:nth-of-type(6) {
     -webkit-animation-delay: .6s;
             animation-delay: .6s;
-  }
-
+  } */
 
 
 
@@ -329,7 +328,8 @@ a.language {
     margin: 0 auto;
     display: inline-block;
     position: relative;
-    height: 65%;
+/*     height: 65%; */
+    height: 100%;
     width: 100%;
   }
   .overlay ul li {
@@ -345,7 +345,7 @@ a.language {
     position: relative;
     color: #FFF;
     text-decoration: none;
-    padding: .7em;
+
   }
 /*   .overlay ul li a:hover:after, .overlay ul li a:focus:after, .overlay ul li a:active:after {
     width: 100%;
@@ -422,6 +422,7 @@ a.nav-reg {
 }
 
 
+
 .btn-demo {
     font-size: 14px;
     min-width: 120px !important;
@@ -439,6 +440,13 @@ a.nav-reg {
     &:active {
         border-color: $white;
     }
+}
+
+.small {
+  position: absolute;
+  width: 100%;
+  background: $dark-blue;
+  z-index: 2000;
 }
 @media (max-width: 1390px) {
     a.nav-link  {
