@@ -2,8 +2,6 @@ baseURL = "https://ignite.no/"
 DefaultContentLanguage = "no"
 languageName = "No"
 languageCode = "no"
-title = "Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt"
-description = "Det er utfordrende å realisere det fulle potensialet innen innkjøp. Med Ignite har det aldri vært enklere – la oss hjelpe deg til en forenklet hverdag og forbedret lønnsomhet!"
 publishDir = "docs"
 weight = 1
 
@@ -20,6 +18,9 @@ logo = "/images/logo.svg"
     languageName = "No"
     languageCode = "no"
     weight = "1"
+    title = "Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt"
+    description = "Det er utfordrende å realisere det fulle potensialet innen innkjøp. Med Ignite har det aldri vært enklere – la oss hjelpe deg til en forenklet hverdag og forbedret lønnsomhet!"
+
 
   [languages.en]
     languageName = "Eng"
