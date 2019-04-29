@@ -283,8 +283,8 @@ a.language {
 
 
   .overlay.open li:nth-of-type(2) {
-/*     -webkit-animation-delay: .4s;
-            animation-delay: .4s; */
+    -webkit-animation-delay: .4s;
+            animation-delay: .4s;
             &:hover {
                 background: $green;
             }
@@ -347,7 +347,7 @@ a.language {
     text-decoration: none;
 
   }
-/*   .overlay ul li a:hover:after, .overlay ul li a:focus:after, .overlay ul li a:active:after {
+  .overlay ul li a:hover:after, .overlay ul li a:focus:after, .overlay ul li a:active:after {
     width: 100%;
   }
   .overlay ul li a:after {
@@ -361,7 +361,7 @@ a.language {
     height: 3px;
     background: $dark;
     transition: .5s;
-  } */
+  }
   
 
   .menu-card {
