@@ -270,7 +270,7 @@ a.language {
   
   .overlay.open li {
     -webkit-animation: fadeInRight ease forwards;
-        /*     animation: fadeInRight ease forwards; */
+    animation: fadeInRight ease forwards; 
 /*     -webkit-animation-delay: .35s;
             animation-delay: .35s; */
             &:hover {
@@ -284,7 +284,7 @@ a.language {
 
   .overlay.open li:nth-of-type(2) {
     -webkit-animation-delay: .4s;
-            animation-delay: .4s;
+/*             animation-delay: .4s; */
             &:hover {
                 background: $green;
             }
