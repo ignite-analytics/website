@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/Users/andrehaugen/website",
+	"sourceRoot": "/home/andreas/Development/website",
 	"sources": [
 		"assets/scss/main.scss",
 		"assets/scss/home.scss",

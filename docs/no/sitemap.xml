@@ -608,6 +608,22 @@
   </url>
   
   <url>
+    <loc>https://ignite.no/</loc>
+    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ignite.no/ignite-academy/resources/kategoristrategi/</loc>
     <lastmod>2019-02-20T13:09:05+01:00</lastmod>
   </url>
@@ -733,17 +749,17 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/partners/forskningsra%CC%8Adet/</loc>
+    <loc>https://ignite.no/partners/forskningsr%C3%A5det/</loc>
     <lastmod>2019-02-20T10:56:46+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ignite.no/en/partners/forskningsra%CC%8Adet/"
+                href="https://ignite.no/en/partners/forskningsr%C3%A5det/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://ignite.no/partners/forskningsra%CC%8Adet/"
+                href="https://ignite.no/partners/forskningsr%C3%A5det/"
                 />
   </url>
   
@@ -1399,22 +1415,6 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://ignite.no/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ignite.no/</loc>
-    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/"
                 />
   </url>
   
