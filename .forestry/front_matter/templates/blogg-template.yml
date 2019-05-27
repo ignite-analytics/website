@@ -5,28 +5,67 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    required: true
+  default: now
 - type: text
   name: title
-  label: title
+  label: Title
+  config:
+    required: true
 - type: text
   name: ingress
-  label: ingress
+  label: Ingress
+  config:
+    required: true
+  description: Kort oppsummering / blikkfanger på 1 setning
 - type: file
   name: image
   label: image
 - type: list
   name: categories
   label: categories
-- type: file
-  name: author_thumb
-  label: author_thumb
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Innsikt
+    - Cases
+    - Nyheter
+    min: '1'
+    max: '1'
 - type: select
   name: author
   label: author
   description: First name of author with "æøå" as "aoa"
   hidden: false
   config:
-      source:
-        type: document
-        file: authors-toml
-        path: data/
+    source:
+      type: simple
+      file: authors-toml
+      path: data/
+    options:
+    - Andreas
+    - Bendik
+    - Borge
+    - Frank
+    - Hege
+    - Henrik
+    - Ingeborg
+    - Jon
+    - Kristian
+    - Lars
+    - Martin
+    - Oystein
+    - Rikard
+    - Sander
+    - Sigbjorn
+    - Tord
+    - Valdemar
+    required: true
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  description: Her putter du relevante nøkkelord for artikkelen
