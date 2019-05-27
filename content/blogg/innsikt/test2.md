@@ -5,7 +5,7 @@ title = "Bloggpost #2"
 ingress="A guide that walks through all the steps"
 image="/images/image-ignite.jpg"
 tags=["interesting", "ignite", "business"]
-ReadingTime=4
+categories=["innsikt"]
 author_thumb="/images/team/andreas_moldskred.jpg"
 [author]
     name="Andreas Moldskred"

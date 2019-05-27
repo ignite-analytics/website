@@ -1,8 +1,3 @@
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-License: https://www.wowthemes.net/freebies-license/ 
-*/
 .mainheading {
     padding: 1rem 0rem;
 }
@@ -57,6 +52,8 @@ section {
 
 section.recent-posts {
     margin-bottom: 0;
+    margin-left:auto;
+    margin-right:auto;
 }
 
 .section-title h2 {
@@ -94,6 +91,9 @@ section.recent-posts {
 }
 
 @media (min-width:992px) {
+    .recent-posts{
+        max-width: 960px;
+    }
     .navbar-expand-lg .navbar-nav .nav-link {
         padding-right: 0.8rem;
         padding-left: 0.8rem;
@@ -149,6 +149,10 @@ section.recent-posts {
     font-size: 0.95rem;
     line-height: 1.6;
     font-weight: 400;
+    overflow:hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
 }
 
 .featured-box-img-cover {
@@ -190,10 +194,11 @@ section.recent-posts {
     float:left;
     display:block;
     width:auto;
+    max-height:72px;
 }
 .post-top-meta .author-thumb {
-    width: 72px;
-    height: 72px;
+    height:82px;
+    width:82px;
 }
 
 .post-top-meta.authorpage .author-thumb {
@@ -210,6 +215,10 @@ section.recent-posts {
     margin-bottom: 5px;
     margin-top: 5px;
     font-size: 0.95rem;
+    display:block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 .toc ul {
@@ -361,11 +370,10 @@ blockquote {
 
 .share {
     text-align: center;
-}
-
-.share p {
-    margin-bottom: 10px;
-    font-size: 0.95rem;
+    height: calc(100vh - 100px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .share ul li {
@@ -790,7 +798,6 @@ iframe {
     -ms-flex-order: -1;
     order: -1;
 }
-
 @media (min-width: 768px) {
     .flex-md-unordered {
         -webkit-box-ordinal-group: 1;
@@ -808,8 +815,18 @@ iframe {
 }
 
 @media (max-width: 768px) {
+    .card-group .card{
+        width:95%;
+    }
     .share {
         margin-top: 30px;
+        display:block;
+        height:auto;
+    }
+}
+@media (min-width: 1200px) {
+    .recent-posts{
+        max-width: 1440px;
     }
 }
 .card-group .card{
@@ -828,6 +845,9 @@ iframe {
 .sticky-top-80 {
     top: 80px;
 }
+.PageNavigation {
+    flex-direction:row;
+}
 .PageNavigation > a{
     color:white;
     background:#3c6fe9;
@@ -835,4 +855,11 @@ iframe {
     padding: .4em 1em;
     margin:10px;
     font-weight: 500;
+    max-width: calc(50% - (10px + 1em));
+    white-space:nowrap;
+    text-overflow: ellipsis;
+    overflow:hidden;   
+}
+.left-auto{
+    margin-left:auto !important;
 }
