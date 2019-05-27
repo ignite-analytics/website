@@ -1,0 +1,25 @@
+---
+label: Blogg template
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: text
+  name: ingress
+  label: ingress
+- type: file
+  name: image
+  label: image
+- type: list
+  name: categories
+  label: categories
+- type: file
+  name: author_thumb
+  label: author_thumb
+- type: text
+  name: author
+  label: author
