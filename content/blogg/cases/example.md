@@ -1,15 +1,14 @@
 +++
+author = "Andreas"
+author_thumb = "/images/team/andreas_moldskred.jpg"
+categories = ["cases"]
 date = "2016-04-07T11:32:53+02:00"
-draft = false
+image = "/images/team.jpg"
+ingress = "Tekst som beskriver litt av artikkelen"
 title = "Case #2"
-ingress="Tekst som beskriver litt av artikkelen"
-image="/images/team.jpg"
-categories=["cases"]
-author_thumb="/images/team/andreas_moldskred.jpg"
-author="Andreas"
-+++
 
-## The big Why?
++++
+## The big Whyyyy?
 
 I have to admit I am annoyed by CMS systems. All of them require constant care and are usually hard to use. In the past I have tried [Wordpress](http://www.wordpress.com) or [Drupal](http://www.drupal.com) and always found that they kind of work, but once I left it alone for a couple months it got ugly. So I got rid of all these installations after a while.
 
@@ -44,20 +43,20 @@ The [CircleCI](https://circleci.com/) site makes it extremely simple to add your
 
 **Note**: If you are using the [Repo](https://github.com/nathany/hugo-deploy) including the circleCI config files there are two **unmentioned** Environment variables that need to be set.
 
- 1. BUCKET - the bucket name that should be used in S3
- 2. REGION if you want to deploy anywhere else than us-east-1. In my case I wanted to deploy to Frankfurt, but that resulted in an error. See the S3 section for more information.
+1. BUCKET - the bucket name that should be used in S3
+2. REGION if you want to deploy anywhere else than us-east-1. In my case I wanted to deploy to Frankfurt, but that resulted in an error. See the S3 section for more information.
 
-These can be set in your project details under *build settings*.
+These can be set in your project details under _build settings_.
 
 #### AWS S3 bucket
 
 I got a free Amazon AWS account a while ago to play with certain [aspirations](http://lg.io/2015/07/05/revised-and-much-faster-run-your-own-highend-cloud-gaming-service-on-ec2.html) for Gaming on AWS. I never followed through with that, but I have this account already setup. So the next step was to create a S3 bucket for the static site. Couple of things to keep in mind:
 
-  1. Name the bucket exactly as the hostname you want to use it from. In my case it is *www.treutler.cc*.
-  2. Choose your region wisely. I **encountered a problem** not being able to connect to *eu-central-1* S3 bucket with the supplied tools, because it only supports the authentication v4, which the toolchain that Nathan uses does not support. So I had to switch to *eu-west-1* instead. If the toolchain gets updated to use the new SDK by Amazon it should work with the *eu-central-1* as well.
-  3. Enable the static site hosting in the Properties of the bucket.
-  4. Enable CORS in the same page.
-  . Generate a new [IAM](https://aws.amazon.com/iam/) user in the AWS portal and add the Access Key and the Secret Access key to CircleCI (AWS permissions).
+1. Name the bucket exactly as the hostname you want to use it from. In my case it is _www.treutler.cc_.
+2. Choose your region wisely. I **encountered a problem** not being able to connect to _eu-central-1_ S3 bucket with the supplied tools, because it only supports the authentication v4, which the toolchain that Nathan uses does not support. So I had to switch to _eu-west-1_ instead. If the toolchain gets updated to use the new SDK by Amazon it should work with the _eu-central-1_ as well.
+3. Enable the static site hosting in the Properties of the bucket.
+4. Enable CORS in the same page.
+   . Generate a new [IAM](https://aws.amazon.com/iam/) user in the AWS portal and add the Access Key and the Secret Access key to CircleCI (AWS permissions).
 
 **Note:** Don't forget to actually give Full S3 permissions to that user! Otherwise you will get only "Access denied" when it tries to deploy your site.
 
@@ -66,7 +65,7 @@ I got a free Amazon AWS account a while ago to play with certain [aspirations](h
 Cloudflare can be used setup DNS for your site. Follow the Cloudflare [Instructions](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiQ3o7dtvzLAhVGwBQKHTYTAsgQFggdMAA&url=https%3A%2F%2Fsupport.cloudflare.com%2Fhc%2Fen-us%2Farticles%2F200168926-How-do-I-use-CloudFlare-with-Amazon-s-S3-Service-&usg=AFQjCNFmJUE0Kv2eW0TQONhg2P9gOXZhHQ&sig2=dHbmZHY401-_aN4LGQ7XbA) to setup the service with your S3 account. Here the naming of the bucket will be important to match your domain.
 
 **Note:**
-Keep in mind that you have built a cache in front of your website. So your *update* in the repo might not be there instantaneously.
+Keep in mind that you have built a cache in front of your website. So your _update_ in the repo might not be there instantaneously.
 
 #### Example hugo-deploy repo
 
@@ -81,10 +80,9 @@ Once I had found all the **issues** that prevented the built it actually work. N
 3. Missing IAM permissions to access S3. (Simple oversight)
 4. Default deployment tool s3up command line did not include a region, which I needed to add for any custom region (default us-east-1) to work. The error is that bucket is not available.
 
-    Example change circle.yml
+   Example change circle.yml
 
         - s3up -source=public/ -bucket=$BUCKET -region=$REGION
-
 
 ### Conclusion
 
@@ -92,4 +90,4 @@ It worked. You are reading the this blog entry and it was written in Atom using 
 
 It could not get easier than this, and it does not have any security vulnerabilities built into it like all the CMS out there.
 
-> Simply *AWESOME*
+> Simply _AWESOME_
