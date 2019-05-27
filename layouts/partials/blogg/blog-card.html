@@ -10,20 +10,19 @@
         </div>
         <div class="card-body">
             <h2 class="card-title"><a class="text-dark" href="{{ .Permalink }}">{{ .Title }}</a></h2>
-            <h4 class="card-text">{{ slicestr .Summary 0 200}}</h4>            
+            <h4 class="card-text">{{if (len .Summary) 200}}{{ slicestr .Summary 0 200}}{{else}}{{.Summary}}{{end}}</h4>            
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                {{if isset .Params "author"}}
-                {{if isset .Params "author_thumb"}}
+                {{if isset .Site.Data.authors .Params.author}}
+                {{ $author := index $.Site.Data.authors .Params.author}}             
                     <span class="meta-footer-thumb">
-                    <img class="author-thumb" src="{{ .Params.author_thumb | urlize | relURL  }}" alt="{{ .Params.author.name }}">
+                    <img class="author-thumb" src="{{ $author.image  }}" alt="{{ $author.title}}">
                     </span>                
                     <span class="author-meta">
-                    <span class="post-name">{{ .Params.author.name}}</a></span><br/>
+                    <span class="post-name">{{ $author.title}}</a></span><br/>
                 {{end}}
-                {{end}}
-                <span class="post-date">{{ dateFormat "Jan 2, 2006" .PublishDate }} - {{ .ReadingTime }} min read </span>
+                <span class="post-date">{{ dateFormat "Jan 2, 2006" .PublishDate }} - {{ math.Round (div (countwords .Content) 220.0) }} min read </span>
                 </span>
                 <div class="clearfix"></div>
             </div>

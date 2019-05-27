@@ -25,18 +25,17 @@
                         <img draggable=false class="featured-image img-fluid" src="{{ . | urlize | relURL }}" alt="thumbnail for this post">
                     {{end}}
                     <!-- End Featured Image -->
-                     <!-- Author Box -->	
-                     {{if isset .Params.author "name"}}
-                     {{if isset .Params.author "thumbnail"}}
-                     {{if isset .Params.author "description"}}
+                     <!-- Author Box -->
+                     {{$author := (index .Site.Data.authors .Params.author)}}	
+                     {{if $author}}
                      <div class="row post-top-meta">
                          <div class=" thumb-parent col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0 md-nopad-right">
-                             <img class="author-thumb" src="{{ .Params.author.thumbnail | urlize | relURL}}" alt="{{ .Params.author.name }}">
+                             <img class="author-thumb" src="{{ $author.image }}" alt="{{ $author.title }}">
                          </div>
                          <div class="col-xs-12 col-md-9 col-lg-10 text-md-left md-nopad-left">
-                             <a target="_blank" class="link-dark">{{ .Params.author.name }}</a><br>
+                             <a target="_blank" class="link-dark">{{ $author.title }}</a><br>
                              <span class="author-description">
-                                 {{ .Params.author.description }}<br>
+                                 {{ $author.position  }}<br>
                                  <i class="far fa-star"></i>
                                  {{ dateFormat "Jan 2, 2006" .PublishDate }}
                                  <i class="far fa-clock clock"></i>
@@ -44,9 +43,7 @@
                              </span>					
                          </div>
                      </div>			
-                     {{end}}	
-                     {{end}}
-                     {{end}}                    
+                     {{end}}                     
                     <!-- Post Content -->
                     <div class="article-post">
                         {{ .Content}}

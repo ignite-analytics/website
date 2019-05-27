@@ -1,16 +1,12 @@
 +++
-date = "2016-12-10T11:32:53+02:00"
+date = "2016-04-07T11:32:53+02:00"
 draft = false
-title = "Bloggpost #2"
-ingress="A guide that walks through all the steps"
-image="/images/image-ignite.jpg"
-tags=["interesting", "ignite", "business"]
-categories=["innsikt"]
+title = "Case #2"
+ingress="Tekst som beskriver litt av artikkelen"
+image="/images/team.jpg"
+categories=["cases"]
 author_thumb="/images/team/andreas_moldskred.jpg"
-[author]
-    name="Andreas Moldskred"
-    thumbnail="/images/team/andreas_moldskred.jpg"
-    description="Platform engineer at Ignite Procurement"
+author="Andreas"
 +++
 
 ## The big Why?
@@ -25,8 +21,6 @@ Now the next step was to actually have a simple way of running a Hugo site. I fo
 
 So here it is. My steps and all the gotchas that I found.
 
-
-!['Yuh'](https://cdn-images-1.medium.com/max/800/1*v4CbD33s5wbJWbfLzCyL2w.jpeg "Logo Title Text 1")
 ### Overview
 
 1. Install Hugo locally for testing and playing with it - free

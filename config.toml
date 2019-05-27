@@ -9,6 +9,7 @@ weight = 1
 [taxonomies]
   tag = "tags"
   category = "categories"
+ 
 # <==
 
 [params]
@@ -100,40 +101,33 @@ logo = "/images/logo.svg"
      name = "Blogg"
     identifier = "blogg"
      title = "Blogg"
-     url = "/blogg"
+     url = "https://medium.com/ignite-procurement"
      weight = "5"
      hasChildren = "true"
 
      [[languages.no.menu.blogg]]
           parent = "blogg"
-          name = "Siste"
-          identifier = "Siste"
-          title = "Siste"
-          url = "/blogg/"
-          weight = "1"
-     [[languages.no.menu.blogg]]
-          parent = "blogg"
           name = "Innsikt"
           identifier = "innsikt"
           title = "Innsikt"
-          url = "/categories/innsikt"
-          weight = "2"
+          url = "https://medium.com/ignite-procurement/insight/home"
+          weight = "1"
 
      [[languages.no.menu.blogg]]
           parent = "blogg"
           name = "Caser"
           identifier = "caser"
           title = "Caser"
-          url = "/categories/cases/"
-          weight = "3"  
+          url = "https://medium.com/ignite-procurement/cases/home"
+          weight = "2"  
 
           [[languages.no.menu.blogg]]
           parent = "blogg"
           name = "Nyheter"
           identifier = "nyheter"
           title = "Nyheter"
-          url = "/categories/nyheter/"
-          weight = "4" 
+          url = "https://medium.com/ignite-procurement/news/home"
+          weight = "3"
 
     
 
@@ -234,43 +228,35 @@ logo = "/images/logo.svg"
   
 [[languages.en.menu.blogg]]
      name = "Blog"
-     identifier = "blog"
+    identifier = "blog"
      title = "Blog"
-     url = "/blogg"
+     url = "https://medium.com/ignite-procurement"
      weight = "5"
      hasChildren = "true"
 
      [[languages.en.menu.blogg]]
           parent = "blog"
-          name = "Latest"
-          identifier = "Latest"
-          title = "Latest"
-          url = "/blogg/"
-          weight = "1"
-
-     [[languages.en.menu.blogg]]
-          parent = "blog"
           name = "Insight"
           identifier = "insight"
-          title = "Insight"
-          url = "/categories/innsikt/"
-          weight = "2"
+          title = "insight"
+          url = "https://medium.com/ignite-procurement/insight/home"
+          weight = "1"
 
      [[languages.en.menu.blogg]]
           parent = "blog"
           name = "Cases"
           identifier = "cases"
           title = "Cases"
-          url = "/categories/cases/"
-          weight = "3"  
+          url = "https://medium.com/ignite-procurement/cases/home"
+          weight = "2"  
 
           [[languages.en.menu.blogg]]
           parent = "blog"
           name = "News"
           identifier = "news"
           title = "News"
-          url = "/categories/nyheter/"
-          weight = "4" 
+          url = "https://medium.com/ignite-procurement/news/home"
+
 
 
 [[languages.en.menu.kontakt]]
