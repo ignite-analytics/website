@@ -20,6 +20,13 @@ fields:
 - type: file
   name: author_thumb
   label: author_thumb
-- type: text
+- type: select
   name: author
   label: author
+  description: First name of author with "æøå" as "aoa"
+  hidden: false
+  config:
+      source:
+        type: document
+        file: authors-toml
+        path: data/
