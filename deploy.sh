@@ -10,7 +10,7 @@ done
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
-cd public
+cd docs
 # Add changes to git.
 git add .
 
