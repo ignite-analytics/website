@@ -8,7 +8,7 @@ tags = ["kategoristrategi", "råd", "strategi"]
 title = "Dette trenger du til en aksjonsbasert kategoristrategi"
 
 +++
-En hensiktsmessig kategoristruktur er en forutsetning for god kategoristyring og strategiarbeid, les mer om hvordan bygge en kategoristruktur [her](https://medium.com/ignite-procurement/hvordan-bygge-en-hensiktsmessig-kategoristruktur-2c55390c6bd).
+En hensiktsmessig kategoristruktur er en forutsetning for god kategoristyring og strategiarbeid, les mer om hvordan bygge en kategoristruktur [her](https://medium.com/ignite-procurement/hvordan-bygge-en-hensiktsmessig-kategoristruktur-2c55390c6bd)
 
 #### **1. Start med nåsituasjonen**
 
