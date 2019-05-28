@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bloggs on Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt</title>
-    <link>https://ignite.no/blogg/</link>
-    <description>Recent content in Bloggs on Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt</description>
+    <title>Nyheter on Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt</title>
+    <link>https://ignite.no/categories/nyheter/</link>
+    <description>Recent content in Nyheter on Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <lastBuildDate>Mon, 27 Aug 2018 13:59:41 +0000</lastBuildDate>
     
-	<atom:link href="https://ignite.no/blogg/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ignite.no/categories/nyheter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>https://ignite.no/blogg/nyheter/nye-moduler-i-ignite-analytics/</guid>
       <description>Våre summer interns har gjort en fantastisk jobb Våre 9 summer interns studerer til vanlig på NTNU og NHH. I sommer har 8 av disse jobbet med å videreutvikle Ignite Analytics som programutviklere, mens den siste har fått prøve seg som konsulent på flere innkjøpsprosjekter. Programutviklerne har hatt ansvar for sine egne moduler med tett støtte fra konsulentene og CTO. Etter flere timer med programmering og koding, kan vi trygt si at resultatene er langt over forventning!</description>
-    </item>
-    
-    <item>
-      <title>Case #2</title>
-      <link>https://ignite.no/blogg/cases/example/</link>
-      <pubDate>Thu, 07 Apr 2016 11:32:53 +0200</pubDate>
-      
-      <guid>https://ignite.no/blogg/cases/example/</guid>
-      <description>The big Why? Test 123456 I have to admit I am annoyed by CMS systems. All of them require constant care and are usually hard to use. In the past I have tried Wordpress or Drupal and always found that they kind of work, but once I left it alone for a couple months it got ugly. So I got rid of all these installations after a while.
-Currently I only have to care for one CMS called Contao which gives me constant grief by being hard to use and requiring the usual attention.</description>
     </item>
     
   </channel>

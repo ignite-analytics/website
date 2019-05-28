@@ -1404,19 +1404,20 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/blogg/</loc>
-    <lastmod>2016-04-07T11:32:53+02:00</lastmod>
+    <loc>https://ignite.no/tags/analytics/</loc>
+    <lastmod>2018-08-27T13:59:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ignite.no/blogg/cases/example/</loc>
-    <lastmod>2016-04-07T11:32:53+02:00</lastmod>
+    <loc>https://ignite.no/blogg/</loc>
+    <lastmod>2018-08-27T13:59:41+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ignite.no/categories/</loc>
-    <lastmod>2016-04-07T11:32:53+02:00</lastmod>
+    <lastmod>2018-08-27T13:59:41+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -1428,6 +1429,50 @@
                 hreflang="no"
                 href="https://ignite.no/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/modul/</loc>
+    <lastmod>2018-08-27T13:59:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/blogg/nyheter/nye-moduler-i-ignite-analytics/</loc>
+    <lastmod>2018-08-27T13:59:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/categories/nyheter/</loc>
+    <lastmod>2018-08-27T13:59:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/</loc>
+    <lastmod>2018-08-27T13:59:41+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/team/</loc>
+    <lastmod>2018-08-27T13:59:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/blogg/cases/example/</loc>
+    <lastmod>2016-04-07T11:32:53+02:00</lastmod>
   </url>
   
   <url>
@@ -1448,21 +1493,6 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://ignite.no/seksjoner/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ignite.no/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/tags/"
                 />
   </url>
   
