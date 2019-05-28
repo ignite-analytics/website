@@ -2,7 +2,6 @@
 author = "Ignite"
 categories = ["Innsikt"]
 date = "2019-03-24T15:17:17+00:00"
-draft = true
 image = "/images/aksjonkat.png"
 ingress = "Skal du utarbeide en kategoristrategi, men er usikker på hvor du skal starte? Her kommer seks enkle råd for å bygge en aksjonsbasert kategoristrategi."
 tags = ["kategoristrategi", "råd", "strategi"]

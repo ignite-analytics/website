@@ -3,6 +3,7 @@ author = "Andreas"
 author_thumb = "/images/team/andreas_moldskred.jpg"
 categories = ["cases"]
 date = "2016-04-07T11:32:53+02:00"
+draft = true
 image = "/images/team.jpg"
 ingress = "Tekst som beskriver litt av artikkelen"
 title = "Case #2"
