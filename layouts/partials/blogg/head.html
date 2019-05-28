@@ -18,7 +18,11 @@
     <title>{{.Site.Title}} - {{ if .Params.title }}{{ .Params.title }}{{ end }}</title>
     <!-- OPEN GRAPH-->
     <meta property="og:type" content="article" />
-    <meta property="og:description" content='{{ if(isset .Params "ingress") }}{{ .Params.ingress }}{{ else }}{{ .Site.Params.description }}{{ end }}'/>
+    {{ if(isset .Params "ingress") }}
+    <meta property="og:description" content="{{ .Params.ingress }}"/>
+    {{else}}
+    <meta property="og:description" content="{{ .Site.Params.description }}"/>
+    {{end}}
     <meta property="og:site_name" content="{{ .Site.Title }}"/>
     <meta property="og:url" content="{{ .Permalink }}"/>
     {{ if .Params.image }}
@@ -30,8 +34,12 @@
     <!-- !! OPEN GRAPH !!-->
     <!-- Twitter-->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name=”twitter:title” content="{{.Site.Title}} - {{ if(isset .Params title) }}{{ .Params.title }}{{ end }}">
-    <meta name=”twitter:description” content="{{ if(isset .Params 'ingress') }}{{ .Params.ingress }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <meta name=”twitter:title” content="{{.Site.Title}} - {{ .Params.Title }}">
+    {{ if(isset .Params "ingress") }}
+    <meta property="twitter:description" content="{{ .Params.ingress }}"/>
+    {{else}}
+    <meta property="twitter:description" content="{{ .Site.Params.description }}"/>
+    {{end}}
     {{ if .Params.image }}
     <meta name=”twitter:image” content="{{ .Site.BaseURL }}{{ .Params.image }}">
     {{ else }}
