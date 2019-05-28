@@ -29,6 +29,11 @@
         position= "Platform Engineer"
         image= "/images/team/Henrik_Høiness.jpg"
 
+    [Ignite]
+        title= "Ignite Procurement"
+        position= "Team"
+        image= "/images/team/ignite.png"
+
     [Ingeborg]
         title= "Ingeborg Bakke"
         position= "Business Development Consultant​"

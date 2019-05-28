@@ -36,7 +36,6 @@
                              <a target="_blank" class="link-dark">{{ $author.title }}</a><br>
                              <span class="author-description">
                                  {{ $author.position  }}<br>
-                                 <i class="far fa-star"></i>
                                  {{ dateFormat "Jan 2, 2006" .PublishDate }}
                                  <i class="far fa-clock clock"></i>
                                  {{ math.Round (div (countwords .Content) 220.0) }} min read
