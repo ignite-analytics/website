@@ -65,6 +65,7 @@ fields:
     - Valdemar
     - Ignite
     required: true
+  default: Ignite
 - name: tags
   type: tag_list
   default: []
