@@ -7,11 +7,10 @@ weight = 1
 
 # Blog content ==>
 [taxonomies]
-  tag = "tags"
-  category = "categories"
- 
-# <==
+     tag = "tags"
+     category = "categories"
 
+# <==
 [params]
 logo = "/images/logo.svg"
 
@@ -38,7 +37,7 @@ logo = "/images/logo.svg"
           thumbnail = "/images/ignite-services.jpg/"
  
 [[languages.no.menu.services]]
-    name = "Ignite Analytics"
+     name = "Ignite Analytics"
      identifier = "ignite-analytics"
      description = "Optimaliser dine innkjøp med enkelhet gjennom vår unike plattform for strategisk innkjøp"
      title = "Ignite Analytics – plattform for strategisk innkjøp"
@@ -47,7 +46,7 @@ logo = "/images/logo.svg"
 
 
 [[languages.no.menu.services]]
-    name = "Ignite Academy"
+     name = "Ignite Academy"
      identifier = "ignite-academy"
      title = "Ignite Academy - Få mer ut av dine innkjøpsaktiviteter gjennom beste-praksis-maler, online videoer og mer" 
      description = "Få mer ut av dine innkjøpsaktiviteter gjennom beste-praksis-maler, online videoer og mer"
@@ -66,19 +65,19 @@ logo = "/images/logo.svg"
 
 [[languages.no.menu.main]]
      name = "Selskapet"
-    identifier = "selskapet"
+     identifier = "selskapet"
      title = "selskapet"
      url = "/om-oss/"
      weight = "4"
      hasChildren = "true"
 
      [[languages.no.menu.main]]
-            parent = "selskapet"
-            name = "Om oss"
-            identifier = "Om oss"
-            title = "Om oss"
-            url = "/om-oss"
-            weight = "1"
+          parent = "selskapet"
+          name = "Om oss"
+          identifier = "Om oss"
+          title = "Om oss"
+          url = "/om-oss"
+          weight = "1"
 
       [[languages.no.menu.main]]
             parent = "selskapet"
@@ -99,7 +98,7 @@ logo = "/images/logo.svg"
 
 [[languages.no.menu.blogg]]
      name = "Blogg"
-    identifier = "blogg"
+     identifier = "blogg"
      title = "Blogg"
      url = "https://medium.com/ignite-procurement"
      weight = "5"
@@ -121,7 +120,7 @@ logo = "/images/logo.svg"
           url = "https://medium.com/ignite-procurement/cases/home"
           weight = "2"  
 
-          [[languages.no.menu.blogg]]
+     [[languages.no.menu.blogg]]
           parent = "blogg"
           name = "Nyheter"
           identifier = "nyheter"
@@ -131,12 +130,12 @@ logo = "/images/logo.svg"
 
     
 
- [[languages.no.menu.kontakt]]
-     name = "Kontakt oss"
-     identifier = "kontakt oss"
-     title = "Kontakt oss"
-     url = "/kontakt/"
-     weight = "1"
+     [[languages.no.menu.kontakt]]
+          name = "Kontakt oss"
+          identifier = "kontakt oss"
+          title = "Kontakt oss"
+          url = "/kontakt/"
+          weight = "1"
 
 [[languages.no.menu.secondary]]
      name = "Logg inn"
@@ -170,12 +169,12 @@ logo = "/images/logo.svg"
 
 
 [[languages.en.menu.services]]
-    name = "Ignite Analytics"
-    identifier = "ignite-analytics"
-    title = "Ignite Analytics"
-    url = "/en/ignite-analytics/"
+     name = "Ignite Analytics"
+     identifier = "ignite-analytics"
+     title = "Ignite Analytics"
+     url = "/en/ignite-analytics/"
      weight = "1"
-    image = "/images/infographics/academy.svg" 
+     image = "/images/infographics/academy.svg" 
 
 [[languages.en.menu.services]]
     name = "Ignite Academy"
@@ -185,47 +184,45 @@ logo = "/images/logo.svg"
     weight = "2"
 
 [[languages.en.menu.services]]
-    name = "Ignite Services"
-    identifier = "ignite-services"
-    title = "Ignite Services"
+     name = "Ignite Services"
+     identifier = "ignite-services"
+     title = "Ignite Services"
      url = "/en/ignite-services/"
      id = "ignite-services"
-    weight = "3"
+     weight = "3"
 
 [[languages.en.menu.main]]
-    name = "Company"
-    identifier = "company"
-    title = "Company"
-    url = "/en/om-oss/"
-    weight = "4"
-    hasChildren = "true"
+     name = "Company"
+     identifier = "company"
+     title = "Company"
+     url = "/en/om-oss/"
+     weight = "4"
+     hasChildren = "true"
 
      [[languages.en.menu.main]]
-            parent = "company"
-            name = "About us"
-            identifier = "About us"
-            title = "about us"
-            url = "/en/om-oss"
-            weight = "1"
+          parent = "company"
+          name = "About us"
+          identifier = "About us"
+          title = "about us"
+          url = "/en/om-oss"
+          weight = "1"
 
-      [[languages.en.menu.main]]
-            parent = "company"
-            name = "Team"
-            identifier = "Team"
-            title = "Team"
-            url = "/en/om-oss/#team"
-            weight = "2"
+     [[languages.en.menu.main]]
+          parent = "company"
+          name = "Team"
+          identifier = "Team"
+          title = "Team"
+          url = "/en/om-oss/#team"
+          weight = "2"
 
-      [[languages.en.menu.main]]
-            parent = "company"
-            name = "Career"
-            identifier = "Career"
-            title = "Career"
-            url = "/en/karriere"
-            weight = "3"            
+     [[languages.en.menu.main]]
+          parent = "company"
+          name = "Career"
+          identifier = "Career"
+          title = "Career"
+          url = "/en/karriere"
+          weight = "3"            
 
-
-  
 [[languages.en.menu.blogg]]
      name = "Blog"
     identifier = "blog"
@@ -260,11 +257,11 @@ logo = "/images/logo.svg"
 
 
 [[languages.en.menu.kontakt]]
-    name = "Contact us"
-    identifier = "kontakt"
-    title = "kontakt"
-    url = "/en/kontakt/"
-    weight = "1"
+     name = "Contact us"
+     identifier = "kontakt"
+     title = "kontakt"
+     url = "/en/kontakt/"
+     weight = "1"
 
 
 

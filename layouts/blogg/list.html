@@ -8,7 +8,7 @@
         ================================================== -->
         <section class="recent-posts">            
             <div class="section-title">                
-                <h2><span>Siste innlegg</span></h2>                
+                <h2><span>Siste innlegg innen {{.Title}}</span></h2>                
             </div>            
             <div class="row listrecent">
                 {{ $post_paginator := .Paginate (.Pages) 6 }}
