@@ -8,7 +8,9 @@ ingress = "Tekst som beskriver litt av artikkelen"
 title = "Case #2"
 
 +++
-## The big Whyyyy?
+## The big Why?
+
+### Test 123
 
 I have to admit I am annoyed by CMS systems. All of them require constant care and are usually hard to use. In the past I have tried [Wordpress](http://www.wordpress.com) or [Drupal](http://www.drupal.com) and always found that they kind of work, but once I left it alone for a couple months it got ugly. So I got rid of all these installations after a while.
 
