@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nyheter on Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt</title>
+    <link>https://ignite.no/categories/nyheter/</link>
+    <description>Recent content in Nyheter on Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>no</language>
+    <lastBuildDate>Mon, 27 Aug 2018 13:59:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://ignite.no/categories/nyheter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nye moduler i Ignite Analytics</title>
+      <link>https://ignite.no/blogg/nyheter/nye-moduler-i-ignite-analytics/</link>
+      <pubDate>Mon, 27 Aug 2018 13:59:41 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/nyheter/nye-moduler-i-ignite-analytics/</guid>
+      <description>Våre summer interns har gjort en fantastisk jobb Våre 9 summer interns studerer til vanlig på NTNU og NHH. I sommer har 8 av disse jobbet med å videreutvikle Ignite Analytics som programutviklere, mens den siste har fått prøve seg som konsulent på flere innkjøpsprosjekter. Programutviklerne har hatt ansvar for sine egne moduler med tett støtte fra konsulentene og CTO. Etter flere timer med programmering og koding, kan vi trygt si at resultatene er langt over forventning!</description>
+    </item>
+    
+  </channel>
+</rss>
