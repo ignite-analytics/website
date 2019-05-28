@@ -144,6 +144,11 @@ section.recent-posts {
 }
 h2.card-title > a{
     padding-bottom:.2em;
+    transition:all .3s ease;
+    border-bottom: 4px solid #e9425e;
+}
+h2.card-title > a:hover{
+    padding-bottom:.3em;
 }
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
@@ -828,10 +833,7 @@ iframe {
 }
 @media (min-width: 1200px) {
     .recent-posts{
-        max-width: 1200px;
-    }
-    .container > .row{
-        max-width: 1200px;
+        max-width: 1440px;
     }
 }
 .card-group .card{
@@ -852,7 +854,6 @@ iframe {
 }
 .PageNavigation {
     flex-direction:row;
-    margin: 1.5em 0;
 }
 .PageNavigation > a{
     color:white;
