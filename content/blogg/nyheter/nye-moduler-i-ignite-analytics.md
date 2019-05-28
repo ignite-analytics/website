@@ -1,5 +1,5 @@
 +++
-author = "Andreas"
+author = "Ignite"
 categories = ["Nyheter"]
 date = "2018-08-27T13:59:41+00:00"
 image = "/images/nymoduler.jpeg"
