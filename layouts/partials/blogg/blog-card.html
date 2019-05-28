@@ -14,6 +14,7 @@
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
+                {{if isset .Params "author"}}
                 {{if isset .Site.Data.authors .Params.author}}
                 {{ $author := index $.Site.Data.authors .Params.author}}             
                     <span class="meta-footer-thumb">
@@ -21,6 +22,7 @@
                     </span>                
                     <span class="author-meta">
                     <span class="post-name">{{ $author.title}}</a></span><br/>
+                {{end}}
                 {{end}}
                 <span class="post-date">{{ dateFormat "Jan 2, 2006" .PublishDate }} - {{ math.Round (div (countwords .Content) 220.0) }} min read </span>
                 </span>
