@@ -69,3 +69,5 @@ fields:
   default: []
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
+pages:
+- content/blogg/testartikkel.md
