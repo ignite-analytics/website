@@ -63,6 +63,7 @@ fields:
     - Sigbjorn
     - Tord
     - Valdemar
+    - Ignite
     required: true
 - name: tags
   type: tag_list
