@@ -37,6 +37,8 @@ Dokumenter strategien på en «one-pager» hvor målsetninger dokumenteres — e
 
 Trenger du en mal å ta utgangspunkt i? Last ned vår [**her**](https://www.ignite.no/ignite-academy/resources/kategoristrategi/)**.**
 
+![](/images/malkat.png)
+
 _Interessert i å få vite mer om hvordan Ignite Analytics kan hjelpe deg og din virksomhet? Last ned produktinformasjonen via linken under for å lære mer._
 
-![](/images/malkat.png)
+[![](/images/lastned.png)](https://www.ignite.no/ignite-analytics/produktinformasjon/)
