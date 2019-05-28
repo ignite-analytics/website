@@ -34,3 +34,5 @@ Løsningen vår for strategisk innkjøp, Ignite Analytics, er bygget basert på 
 ***
 
 _Interessert i å få vite mer om hvordan Ignite Analytics kan hjelpe deg og din virksomhet? Last ned produktinformasjonen via linken under for å lære mer._
+
+[![](/images/lastned.png)](https://www.ignite.no/ignite-analytics/produktinformasjon/)
