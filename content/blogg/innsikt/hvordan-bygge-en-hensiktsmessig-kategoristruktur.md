@@ -9,8 +9,6 @@ tags = ["Analytics", "innkjøp", "hensiktsmessig kategoristyring"]
 title = "Hvordan bygge en hensiktsmessig kategoristruktur"
 
 +++
-![](https://cdn-images-1.medium.com/max/800/1*0nvtOQyKH3Vp1IE8fmIOWQ.png)
-
 #### **Hva er innkjøpskategorier?**
 
 En innkjøpskategori, eller kategori, inneholder beslektede typer innkjøp knyttet til kjøp av produkter og/eller tjenester. Hver kategori skal med andre ord understøtte markedets inndeling og dermed fortelle noe om innkjøpet og leverandørmarkedet.
