@@ -79,7 +79,7 @@ logo = "/images/logo.svg"
           url = "/om-oss"
           weight = "1"
 
-      [[languages.no.menu.main]]
+     [[languages.no.menu.main]]
             parent = "selskapet"
             name = "Team"
             identifier = "Team"
@@ -87,7 +87,7 @@ logo = "/images/logo.svg"
             url = "/om-oss/#team"
             weight = "2"
 
-      [[languages.no.menu.main]]
+     [[languages.no.menu.main]]
             parent = "selskapet"
             name = "Karriere"
             identifier = "Karriere"
@@ -164,10 +164,6 @@ logo = "/images/logo.svg"
      url = "/personvernerklæring"
      weight = "1"        
 
-
-
-
-
 [[languages.en.menu.services]]
      name = "Ignite Analytics"
      identifier = "ignite-analytics"
@@ -225,7 +221,7 @@ logo = "/images/logo.svg"
 
 [[languages.en.menu.blogg]]
      name = "Blog"
-    identifier = "blog"
+     identifier = "blog"
      title = "Blog"
      url = "https://medium.com/ignite-procurement"
      weight = "5"
@@ -247,7 +243,7 @@ logo = "/images/logo.svg"
           url = "https://medium.com/ignite-procurement/cases/home"
           weight = "2"  
 
-          [[languages.en.menu.blogg]]
+     [[languages.en.menu.blogg]]
           parent = "blog"
           name = "News"
           identifier = "news"
@@ -262,8 +258,6 @@ logo = "/images/logo.svg"
      title = "kontakt"
      url = "/en/kontakt/"
      weight = "1"
-
-
 
 [[languages.en.menu.btn]]
      name = "Try Ignite Analytics"
