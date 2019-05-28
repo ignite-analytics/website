@@ -2,7 +2,6 @@
 author = "Andreas"
 categories = ["Nyheter"]
 date = "2019-05-28T12:42:11+00:00"
-draft = true
 image = "/images/team.jpg"
 ingress = "Hvorfor er det så viktig å teste?"
 tags = ["test", "viktig", "ignitetest"]
