@@ -26,9 +26,9 @@
     <meta property="og:site_name" content="{{ .Site.Title }}"/>
     <meta property="og:url" content="{{ .Permalink }}"/>
     {{ if .Params.image }}
-    <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.image }}">
+    <meta property="og:image"  content="{{ .Params.image | absURL}}">
     {{ else }}
-    <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.logo }}">
+    <meta property="og:image"  content="{{ .Site.logo | absURL}}">
     {{ end }}
     <meta property="og:locale" content="nb_NO">
     <!-- !! OPEN GRAPH !!-->
@@ -41,9 +41,9 @@
     <meta property="twitter:description" content="{{ .Site.Params.description }}"/>
     {{end}}
     {{ if .Params.image }}
-    <meta name=”twitter:image” content="{{ .Site.BaseURL }}{{ .Params.image }}">
+    <meta name=”twitter:image” content="{{ .Params.image | absURL}}">
     {{ else }}
-    <meta name=”twitter:image” content="{{ .Site.BaseURL }}{{ .Site.logo }}">
+    <meta name=”twitter:image” content="{{ .Site.logo | absURL}}">
     {{ end }}
     <!-- !! Twitter !!-->
 
