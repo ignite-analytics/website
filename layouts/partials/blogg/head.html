@@ -1,0 +1,48 @@
+<head>
+        <meta http-equiv="Content-Type" content="text/html;" charset="utf-8">
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <!-- Google Tag Manager -->
+    {{ if( isset .Params "googleTagManagerId") }}
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],	
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=		
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);		
+        })(window,document,'script','dataLayer',"{{ .Params.googleTagManagerId }}");</script>	
+    {{end}}
+        <!-- End Google Tag Manager -->
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        {{ $options := (dict "targetPath" "style.css" "outputStyle" "compressed" "enableSourceMap" true ) }}
+        {{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options }}
+        <link rel="stylesheet" href="{{ ($style | minify | fingerprint).RelPermalink }}">	
+        
+    <title>{{.Site.Title}} - {{ if .Params.title }}{{ .Params.title | truncate 45}}{{ end }}</title>
+    <!-- OPEN GRAPH-->
+    <meta property="og:type" content="article" />
+    {{ if(isset .Params "ingress") }}
+    <meta property="og:description" content="{{ .Params.ingress | truncate 196}}"/>
+    {{else}}
+    <meta property="og:description" content="{{ .Site.Params.description | truncate 196}}"/>
+    {{end}}
+    <meta property="og:site_name" content="{{ .Site.Title }}"/>
+    <meta property="og:url" content="{{ .Permalink }}"/>
+    {{ if .Params.image }}
+    <meta property="og:image"  content="{{ .Params.image | absURL}}">
+    {{ else }}
+    <meta property="og:image"  content="{{ .Site.logo | absURL}}">
+    {{ end }}
+    <meta property="og:locale" content="nb_NO">
+    <!-- !! OPEN GRAPH !!-->
+
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="shortcut icon" href="/images/icons/favicon.ico">
+    </head>
+    <body>
+    </body>
+          
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    
+    </body>
+    

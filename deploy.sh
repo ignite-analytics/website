@@ -2,11 +2,15 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+ls docs | grep -v CNAME | while read f; do
+	rm -rf "docs/$f"
+done
+
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
-cd public
+cd docs
 # Add changes to git.
 git add .
 
@@ -22,3 +26,4 @@ git push origin master
 
 # Come Back up to the Project Root
 cd ..
+

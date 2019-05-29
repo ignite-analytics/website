@@ -1,0 +1,87 @@
+---
+label: Blogg template
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+  config:
+    required: true
+  default: now
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: ingress
+  label: Ingress
+  config:
+    required: true
+  description: Kort oppsummering / blikkfanger på 1 setning
+- type: file
+  name: image
+  label: image
+- type: list
+  name: categories
+  label: categories
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Innsikt
+    - Cases
+    - Nyheter
+    min: '1'
+    max: '1'
+- type: select
+  name: author
+  label: author
+  description: First name of author with "æøå" as "aoa"
+  hidden: false
+  config:
+    source:
+      type: simple
+      file: authors-toml
+      path: data/
+    options:
+    - Andreas
+    - Bendik
+    - Borge
+    - Frank
+    - Hege
+    - Henrik
+    - Ingeborg
+    - Jon
+    - Kristian
+    - Lars
+    - Martin
+    - Oystein
+    - Rikard
+    - Sander
+    - Sigbjorn
+    - Tord
+    - Valdemar
+    - Ignite
+    required: true
+  default: Ignite
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  description: Her putter du relevante nøkkelord for artikkelen
+pages:
+- content/blogg/nyheter/nye-moduler-i-ignite-analytics.md
+- content/blogg/innsikt/dette-trenger-du-til-en-aksjonsbasert-kategoristrategi.md
+- content/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur.md
+- content/blogg/nyheter/ignite-procurement-kvalifisert-i-achilles-utilities-nce.md
+- content/blogg/nyheter/ignite-lanserer-ny-versjon-av-plattform-for-strategisk-innkjøp.md
+- content/blogg/nyheter/autostore-enters-into-an-agreement-for-the-use-of-ignite-analytics.md
+- content/blogg/nyheter/øystein-nygård-blir-senior-advisor-i-ignite-procurement.md
+- content/blogg/nyheter/optimar-ignite-lisensavtale-for-bruk-av-ignite-analytics.md
+- content/blogg/nyheter/bundebygg-inngår-avtale-for-bruk-av-ignite-analytics.md
+- content/blogg/nyheter/leverandørmodul-basert-på-ignite-analytics-lansert-for-obos-forvaltede-boligselskaper.md
+- content/blogg/nyheter/stortingsmelding-om-offentlige-anskaffelser - digitalisering-og-profesjonalisering.md
+- content/blogg/nyheter/ehf-konferansen-2019 - dagens-teknologi-muliggjør-digitale-anskaffelser.md
+- content/blogg/innsikt/en-praktisk-tilnærming-til-kategoristyring.md

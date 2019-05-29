@@ -548,6 +548,112 @@
   </url>
   
   <url>
+    <loc>https://ignite.no/tags/analytics/</loc>
+    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/blogg/</loc>
+    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/categories/</loc>
+    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur/</loc>
+    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/</loc>
+    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/categories/innsikt/</loc>
+    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/</loc>
+    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/hensiktsmessig-kategoristyring/</loc>
+    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/innkj%C3%B8p/</loc>
+    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/blogg/innsikt/dette-trenger-du-til-en-aksjonsbasert-kategoristrategi/</loc>
+    <lastmod>2019-03-24T15:17:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/kategoristrategi/</loc>
+    <lastmod>2019-03-24T15:17:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/r%C3%A5d/</loc>
+    <lastmod>2019-03-24T15:17:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/strategi/</loc>
+    <lastmod>2019-03-24T15:17:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ignite.no/kontakt/adresse/</loc>
     <lastmod>2019-02-20T13:09:05+01:00</lastmod>
     <xhtml:link
@@ -733,17 +839,17 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/partners/forskningsra%CC%8Adet/</loc>
+    <loc>https://ignite.no/partners/forskningsr%C3%A5det/</loc>
     <lastmod>2019-02-20T10:56:46+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ignite.no/en/partners/forskningsra%CC%8Adet/"
+                href="https://ignite.no/en/partners/forskningsr%C3%A5det/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://ignite.no/partners/forskningsra%CC%8Adet/"
+                href="https://ignite.no/partners/forskningsr%C3%A5det/"
                 />
   </url>
   
@@ -1388,34 +1494,26 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/categories/</loc>
+    <loc>https://ignite.no/tags/modul/</loc>
+    <lastmod>2018-08-27T13:59:41+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/categories/"
-                />
   </url>
   
   <url>
-    <loc>https://ignite.no/</loc>
-    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
+    <loc>https://ignite.no/blogg/nyheter/nye-moduler-i-ignite-analytics/</loc>
+    <lastmod>2018-08-27T13:59:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/categories/nyheter/</loc>
+    <lastmod>2018-08-27T13:59:41+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/"
-                />
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/team/</loc>
+    <lastmod>2018-08-27T13:59:41+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1430,21 +1528,6 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://ignite.no/seksjoner/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ignite.no/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/tags/"
                 />
   </url>
   

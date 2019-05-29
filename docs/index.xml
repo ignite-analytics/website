@@ -6,7 +6,7 @@
     <description>Recent content on Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 20 Feb 2019 13:09:05 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2019 15:30:25 +0000</lastBuildDate>
     
 	<atom:link href="https://ignite.no/index.xml" rel="self" type="application/rss+xml" />
     
@@ -345,6 +345,26 @@
     </item>
     
     <item>
+      <title>Hvordan bygge en hensiktsmessig kategoristruktur</title>
+      <link>https://ignite.no/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur/</link>
+      <pubDate>Wed, 27 Mar 2019 15:30:25 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur/</guid>
+      <description>Hva er innkjøpskategorier? En innkjøpskategori, eller kategori, inneholder beslektede typer innkjøp knyttet til kjøp av produkter og/eller tjenester. Hver kategori skal med andre ord understøtte markedets inndeling og dermed fortelle noe om innkjøpet og leverandørmarkedet.
+Overordnet er det vanlig å splitte mellom direkte og indirekte innkjøp. Direkte innkjøp inkluderer kjøpet som er en direkte del av varen/tjenesten som virksomheter selger videre, mens indirekte er alt annet innkjøp som ikke er direkte relatert.</description>
+    </item>
+    
+    <item>
+      <title>Dette trenger du til en aksjonsbasert kategoristrategi</title>
+      <link>https://ignite.no/blogg/innsikt/dette-trenger-du-til-en-aksjonsbasert-kategoristrategi/</link>
+      <pubDate>Sun, 24 Mar 2019 15:17:17 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/innsikt/dette-trenger-du-til-en-aksjonsbasert-kategoristrategi/</guid>
+      <description>En hensiktsmessig kategoristruktur er en forutsetning for god kategoristyring og strategiarbeid, les mer om hvordan bygge en kategoristruktur her
+1. Start med nåsituasjonen Fremskaff data for historiske innkjøp i kategorien fra deres analyseverktøy eller ERP-system, og gjør en vurdering av nåsituasjonen innenfor den spesifikke kategorien. Spørsmål som bør besvares er størrelse på årlige innkjøp (verdi og volum), kontraktslengder, leverandører og en vurdering av deres viktighet som kunde hos disse. I mange tilfeller er det også nyttig å gjøre en vurdering av hvor viktig kategorien er for din virksomhet, og kompleksiteten i leverandørmarkedet i dag.</description>
+    </item>
+    
+    <item>
       <title>Adresse</title>
       <link>https://ignite.no/kontakt/adresse/</link>
       <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
@@ -375,10 +395,10 @@ Norway</description>
     
     <item>
       <title>Forskningsrådet</title>
-      <link>https://ignite.no/partners/forskningsra%CC%8Adet/</link>
+      <link>https://ignite.no/partners/forskningsr%C3%A5det/</link>
       <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
       
-      <guid>https://ignite.no/partners/forskningsra%CC%8Adet/</guid>
+      <guid>https://ignite.no/partners/forskningsr%C3%A5det/</guid>
       <description></description>
     </item>
     
@@ -614,6 +634,15 @@ Norway</description>
       
       <guid>https://ignite.no/tittel/tjenester-tittel/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Nye moduler i Ignite Analytics</title>
+      <link>https://ignite.no/blogg/nyheter/nye-moduler-i-ignite-analytics/</link>
+      <pubDate>Mon, 27 Aug 2018 13:59:41 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/nyheter/nye-moduler-i-ignite-analytics/</guid>
+      <description>Våre summer interns har gjort en fantastisk jobb Våre 9 summer interns studerer til vanlig på NTNU og NHH. I sommer har 8 av disse jobbet med å videreutvikle Ignite Analytics som programutviklere, mens den siste har fått prøve seg som konsulent på flere innkjøpsprosjekter. Programutviklerne har hatt ansvar for sine egne moduler med tett støtte fra konsulentene og CTO. Etter flere timer med programmering og koding, kan vi trygt si at resultatene er langt over forventning!</description>
     </item>
     
   </channel>
