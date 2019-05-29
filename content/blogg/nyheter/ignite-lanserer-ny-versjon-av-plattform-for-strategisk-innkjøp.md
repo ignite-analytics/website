@@ -2,7 +2,6 @@
 author = "Ignite"
 categories = ["Nyheter"]
 date = "2019-03-20T09:23:02+00:00"
-draft = true
 image = "/images/Lanseringsfest - Børge.jpeg"
 ingress = "14. mars lanserte Ignite Procurement en ny versjon av Ignite Analytics, en digital plattform for strategisk innkjøp, i tillegg til oppdatert grafisk profil — «Ignite 2.0»."
 tags = ["lansering", "OBOS", "StartupLab", "Ignite 2.0"]
