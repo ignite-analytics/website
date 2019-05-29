@@ -14,7 +14,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	
 	
-	<link rel="stylesheet" href="/style.min.1702aaeab29fa9df049ef52ccb6e53991dcb44ed3806d315f396b3a8ed95901f.css">	
+	<link rel="stylesheet" href="/style.min.bc09fb7c66081dc0cafc5dc9c7e8cb566806430834684b6823f09015eaa83584.css">	
 	
 <title>Om oss</title>
 <meta property="og:type" content="website" />
@@ -123,7 +123,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <li class="nav-item nav-right">
                             <a class="nav-link" id="kontakt" href="/kontakt/">Kontakt oss</a>
                         </li>
-                     
                            
 
                     
@@ -161,7 +160,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
            
 
 
-        <section class="navigation">   
+
+
+ <section class="navigation">   
                 <a class="navbar-brand" href="/">
                     <img class="header-logo" src="/images/logo.svg " /> 
                 </a>   
@@ -179,36 +180,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            });
                     </script>     
                     <nav class="overlay-menu">
-                      <ul class="">
-                          
-                            <li class="">
+                      <ul class="overlay-list">
+
+
+
+                       
+                            <li class="overlay-list-item">
                                 <a class="nav-reg" href="/ignite-analytics/">Ignite Analytics</a>
                             </li>
                             
-                            <li class="">
+                            <li class="overlay-list-item">
                                 <a class="nav-reg" href="/ignite-academy/">Ignite Academy</a>
                             </li>
                             
-                            <li class="">
+                            <li class="overlay-list-item">
                                 <a class="nav-reg" href="/ignite-services/">Ignite Services</a>
                             </li>
                             
 
                             
-                            <li class="">
+                            <li class="overlay-list-item">
                                 <a class="nav-reg" href="/om-oss/">Selskapet</a>
                             </li>
-                            
+                             
 
-
-
-                            
-                            <li class="">
+                          
+                            <li class="overlay-list-item">
                                 <a class="nav-reg" href="https://medium.com/ignite-procurement">Blogg</a>
                             </li>
                             
-                            
+                         
+                             
 
+
+                             
+                              
+                             
 
 
                             
@@ -233,7 +240,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             
                             
                             
-                        
                             
                                 
                             
@@ -248,7 +254,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   </nav>
             </div>
           
-        </section>
+        </section> 
+
+        <script>
+                $('.dropdown-el').click(function(e) {
+                   
+                      e.stopPropagation();
+                      $(this).toggleClass('expanded');
+                      $('#'+$(e.target).attr('for')).prop('checked',true);
+                      });
+                      $(document).click(function() {
+                      $('.dropdown-el').removeClass('expanded');
+                      });    
+              </script>
+
     </div>
 </nav>
 
@@ -280,14 +299,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <h4 class="arrow2">VÅRE TJENESTER</h4>
     <svg height="2em" width="30%">
-        <line x1="60%" y1="24" x2="40%" y2="24" style="stroke:#153559;stroke-width:5" />
+        <line x1="60%" y1="24" x2="40%" y2="24" style="stroke:#18243f;stroke-width:5" />
       </svg>
 </div>
 
 
         
 </div>
-<section class="">
+<section class="pt-5">
 <div class="container row">
     
     <article class="servicesblock col-sm-12 col-xl-4 wrap pr-4">            
@@ -313,7 +332,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       
       <div class="modal-content"> 
         
-        <div class="modal-body mb-0 p-0"> 
+        <div class="modal-body mb-0 p-3"> 
            
           <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/post3/ignite-mte-nor?embed=true"></div> 
           <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script> 
@@ -321,7 +340,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div> 
         
         <div class="modal-footer justify-content-center">
-          <button type="button" class="btn btn-outline-primary yellow btn-rounded" data-dismiss="modal">Lukk</button>
+          <button type="button" class="btn btn-outline-primary yellow btn-rounded modal-btn" data-dismiss="modal">Lukk</button>
         </div>
       </div>
       
@@ -355,7 +374,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
     <div class="modal-content">                  
      
-       <div class="modal-body mb-0 p-5">
+       <div class="modal-body mb-0 p-3">
           <h3 class="modalheading">Du er ett skritt nærmere å videreutvikle din innkjøpskompetanse!</h3>
                     
             <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
@@ -369,7 +388,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>                  
        
          <div class="modal-footer justify-content-center">
-            <button type="button" class="btn btn-outline-primary green btn-rounded" data-dismiss="modal">Lukk</button>
+    <button type="button" class="btn btn-outline-primary green btn-rounded modal-btn" data-dismiss="modal">Lukk</button>
           </div>                 
     </div>
                      
@@ -433,7 +452,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       
       <div class="modal-content"> 
         
-        <div class="modal-body mb-0 p-0"> 
+        <div class="modal-body mb-0 p-3"> 
            
           <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/post3/ignite-mte-nor?embed=true"></div> 
           <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script> 
@@ -441,7 +460,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div> 
         
         <div class="modal-footer justify-content-center">
-          <button type="button" class="btn btn-outline-primary yellow btn-rounded" data-dismiss="modal">Lukk</button>
+          <button type="button" class="btn btn-outline-primary yellow btn-rounded modal-btn" data-dismiss="modal">Lukk</button>
         </div>
       </div>
       
@@ -475,7 +494,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
     <div class="modal-content">                  
      
-       <div class="modal-body mb-0 p-5">
+       <div class="modal-body mb-0 p-3">
           <h3 class="modalheading">Du er ett skritt nærmere å videreutvikle din innkjøpskompetanse!</h3>
                     
             <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
@@ -489,7 +508,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>                  
        
          <div class="modal-footer justify-content-center">
-            <button type="button" class="btn btn-outline-primary green btn-rounded" data-dismiss="modal">Lukk</button>
+    <button type="button" class="btn btn-outline-primary green btn-rounded modal-btn" data-dismiss="modal">Lukk</button>
           </div>                 
     </div>
                      
@@ -553,7 +572,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       
       <div class="modal-content"> 
         
-        <div class="modal-body mb-0 p-0"> 
+        <div class="modal-body mb-0 p-3"> 
            
           <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/post3/ignite-mte-nor?embed=true"></div> 
           <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script> 
@@ -561,7 +580,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div> 
         
         <div class="modal-footer justify-content-center">
-          <button type="button" class="btn btn-outline-primary yellow btn-rounded" data-dismiss="modal">Lukk</button>
+          <button type="button" class="btn btn-outline-primary yellow btn-rounded modal-btn" data-dismiss="modal">Lukk</button>
         </div>
       </div>
       
@@ -595,7 +614,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
     <div class="modal-content">                  
      
-       <div class="modal-body mb-0 p-5">
+       <div class="modal-body mb-0 p-3">
           <h3 class="modalheading">Du er ett skritt nærmere å videreutvikle din innkjøpskompetanse!</h3>
                     
             <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
@@ -609,7 +628,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>                  
        
          <div class="modal-footer justify-content-center">
-            <button type="button" class="btn btn-outline-primary green btn-rounded" data-dismiss="modal">Lukk</button>
+    <button type="button" class="btn btn-outline-primary green btn-rounded modal-btn" data-dismiss="modal">Lukk</button>
           </div>                 
     </div>
                      
@@ -672,7 +691,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <h4 class="arrow2">Team</h4>
     <svg height="2em" width="30%">
-        <line x1="60%" y1="24" x2="40%" y2="24" style="stroke:#153559;stroke-width:5" />
+        <line x1="60%" y1="24" x2="40%" y2="24" style="stroke:#18243f;stroke-width:5" />
       </svg>
 </div>
 
@@ -901,46 +920,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     
 </section>
-<div class="container px-2">            
-        <div class="row py-5">
-            <div class="col">      
-                   
-                       
-<div class="container pt-5">
-        
-        
 
-<div class="tittel2">
-
-    <h4 class="arrow2">JOBB HOS OSS</h4>
-    <svg height="2em" width="30%">
-        <line x1="60%" y1="24" x2="40%" y2="24" style="stroke:#153559;stroke-width:5" />
-      </svg>
-</div>
-
-
-        
-</div>
-<div class="row vertical-align py-5">
-    <div class="col-md-6">
-        <div class="main-image-container">
-            <img class="first with-shadow" src="/images/infographics/work.svg">
-        </div>
-    </div>
-    <div class="col-md-6 pr-5 text-center">
-        <h2>Har du lyst til å jobbe med oss?</h2>
-        <h4>Vi ønsker å komme i kontakt med personer som kan styrke vårt team innen konsulenttjenester eller programvareutvikling av vår software</h4>
-        <div class="mt-5">
-            <a class="btn btn-outline-primary btn-lg" href="/karriere/" data-toggle="" data-target="" icon="">Ledige stillinger</a>
-
-
-        </div>
-    </div>
-</div>
-                   
-               </div>
-           </div>
-</div> 
 <div class="container p-3">
         
         
@@ -952,7 +932,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <h4 class="arrow2">PARTNERE</h4>
     <svg height="2em" width="30%">
-        <line x1="60%" y1="24" x2="40%" y2="24" style="stroke:#153559;stroke-width:5" />
+        <line x1="60%" y1="24" x2="40%" y2="24" style="stroke:#18243f;stroke-width:5" />
       </svg>
 </div>
 
@@ -989,7 +969,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <h4 class="arrow2">Sertifiseringer</h4>
     <svg height="2em" width="30%">
-        <line x1="60%" y1="24" x2="40%" y2="24" style="stroke:#153559;stroke-width:5" />
+        <line x1="60%" y1="24" x2="40%" y2="24" style="stroke:#18243f;stroke-width:5" />
       </svg>
 </div>
 
@@ -1016,145 +996,157 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         
     </div>
-<section class="container">
-            
-            
 
-<section class="newsletter">
-  <img class="newsletter-img" src="/images/infographics/newsletter.svg" width="255px;">
-  <div class="newsletter-content">
-        <h2>Meld deg på vårt nyhetsbrev</h2>
-        <h4>Registrer deg for å motta nyheter, oppdateringer og tips fra oss direkte til innboksen din</h4>
-    <div class="">
-          <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script> 
-
-<script> 
-
-  hbspt.forms.create({ 
-
-portalId: "4304957", 
-
-formId: "b46283cb-637c-46a5-8b9c-4cb06bc46bd3" });
-</script> 
-
-    </div>                     
-</section>
-
-            
-</section>
 
         </div>
-        <section id="footer">
-    <div class="container">
-        
-        <div class="row text-center text-xs-center text-sm-left text-md-left">
-                <div class="footer-col col-xs-12 col-sm-6 col-md-3 col-lg-2">
-                    <h4 class="white">Tjenester</h4>
-                               <ul class="footer-list list-unstyled quick-links">
-                                   
-                                   
-                                   <li><a href="/ignite-analytics/"></i>Ignite Analytics</a></li>
-                                   
-                                   <li><a href="/ignite-academy/"></i>Ignite Academy</a></li>
-                                   
-                                   <li><a href="/ignite-services/"></i>Ignite Services</a></li>
-                                   
-                               </ul>
-                           </div>
-
-
-
-            <div class="footer-col col-xs-12 col-sm-6 col-md-3 col-lg-2">
-                <h4 class="white">Ta kontakt</h4>
-                <ul class="footer-list list-unstyled quick-links">
-                    
-                   
-                     
-                        <li><a href="#" data-toggle="modal" data-target="#modalbooknor">Prøv Ignite Analytics</a></li>
-                    
-                    
-                    <li><a href="#" data-toggle="modal" data-target="#modalbooknorw">Book møte</a></li>
-                
-                
-                <li><a href="/kontakt/"></i>Kontakt oss</a></li>
-                 
-                </ul>
-            </div>
+        <section class="actionblock">
 
      
+     
+<section class="actionblock">
+      <div class="container">
+                  <a class="btn btn-primary action-btn" href="" data-toggle="modal" data-target="#modalbooknor" icon="">Prøv Ignite Analytics</a>
 
-            <div class="footer-col col-xs-12 col-sm-6 col-md-3 col-lg-2">
-                <h4 class="white">Blogg</h4>
-                 <ul class="footer-list list-unstyled quick-links">
-                 
-                    
-                        
-                        <li><a href="https://medium.com/ignite-procurement/insight/home"></i>Innsikt</a></li>
-                        
-                        <li><a href="https://medium.com/ignite-procurement/cases/home"></i>Caser</a></li>
-                        
-                        <li><a href="https://medium.com/ignite-procurement/news/home"></i>Nyheter</a></li>
-                        
-                    </li>
  
-                    
-                    
-                </ul>
-                
-            </div>
-
-
-            
-             <div class="footer-col col-xs-12 col-sm-6 col-md-3 col-lg-2">
-                 <h4 class="white">Selskapet</h4>
-                 <ul class="footer-list list-unstyled quick-links">
-                 
-                    
-                        
-                        <li><a href="/om-oss"></i>Om oss</a></li>
-                        
-                        <li><a href="/om-oss/#team"></i>Team</a></li>
-                        
-                        <li><a href="/karriere"></i>Karriere</a></li>
-                        
-                    </li>
- 
-                    
-                    
-                </ul>
-             </div>      
-
-
-
-<div class="footer-col footer-social col-xs-12 col-sm-12 col-md-12 col-lg-3">
-        
-        <img class="footer-logo center" src="/images/logo-Lys.svg">            
-        
-        <div class="footer-icons">
-            <a href="https://medium.com/ignite-procurement" target="_blank"><i class="fab fa-medium-m red"></i></a>
-            <a href="https://www.instagram.com/ignite.procurement/" target="_blank"><i class="fab red fa-instagram"></i></a>
-            <a href="https://www.facebook.com/igniteprocurement" target="_blank"><i class="fab red fa-facebook-f"></i></a>
-            <a href="https://www.linkedin.com/company/ignite-procurement/" target="_blank"><i class="fab red fa-linkedin-in"></i></a>
-        </div>
-</div> 
-</div>
-
-</div>
-<div class="privacy-container">
-    <div class="row privacy-block">
-            <div class="col-12 text-center inline">
-                
-                    
-                    
-                        <a class="inline-footer" href="/personvernerkl%C3%A6ring"></i>Personvernerklæring</a>
-                    
-               
-            </div>
-            
-    </div>
-</div>
-    
+      </div>                  
 </section>
+
+       
+
+</section>
+<section id="footer">
+    
+        <div class="container">
+            
+            <div class="row text-center text-xs-center text-sm-left text-md-left">
+                    <div class="footer-col col-xs-12 col-sm-6 col-md-2">
+                        <h4 class="white">Tjenester</h4>
+                                   <ul class="footer-list list-unstyled quick-links">
+                                       
+                                       
+                                       <li><a href="/ignite-analytics/"></i>Ignite Analytics</a></li>
+                                       
+                                       <li><a href="/ignite-academy/"></i>Ignite Academy</a></li>
+                                       
+                                       <li><a href="/ignite-services/"></i>Ignite Services</a></li>
+                                       
+                                   </ul>
+                               </div>
+    
+    
+    
+                <div class="footer-col col-xs-12 col-sm-6 col-md-2">
+                    <h4 class="white">Ta kontakt</h4>
+                    <ul class="footer-list list-unstyled quick-links">
+                        
+                       
+                         
+                            <li><a href="#" data-toggle="modal" data-target="#modalbooknor">Prøv Ignite Analytics</a></li>
+                        
+                        
+                        <li><a href="#" data-toggle="modal" data-target="#modalbooknorw">Book møte</a></li>
+                    
+                    
+                    <li><a href="/kontakt/"></i>Kontakt oss</a></li>
+                     
+                    </ul>
+                </div>
+    
+         
+    
+                <div class="footer-col col-xs-12 col-sm-6 col-md-2 ">
+                    <h4 class="white">Blogg</h4>
+                     <ul class="footer-list list-unstyled quick-links">
+                     
+                        
+                            
+                            <li><a href="https://medium.com/ignite-procurement/insight/home"></i>Innsikt</a></li>
+                            
+                            <li><a href="https://medium.com/ignite-procurement/cases/home"></i>Caser</a></li>
+                            
+                            <li><a href="https://medium.com/ignite-procurement/news/home"></i>Nyheter</a></li>
+                            
+                        </li>
+     
+                        
+                        
+                    </ul>
+                    
+                </div>
+    
+    
+                
+                 <div class="footer-col col-sm-6 col-md-2 ">
+                     <h4 class="white">Selskapet</h4>
+                     <ul class="footer-list list-unstyled quick-links">
+                     
+                        
+                            
+                            <li><a href="/om-oss"></i>Om oss</a></li>
+                            
+                            <li><a href="/om-oss/#team"></i>Team</a></li>
+                            
+                            <li><a href="/karriere"></i>Karriere</a></li>
+                            
+                        </li>
+     
+                        
+                        
+                    </ul>
+                 </div>  
+                 
+                 <div class="footer-col col-xs-12 col-md-4">
+                        <h4 class="white">Meld deg på vårt nyhetsbrev</h4>
+                        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+
+                        <script>
+                        hbspt.forms.create({
+                        portalId: "4304957",
+                        formId: "96ba9b93-a175-4a67-aaeb-b787ee63797c" });
+                        </script>
+           
+                </div>   
+                 
+    
+    
+    
+
+    </div> 
+    </div>
+    <div class="footer-social col-12">
+            
+            <img class="footer-logo center" src="/images/logo.svg">            
+            
+            <div class="footer-icons">
+                <a href="https://medium.com/ignite-procurement" target="_blank"><i class="fab fa-medium-m red"></i></a>
+                <a href="https://www.instagram.com/ignite.procurement/" target="_blank"><i class="fab red fa-instagram"></i></a>
+                <a href="https://www.facebook.com/igniteprocurement" target="_blank"><i class="fab red fa-facebook-f"></i></a>
+                <a href="https://www.linkedin.com/company/ignite-procurement/" target="_blank"><i class="fab red fa-linkedin-in"></i></a>
+            </div>
+    </div> 
+    </div>
+    <div class="privacy-container">
+        <div class="row privacy-block">
+                <div class="col-12 text-center inline">
+                    
+                        
+                        
+                            <a class="inline-footer" href="/personvernerkl%C3%A6ring"></i>Personvernerklæring</a>
+                        
+                   
+                </div>
+                
+        </div>
+    </div>
+        
+    </section>
+
+
+
+
+
+
+
 
 
 <div class="modal fade" id="modalbooknor" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -1162,7 +1154,7 @@ formId: "b46283cb-637c-46a5-8b9c-4cb06bc46bd3" });
       
       <div class="modal-content">  
         
-        <div class="modal-body mb-0 p-5"> 
+        <div class="modal-body mb-0 p-3"> 
             
            <h3 class="modalheading">Du er ett skritt nærmere å frigjøre din tid og forbedre lønnsomheten for din virksomhet!</h3>
             
@@ -1181,7 +1173,7 @@ formId: "b46283cb-637c-46a5-8b9c-4cb06bc46bd3" });
         </div> 
         
         <div class="modal-footer justify-content-center">
-          <button type="button" class="btn btn-outline-primary btn-rounded btn-md" data-dismiss="modal">Lukk</button> 
+          <button type="button" class="btn btn-outline-primary btn-rounded btn-md modal-btn" data-dismiss="modal">Lukk</button> 
         </div> 
       </div>
        
@@ -1222,7 +1214,7 @@ formId: "b46283cb-637c-46a5-8b9c-4cb06bc46bd3" });
       
       <div class="modal-content"> 
         
-        <div class="modal-body mb-0 p-0"> 
+        <div class="modal-body mb-0 p-3"> 
            
           <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/post3/ignite-mte-nor?embed=true"></div> 
           <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script> 
@@ -1230,7 +1222,7 @@ formId: "b46283cb-637c-46a5-8b9c-4cb06bc46bd3" });
         </div> 
         
         <div class="modal-footer justify-content-center">
-          <button type="button" class="btn btn-outline-primary yellow btn-rounded" data-dismiss="modal">Lukk</button>
+          <button type="button" class="btn btn-outline-primary yellow btn-rounded modal-btn" data-dismiss="modal">Lukk</button>
         </div>
       </div>
       
@@ -1263,7 +1255,7 @@ formId: "b46283cb-637c-46a5-8b9c-4cb06bc46bd3" });
     
     <div class="modal-content">                  
      
-       <div class="modal-body mb-0 p-5">
+       <div class="modal-body mb-0 p-3">
           <h3 class="modalheading">Du er ett skritt nærmere å videreutvikle din innkjøpskompetanse!</h3>
                     
             <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
@@ -1277,7 +1269,7 @@ formId: "b46283cb-637c-46a5-8b9c-4cb06bc46bd3" });
         </div>                  
        
          <div class="modal-footer justify-content-center">
-            <button type="button" class="btn btn-outline-primary green btn-rounded" data-dismiss="modal">Lukk</button>
+    <button type="button" class="btn btn-outline-primary green btn-rounded modal-btn" data-dismiss="modal">Lukk</button>
           </div>                 
     </div>
                      
