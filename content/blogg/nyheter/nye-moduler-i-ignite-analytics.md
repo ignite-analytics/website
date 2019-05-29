@@ -3,16 +3,12 @@ author = "Ignite"
 categories = ["Nyheter"]
 date = "2018-08-27T13:59:41+00:00"
 image = "/images/nymoduler.jpeg"
-ingress = "I sommer har vi i Ignite hatt gleden av å ha hele 9 summer interns på plass,hvor hovedfokuset har vært å videreutvikle vår plattform"
-tags = ["Team", "Modul", "Analytics"]
+ingress = "I sommer har vi i Ignite hatt gleden av å ha hele 9 summer interns på plass, hvor hovedfokuset har vært å videreutvikle vår plattform (Ignite Analytics) for å hjelpe til i arbeidet med strategisk innkjøp og kategoristyring. Dette er en webbasert plattform som støtter innkjøpsprosessen — fra analyse til implementering og oppfølging."
+tags = ["Team", "Modul", "Internships"]
 title = "Nye moduler i Ignite Analytics"
 
 +++
-#### **Våre summer interns har gjort en fantastisk jobb**
-
-Våre 9 summer interns studerer til vanlig på NTNU og NHH. I sommer har 8 av disse jobbet med å videreutvikle Ignite Analytics som programutviklere, mens den siste har fått prøve seg som konsulent på flere innkjøpsprosjekter. Programutviklerne har hatt ansvar for sine egne moduler med tett støtte fra konsulentene og CTO. Etter flere timer med programmering og koding, kan vi trygt si at resultatene er langt over forventning!
-
-#### Flere nye moduler i Ignite Analytics
+#### Våre summer interns har gjort en fantastisk jobb
 
 Våre 9 summer interns studerer til vanlig på NTNU og NHH. I sommer har 8 av disse jobbet med å videreutvikle Ignite Analytics som programutviklere, mens den siste har fått prøve seg som konsulent på flere innkjøpsprosjekter. Programutviklerne har hatt ansvar for sine egne moduler med tett støtte fra konsulentene og CTO. Etter flere timer med programmering og koding, kan vi trygt si at resultatene er langt over forventning!
 
