@@ -549,13 +549,13 @@
   
   <url>
     <loc>https://ignite.no/blogg/</loc>
-    <lastmod>2019-04-15T10:09:28+00:00</lastmod>
+    <lastmod>2019-04-23T10:12:51+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ignite.no/categories/</loc>
-    <lastmod>2019-04-15T10:09:28+00:00</lastmod>
+    <lastmod>2019-04-23T10:12:51+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -570,14 +570,8 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/tags/ignite-analytics/</loc>
-    <lastmod>2019-04-15T10:09:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ignite.no/</loc>
-    <lastmod>2019-04-15T10:09:28+00:00</lastmod>
+    <lastmod>2019-04-23T10:12:51+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -592,7 +586,18 @@
   </url>
   
   <url>
+    <loc>https://ignite.no/blogg/nyheter/leverand%C3%B8rmodul-basert-p%C3%A5-ignite-analytics-lansert-for-obos-forvaltede-boligselskaper/</loc>
+    <lastmod>2019-04-23T10:12:51+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ignite.no/categories/nyheter/</loc>
+    <lastmod>2019-04-23T10:12:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/ignite-analytics/</loc>
     <lastmod>2019-04-15T10:09:28+00:00</lastmod>
     <priority>0</priority>
   </url>
