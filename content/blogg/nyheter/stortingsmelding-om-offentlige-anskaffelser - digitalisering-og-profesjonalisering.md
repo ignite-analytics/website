@@ -17,19 +17,19 @@ Nærings- og fiskeridepartementet kom 10. april med en Stortingsmelding om offen
 
 Stortingsmeldingen tar opp mange viktige temaer og problemstillinger knyttet til offentlige anskaffelser — flere av disse like relevante mot private virksomheter. Regjeringen retter fokus mot fire spesielt viktige områder som vi ønsker å belyse nærmere.
 
-#### **1.** **Behov for profesjonalisering av innkjøpsfunksjonen**
+#### 1. Behov for profesjonalisering av innkjøpsfunksjonen
 
 Noen av dagens største utfordringer skyldes mangelfull styring og ledelse, samt manglende ressurser og kompetanse. Totalt er det om lag 3.000 offentlige oppdragsgivere i Norge.
 
-> Dagens innkjøpssystem er for fragmentert. Vi trenger mer kompetanse og mer profesjonalitet for å lykkes. De lederne som ikke skjønner og tar konsekvensen av hvilken nytte anskaffelser har for deres virksomhet, har ikke forstått hva ledelsesansvar er, sier Røe Isaksen.
+> _Dagens innkjøpssystem er for fragmentert. Vi trenger mer kompetanse og mer profesjonalitet for å lykkes. De lederne som ikke skjønner og tar konsekvensen av hvilken nytte anskaffelser har for deres virksomhet, har ikke forstått hva ledelsesansvar er, sier Røe Isaksen._
 
 Stortingsmeldingen er tydelig på at det ligger et stort potensial i å profesjonalisere innkjøpsfunksjonen hos offentlige virksomheter. Profesjonaliseringen må skje gjennom et forsterket ledelsesfokus, mer bruk av digitale verktøy og videreutvikling av kompetanse hos innkjøpsfunksjonen. Økt profesjonalisering i offentlige anskaffelser vil bidra til at offentlige midler blir brukt mest mulig effektivt. Samtidig trekkes det frem at en profesjonell innkjøpsfunksjon er et viktig virkemiddel for å unngå korrupsjon, sikre innovasjon og at viktige samfunnshensyn — som miljø, læringsplasser og sosialt ansvar — blir ivaretatt.
 
 Basert på vår erfaring som konsulenter innenfor innkjøpsområdet, og på tvers av flere bransjer, deler vi synet om at det investeres for lite i innkjøp når det gjelder kompetanse, kapasitet og verktøy. Vi mener innkjøp som fagfelt fortjener en høyere status og prioritering med bakgrunn i i) hvor stor andel av kostnadene som er innkjøpsrelaterte og ii) hvor mye en profesjonell innkjøpsfunksjon kan bidra med for å oppnå virksomhetens overordnede mål. Les mer om våre erfaringer og observasjoner knyttet til innkjøp [**her**](https://medium.com/ignite-procurement/det-investeres-for-lite-i-innkj%C3%B8psfunksjonen-1889559f2d73).
 
-#### **2.** En h**eldigitalisert anskaffelsesprosess innen 2024**
+#### 2. En heldigitalisert anskaffelsesprosess innen 2024
 
-> Alle offentlige virksomheter skal innen utgangen av 2024 bruke digitale verktøy gjennom hele anskaffelsesprosessen, fortsetter Røe Isaksen.
+> _Alle offentlige virksomheter skal innen utgangen av 2024 bruke digitale verktøy gjennom hele anskaffelsesprosessen, fortsetter Røe Isaksen._
 
 I stortingsmeldingen fremheves det at digitalisering av anskaffelsesprosessen kan bidra til betydelige produktivitetsforbedringer og en mer effektiv ressursbruk, samt legge til rette for bedre og mer nyttig styringsinformasjon. Regjeringen har allerede igangsatt et arbeid mot målet om en heldigitalisert anskaffelsesprosess. Arbeidet utføres primært i Difi, gjennom «Program for digitale anskaffelser».
 
@@ -37,17 +37,15 @@ Fra vårt perspektiv er det utelukkende positivt at det offentlige nå retter s�
 
 Eksempelvis benytter knapt 30 % av offentlige virksomheter digitale verktøy til analyser — en kritisk forutsetning for god oppfølging, kategoristyring og strategiarbeid.
 
-![](https://cdn-images-1.medium.com/max/800/1*LiKg3TWgdOzl63RDlyh3qw.png)
+![Bruk av digitale verktøy i offentlige anskaffelser. Kilde: EHF-konferansen 2019, Difi](https://cdn-images-1.medium.com/max/800/1*LiKg3TWgdOzl63RDlyh3qw.png)
 
-Bruk av digitale verktøy i offentlige anskaffelser. Kilde: EHF-konferansen 2019, Difi
+#### 3. Potensial for å utnytte innkjøpsdata til å ta bedre beslutninger
 
-#### **3.** **Potensial for å utnytte innkjøpsdata til å ta bedre beslutninger**
+> _Bedre statistikk og tallgrunnlag er avgjørende for å oppnå effektivisering av offentlige innkjøp, og i dag vet vi rett og slett for lite om hva som kjøpes inn av hvem, og virksomheten trenger bedre tallgrunnlag for å kunne styre innkjøpene på en god måte, poengterer Røe Isaksen._
 
-> Bedre statistikk og tallgrunnlag er avgjørende for å oppnå effektivisering av offentlige innkjøp, og i dag vet vi rett og slett for lite om hva som kjøpes inn av hvem, og virksomheten trenger bedre tallgrunnlag for å kunne styre innkjøpene på en god måte, poengterer Røe Isaksen.
+Difis modenhetsundersøkelse viser at kun 18 prosent av offentlige virksomheter har utarbeidet måleindikatorer for oppfølging av innkjøpsvirksomheten. Samtidig får Norge null poeng i [_The Global Open Index 2016/2017_](https://index.okfn.org/) i kategorien «tilgang til data om offentlige utgifter» som følge av at innkjøpsdata er lite tilgjengelig. Disse to undersøkelsene illustrerer hvilket enormt forbedringspotensial som ligger i å bruke data til å ta bedre styringsbeslutninger, samtidig som man sikrer tillit i befolkningen til at offentlige midler blir brukt mest mulig effektivt.
 
-Difis modenhetsundersøkelse viser at kun 18 prosent av offentlige virksomheter har utarbeidet måleindikatorer for oppfølging av innkjøpsvirksomheten. Samtidig får Norge null poeng i _The Global Open Index 2016/2017_ i kategorien «tilgang til data om offentlige utgifter» som følge av at innkjøpsdata er lite tilgjengelig. Disse to undersøkelsene illustrerer hvilket enormt forbedringspotensial som ligger i å bruke data til å ta bedre styringsbeslutninger, samtidig som man sikrer tillit i befolkningen til at offentlige midler blir brukt mest mulig effektivt.
-
-#### **4.** **Mulighet for mer samordning av offentlig innkjøp**
+#### 4. Mulighet for mer samordning av offentlig innkjøp
 
 > Samordning kan bidra til å styrke kompetansen og gi mindre oppdragsgivere tilgang til sterke fagmiljøer når dette er nødvendig, sier Røe Isaksen.
 
@@ -62,9 +60,3 @@ Et viktig steg på veien mot samordning er å styrke transparensen og dele erfar
 _Ignite Analytics profesjonaliserer og effektiviserer den strategiske innkjøpsprosessen gjennom analyser, muligheter og risikoer, KGV og KAV — alt i èn digital, nettbasert plattform. Finn ut hvordan plattformen kan hjelpe deg til en forenklet hverdag og forbedret lønnsomhet!_
 
 [![](https://cdn-images-1.medium.com/max/800/1*wNfW3gtCL-EO9XYJOYYSnQ.png)](https://www.ignite.no/ignite-analytics/demo/)
-
-* [News](https://medium.com/tag/news?source=post)
-* [Insight](https://medium.com/tag/insights?source=post)
-* [Procurement](https://medium.com/tag/procurement?source=post)
-* [Strategic Sourcing](https://medium.com/tag/strategic-sourcing?source=post)
-* [Procurement Software](https://medium.com/tag/procurement-software?source=post)
