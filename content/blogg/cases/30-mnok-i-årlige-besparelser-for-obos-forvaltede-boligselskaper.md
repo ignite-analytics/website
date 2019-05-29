@@ -73,10 +73,4 @@ Pilotprosjektet viser det enorme potensialet som ligger i å ha en strukturert o
 
 ![Eiliv Mæhle Liljevik, avdelingsdirektør for strategi og IKT i OBOS, her på plass under lanseringsfesten vår i mars.](https://cdn-images-1.medium.com/max/800/1*fieHvV7mbXVl4RqUTsEYgA.jpeg)
 
-OBOS lanserte 2. april en egen leverandørmodul i deres nettportal for styremedlemmene kalt Styrerommet. Leverandørmodulen er bygget på vår plattform Ignite Analytics — tilpasset styremedlemmene sine behov og OBOS sitt design. Du kan lese mer om lanseringen [her](https://medium.com/ignite-procurement/leverand%C3%B8rmodul-basert-p%C3%A5-ignite-analytics-lansert-for-obos-forvaltede-boligselskaper-4983aff93873)!
-
-***
-
-_Finn ut hvordan Ignite Analytics kan hjelpe deg med å frigjøre tid og forbedre lønnsomheten for din virksomhet!_
-
-[![](https://cdn-images-1.medium.com/max/800/1*wNfW3gtCL-EO9XYJOYYSnQ.png)](https://www.ignite.no/ignite-analytics/demo/)
+OBOS lanserte 2. april en egen leverandørmodul i deres nettportal for styremedlemmene kalt Styrerommet. Leverandørmodulen er bygget på vår plattform Ignite Analytics — tilpasset styremedlemmene sine behov og OBOS sitt design. Du kan lese mer om lanseringen [her](https://www.ignite.no/blogg/nyheter/leverand%C3%B8rmodul-basert-p%C3%A5-ignite-analytics-lansert-for-obos-forvaltede-boligselskaper/)!
