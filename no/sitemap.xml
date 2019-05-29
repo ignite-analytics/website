@@ -549,24 +549,13 @@
   
   <url>
     <loc>https://ignite.no/blogg/</loc>
-    <lastmod>2019-05-14T10:43:58+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ignite.no/blogg/nyheter/bundebygg-inng%C3%A5r-avtale-for-bruk-av-ignite-analytics/</loc>
-    <lastmod>2019-05-14T10:43:58+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ignite.no/tags/bundebygg/</loc>
-    <lastmod>2019-05-14T10:43:58+00:00</lastmod>
+    <lastmod>2019-05-14T14:20:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ignite.no/categories/</loc>
-    <lastmod>2019-05-14T10:43:58+00:00</lastmod>
+    <lastmod>2019-05-14T14:20:54+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -582,7 +571,7 @@
   
   <url>
     <loc>https://ignite.no/</loc>
-    <lastmod>2019-05-14T10:43:58+00:00</lastmod>
+    <lastmod>2019-05-14T14:20:54+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -597,14 +586,19 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/categories/nyheter/</loc>
-    <lastmod>2019-05-14T10:43:58+00:00</lastmod>
+    <loc>https://ignite.no/categories/innsikt/</loc>
+    <lastmod>2019-05-14T14:20:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://ignite.no/blogg/innsikt/seks-tips-til-gode-forhandlinger/</loc>
+    <lastmod>2019-05-14T14:20:54+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ignite.no/tags/</loc>
-    <lastmod>2019-05-14T10:43:58+00:00</lastmod>
+    <lastmod>2019-05-14T14:20:54+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -619,7 +613,42 @@
   </url>
   
   <url>
+    <loc>https://ignite.no/tags/analyser/</loc>
+    <lastmod>2019-05-14T14:20:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/forhandlinger/</loc>
+    <lastmod>2019-05-14T14:20:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ignite.no/tags/ignite-analytics/</loc>
+    <lastmod>2019-05-14T14:20:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/tips/</loc>
+    <lastmod>2019-05-14T14:20:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/blogg/nyheter/bundebygg-inng%C3%A5r-avtale-for-bruk-av-ignite-analytics/</loc>
+    <lastmod>2019-05-14T10:43:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/bundebygg/</loc>
+    <lastmod>2019-05-14T10:43:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/categories/nyheter/</loc>
     <lastmod>2019-05-14T10:43:58+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -627,12 +656,6 @@
   <url>
     <loc>https://ignite.no/blogg/innsikt/innkj%C3%B8p-et-uforl%C3%B8st-potensial-i-ditt-selskap/</loc>
     <lastmod>2019-05-13T14:16:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ignite.no/categories/innsikt/</loc>
-    <lastmod>2019-05-13T14:16:33+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
