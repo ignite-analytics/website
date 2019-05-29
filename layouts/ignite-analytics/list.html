@@ -39,5 +39,12 @@
   
          </section>
 </section>
+<section class="actionblock">
+
+                {{ with .Site.GetPage "actionblock" }}
+                {{ partial "sections/actionblock.html" . }}
+                {{ end }}  
+           
+</section>
 
 {{ end }}
