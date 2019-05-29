@@ -549,13 +549,13 @@
   
   <url>
     <loc>https://ignite.no/blogg/</loc>
-    <lastmod>2019-04-29T10:19:22+00:00</lastmod>
+    <lastmod>2019-05-08T10:29:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ignite.no/categories/</loc>
-    <lastmod>2019-04-29T10:19:22+00:00</lastmod>
+    <lastmod>2019-05-08T10:29:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -570,8 +570,31 @@
   </url>
   
   <url>
+    <loc>https://ignite.no/tags/difi/</loc>
+    <lastmod>2019-05-08T10:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/ehf/</loc>
+    <lastmod>2019-05-08T10:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/ehf-konferansen/</loc>
+    <lastmod>2019-05-08T10:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/blogg/nyheter/ehf-konferansen-2019-dagens-teknologi-muliggj%C3%B8r-digitale-anskaffelser/</loc>
+    <lastmod>2019-05-08T10:29:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ignite.no/</loc>
-    <lastmod>2019-04-29T10:19:22+00:00</lastmod>
+    <lastmod>2019-05-08T10:29:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -587,7 +610,47 @@
   
   <url>
     <loc>https://ignite.no/categories/nyheter/</loc>
-    <lastmod>2019-04-29T10:19:22+00:00</lastmod>
+    <lastmod>2019-05-08T10:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/</loc>
+    <lastmod>2019-05-08T10:29:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/anskaffelser/</loc>
+    <lastmod>2019-05-08T10:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/digitaliseringsprogram/</loc>
+    <lastmod>2019-05-08T10:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/offentlige-anskaffelser/</loc>
+    <lastmod>2019-05-08T10:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/stortingsmelding/</loc>
+    <lastmod>2019-05-08T10:29:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -603,22 +666,6 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/tags/</loc>
-    <lastmod>2019-04-29T10:19:22+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ignite.no/tags/torbj%C3%B8rn-r%C3%B8e-isaksen/</loc>
     <lastmod>2019-04-29T10:19:22+00:00</lastmod>
     <priority>0</priority>
@@ -631,19 +678,7 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/tags/offentlige-anskaffelser/</loc>
-    <lastmod>2019-04-29T10:19:22+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ignite.no/tags/smartere-innkj%C3%B8p/</loc>
-    <lastmod>2019-04-29T10:19:22+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ignite.no/tags/stortingsmelding/</loc>
     <lastmod>2019-04-29T10:19:22+00:00</lastmod>
     <priority>0</priority>
   </url>
