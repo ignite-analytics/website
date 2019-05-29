@@ -570,12 +570,6 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/tags/ignite-analytics/</loc>
-    <lastmod>2019-04-23T10:12:51+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ignite.no/</loc>
     <lastmod>2019-04-23T10:12:51+00:00</lastmod>
     <priority>0</priority>
@@ -632,6 +626,12 @@
   
   <url>
     <loc>https://ignite.no/tags/avtalestyring/</loc>
+    <lastmod>2019-04-23T10:12:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/ignite-analytics/</loc>
     <lastmod>2019-04-23T10:12:51+00:00</lastmod>
     <priority>0</priority>
   </url>
