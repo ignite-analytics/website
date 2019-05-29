@@ -49,19 +49,6 @@
                 {{ end }}
          </div>
 </div>
-<section class="container">
-        {{ with .Site.GetPage "newsletter" }}
-        {{ partial "sections/newsletter.html" . }}
-        {{ end }}
- </section>
-<div class="container px-2">            
- <div class="row py-5">
-     <div class="col">      
-            {{ with .Site.GetPage "karrierebanner" }}
-                {{ partial "sections/karrierebanner.html" . }}
-            {{ end }}
-        </div>
-    </div>
-</div>   
+ 
 {{ end }}
 

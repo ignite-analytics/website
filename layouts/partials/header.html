@@ -72,7 +72,6 @@
                         <li class="nav-item nav-right">
                             <a class="nav-link" id="kontakt" href="{{ .URL }}">{{ .Name }}</a>
                         </li>
-                     
                         {{ end }}   
 
                     {{ range .Site.Menus.btn}}
@@ -108,7 +107,9 @@
            
 <!--    DROPDOWN MENU -->
 
-        <section class="navigation">   
+
+
+ <section class="navigation">   
                 <a class="navbar-brand" href="/">
                     <img class="header-logo" src="{{ $.Site.Params.logo }} " /> 
                 </a>   
@@ -126,96 +127,84 @@
                            });
                     </script>     
                     <nav class="overlay-menu">
-                      <ul class="">
-                          {{ range .Site.Menus.services}}
-                            <li class="">
+                      <ul class="overlay-list">
+
+
+
+                       {{ range .Site.Menus.services}}
+                            <li class="overlay-list-item">
                                 <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
                             </li>
                             {{ end }}
 
                             {{ range .Site.Menus.main}}
-                            <li class="">
+                            <li class="overlay-list-item">
+                                <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
+                            </li>
+                            {{ end }} 
+
+                          {{ range .Site.Menus.blogg}}
+                            <li class="overlay-list-item">
                                 <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
                             </li>
                             {{ end }}
-<!-- 
-                            {{ range .Site.Menus.main }}
-                            {{ if .HasChildren }}
-                            <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle"  href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
-                                aria-expanded="false">
-                                {{ .Name }}
-                            </a>
-                            <div class="dropdown-menu small" aria-labelledby="navbarDropdown">
-                                {{ range .Children }}
-                                <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
+                         
+                             
+
+
+                             
+                              
+                             <!-- {{ range .Site.Menus.analytics }}
+                             <ul class="small-menu-ul">
+                                    <li class="small-menu-li"><a href="{{ .URL }}"></i>{{ .Name }}</a></li>
+                                    {{ end }}
+                                   
+
+                             <span class="dropdown-el">
+                                    <h4 id="menu-h4">{{ i18n "andre tjenester" }}</h4>
+                                    <ul class="small-menu-ul">
+                                        {{ $currentPage := . }}
+                                        {{ range .Site.Menus.services }}
+                                        <li class="small-menu-li"><a href="{{ .URL }}"></i>{{ .Name }}</a></li>
+                                        {{ end }}
+                                    </ul>
+         
+                                  </span>
+                            <span class="dropdown-el">
+                             <h4 id="menu-h4">{{ i18n "selskapet" }}</h4>
+                             <ul class="small-menu-ul">
+                             {{ range .Site.Menus.main }}
+                                {{ if .HasChildren }}
+                                    {{ range .Children }}
+                                    <li class="small-menu-li"><a href="{{ .URL }}"></i>{{ .Name }}</a></li>
+                                    {{ end }}
+                                </li>
                                 {{ end }}
-                            </div>
-                            </li>
-                            {{ else }}
-                            <li class="nav-item">
-                                <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
-                            </li>
-                            {{ end }}
-                            {{ end }} -->
+                                {{ end }}
+                            </ul>
+                        </span>
+                        <span class="dropdown-el">
+                                <h4 id="menu-h4">{{ i18n "blogg" }}</h4>
+                                <ul class="small-menu-ul">
+                                {{ range .Site.Menus.blogg }}
+                                   {{ if .HasChildren }}
+                                       {{ range .Children }}
+                                       <li class="small-menu-li"><a href="{{ .URL }}"></i>{{ .Name }}</a></li>
+                                       {{ end }}
+                                   </li>
+                
+                                   {{ end }}
+                                   {{ end }}
+                               </ul>
+                        </span>
+                        {{ range .Site.Menus.kontakt}}
+                        <li class="small-menu-li">
+                            <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
+                        </li>
+                        {{ end }}
+          
 
-
-                            {{ range .Site.Menus.blogg}}
-                            <li class="">
-                                <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
-                            </li>
-                            {{ end }}
-                            
-<!--                     {{ range .Site.Menus.main}}
-                    {{ if .HasChildren }}
-                    <div id="accordion">
-                        <div class="menu-card">
-                                <div class="nav-item" role="button" >
-                                    <li>      
-                                        <a class="nav-reg dropdown-toggle" data-toggle="collapse" data-target="#collapseMenu" aria-expanded="true" aria-controls="collapseOne">
-                                                    {{ .Name }}
-                                            </a>
-                                    </li>   
-                                      </div>
-
-                                      <div id="collapseMenu" class="collapse hidden" data-parent="#accordion">
-                                            <div class="menu-body">
-                                                    {{ range .Children }}
-                                                    <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
-                                                    {{ end }}
-                                            </div>
-                                          </div>
-
-                                        </div>
-                                    </div>
-
-                    {{ end }}
-                    {{ end }}
-                    {{ range .Site.Menus.blogg}}
-                    {{ if .HasChildren }}
-                    <div id="accordion">
-                        <div class="menu-card">
-                                <div class="nav-item" role="button" >
-                                    <li>
-                                          <a class="nav-reg dropdown-toggle" data-toggle="collapse" data-target="#collapseBlogg" aria-expanded="true" aria-controls="collapseOne">
-                                                {{ .Name }}
-                                        </a>
-                                    </li>
-                                </div>
-
-                                      <div id="collapseBlogg" class="collapse hidden" data-parent="#accordion">
-                                            <div class="card-body">
-                                                    {{ range .Children }}
-                                                    <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
-                                                    {{ end }}
-                                            </div>
-                                          </div>
-
-                                        </div>
-                                    </div>
-
-                    {{ end }}
-                    {{ end }} -->
+ -->
 
 
                             {{ range .Site.Menus.kontakt}}
@@ -240,7 +229,6 @@
                             {{ if .Site.IsMultiLingual }}
                             {{ range .Site.Languages }}
                             {{ if eq . $.Site.Language }}
-                        <!--    <a href="#" class="nav-link language">{{ .LanguageName }}</a> -->
                             {{ else }}
                             {{ range $.Translations }}
                                     <a href="{{ .Permalink }}" class="nav-link language">{{ .Language.LanguageName }}</a>
@@ -253,6 +241,19 @@
                   </nav>
             </div>
           
-        </section>
+        </section> 
+
+        <script>
+                $('.dropdown-el').click(function(e) {
+                  /*     e.preventDefault(); */
+                      e.stopPropagation();
+                      $(this).toggleClass('expanded');
+                      $('#'+$(e.target).attr('for')).prop('checked',true);
+                      });
+                      $(document).click(function() {
+                      $('.dropdown-el').removeClass('expanded');
+                      });    
+              </script>
+
     </div>
 </nav>

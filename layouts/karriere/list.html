@@ -1,5 +1,5 @@
 {{ define "main" }}
-<section class="container">
+<section class="container mb-5">
   <div>
     {{ with .Site.GetPage "karriere/top-banner" }}
     {{ partial "top-banner.html" . }}
@@ -13,13 +13,6 @@
             
     </div>
 </div>
-
-<section class="">
-       {{ with .Site.GetPage "newsletter" }}
-       {{ partial "sections/newsletter.html" . }}
-       {{ end }}
-</section>
-
 </section>
 
 {{ end }}

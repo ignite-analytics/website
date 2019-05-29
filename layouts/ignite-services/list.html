@@ -29,16 +29,12 @@
               {{ end }}
 
 </section>
-<section class="container">
+<section class="container mb-5">
             {{ with .Site.GetPage "item8" }}
             {{ partial "sections/infoblock-reverse.html" . }}
             {{ end }}
 </section>
-<section class="container">
-       {{ with .Site.GetPage "newsletter" }}
-       {{ partial "sections/newsletter.html" . }}
-       {{ end }}
-</section>
+
 
 
 {{ end }}

@@ -9,3 +9,9 @@
 
 - id: selskapet
   translation: Company
+
+- id: andre tjenester
+  translation: Other services
+
+- id: nyhetsbrev
+  translation: Sign up for our newsletter
