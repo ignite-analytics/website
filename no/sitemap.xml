@@ -548,20 +548,19 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/tags/analytics/</loc>
-    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://ignite.no/blogg/nyheter/autostore-enters-into-an-agreement-for-the-use-of-ignite-analytics/</loc>
+    <lastmod>2019-05-29T09:08:23+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ignite.no/blogg/</loc>
-    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
+    <lastmod>2019-05-29T09:08:23+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ignite.no/categories/</loc>
-    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
+    <lastmod>2019-05-29T09:08:23+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -576,13 +575,8 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur/</loc>
-    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ignite.no/</loc>
-    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
+    <lastmod>2019-05-29T09:08:23+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -597,14 +591,14 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/categories/innsikt/</loc>
-    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
+    <loc>https://ignite.no/categories/nyheter/</loc>
+    <lastmod>2019-05-29T09:08:23+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ignite.no/tags/</loc>
-    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
+    <lastmod>2019-05-29T09:08:23+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -616,6 +610,35 @@
                 hreflang="no"
                 href="https://ignite.no/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/autostore/</loc>
+    <lastmod>2019-05-29T09:08:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/ignite-analytics/</loc>
+    <lastmod>2019-05-29T09:08:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/analytics/</loc>
+    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur/</loc>
+    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/categories/innsikt/</loc>
+    <lastmod>2019-03-27T15:30:25+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -662,12 +685,6 @@
   <url>
     <loc>https://ignite.no/blogg/nyheter/ignite-lanserer-ny-versjon-av-plattform-for-strategisk-innkj%C3%B8p/</loc>
     <lastmod>2019-03-20T09:23:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ignite.no/categories/nyheter/</loc>
-    <lastmod>2019-03-20T09:23:02+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
