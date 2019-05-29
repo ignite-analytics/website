@@ -40,6 +40,6 @@ Ignite har et klart mål om å hjelpe sine kunder til å bli «best i klassen» 
 
 ***
 
-**Kontaktperson: **Sigbjørn Nome, daglig leder, 944 88 923, sigbjorn.nome@ignite.no
+**Kontaktperson**: Sigbjørn Nome, daglig leder, 944 88 923, sigbjorn.nome@ignite.no
 
 **Om Ignite Procurement:** Ignite Procurement er et SaaS-selskap med et klart formål – å legge til rette for økt lønnsomhet og en enklere hverdag i arbeidet med strategisk innkjøp. Selskapet ble startet opp i 2016, og springer ut fra grunnleggernes felles erfaring fra the Boston Consulting Group (BCG).
