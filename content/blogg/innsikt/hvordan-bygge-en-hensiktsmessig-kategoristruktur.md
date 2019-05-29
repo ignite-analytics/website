@@ -4,11 +4,15 @@ categories = ["Innsikt"]
 date = "2019-03-27T15:30:25+00:00"
 image = "/images/hensiktkat.png"
 ingress = "Kategorisering av kjøp gir deg bedre oversikt og kontroll, og er helt nødvendig for å utarbeide innsiktsfulle analyser. I tillegg er det en viktig forutsetning for god kategoristyring og strategiarbeid."
-tags = ["Analytics", "innkjøp", "hensiktsmessig kategoristyring"]
+tags = ["kategoristyring", "innkjøpskategori", "Ignite Analytics", "Sykehusinnkjøp", "kategoristruktur"]
 title = "Hvordan bygge en hensiktsmessig kategoristruktur"
 
 +++
-#### **Hva er innkjøpskategorier?**
+Det er flere grunner til at kategorisering lønner seg. En åpenbar grunn er prioritering av ressurser og kapasitet. Store kategorier med et høyt potensial for lønnsomhetsforbedringer bør naturlig nok prioriteres, fremfor mindre kategorier med lavere potensial.
+
+![](https://cdn-images-1.medium.com/max/800/1*0nvtOQyKH3Vp1IE8fmIOWQ.png)
+
+#### Hva er innkjøpskategorier?
 
 En innkjøpskategori, eller kategori, inneholder beslektede typer innkjøp knyttet til kjøp av produkter og/eller tjenester. Hver kategori skal med andre ord understøtte markedets inndeling og dermed fortelle noe om innkjøpet og leverandørmarkedet.
 
@@ -16,7 +20,7 @@ Overordnet er det vanlig å splitte mellom direkte og indirekte innkjøp. _Direk
 
 Merk at en kategoristruktur vil variere fra selskap til selskap, men særlig flere av de indirekte kategoriene og underkategoriene vil være like på tvers av selskaper og bransjer.
 
-#### **Hvilke data benyttes og hvordan fordeler vi innkjøpet?**
+#### Hvilke data benyttes og hvordan fordeler vi innkjøpet?
 
 Kategoristrukturen baserer seg på innkjøpsdata, som i realiteten er transaksjonsdata i ERP-systemet. På et generelt grunnlag gir mer detaljerte innkjøpsdata større mulighetsrom for bedre kategorisering. Detaljgraden av data varierer fra selskap til selskap. Alle selskap har data på fakturanivå, mens noen selskaper har data helt ned på artikkelnivå (typisk for direkte kjøp). Dette gjelder ofte for produksjons-, industri- og retailselskaper, i tillegg til offentlige virksomheter. Merk at selv «begrenset» data på fakturanivå kan gi dyp innsikt i innkjøpet.
 
@@ -24,7 +28,9 @@ Det finnes flere måter å fordele innkjøpet i de ulike kategoriene («kategori
 
 Sykehusinnkjøp HF har eksempelvis laget en kategoristruktur basert på produkt- og tjenestekoder ved å benytte UNSPSC-kodeverk. Se kategoristrukturen [her](http://hinas.sykehusinnkjop.no/index.php/nasjonale-prosjekt/nasjonal-kategoristruktur/version/1?layout=chart&tmpl=component).
 
-#### **Ignite Analytics legger til rette for kategoristyring av innkjøpet**
+![](https://cdn-images-1.medium.com/max/800/1*yJ11zk7lzz7DJ1WQwFA_1g.png)
+
+#### Ignite Analytics legger til rette for kategoristyring av innkjøpet
 
 Løsningen vår for strategisk innkjøp, Ignite Analytics, er bygget basert på en kategoristyrt tilnærming til innkjøpet. Brukere har full fleksibilitet til å utarbeide egne kategoristrukturer, hvor brukeren selv bestemmer valg av detaljnivå som f.eks. antall nivåer og underkategorier. Kategoriseringen baseres på egendefinerte parametere ved hjelp av «drag and drop»-funksjonalitet, samtidig som den kan struktureres automatisk basert på leverandørenes bransjeinformasjon. Kategoriseringsreglene som benyttes (og opprettes) i forbindelse med fordelingen av innkjøpet, sørger for at fremtidige kjøp automatisk kategoriseres til valgte kategorier.
 
@@ -32,4 +38,4 @@ Løsningen vår for strategisk innkjøp, Ignite Analytics, er bygget basert på 
 
 _Interessert i å få vite mer om hvordan Ignite Analytics kan hjelpe deg og din virksomhet? Last ned produktinformasjonen via linken under for å lære mer._
 
-[![](/images/lastned.png)](https://www.ignite.no/ignite-analytics/produktinformasjon/)
+[![](https://cdn-images-1.medium.com/max/800/1*RTWPsIOIwzj2nLgY88nNzA.png)](https://www.ignite.no/ignite-analytics/produktinformasjon/)
