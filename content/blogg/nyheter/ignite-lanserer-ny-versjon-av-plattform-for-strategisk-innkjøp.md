@@ -14,7 +14,7 @@ Ignite er inne i en vekstfase, og teamet har vokst fra 4 til 18 ansatte i løpet
 
 Gründeren mener likevel at det fortsatt er et stort, uforløst potensial innenfor innkjøp for de aller fleste virksomheter.
 
-![](https://cdn-images-1.medium.com/max/800/1*-5-4I6S_0aprP0kK4PNpPg.jpeg "Sigbjørn Nome, CEO i Ignite Procurement")
+![Sigbjørn Nome, CEO i Ignite Procurement](https://cdn-images-1.medium.com/max/800/1*-5-4I6S_0aprP0kK4PNpPg.jpeg)
 
 > _Innkjøp som et strategisk fokusområde er fortsatt relativt «skjult under radaren». Vår erfaring er at virksomheter generelt nedprioriterer og forsømmer viktigheten av strategisk innkjøp — selv om innkjøp utgjør størstedelen av kostnadsbasen, utdyper Sigbjørn Nome._
 
@@ -26,7 +26,7 @@ Torsdag 14. mars ble det invitert til offisiell lansering av Ignite 2.0. Der ble
 
 > _Så langt har samarbeidet med Ignite resultert i 30 millioner kroner i årlige besparelser for OBOS-beboere. Vi gleder oss til det videre samarbeidet som skal gjøre det lettere for styremedlemmene å finne frem til seriøse og konkurransedyktige leverandører, sier Eiliv Mæhle Liljevik, avdelingsdirektør for strategi og IKT i OBOS._
 
-![](https://cdn-images-1.medium.com/max/800/1*xM80xtuw1l0bs9gfCYF7aw.jpeg "Eiliv Mæhle Liljevik, avdelingsdirektør for strategi og IKT i OBOS")
+![Eiliv Mæhle Liljevik, avdelingsdirektør for strategi og IKT i OBOS](https://cdn-images-1.medium.com/max/800/1*xM80xtuw1l0bs9gfCYF7aw.jpeg)
 
 Samarbeidet med OBOS ble en realitet etter å ha vært en del av [StartupLab ](https://startuplab.no/)sitt akseleratorprogram, og påfølgende «matching» i forbindelse med MeetCorporates.
 
