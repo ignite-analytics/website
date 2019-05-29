@@ -548,20 +548,14 @@
   </url>
   
   <url>
-    <loc>https://ignite.no/tags/at-kearney/</loc>
-    <lastmod>2019-04-04T09:17:33+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ignite.no/blogg/</loc>
-    <lastmod>2019-04-04T09:17:33+00:00</lastmod>
+    <lastmod>2019-04-15T10:09:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ignite.no/categories/</loc>
-    <lastmod>2019-04-04T09:17:33+00:00</lastmod>
+    <lastmod>2019-04-15T10:09:28+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -577,7 +571,7 @@
   
   <url>
     <loc>https://ignite.no/</loc>
-    <lastmod>2019-04-04T09:17:33+00:00</lastmod>
+    <lastmod>2019-04-15T10:09:28+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -593,19 +587,24 @@
   
   <url>
     <loc>https://ignite.no/categories/nyheter/</loc>
-    <lastmod>2019-04-04T09:17:33+00:00</lastmod>
+    <lastmod>2019-04-15T10:09:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ignite.no/tags/pwc/</loc>
-    <lastmod>2019-04-04T09:17:33+00:00</lastmod>
+    <loc>https://ignite.no/tags/optimar/</loc>
+    <lastmod>2019-04-15T10:09:28+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/blogg/nyheter/optimar-ignite-lisensavtale-for-bruk-av-ignite-analytics/</loc>
+    <lastmod>2019-04-15T10:09:28+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ignite.no/tags/</loc>
-    <lastmod>2019-04-04T09:17:33+00:00</lastmod>
+    <lastmod>2019-04-15T10:09:28+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -617,6 +616,24 @@
                 hreflang="no"
                 href="https://ignite.no/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/ignite-analytics/</loc>
+    <lastmod>2019-04-15T10:09:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/at-kearney/</loc>
+    <lastmod>2019-04-04T09:17:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ignite.no/tags/pwc/</loc>
+    <lastmod>2019-04-04T09:17:33+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -637,12 +654,6 @@
   
   <url>
     <loc>https://ignite.no/tags/autostore/</loc>
-    <lastmod>2019-04-01T09:08:23+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ignite.no/tags/ignite-analytics/</loc>
     <lastmod>2019-04-01T09:08:23+00:00</lastmod>
     <priority>0</priority>
   </url>
