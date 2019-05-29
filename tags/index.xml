@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 15 Apr 2019 10:09:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2019 10:12:51 +0000</lastBuildDate>
     
 	<atom:link href="https://ignite.no/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,54 @@
     <item>
       <title>Ignite Analytics</title>
       <link>https://ignite.no/tags/ignite-analytics/</link>
-      <pubDate>Mon, 15 Apr 2019 10:09:28 +0000</pubDate>
+      <pubDate>Tue, 23 Apr 2019 10:12:51 +0000</pubDate>
       
       <guid>https://ignite.no/tags/ignite-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OBOS</title>
+      <link>https://ignite.no/tags/obos/</link>
+      <pubDate>Tue, 23 Apr 2019 10:12:51 +0000</pubDate>
+      
+      <guid>https://ignite.no/tags/obos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>analyse</title>
+      <link>https://ignite.no/tags/analyse/</link>
+      <pubDate>Tue, 23 Apr 2019 10:12:51 +0000</pubDate>
+      
+      <guid>https://ignite.no/tags/analyse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>avtalestyring</title>
+      <link>https://ignite.no/tags/avtalestyring/</link>
+      <pubDate>Tue, 23 Apr 2019 10:12:51 +0000</pubDate>
+      
+      <guid>https://ignite.no/tags/avtalestyring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leverandører</title>
+      <link>https://ignite.no/tags/leverand%C3%B8rer/</link>
+      <pubDate>Tue, 23 Apr 2019 10:12:51 +0000</pubDate>
+      
+      <guid>https://ignite.no/tags/leverand%C3%B8rer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leverandørmodul</title>
+      <link>https://ignite.no/tags/leverand%C3%B8rmodul/</link>
+      <pubDate>Tue, 23 Apr 2019 10:12:51 +0000</pubDate>
+      
+      <guid>https://ignite.no/tags/leverand%C3%B8rmodul/</guid>
       <description></description>
     </item>
     
@@ -125,15 +170,6 @@
       <pubDate>Wed, 20 Mar 2019 09:23:02 +0000</pubDate>
       
       <guid>https://ignite.no/tags/ignite-2.0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OBOS</title>
-      <link>https://ignite.no/tags/obos/</link>
-      <pubDate>Wed, 20 Mar 2019 09:23:02 +0000</pubDate>
-      
-      <guid>https://ignite.no/tags/obos/</guid>
       <description></description>
     </item>
     
