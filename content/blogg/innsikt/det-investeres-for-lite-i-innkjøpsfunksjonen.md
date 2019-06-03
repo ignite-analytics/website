@@ -4,7 +4,7 @@ categories = ["Innsikt"]
 date = "2019-04-29T13:58:32+00:00"
 image = "/images/Sigbjørn Nome.jpeg"
 ingress = "Flere virksomheter investerer generelt for lite i innkjøpsfunksjonen — til tross for at innkjøp utgjør størstedelen av kostnadsbasen og det foreligger store besparelsespotensialer."
-showmainimg = true
+showmainimg = false
 tags = ["innkjøpsfunksjon", "ressursallokering", "innkjøpsressurser", "kompetanse", "digitale verktøy", "Ignite Analytics"]
 title = "Det investeres for lite i innkjøpsfunksjonen"
 
