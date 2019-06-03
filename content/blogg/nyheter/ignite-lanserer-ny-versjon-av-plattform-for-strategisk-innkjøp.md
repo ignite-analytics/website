@@ -4,11 +4,13 @@ categories = ["Nyheter"]
 date = "2019-03-20T09:23:02+00:00"
 image = "/images/Lanseringsfest - Boerge.jpeg"
 ingress = "14. mars lanserte Ignite Procurement en ny versjon av Ignite Analytics, en digital plattform for strategisk innkjøp, i tillegg til oppdatert grafisk profil — «Ignite 2.0»."
-showmainimg = true
+showmainimg = false
 tags = ["lansering", "OBOS", "StartupLab", "Ignite 2.0"]
 title = "Ignite lanserer ny versjon av plattform for strategisk innkjøp"
 
 +++
+![](/images/Lanseringsfest - Boerge.jpeg)
+
 Ignite er inne i en vekstfase, og teamet har vokst fra 4 til 18 ansatte i løpet av det siste året. Ifølge Sigbjørn Nome, daglig leder og en av gründerne i Ignite Procurement, opplever selskapet en sterk etterspørsel for sine tjenester og satser på ytterligere vekst fremover.
 
 > _Teamet vårt har vokst betydelig den siste tiden, og består nå av mange dedikerte og dyktige medarbeidere. Vi opplever en økende etterspørsel etter tjenestene våre som vi håper betyr flere ansatte og nye rekrutteringer i fremtiden, sier Nome._
