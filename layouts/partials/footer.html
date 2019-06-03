@@ -220,30 +220,34 @@
     
 </section> -->
 <!--MODAL MOTE -->
-{{ with .Site.GetPage "mote" }}
-{{ partial "sections/modals/mote-nor.html" . }}
-{{ end }}
-{{ with .Site.GetPage "mote" }}
-{{ partial "sections/modals/mote-eng.html" . }}
-{{ end }}
-<!--MODAL SERVICES -->
-{{ with .Site.GetPage "services" }}
-{{ partial "sections/modals/services-nor.html" . }}
-{{ end }}
-{{ with .Site.GetPage "services" }}
-{{ partial "sections/modals/services-eng.html" . }}
-{{ end }}
-<!--MODAL ACADEMY-->
-{{ with .Site.GetPage "interesse" }}
-{{ partial "sections/modals/interesse-nor.html" . }}
-{{ end }}
-{{ with .Site.GetPage "interesse" }}
-{{ partial "sections/modals/interesse-eng.html" . }}
-{{ end }}
-<!--MODAL VIDEO-->
-{{ with .Site.GetPage "video" }}
-{{ partial "sections/modals/video.html" . }}
-{{ end }}  
+<!--Kill modals -->
+{{if gt 2 1}}
+    {{ with .Site.GetPage "mote" }}
+    {{ partial "sections/modals/mote-nor.html" . }}
+    {{ end }}
+    {{ with .Site.GetPage "mote" }}
+    {{ partial "sections/modals/mote-eng.html" . }}
+    {{ end }}
+    <!--MODAL SERVICES -->
+    {{ with .Site.GetPage "services" }}
+    {{ partial "sections/modals/services-nor.html" . }}
+    {{ end }}
+    {{ with .Site.GetPage "services" }}
+    {{ partial "sections/modals/services-eng.html" . }}
+    {{ end }}
+    <!--MODAL ACADEMY-->
+    {{ with .Site.GetPage "interesse" }}
+    {{ partial "sections/modals/interesse-nor.html" . }}
+    {{ end }}
+    {{ with .Site.GetPage "interesse" }}
+    {{ partial "sections/modals/interesse-eng.html" . }}
+    {{ end }}
+    <!--MODAL VIDEO-->
+    {{ with .Site.GetPage "video" }}
+    {{ partial "sections/modals/video.html" . }}
+    {{ end }}  
+
+{{end}}
 
 <script style="text/javascript">
 

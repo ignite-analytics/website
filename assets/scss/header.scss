@@ -12,6 +12,14 @@
       height: 80px;
       text-align: center;
   }
+  @media(max-width: 992px){
+    .container{
+      width:0;
+      margin:0;
+    }
+    
+  }
+  
 }
 h1.head{
   padding-left: 15px;

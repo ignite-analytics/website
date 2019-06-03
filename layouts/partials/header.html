@@ -67,7 +67,7 @@
                     {{ end }}
                     {{ end }}
                     
-                   <div class="naving">
+                   <ul class="naving">
                         {{ range .Site.Menus.kontakt}}
                         <li class="nav-item nav-right">
                             <a class="nav-link" id="kontakt" href="{{ .URL }}">{{ .Name }}</a>
@@ -121,10 +121,10 @@
                 
                 <div class="overlay" id="overlay">
                     <script>
-                        $('#toggle').click(function() {
-                            $(this).toggleClass('active');
-                            $('#overlay').toggleClass('open');
-                           });
+                        document.querySelector('#toggle').addEventListener('click', (e) => {
+                            e.target.classList.toggle('active');
+                            document.querySelector('#overlay').classList.toggle('open')
+                        })
                     </script>     
                     <nav class="overlay-menu">
                       <ul class="overlay-list">

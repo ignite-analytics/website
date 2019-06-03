@@ -489,7 +489,9 @@ section.seksjon {
     max-height: 1000px;
 
     margin-bottom: 0em;
-
+    .header{
+        flex-direction:column-reverse !important;
+    }
 }
 .header-content-img {
     max-height: 500px;
