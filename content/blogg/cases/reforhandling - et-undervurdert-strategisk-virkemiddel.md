@@ -5,6 +5,7 @@ date = "2019-05-29T14:49:16+00:00"
 draft = true
 image = "/images/Innkjøpsvirkemidler.png"
 ingress = "Det finnes flere virkemidler for å redusere innkjøpskostnadene. Et kommersielt virkemiddel som er mye brukt og ofte sett på som en «quick-win» er å reforhandle eksisterende avtaler."
+showmainimg = false
 tags = ["forhandling", "reforhandling", "analyser", "innkjøpsvirkemidler", "forhandlingsresultater"]
 title = "Reforhandling - et undervurdert strategisk virkemiddel?"
 
