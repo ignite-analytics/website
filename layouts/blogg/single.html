@@ -2,12 +2,13 @@
 {{ partial "blogg/head.html" .}}
 {{end}}
 {{ define "main" }}
-    <link rel="stylesheet" href="/css/medium.css">	
+    <link rel="stylesheet" href="/css/medium.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap" rel="stylesheet">	
     <div class="main-content">
         <!-- Begin Article
         ================================================== -->
         <div class="container">
-            <div class="row">
+            <div class="row single">
                 <!-- Post Share -->
                 <div class="col-md-2 pl-0">      
                     {{- partial "blogg/share.html" . -}}

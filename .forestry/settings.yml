@@ -81,11 +81,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/mainteam
-  label: Mainteam
-  create: all
-  match: "**/*"
-- type: directory
   path: content/kategoristrategi
   label: Kategoristrategi
   create: all

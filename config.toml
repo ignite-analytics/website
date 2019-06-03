@@ -5,14 +5,18 @@ languageCode = "no"
 publishDir = "docs"
 weight = 1
 
+
+
+[params]
+     logos = "/images/logo-standard.svg"
+logo = "/images/logo.svg"
 # Blog content ==>
 [taxonomies]
      tag = "tags"
      category = "categories"
 
 # <==
-[params]
-logo = "/images/logo.svg"
+
 
 
 
