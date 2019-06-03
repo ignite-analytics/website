@@ -15,7 +15,7 @@
         {{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options }}
         <link rel="stylesheet" href="{{ ($style | minify | fingerprint).RelPermalink }}">	
         
-    <title>{{.Site.Title}} - {{ if .Params.title }}{{ .Params.title | truncate 45}}{{ end }}</title>
+    <title>{{.Site.Params.shorttitle}} - {{ if .Params.title }}{{ .Params.title | truncate 45}}{{ end }}</title>
     <!-- OPEN GRAPH-->
     <meta property="og:type" content="article" />
     {{ if(isset .Params "ingress") }}
