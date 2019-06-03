@@ -3,9 +3,7 @@
     <div class="card h-100">
         <div class="maxthumb">
             <a href="{{ .Permalink }}">
-                {{with .Params.image}}
-                    <img class="img-fluid imgthumb" src="{{ . | urlize | relURL }}" alt="A thumbnail image">
-                {{end}}                
+                    <img class="img-fluid imgthumb" src="{{with .Params.image}}{{ . | relURL }}{{end}} " alt="{{ .Params.Title }} bilde">
             </a>
         </div>
         <div class="card-body">
