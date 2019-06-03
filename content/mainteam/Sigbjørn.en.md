@@ -11,6 +11,7 @@ description: "Sigbjørn fokuserte tidlig i sin konsulentkarriere på innkjøp, o
 draft: false
 weight: "1"
 image: "/images/team/Sigbjørn_Nome.jpg"
+hidden: true
 ---
 
 <a class="phoneto" href="tel:+47 944 88 923"><i class="fas fa-phone"></i>+47 944 88 923</a>

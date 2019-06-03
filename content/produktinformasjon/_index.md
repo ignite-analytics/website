@@ -7,7 +7,7 @@ header: "Last ned produktinformasjon"
 description: "Få mer informasjon om funksjonaliteten i Ignite Analytics og hvordan plattformen kan hjelpe deg og din virksomhet"
 image: /images/infographics/productinfo.svg
 url: "/ignite-analytics/produktinformasjon"
-
+hidden: true
 ---
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>

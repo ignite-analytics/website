@@ -7,7 +7,7 @@ header: "Prøv Ignite Analytics"
 description: "Du er ett skritt nærmere å frigjøre din tid og forbedre lønnsomheten for din virksomhet!"
 image: /images/infographics/dashboard2.svg
 url: "/ignite-analytics/demo"
-
+hidden: true
 ---
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>

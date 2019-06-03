@@ -6,6 +6,7 @@ date: 2018-12-16T15:31:35+01:00
 draft: false
 image: "/images/infographics/dashboard2.svg"
 thumbnail : "/images/ignite-services.jpg/"
+hidden: true
 ---
 
 {{< button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#modalbooknor">}}Prøv Ignite Analytics{{< /button >}}

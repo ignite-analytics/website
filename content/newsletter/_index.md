@@ -6,7 +6,7 @@ draft: false
 header: "Meld deg på vårt nyhetsbrev"
 description: "Registrer deg for å motta nyheter, oppdateringer og tips fra oss direkte til innboksen din"
 image: /images/infographics/newsletter.svg
-
+hidden: true
 ---
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script> 

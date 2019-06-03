@@ -6,7 +6,7 @@ draft: false
 header: ""
 description: "Please leave us a message through the contact form below, or reach out to one of our team members directly"
 image: /images/infographics/newsletter.svg
-
+hidden: true
 ---
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script> 

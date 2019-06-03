@@ -7,7 +7,7 @@ header: "Maler for kategoristrategier"
 description: "For deg som ønsker en mal for å definere en tydelig, aksjonsbasert kategoristrategi. Skriv inn din e-post adresse for å laste ned malen."
 image: /images/infographics/document.svg
 url: "/ignite-academy/resources/kategoristrategi/"
-
+hidden: true
 ---
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>

@@ -6,7 +6,7 @@ draft: false
 header: ""
 description: "Legg gjerne igjen en beskjed til oss via kontakskjemaet nedenfor eller ta direkte kontakt med en av våre medarbeidere"
 image: /images/infographics/newsletter.svg
-
+hidden: true
 ---
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script> 

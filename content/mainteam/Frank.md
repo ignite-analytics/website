@@ -10,6 +10,7 @@ description: "Frank er konsulent i Ignite. Han har arbeidet med innkjøpsprosjek
 draft: false
 weight: "3"
 image: "/images/team/Frank_Willie_Bødal.jpg"
+hidden: true
 ---
 
 <a class="phoneto" href="tel:+47 952 60 850"><i class="fas fa-phone"></i>+47 952 60 850</a>

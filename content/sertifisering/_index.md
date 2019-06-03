@@ -6,6 +6,7 @@ header: ""
 image: "/images/partners/achilles.jpg"
 author: ""
 position: ""
+hidden: true
 ---
 
 ##### Ignite Procurement is Achilles Utilities NCE qualified for the following products/services:

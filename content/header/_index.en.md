@@ -4,6 +4,7 @@ description: "Realizing the full potential within procurement is challenging. Wi
 date: 2018-12-16T15:31:35+01:00
 draft: false
 image: "/images/infographics/dashboard2.svg"
+hidden: true
 ---
 
 {{< button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#modalbook">}}Try Ignite Analytics{{< /button >}}

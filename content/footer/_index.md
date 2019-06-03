@@ -4,6 +4,7 @@ description: "Ignite Procurement er inne i en vekstfase og vi ønsker derfor å 
 date: 2018-12-16T15:31:35+01:00
 draft: false
 image: "/images/infographics/work.svg"
+hidden: true
 ---
 
 ## Ledige stillinger

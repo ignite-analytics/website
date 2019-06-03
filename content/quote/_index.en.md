@@ -6,6 +6,7 @@ header: ""
 image: "/images/customers/con-form.png"
 author: "Tom Erik Heggedal"
 position: "CFO Con-Form"
+hidden: true
 ---
 
 #### “Ignite Procurement helped us realize significant cost savings and has helped us to work more systematically and analytically with our external spend”
