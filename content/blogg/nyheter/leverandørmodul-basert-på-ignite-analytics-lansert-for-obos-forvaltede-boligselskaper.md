@@ -4,6 +4,7 @@ categories = ["Nyheter"]
 date = "2019-04-23T10:12:51+00:00"
 image = "/images/OBOS styrerommet 3.png"
 ingress = "OBOS lanserte 2. april en leverandørmodul i deres nettportal for styremedlemmene kalt Styrerommet. Leverandørmodulen er bygget på vår plattform Ignite Analytics — tilpasset styremedlemmene sine behov og OBOS sitt design. Med denne lanseringen får dermed 4.300 boligselskaper mulighet til å dra nytte av kraften som ligger i plattformen vår, noe som muliggjør en mer strukturert og analytisk tilnærming til innkjøpet."
+showmainimg = true
 tags = ["OBOS", "leverandørmodul", "avtalestyring", "analyse", "leverandører", "Ignite Analytics"]
 title = "Leverandørmodul basert på Ignite Analytics lansert for OBOS forvaltede boligselskaper"
 

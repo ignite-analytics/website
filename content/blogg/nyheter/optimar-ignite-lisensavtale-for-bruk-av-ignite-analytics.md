@@ -4,6 +4,7 @@ categories = ["Nyheter"]
 date = "2019-04-15T10:09:28+00:00"
 image = "/images/Optimar.png"
 ingress = "Vi er stolte over å meddele at Optimar har inngått en avtale med oss i Ignite Procurement for bruken av Ignite Analytics — vår unike plattform for strategisk innkjøp."
+showmainimg = true
 tags = ["Optimar", "Ignite Analytics"]
 title = "Optimar + Ignite = lisensavtale for bruk av Ignite Analytics"
 

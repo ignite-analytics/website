@@ -4,6 +4,7 @@ categories = ["Nyheter"]
 date = "2018-08-27T13:59:41+00:00"
 image = "/images/nymoduler.jpeg"
 ingress = "I sommer har vi i Ignite hatt gleden av å ha hele 9 summer interns på plass, hvor hovedfokuset har vært å videreutvikle vår plattform (Ignite Analytics) for å hjelpe til i arbeidet med strategisk innkjøp og kategoristyring. Dette er en webbasert plattform som støtter innkjøpsprosessen — fra analyse til implementering og oppfølging."
+showmainimg = true
 tags = ["Team", "Modul", "Internships"]
 title = "Nye moduler i Ignite Analytics"
 
