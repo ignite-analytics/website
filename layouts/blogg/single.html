@@ -21,7 +21,7 @@
                     </div>
 
                     <!-- Post Featured Image -->
-                    {{ if eq .Params.showmainimg "true"}}
+                    {{ if eq .Params.showmainimg true}}
                         <img show-img="{{.Params.showmainimg}}"draggable=false class="featured-image img-fluid" src="{{with .Params.image}}{{ . | relURL }}{{end}}" alt="{{ .Title }}">
                     <!-- End Featured Image -->
                     {{end}}
@@ -38,7 +38,7 @@
                                  {{ $author.position  }}<br>
                                  {{ dateFormat "Jan 2, 2006" .PublishDate }}
                                  <i class="far fa-clock clock"></i>
-                                 {{ math.Round (div (countwords .Content) 220.0) }} min read
+                                 {{if gt (countwords .Content ) 220.00}}{{math.Round (div (countwords .Content) 220.0) }}{{else}}1{{end}} min read
                              </span>					
                          </div>
                      </div>			

@@ -22,7 +22,7 @@
                     <span class="post-name">{{ $author.title}}</a></span><br/>
                 {{end}}
                 {{end}}
-                <span class="post-date">{{ dateFormat "Jan 2, 2006" .PublishDate }} - {{ math.Round (div (countwords .Content) 220.0) }} min read </span>
+                <span class="post-date">{{ dateFormat "Jan 2, 2006" .PublishDate }} - {{if gt (countwords .Content ) 220.00}}{{math.Round (div (countwords .Content) 220.0) }}{{else}}1{{end}} min read </span>
                 </span>
                 <div class="clearfix"></div>
             </div>
