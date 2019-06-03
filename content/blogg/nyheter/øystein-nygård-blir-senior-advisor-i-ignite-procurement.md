@@ -4,6 +4,7 @@ categories = ["Nyheter"]
 date = "2019-04-04T09:17:33+00:00"
 image = "/images/Øystein Nygård.png"
 ingress = "Vi er stolte over å ønske Øystein Nygård velkommen som en del av teamet vårt. Fra mars 2019 er Øystein engasjert som Senior Advisor for Ignite Procurement."
+showmainimg = true
 tags = ["advisor", "PwC", "AT Kearney"]
 title = "Øystein Nygård blir Senior Advisor i Ignite Procurement"
 
