@@ -26,7 +26,7 @@ fields:
   type: boolean
   label: Show main image
   description: Skal hovedbildet som vises under ingressen vises på artikkelen?
-  default: true
+  default: false
 - type: list
   name: categories
   label: categories
