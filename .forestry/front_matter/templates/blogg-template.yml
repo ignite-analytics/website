@@ -24,7 +24,7 @@ fields:
   label: image
 - name: showmainimg
   type: boolean
-  label: Vis hovedbilde
+  label: Show main image
   description: Skal hovedbildet som vises under ingressen vises på artikkelen?
   default: true
 - type: list
