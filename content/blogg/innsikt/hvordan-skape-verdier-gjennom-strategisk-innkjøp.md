@@ -4,6 +4,7 @@ categories = ["Innsikt"]
 date = "2019-05-20T14:23:42+00:00"
 image = "/images/Innkjøpsmodell - Norsk.png"
 ingress = "Innkjøpsfaget preges av mange ulike begreper og terminologier. «Strategisk innkjøp» er et slikt begrep. Vår erfaring tilsier at det er en del uklarheter — og til dels manglende kunnskap — om hva strategisk innkjøp egentlig er og hvordan dette bidrar til å skape verdi."
+showmainimg = false
 tags = ["strategisk innkjøp", "verdiskaping", "innkjøpsmodell", "source-to-contract", "innkjøpsprosess"]
 title = "Hvordan skape verdier gjennom strategisk innkjøp"
 

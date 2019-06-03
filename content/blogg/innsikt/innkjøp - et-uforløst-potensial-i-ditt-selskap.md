@@ -4,6 +4,7 @@ categories = ["Innsikt"]
 date = "2019-05-13T14:16:33+00:00"
 image = "/images/Innkjøpsandel per bransje.png"
 ingress = "Vår erfaring tilsier at mange virksomheter har et uforløst potensial innenfor innkjøp som kan hentes ut gjennom en tøffere satsing, samt en mer helhetlig og strategisk tilnærming."
+showmainimg = true
 tags = ["innkjøpspotensial", "strategi", "verdiskaping", "kompetanse", "profesjonalisering"]
 title = "Innkjøp — et uforløst potensial i ditt selskap?"
 
