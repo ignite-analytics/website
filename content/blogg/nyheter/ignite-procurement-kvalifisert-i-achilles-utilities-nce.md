@@ -4,11 +4,13 @@ categories = ["Nyheter"]
 date = "2019-02-15T11:37:06+00:00"
 image = "/images/Achilles - kvalifisering.png"
 ingress = "Fra februar 2019 er Ignite Procurement kvalifisert i Achilles Utilites Nordics & Central Europe (NCE)."
-showmainimg = true
+showmainimg = false
 tags = ["Achilles", "kvalifikasjonssystem", "Achilles UNCE"]
 title = "Ignite Procurement kvalifisert i Achilles Utilities NCE"
 
 +++
+![](/images/Achilles - kvalifisering.png)
+
 Fra februar 2019 er Ignite Procurement kvalifisert i Achilles Utilites Nordics & Central Europe (NCE) for levering av følgende produkter og tjenester:
 
 * 1.5.8 Spesialisert programvare
