@@ -14,7 +14,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         
         
-        <link rel="stylesheet" href="/style.min.bc09fb7c66081dc0cafc5dc9c7e8cb566806430834684b6823f09015eaa83584.css">	
+        <link rel="stylesheet" href="/style.min.b81d7e297f882a44f143bdf264b196b3005e54eebe5f341b500e23d65e33afb9.css">	
         
     <title>Ignite Procurement - pilotprosjekt  </title>
     <meta name="description" content="Oppdag kraften i strategisk innkjøp gjort digitalt. Les mer om oss og våre artikler innen kategorien pilotprosjekt her"/>
@@ -108,18 +108,20 @@
                     </a>
                     <div class="dropdown-submenu" >
                         
-                        <a class="dropdown-item" href="https://medium.com/ignite-procurement/insight/home">Innsikt</a>
+                        <a class="dropdown-item" href="/blogg/">Siste</a>
                         
-                        <a class="dropdown-item" href="https://medium.com/ignite-procurement/cases/home">Caser</a>
+                        <a class="dropdown-item" href="/categories/innsikt/">Innsikt</a>
                         
-                        <a class="dropdown-item" href="https://medium.com/ignite-procurement/news/home">Nyheter</a>
+                        <a class="dropdown-item" href="/categories/cases/">Caser</a>
+                        
+                        <a class="dropdown-item" href="/categories/nyheter/">Nyheter</a>
                         
                     </div>
                     </li>
                     
                     
                     
-                   <div class="naving">
+                   <ul class="naving">
                         
                         <li class="nav-item nav-right">
                             <a class="nav-link" id="kontakt" href="/kontakt/">Kontakt oss</a>
@@ -173,10 +175,10 @@
                 
                 <div class="overlay" id="overlay">
                     <script>
-                        $('#toggle').click(function() {
-                            $(this).toggleClass('active');
-                            $('#overlay').toggleClass('open');
-                           });
+                        document.querySelector('#toggle').addEventListener('click', (e) => {
+                            e.target.classList.toggle('active');
+                            document.querySelector('#overlay').classList.toggle('open')
+                        })
                     </script>     
                     <nav class="overlay-menu">
                       <ul class="overlay-list">
@@ -205,7 +207,7 @@
 
                           
                             <li class="overlay-list-item">
-                                <a class="nav-reg" href="https://medium.com/ignite-procurement">Blogg</a>
+                                <a class="nav-reg" href="/blogg/">Blogg</a>
                             </li>
                             
                          
@@ -371,11 +373,13 @@
                      
                         
                             
-                            <li><a href="https://medium.com/ignite-procurement/insight/home"></i>Innsikt</a></li>
+                            <li><a href="/blogg/"></i>Siste</a></li>
                             
-                            <li><a href="https://medium.com/ignite-procurement/cases/home"></i>Caser</a></li>
+                            <li><a href="/categories/innsikt/"></i>Innsikt</a></li>
                             
-                            <li><a href="https://medium.com/ignite-procurement/news/home"></i>Nyheter</a></li>
+                            <li><a href="/categories/cases/"></i>Caser</a></li>
+                            
+                            <li><a href="/categories/nyheter/"></i>Nyheter</a></li>
                             
                         </li>
      
@@ -460,7 +464,9 @@
 
 
 
-<div class="modal fade" id="modalbooknor" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+
+    
+    <div class="modal fade" id="modalbooknor" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg" role="document"> 
       
       <div class="modal-content">  
@@ -490,9 +496,9 @@
        
     </div>
   </div>  
-
-
-<div class="modal fade" id="modalbook" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    
+    
+    <div class="modal fade" id="modalbook" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg" role="document">  
       
     <div class="modal-content">                  
@@ -517,10 +523,10 @@
         
     </div>
   </div>    
-
-
-
-<div class="modal fade" id="modalbooknorw" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    
+    
+    
+    <div class="modal fade" id="modalbooknorw" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg" role="document"> 
       
       <div class="modal-content"> 
@@ -540,9 +546,9 @@
   
     </div>
   </div>
-
-
-<div class="modal fade" id="modalbookeng" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    
+    
+    <div class="modal fade" id="modalbookeng" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg" role="document">
        <div class="modal-content">
        <div class="modal-body mb-0 p-0">
@@ -557,10 +563,10 @@
       </div>                     
     </div>
 </div> 
-
-
-
-
+    
+    
+    
+    
 <div class="modal fade" id="modalacademynor" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg" role="document">                 
     
@@ -586,9 +592,9 @@
                      
   </div>
 </div>
-
-
-
+    
+    
+    
 <div class="modal fade" id="modalacademy" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg" role="document"> 
       
@@ -617,10 +623,10 @@
        
   </div>
 </div>     
-
-
-
-<div class="modal fade" id="modalYT" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    
+    
+    
+    <div class="modal fade" id="modalYT" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg" role="document">
       
       <div class="modal-content"> 
@@ -638,7 +644,9 @@
        
     </div>
   </div>
-  
+      
+
+
 
 <script style="text/javascript">
 
