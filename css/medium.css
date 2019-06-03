@@ -348,7 +348,7 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-    font-family: 'Roboto',Merriweather;
+    font-family: 'Roboto Slab', serif;
     font-size: 1.1rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);
@@ -843,9 +843,9 @@ iframe {
 }
 @media (min-width: 1200px) {
     .recent-posts{
-        max-width: 1200px;
+        max-width: 1440px;
     }
-    .container > .row{
+    .container > .row.single{
         max-width: 1200px;
         margin:0 auto;
     }
