@@ -4,11 +4,11 @@ categories = ["Innsikt"]
 date = "2019-05-02T14:10:50+00:00"
 image = "/images/Kraljic - detaljert.png"
 ingress = "For å definere hvilke innkjøpsvirkemidler som er mest relevant for ulike kategorier av innkjøp — benyttes ofte Kraljic-matrisen som hjelpemiddel. Kraljic-matrisen skiller innkjøpskategorier i fire ulike grupper basert på to dimensjoner; kompleksitet i leverandørmarkedet og betydning for selskapet. I dette innlegget ser vi nærmere på èn av disse gruppene — strategiske kategorier."
+showmainimg = false
 tags = ["kraljic-matrisen", "innkjøpskategori", "strategiske kategorier", "spesifikasjoner", "strategiske partnere", "kategoristrategi"]
 title = "Hvordan adressere strategiske innkjøpskategorier"
 
 +++
-  
 ![](https://cdn-images-1.medium.com/max/1200/1*XdkWq10bwvUUQ8SxoxsXYg.png)
 
 ### Strategiske kategorier
