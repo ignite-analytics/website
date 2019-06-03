@@ -17,7 +17,7 @@
                     <div class="mainheading">    
                         <!-- Post Title -->
                         <h1 class="posttitle">{{ .Title }}</h1> 
-                        <h3 class="ingress">{{ .Params.ingress }}</h3> 
+                        {{if isset .Params "ingress" }}<h3 class="ingress">{{ .Params.ingress }}</h3> {{end}}
                     </div>
 
                     <!-- Post Featured Image -->
@@ -35,7 +35,7 @@
                          <div class="col-xs-12 col-md-9 col-lg-10 text-md-left md-nopad-left">
                              <a target="_blank" class="link-dark">{{ $author.title }}</a><br>
                              <span class="author-description">
-                                 {{ $author.position  }}<br>
+                                    {{if isset $author "position"}}{{ $author.position  }}<br>{{end}}
                                  {{ dateFormat "Jan 2, 2006" .PublishDate }}
                                  <i class="far fa-clock clock"></i>
                                  {{if gt (countwords .Content ) 220.00}}{{math.Round (div (countwords .Content) 220.0) }}{{else}}1{{end}} min read

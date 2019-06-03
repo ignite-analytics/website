@@ -58,7 +58,7 @@ section.recent-posts {
 
 .section-title h2 {
     text-align: center;
-    border-bottom: 1px solid rgba(0, 0, 0, .125);
+    border-bottom: 1px solid rgba(24,36,63, .125);
     margin-bottom: 25px;
     font-weight: 700;
     font-size: 1.4rem;
@@ -66,10 +66,12 @@ section.recent-posts {
 }
 
 .section-title span {
-    border-bottom: 1px solid rgba(0, 0, 0, .44);
+    font-weight:300;
+    border-bottom: 4px solid rgba(24,36,63, 1);
     display: inline-block;
+    padding:0 1em;
     padding-bottom: 20px;
-    margin-bottom: -1px;
+    margin-bottom: -2px;
 }
 
 .article-post ol,
@@ -148,7 +150,7 @@ h2.card-title > a{
 }
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
-    color: rgba(0, 0, 0, .44);
+    color: rgba(24,36,63,0.6);
     font-size: 0.95rem;
     line-height: 1.6;
     font-weight: 400;
@@ -353,7 +355,7 @@ span.post-read-more a:hover {
 }
 
 blockquote {
-    border-left: 4px solid #e9425e;
+    border-left: 4px solid #18243f;
     padding: 0 20px;
     font-style: italic;
     color: rgba(0, 0, 0, .5);
@@ -404,6 +406,9 @@ blockquote {
     line-height: 30px;
     text-align: center;
     border-radius: 50%;
+}
+.share ul li i.fa.fab{
+    border:0;
 }
 
 .svgIcon {
