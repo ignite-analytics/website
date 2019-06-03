@@ -4,11 +4,11 @@ categories = ["Innsikt"]
 date = "2019-05-14T14:20:54+00:00"
 image = "/images/Forhandlinger - 6 tips.png"
 ingress = "Gjennom innkjøpsprosjektene våre har vi deltatt i flere forhandlinger med leverandører. Dette har gitt oss verdifull innsikt om hva som fungerer best i forhandlingsmøter. I dette innlegget har vi samlet seks konkrete tips til hvordan sikre gode, langsiktige resultater fra en forhandling."
+showmainimg = false
 tags = ["forhandlinger", "tips", "analyser", "Ignite Analytics"]
 title = "Seks tips til gode forhandlinger"
 
 +++
-  
 ![](https://cdn-images-1.medium.com/max/800/1*OUSK0dTZPbiF3_aOgk5scQ.png)
 
 #### 1. Invester i analysearbeid i forkant
