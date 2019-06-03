@@ -22,6 +22,11 @@ fields:
 - type: file
   name: image
   label: image
+- name: showmainimg
+  type: boolean
+  label: Vis hovedbilde
+  description: Skal hovedbildet som vises under ingressen vises på artikkelen?
+  default: true
 - type: list
   name: categories
   label: categories
