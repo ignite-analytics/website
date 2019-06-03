@@ -17,7 +17,7 @@ fields:
   name: ingress
   label: Ingress
   config:
-    required: true
+    required: false
   description: Kort oppsummering / blikkfanger på 1 setning
 - type: file
   name: image
