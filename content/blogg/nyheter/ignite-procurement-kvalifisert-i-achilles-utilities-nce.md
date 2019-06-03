@@ -4,6 +4,7 @@ categories = ["Nyheter"]
 date = "2019-02-15T11:37:06+00:00"
 image = "/images/Achilles - kvalifisering.png"
 ingress = "Fra februar 2019 er Ignite Procurement kvalifisert i Achilles Utilites Nordics & Central Europe (NCE)."
+showmainimg = true
 tags = ["Achilles", "kvalifikasjonssystem", "Achilles UNCE"]
 title = "Ignite Procurement kvalifisert i Achilles Utilities NCE"
 
