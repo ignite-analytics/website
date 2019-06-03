@@ -4,6 +4,7 @@ categories = ["Cases"]
 date = "2019-04-23T14:29:26+00:00"
 image = "/images/OBOS   Ignite - Dagens Næringsliv.jpg"
 ingress = "Etter knapt ett års samarbeid har Ignite Analytics bidratt til 30 MNOK i reduserte innkjøpskostnader for OBOS forvaltede boligselskaper. Samarbeidet med OBOS ble en realitet etter å ha vært en del av StartupLabs akseleratorprogram, og påfølgende «matching» i forbindelse med arrangementet MeetCorporates."
+showmainimg = true
 tags = ["OBOS", "StartupLab", "forespørselsprosess", "Ignite Analytics", "pilotprosjekt", "besparelser", "leverandørmodul"]
 title = "30 MNOK i årlige besparelser for OBOS forvaltede boligselskaper"
 
