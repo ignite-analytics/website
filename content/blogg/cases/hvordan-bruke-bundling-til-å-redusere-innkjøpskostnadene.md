@@ -4,6 +4,7 @@ categories = ["Cases"]
 date = "2019-04-29T14:07:32+00:00"
 image = "/images/Bundling illustrasjon.png"
 ingress = "Bundling er et viktig kommersielt virkemiddel for å redusere innkjøpskostnader. Kort fortalt innebærer bundling å sikre standardiserte avtalevilkår med samme leverandør på tvers av virksomheten, og samle innkjøpsvolum hos én eller færre leverandører enn status quo."
+showmainimg = false
 tags = ["bundling", "innkjøpsvolum", "avtalevilkår", "Ignite Analytics"]
 title = "Hvordan bruke bundling til å redusere innkjøpskostnadene"
 
