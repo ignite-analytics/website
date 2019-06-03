@@ -4,7 +4,7 @@ categories = ["Innsikt"]
 date = "2019-04-10T10:52:58+00:00"
 image = "/images/IA - Kategoritre.png"
 ingress = "Mange organisasjoner snakker om kategoristyring, men likevel er det relativt få virksomheter som har implementert denne tilnærmingen til innkjøp. Å lykkes med implementering av kategoristyring kan fremstå som et krevende og komplisert prosjekt, men vår erfaring tilsier at etterfølgelse av et par enkle prinsipper kan ta deg langt."
-showmainimg = false
+showmainimg = true
 tags = ["kategoristyring", "Ignite Analytics", "ressurspådrag", "kompetanse", "kategoristrategi"]
 title = "En praktisk tilnærming til kategoristyring"
 
