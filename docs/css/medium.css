@@ -49,7 +49,9 @@ pre {
 section {
     margin-bottom: 20px;
 }
-
+#footer {
+    margin-bottom: -1px;
+}
 section.recent-posts {
     margin-bottom: 0;
     margin-left:auto;
