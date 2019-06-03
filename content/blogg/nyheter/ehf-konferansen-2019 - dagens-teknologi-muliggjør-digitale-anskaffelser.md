@@ -4,6 +4,7 @@ categories = ["Nyheter"]
 date = "2019-05-08T10:29:00+00:00"
 image = "/images/Bruk av digitale løsninger - offentlig.PNG"
 ingress = "Årets EHF-konferanse — den 10. i rekken — ble avholdt 24. april i regi av Difi med heldigitale anskaffelser som et gjennomgående tema."
+showmainimg = true
 tags = ["EHF-konferansen", "EHF", "Difi", "anskaffelser", "offentlige anskaffelser", "stortingsmelding", "digitaliseringsprogram"]
 title = "EHF-konferansen 2019 — Dagens teknologi muliggjør digitale anskaffelser"
 
