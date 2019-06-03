@@ -21,8 +21,10 @@
                     </div>
 
                     <!-- Post Featured Image -->
-                        <img draggable=false class="featured-image img-fluid" src="{{with .Params.image}}{{ . | relURL }}{{end}}" alt="{{ .Title }}">
+                    {{ if eq .Params.showmainimg "true"}}
+                        <img show-img="{{.Params.showmainimg}}"draggable=false class="featured-image img-fluid" src="{{with .Params.image}}{{ . | relURL }}{{end}}" alt="{{ .Title }}">
                     <!-- End Featured Image -->
+                    {{end}}
                      <!-- Author Box -->
                      {{$author := (index .Site.Data.authors .Params.author)}}	
                      {{if $author}}
