@@ -15,9 +15,7 @@ I mangel på et bedre norsk ord, benytter vi det engelske begrepet «source-to-p
 
 Aktivitetene starter med gode analyser og et faktabasert grunnlag, og avsluttes med betalingen for varene eller tjenestene. I tillegg til disse aktivitetene inkluderes støttefunksjoner for å tilrettelegge for maksimal verdiskaping — styring og ledelse, organisasjon, prosesser og digitale verktøy.
 
-![](https://cdn-images-1.medium.com/max/1200/1*WboghezfvykP4ZHK_vLP1g.png)
-
-En vellykket innkjøpsmodell koordinerer flere aktiviteter for å skape, tilrettelegge for og opprettholde verdi
+![En vellykket innkjøpsmodell koordinerer flere aktiviteter for å skape, tilrettelegge for og opprettholde verdi](https://cdn-images-1.medium.com/max/1200/1*WboghezfvykP4ZHK_vLP1g.png)
 
 #### Strategisk vs. operasjonelt innkjøp
 
