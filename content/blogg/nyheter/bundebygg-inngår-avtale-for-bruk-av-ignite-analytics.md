@@ -4,11 +4,13 @@ categories = ["Nyheter"]
 date = "2019-05-14T10:43:58+00:00"
 image = "/images/BundeBygg.png"
 ingress = "Vi er glade for å ønske BundeBygg velkommen som en av våre nyeste kunder. Selskapet har inngått en lisensavtale for bruk av Ignite Analytics — vår unike plattform for strategisk innkjøp."
-showmainimg = true
+showmainimg = false
 tags = ["Bundebygg", "Ignite Analytics"]
 title = "BundeBygg inngår avtale for bruk av Ignite Analytics"
 
 +++
+![](/images/BundeBygg.png)
+
 BundeBygg er en regionsledende entreprenør innen byggebransjen i Oslo og Akershus, hvor selskapet leverer næringsbygg og boliger i hele regionen. BundeBygg er et datterselskap i BundeGruppen.
 
 Du kan lese mer om BundeBygg på deres [hjemmeside](http://www.bundegruppen.no/selskaper/bundebygg/).
