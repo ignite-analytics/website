@@ -1,7 +1,7 @@
 +++
 author = "Ignite"
 categories = ["Innsikt"]
-date = "2019-05-14T14:20:54+00:00"
+date = "2019-05-29T14:20:54+00:00"
 image = "/images/Forhandlinger - 6 tips - Med.png"
 ingress = "Gjennom innkjøpsprosjektene våre har vi deltatt i flere forhandlinger med leverandører. Dette har gitt oss verdifull innsikt om hva som fungerer best i forhandlingsmøter. I dette innlegget har vi samlet seks konkrete tips til hvordan sikre gode, langsiktige resultater fra en forhandling."
 showmainimg = false
