@@ -469,7 +469,7 @@
   
   <url>
     <loc>https://ignite.no/blogg/</loc>
-    <lastmod>2019-05-20T14:23:42+00:00</lastmod>
+    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -477,7 +477,7 @@
   
   <url>
     <loc>https://ignite.no/categories/</loc>
-    <lastmod>2019-05-20T14:23:42+00:00</lastmod>
+    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -494,15 +494,16 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/innsikt/hvordan-skape-verdier-gjennom-strategisk-innkj%C3%B8p/</loc>
-    <lastmod>2019-05-20T14:23:42+00:00</lastmod>
+    <loc>https://ignite.no/tags/ignite-analytics/</loc>
+    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   
   
   <url>
     <loc>https://ignite.no/</loc>
-    <lastmod>2019-05-20T14:23:42+00:00</lastmod>
+    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -520,15 +521,22 @@
   
   <url>
     <loc>https://ignite.no/categories/innsikt/</loc>
-    <lastmod>2019-05-20T14:23:42+00:00</lastmod>
+    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   
   
   <url>
+    <loc>https://ignite.no/blogg/innsikt/seks-tips-til-gode-forhandlinger/</loc>
+    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/tags/</loc>
-    <lastmod>2019-05-20T14:23:42+00:00</lastmod>
+    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -540,6 +548,37 @@
                 hreflang="no"
                 href="https://ignite.no/tags/"
                 />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/tags/analyser/</loc>
+    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/tags/forhandlinger/</loc>
+    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/tags/tips/</loc>
+    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/innsikt/hvordan-skape-verdier-gjennom-strategisk-innkj%C3%B8p/</loc>
+    <lastmod>2019-05-20T14:23:42+00:00</lastmod>
   </url>
   
   
@@ -579,45 +618,6 @@
   <url>
     <loc>https://ignite.no/tags/verdiskaping/</loc>
     <lastmod>2019-05-20T14:23:42+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/tags/ignite-analytics/</loc>
-    <lastmod>2019-05-14T14:20:54+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/innsikt/seks-tips-til-gode-forhandlinger/</loc>
-    <lastmod>2019-05-14T14:20:54+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/tags/analyser/</loc>
-    <lastmod>2019-05-14T14:20:54+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/tags/forhandlinger/</loc>
-    <lastmod>2019-05-14T14:20:54+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/tags/tips/</loc>
-    <lastmod>2019-05-14T14:20:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
