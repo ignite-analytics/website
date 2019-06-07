@@ -469,7 +469,15 @@
   
   <url>
     <loc>https://ignite.no/blogg/</loc>
-    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
+    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/categories/cases/</loc>
+    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -477,7 +485,7 @@
   
   <url>
     <loc>https://ignite.no/categories/</loc>
-    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
+    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -494,16 +502,8 @@
   
   
   <url>
-    <loc>https://ignite.no/tags/ignite-analytics/</loc>
-    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/</loc>
-    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
+    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -520,23 +520,15 @@
   
   
   <url>
-    <loc>https://ignite.no/categories/innsikt/</loc>
-    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/innsikt/seks-tips-til-gode-forhandlinger/</loc>
-    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
+    <loc>https://ignite.no/blogg/cases/reforhandling-et-undervurdert-strategisk-virkemiddel/</loc>
+    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>https://ignite.no/tags/</loc>
-    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
+    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -554,8 +546,63 @@
   
   <url>
     <loc>https://ignite.no/tags/analyser/</loc>
+    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/tags/forhandling/</loc>
+    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/tags/forhandlingsresultater/</loc>
+    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/tags/innkj%C3%B8psvirkemidler/</loc>
+    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/tags/reforhandling/</loc>
+    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/tags/ignite-analytics/</loc>
     <lastmod>2019-05-29T14:20:54+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/categories/innsikt/</loc>
+    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/innsikt/seks-tips-til-gode-forhandlinger/</loc>
+    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
   </url>
   
   
@@ -798,14 +845,6 @@
   <url>
     <loc>https://ignite.no/tags/strategiske-partnere/</loc>
     <lastmod>2019-05-02T14:10:50+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/categories/cases/</loc>
-    <lastmod>2019-04-29T14:07:32+00:00</lastmod>
     <priority>0</priority>
   </url>
   
