@@ -1,7 +1,7 @@
 +++
 author = "Ignite"
 categories = ["Cases"]
-date = "2019-06-07T14:49:16+00:00"
+date = "2019-06-06T14:49:16+00:00"
 image = "/images/Innkjøpsvirkemidler_-1.png"
 ingress = "Det finnes flere virkemidler for å redusere innkjøpskostnadene. Et kommersielt virkemiddel som er mye brukt og ofte sett på som en «quick-win» er å reforhandle eksisterende avtaler."
 showmainimg = false
