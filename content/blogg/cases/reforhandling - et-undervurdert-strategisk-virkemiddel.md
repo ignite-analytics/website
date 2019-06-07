@@ -39,7 +39,7 @@ Et godt analysearbeid i forkant av en reforhandling er en kritisk suksessfaktor 
 
 Etter at reforhandlingsprosessen var ferdig oppnådde kunden vår i gjennomsnitt 6 % bedre prisbetingelser — og flere millioner kroner i besparelser — på innkjøpet som ble adressert. Besparelsene varierte mellom de forskjellige avtalene og typen kjøp. Eksempelvis fikk man hele 20 % bedre priser på en av avtalene som ble reforhandlet. Dette belyser at reforhandling som et strategisk innkjøpstiltak kan resultere i vesentlig forbedrede avtalevilkår. Prosessen er videre relativt lite tidkrevende, gitt at man kontinuerlig følger opp og har kontroll på faktagrunnlaget.
 
-[![](/images/Reforhandlingsresultat_.png)](www.ignite.no)
+![](/images/Reforhandlingsresultat_.png)
 
 En reforhandling kan trolig for noen innkjøpere fremstå som «skadelig» for leverandørsamarbeidet. Vår erfaring er at en slik prosess faktisk styrker forholdet mot leverandørene — og bidrar til et tettere og mer langsiktig samarbeid. Leverandørene er typisk «på tå» for å beholde eller øke sine volumer, i tillegg til at de setter pris på å bli invitert til bordet. I møtene får man typisk også gode innspill fra leverandørene til hvordan man kan redusere innkjøpskostnadene ytterligere, f.eks. gjennom standardisering av produktporteføljen.
 
