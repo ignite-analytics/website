@@ -47,4 +47,4 @@ En reforhandling kan trolig for noen innkjøpere fremstå som «skadelig» for l
 
 _Ignite Analytics støtter hele den strategiske innkjøpsprosessen, herunder gjennomføring av forhandlinger. Plattformen identifiserer mulige forhandlingskandidater og automatiserer analyser til bruk i forhandlingsmøter. Oppdag kraften i strategisk innkjøp gjort digitalt!_
 
-[![Prøv analytics](https://cdn-images-1.medium.com/max/800/1*wNfW3gtCL-EO9XYJOYYSnQ.png "Prøv analytics")](https://www.ignite.no/ignite-analytics/demo/ "Prøv Analytics")
+[![](https://cdn-images-1.medium.com/max/800/1*wNfW3gtCL-EO9XYJOYYSnQ.png)](https://www.ignite.no/ignite-analytics/demo/)
