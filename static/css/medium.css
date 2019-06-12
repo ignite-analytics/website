@@ -367,10 +367,11 @@ blockquote {
 .article-post blockquote {
     margin: 0 0 1.5rem 0;
 }
-.article-post figure figcaption{
+.article-post figure figcaption p {
     font-weight:300;
     text-align:center;
-    line-height:1;
+    color:rgba(24,36,63,0.8);
+    padding: .5em
 }
 .article-post p img, .article-post figure img{
     position: relative;
@@ -394,6 +395,7 @@ blockquote {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    z-index: 1;
 }
 
 .share ul li {
@@ -404,6 +406,7 @@ blockquote {
 .share ul {
     padding-left: 0;
     margin-left: 0;
+    display:inline-grid;
 }
 
 .share ul li i.fa {
@@ -504,6 +507,9 @@ blockquote {
 }
 
 @media (max-width:767px) {
+    .share ul {
+        display:inline-block;
+    }
     .card-group{
         padding:0;
     }
