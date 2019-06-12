@@ -4,19 +4,24 @@
     {{ if gt .TotalPages 1 }}
       <div class="pagination">
         {{ if .HasPrev }}
-          <a class="ml-1 mr-1" href="{{.Prev.URL}}">&laquo; Prev</a>
+          {{if and ( not ( eq .First.PageNumber .PageNumber ) )  (not ( eq .First.PageNumber .Prev.PageNumber  ) ) }}
+            <a class="ml-1 mr-1" href="{{.First.URL}}"> {{ .First.PageNumber }} </a>
+          {{end}}
+          <a class="ml-1 mr-1" href="{{.Prev.URL}}">&#9664;</a>
           <a class="ml-1 mr-1" href="{{.Prev.URL}}">{{ .Prev.PageNumber }}</a>
         {{ else }}
-          <span>&laquo; Prev</span>
+          <span class="currentpage">|</span>
         {{ end }}
 
-        <span class="ml-1 mr-1">{{ .PageNumber }}</span>
-
+        <span class="ml-1 mr-1 currentpage">{{ .PageNumber }}</span>
         {{ if .HasNext }}
           <a class="ml-1 mr-1" href="{{.Next.URL}}">{{ .Next.PageNumber }}</a>
-          <a class="ml-1 mr-1" href="{{.Next.URL}}">Next &raquo;</a>
+          <a class="ml-1 mr-1" href="{{.Next.URL}}">&#9654;</a>
+          {{if and ( not ( eq .Last.PageNumber .PageNumber ) )  (not ( eq .Last.PageNumber .Next.PageNumber  ) ) }}
+            <a class="ml-1 mr-1" href="{{.Last.URL}}"> {{ .Last.PageNumber }}</a>
+          {{end}}
         {{ else }}
-          <span>Next &raquo;</span>
+          <span>|</span>
         {{ end }}
       </div>
     {{ end }}
