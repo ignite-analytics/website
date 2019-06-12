@@ -17,7 +17,9 @@ Ignite er inne i en vekstfase, og teamet har vokst fra 4 til 18 ansatte i løpet
 
 Gründeren mener likevel at det fortsatt er et stort, uforløst potensial innenfor innkjøp for de aller fleste virksomheter.
 
-{{% figure src="https://cdn-images-1.medium.com/max/800/1*-5-4I6S_0aprP0kK4PNpPg.jpeg" alt="Sigbjørn Nome" caption="Innkjøp som et strategisk fokusområde er fortsatt relativt «skjult under radaren». Vår erfaring er at virksomheter generelt nedprioriterer og forsømmer viktigheten av strategisk innkjøp — selv om innkjøp utgjør størstedelen av kostnadsbasen, utdyper Sigbjørn Nome."  %}}
+{{% figure src="https://cdn-images-1.medium.com/max/800/1*-5-4I6S_0aprP0kK4PNpPg.jpeg" alt="Sigbjørn Nome" caption="Sigbjørn Nome"  %}}
+
+> Innkjøp som et strategisk fokusområde er fortsatt relativt «skjult under radaren». Vår erfaring er at virksomheter generelt nedprioriterer og forsømmer viktigheten av strategisk innkjøp — selv om innkjøp utgjør størstedelen av kostnadsbasen, utdyper Sigbjørn Nome.
 
 ![](https://cdn-images-1.medium.com/max/800/1*-sD3d7bQ53SNqbnbr1fRpQ.jpeg)
 
