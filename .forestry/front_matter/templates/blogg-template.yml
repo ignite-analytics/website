@@ -77,6 +77,7 @@ fields:
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
 pages:
+- content/blogg/nyheter/ignite-lanserer-ny-versjon-av-plattform-for-strategisk-innkjøp.md
 - content/blogg/cases/reforhandling - et-undervurdert-strategisk-virkemiddel.md
 - content/blogg/nyheter/ehf-konferansen-2019 - dagens-teknologi-muliggjør-digitale-anskaffelser.md
 - content/blogg/nyheter/ignite-procurement-kvalifisert-i-achilles-utilities-nce.md
@@ -102,7 +103,6 @@ pages:
 - content/blogg/nyheter/leverandørmodul-basert-på-ignite-analytics-lansert-for-obos-forvaltede-boligselskaper.md
 - content/blogg/nyheter/optimar-ignite-lisensavtale-for-bruk-av-ignite-analytics.md
 - content/blogg/nyheter/øystein-nygård-blir-senior-advisor-i-ignite-procurement.md
-- content/blogg/nyheter/ignite-lanserer-ny-versjon-av-plattform-for-strategisk-innkjøp.md
 - content/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur.md
 - content/blogg/innsikt/dette-trenger-du-til-en-aksjonsbasert-kategoristrategi.md
 - content/blogg/nyheter/nye-moduler-i-ignite-analytics.md
