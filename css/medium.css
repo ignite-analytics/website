@@ -59,6 +59,7 @@ section.recent-posts {
     margin-bottom: -1px ;
 }
 .section-title h2 {
+    text-transform:uppercase;
     text-align: center;
     border-bottom: 1px solid rgba(24,36,63, .125);
     margin-bottom: 25px;
@@ -79,6 +80,9 @@ section.recent-posts {
 .article-post ol,
 .article-post ul {
     margin-bottom: 1.5rem;
+    text-decoration:initial;
+    list-style-type: initial;
+    padding-left:1.5em;
 }
 
 .article-post ol ol,
@@ -146,13 +150,14 @@ section.recent-posts {
     font-size: 1.3rem;
     font-weight: 700;
     line-height: 1.25;
+    color: #18243f;
 }
 h2.card-title > a{
     padding-bottom:.2em;
 }
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
-    color: rgba(24,36,63,0.6);
+    color: rgba(24, 36, 63, 0.65);
     font-size: 0.95rem;
     line-height: 1.6;
     font-weight: 400;
@@ -183,7 +188,8 @@ h2.card-title > a{
     margin-bottom: 15px;
 }
 .ingress{
-    color:rgba(24,36,63, .44);
+    font-weight:400;
+    color:rgba(24, 36, 63, 0.65);
 }
 .author-thumb {
     width: 40px;
@@ -329,7 +335,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.posttitle {
-    font-weight: 700;
+    font-weight: 400;
     margin-bottom: 1rem;
 }
 
@@ -381,6 +387,9 @@ blockquote {
     width:100%;
     height:100%;
     object-fit: contain;
+}
+.article-post p img{
+    margin-top:1.5em;
 }
 .featured-image {
     display: block;
@@ -747,9 +756,15 @@ h6 {
 .article-post h5,
 .article-post h6 {
     font-weight: 700;
-    margin-bottom: 1.5rem;
+    margin-bottom: .5rem;
+    color: rgba(24,36,63, .84)
 }
-
+.article-post h3 {
+    font-size: 1.5em;
+}
+.article-post  h4 {
+    font-weight:600;
+}
 .article-post img.shadow {
     -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.30);
     -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.30);
@@ -763,6 +778,7 @@ h6 {
 
 .layout-page .article-post p {
     margin-bottom: 1rem;
+    color: rgba(24,36,63, .84)
 }
 
 img {
@@ -804,7 +820,12 @@ span.navigation {
     display: block;
     margin: 2em 0;
 }
-
+.pagination a{
+    color: r#3c6fe9;
+}
+.pagination span.currentpage {
+    color:rgba(24, 36, 63, 0.65)
+}
 iframe {
     max-width: 100%;
 }
