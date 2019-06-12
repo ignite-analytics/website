@@ -9,8 +9,6 @@ tags = ["lansering", "OBOS", "StartupLab", "Ignite 2.0"]
 title = "Ignite lanserer ny versjon av plattform for strategisk innkjøp"
 
 +++
-![](/images/Lanseringsfest - Boerge.jpeg)
-
 {{% youtube "3Y-re9Bh8Yk" %}}
 
 Ignite er inne i en vekstfase, og teamet har vokst fra 4 til 18 ansatte i løpet av det siste året. Ifølge Sigbjørn Nome, daglig leder og en av gründerne i Ignite Procurement, opplever selskapet en sterk etterspørsel for sine tjenester og satser på ytterligere vekst fremover.
@@ -19,9 +17,7 @@ Ignite er inne i en vekstfase, og teamet har vokst fra 4 til 18 ansatte i løpet
 
 Gründeren mener likevel at det fortsatt er et stort, uforløst potensial innenfor innkjøp for de aller fleste virksomheter.
 
-![Sigbjørn Nome, CEO i Ignite Procurement](https://cdn-images-1.medium.com/max/800/1*-5-4I6S_0aprP0kK4PNpPg.jpeg)
-
-> _Innkjøp som et strategisk fokusområde er fortsatt relativt «skjult under radaren». Vår erfaring er at virksomheter generelt nedprioriterer og forsømmer viktigheten av strategisk innkjøp — selv om innkjøp utgjør størstedelen av kostnadsbasen, utdyper Sigbjørn Nome._
+{{% figure      src="https://cdn-images-1.medium.com/max/800/1*-5-4I6S_0aprP0kK4_NpPg.jpeg"      alt="S_igbjørn Nome_"      caption="Innkjøp som et strategisk fokusområde er fortsatt relativt «skjult under radaren». Vår erfaring er at virksomheter generelt nedprioriterer og forsømmer viktigheten av strategisk innkjøp — selv om innkjøp utgjør størstedelen av kostnadsbasen, utdyper Sigbjørn Nome."_  %}}
 
 ![](https://cdn-images-1.medium.com/max/800/1*-sD3d7bQ53SNqbnbr1fRpQ.jpeg)
 
