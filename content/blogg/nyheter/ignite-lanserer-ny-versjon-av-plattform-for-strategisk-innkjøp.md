@@ -11,6 +11,8 @@ title = "Ignite lanserer ny versjon av plattform for strategisk innkjøp"
 +++
 ![](/images/Lanseringsfest - Boerge.jpeg)
 
+{{% youtube "3Y-re9Bh8Yk" %}}
+
 Ignite er inne i en vekstfase, og teamet har vokst fra 4 til 18 ansatte i løpet av det siste året. Ifølge Sigbjørn Nome, daglig leder og en av gründerne i Ignite Procurement, opplever selskapet en sterk etterspørsel for sine tjenester og satser på ytterligere vekst fremover.
 
 > _Teamet vårt har vokst betydelig den siste tiden, og består nå av mange dedikerte og dyktige medarbeidere. Vi opplever en økende etterspørsel etter tjenestene våre som vi håper betyr flere ansatte og nye rekrutteringer i fremtiden, sier Nome._
