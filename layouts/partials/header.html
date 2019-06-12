@@ -5,7 +5,7 @@
                 <ul class="nav-list">
                         <!-- <a class="navbar-brand" href="/"> -->
                           <a class="navbar-brand" href="{{ "/" | relLangURL }}">
-                            <img class="header-logo" src="{{ $.Site.Params.logo }} " /> 
+                            <img class="header-logo" src="{{ $.Site.Params.logo }}" alt="Ignite Procurement Logo" /> 
                         </a>
             
                     {{ $currentPage := . }}        
@@ -111,7 +111,7 @@
 
  <section class="navigation">   
                 <a class="navbar-brand" href="/">
-                    <img class="header-logo" src="{{ $.Site.Params.logo }} " /> 
+                    <img class="header-logo" src="{{ $.Site.Params.logo }} " alt="Ignite Procurement Logo"> 
                 </a>   
                 <div class="button_container" id="toggle">
                   <span class="top"></span>
@@ -148,63 +148,7 @@
                                 <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
                             </li>
                             {{ end }}
-                         
-                             
-
-
-                             
-                              
-                             <!-- {{ range .Site.Menus.analytics }}
-                             <ul class="small-menu-ul">
-                                    <li class="small-menu-li"><a href="{{ .URL }}"></i>{{ .Name }}</a></li>
-                                    {{ end }}
-                                   
-
-                             <span class="dropdown-el">
-                                    <h4 id="menu-h4">{{ i18n "andre tjenester" }}</h4>
-                                    <ul class="small-menu-ul">
-                                        {{ $currentPage := . }}
-                                        {{ range .Site.Menus.services }}
-                                        <li class="small-menu-li"><a href="{{ .URL }}"></i>{{ .Name }}</a></li>
-                                        {{ end }}
-                                    </ul>
-         
-                                  </span>
-                            <span class="dropdown-el">
-                             <h4 id="menu-h4">{{ i18n "selskapet" }}</h4>
-                             <ul class="small-menu-ul">
-                             {{ range .Site.Menus.main }}
-                                {{ if .HasChildren }}
-                                    {{ range .Children }}
-                                    <li class="small-menu-li"><a href="{{ .URL }}"></i>{{ .Name }}</a></li>
-                                    {{ end }}
-                                </li>
-                                {{ end }}
-                                {{ end }}
-                            </ul>
-                        </span>
-                        <span class="dropdown-el">
-                                <h4 id="menu-h4">{{ i18n "blogg" }}</h4>
-                                <ul class="small-menu-ul">
-                                {{ range .Site.Menus.blogg }}
-                                   {{ if .HasChildren }}
-                                       {{ range .Children }}
-                                       <li class="small-menu-li"><a href="{{ .URL }}"></i>{{ .Name }}</a></li>
-                                       {{ end }}
-                                   </li>
-                
-                                   {{ end }}
-                                   {{ end }}
-                               </ul>
-                        </span>
-                        {{ range .Site.Menus.kontakt}}
-                        <li class="small-menu-li">
-                            <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
-                        </li>
-                        {{ end }}
-          
-
- -->
+                        
 
 
                             {{ range .Site.Menus.kontakt}}
@@ -243,17 +187,6 @@
           
         </section> 
 
-        <script>
-                $('.dropdown-el').click(function(e) {
-                  /*     e.preventDefault(); */
-                      e.stopPropagation();
-                      $(this).toggleClass('expanded');
-                      $('#'+$(e.target).attr('for')).prop('checked',true);
-                      });
-                      $(document).click(function() {
-                      $('.dropdown-el').removeClass('expanded');
-                      });    
-              </script>
 
     </div>
 </nav>

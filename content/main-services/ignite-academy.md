@@ -16,7 +16,7 @@ url: "/ignite-academy/"
 </ul>
 
 
-{{< button class="service-btns2 btn btn-primary green btn-lg" data-toggle="modal" data-target="#modalacademynor">}}Meld din interesse{{< /button >}}
+{{< button  class="service-btns2 btn btn-primary green btn-lg" data-toggle="modal" data-target="#modalacademynor">}}Meld din interesse{{< /button >}}
 
 {{< button href="/ignite-academy/" class="service-btns btn btn-outline-primary green btn-lg" >}}Finn ut mer{{< /button >}}
 

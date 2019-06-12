@@ -15,5 +15,5 @@ thumbnail: "images/academy.jpg"
 <li><span class="fa-li"><i class="fas fa-chalkboard-teacher" style="color: #31B096"></i></span>Kurs</li>
 </ul>
 
-{{< button class="btn btn-primary green btn-lg" data-toggle="modal" data-target="#modalacademynor">}}Meld din interesse{{< /button >}}
+{{< button  class="btn btn-primary green btn-lg" data-toggle="modal" data-target="#modalacademynor">}}Meld din interesse{{< /button >}}
 

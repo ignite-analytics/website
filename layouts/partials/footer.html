@@ -1,6 +1,13 @@
 
 <section id="footer">
-    
+        <!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],	
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=		
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);		
+                })(window,document,'script','dataLayer','GTM-KS4MGZB');
+            </script>	
+        <!-- End Google Tag Manager -->
         <div class="container">
             
             <div class="row text-center text-xs-center text-sm-left text-md-left">
@@ -70,12 +77,20 @@
                  
                  <div class="footer-col col-xs-12 col-md-4">
                         <h4 class="white">{{ i18n "nyhetsbrev" }}</h4>
-                        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 
                         <script>
-                        hbspt.forms.create({
-                        portalId: "4304957",
-                        formId: "96ba9b93-a175-4a67-aaeb-b787ee63797c" });
+                        window.addEventListener('DOMContentLoaded', (event) => {
+                            while(typeof hbspt.forms.create !== "function") {
+                                    
+                                    await (() => { return new Promise(resolve => setTimeout(resolve, 1000))})
+                            }
+                            hbspt.forms.create({
+                                portalId: "4304957",
+                                formId: "96ba9b93-a175-4a67-aaeb-b787ee63797c" 
+                            });
+                            console.log('%c💪Opp å nikke!💪','font-weight:bold; font-size: 2em;color:#18243f;font-family: Roboto, Georgia, sans-serif');
+                        });
+                        
                         </script>
            
                 </div>   
@@ -88,7 +103,7 @@
     </div>
     <div class="footer-social col-12">
             {{ with .Site.GetPage "social-links" }}
-            <img class="footer-logo center" src="{{ .Params.Image }}">            
+            <img class="footer-logo center" alt="Footer-logo Ignite" src="{{ .Params.Image }}">            
             {{ end }}
             <div class="footer-icons">
                 <a href="https://medium.com/ignite-procurement" target="_blank"><i class="fab fa-medium-m red"></i></a>
@@ -112,7 +127,6 @@
         </div>
     </div>
         
-    </section>
 
 
 
@@ -220,80 +234,36 @@
     
 </section> -->
 <!--MODAL MOTE -->
-<!--Kill modals -->
-{{if gt 2 1}}
-    {{ with .Site.GetPage "mote" }}
-    {{ partial "sections/modals/mote-nor.html" . }}
-    {{ end }}
-    {{ with .Site.GetPage "mote" }}
-    {{ partial "sections/modals/mote-eng.html" . }}
-    {{ end }}
-    <!--MODAL SERVICES -->
-    {{ with .Site.GetPage "services" }}
-    {{ partial "sections/modals/services-nor.html" . }}
-    {{ end }}
-    {{ with .Site.GetPage "services" }}
-    {{ partial "sections/modals/services-eng.html" . }}
-    {{ end }}
-    <!--MODAL ACADEMY-->
-    {{ with .Site.GetPage "interesse" }}
-    {{ partial "sections/modals/interesse-nor.html" . }}
-    {{ end }}
-    {{ with .Site.GetPage "interesse" }}
-    {{ partial "sections/modals/interesse-eng.html" . }}
-    {{ end }}
-    <!--MODAL VIDEO-->
-    {{ with .Site.GetPage "video" }}
-    {{ partial "sections/modals/video.html" . }}
-    {{ end }}  
+{{ with .Site.GetPage "mote" }}
+{{ partial "sections/modals/mote-nor.html" . }}
+{{ end }}
+{{ with .Site.GetPage "mote" }}
+{{ partial "sections/modals/mote-eng.html" . }}
+{{ end }}
+<!--MODAL SERVICES -->
+{{ with .Site.GetPage "services" }}
+{{ partial "sections/modals/services-nor.html" . }}
+{{ end }}
+{{ with .Site.GetPage "services" }}
+{{ partial "sections/modals/services-eng.html" . }}
+{{ end }}
+<!--MODAL ACADEMY-->
+{{ with .Site.GetPage "interesse" }}
+{{ partial "sections/modals/interesse-nor.html" . }}
+{{ end }}
+{{ with .Site.GetPage "interesse" }}
+{{ partial "sections/modals/interesse-eng.html" . }}
+{{ end }}
+<!--MODAL VIDEO-->
+{{ with .Site.GetPage "video" }}
+{{ partial "sections/modals/video.html" . }}
+{{ end }}  
 
-{{end}}
 
-<script style="text/javascript">
-
-               
-               $('#carouselExample').on('slide.bs.carousel', function (e) {
-               
-                 
-               var $e = $(e.relatedTarget);
-               var idx = $e.index();
-               var itemsPerSlide = 6;
-               var totalItems = $('.carousel-item').length;
-               
-               if (idx >= totalItems-(itemsPerSlide-1)) {
-                   var it = itemsPerSlide - (totalItems - idx);
-                   for (var i=0; i<it; i++) {
-                       // append slides to end
-                       if (e.direction=="left") {
-                           $('.carousel-item').eq(i).appendTo('.carousel-inner');
-                       }
-                       else {
-                           $('.carousel-item').eq(0).appendTo('.carousel-inner');
-                       }
-                   }
-               }
-               });
-               
-               
-               $('#carouselExample').carousel({ 
-                           interval: 2000
-                   });
-               
-               
-               $(document).ready(function() {
-               /* show lightbox when clicking a thumbnail */
-               $('a.thumb').click(function(event){
-                 event.preventDefault();
-                 var content = $('.modal-body');
-                 content.empty();
-                   var title = $(this).attr("title");
-                   $('.modal-title').html(title);        
-                   content.html($(this).html());
-                   $(".modal-profile").modal({show:true});
-               });
-               
-               });
-
-</script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.bundle.min.js" integrity="sha384-pjaaA8dDz/5BgdFUPX6M/9SUZv4d12SUPF0axWc+VRZkx5xU3daN+lYb49+Ax+Tl" crossorigin="anonymous"></script>
-</body>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" async defer integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script async defer src="/js/modalHandler.js"></script>
+<!-- Start of HubSpot Embed Code -->
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<!-- End of HubSpot Embed Code -->
+</section>

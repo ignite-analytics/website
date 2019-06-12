@@ -10,7 +10,6 @@ url: "/ignite-academy/resources/kategoristrategi/"
 hidden: true
 ---
 
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 
 <script>
 

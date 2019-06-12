@@ -10,7 +10,7 @@
     <article class="servicesblock col-sm-12 col-xl-4 wrap pr-4">            
         <div class="flex column ">
             <figure class="service_illustration">
-               <img class="services-logo" src="{{ .Params.logo }}">
+               <img class="services-logo" src="{{ .Params.logo }}" alt="Ignite Services">
             </figure>   
               <div class="description-block px-4">
                    <h5 class="center">{{ .Description }}</h5>
@@ -18,21 +18,7 @@
              <div class="row px-4 align-items-center">
                  {{ .Content }} 
              </div>
-             <!--MODAL SERVICES -->
-             {{ with .Site.GetPage "services" }}
-              {{ partial "sections/modals/services-nor.html" . }}
-              {{ end }}
-              {{ with .Site.GetPage "services" }}
-              {{ partial "sections/modals/services-eng.html" . }}
-              {{ end }}
-
-            <!--MODAL ACADEMY-->
-            {{ with .Site.GetPage "interesse" }}
-                {{ partial "sections/modals/interesse-nor.html" . }}
-                {{ end }}
-                {{ with .Site.GetPage "interesse" }}
-                {{ partial "sections/modals/interesse-eng.html" . }}
-                {{ end }}       
+             
       </div>
 </article> 
      {{ end }}

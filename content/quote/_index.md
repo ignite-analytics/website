@@ -3,7 +3,7 @@ title: "Quote"
 date: 2019-02-20T13:09:05+01:00
 draft: false
 header: ""
-image: "/images/customers/con-form.png"
+image: "/images/customers/con-form.webp"
 author: "Tom Erik Heggedal"
 position: "CFO Con-Form"
 hidden: true

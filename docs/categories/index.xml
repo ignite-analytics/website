@@ -6,15 +6,24 @@
     <description>Recent content in Categories on Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 27 Mar 2019 15:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2019 14:49:16 +0000</lastBuildDate>
     
 	<atom:link href="https://ignite.no/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Cases</title>
+      <link>https://ignite.no/categories/cases/</link>
+      <pubDate>Thu, 06 Jun 2019 14:49:16 +0000</pubDate>
+      
+      <guid>https://ignite.no/categories/cases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Innsikt</title>
       <link>https://ignite.no/categories/innsikt/</link>
-      <pubDate>Wed, 27 Mar 2019 15:30:25 +0000</pubDate>
+      <pubDate>Wed, 29 May 2019 14:20:54 +0000</pubDate>
       
       <guid>https://ignite.no/categories/innsikt/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>Nyheter</title>
       <link>https://ignite.no/categories/nyheter/</link>
-      <pubDate>Mon, 27 Aug 2018 13:59:41 +0000</pubDate>
+      <pubDate>Tue, 14 May 2019 10:43:58 +0000</pubDate>
       
       <guid>https://ignite.no/categories/nyheter/</guid>
       <description></description>

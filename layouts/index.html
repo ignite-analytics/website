@@ -25,21 +25,7 @@
                  {{ with .Site.GetPage "main-services" }}
                      {{ partial "sections/main-services.html" . }}
                 {{ end }}
-                <!--MODAL SERVICES -->
-                {{ with .Site.GetPage "services" }}
-                {{ partial "sections/modals/services-nor.html" . }}
-                {{ end }}
-                {{ with .Site.GetPage "services" }}
-                {{ partial "sections/modals/services-eng.html" . }}
-                {{ end }}
-
-              <!--MODAL ACADEMY-->
-              {{ with .Site.GetPage "interesse" }}
-                  {{ partial "sections/modals/interesse-nor.html" . }}
-                  {{ end }}
-                  {{ with .Site.GetPage "interesse" }}
-                  {{ partial "sections/modals/interesse-eng.html" . }}
-                  {{ end }}       
+                    
     </div>
 </div>
 <div class="full-width py-5">

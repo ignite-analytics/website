@@ -325,7 +325,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: 'Roboto',Righteous;
+    font-family: 'Roboto',Righteous, Arial, Helvetica, sans-serif;;
 }
 
 .mainheading h1.posttitle {
@@ -350,7 +350,7 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Roboto Slab', TimesNewRoman, serif;
     font-size: 1.1rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);

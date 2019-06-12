@@ -49,17 +49,18 @@ pre {
 section {
     margin-bottom: 20px;
 }
-#footer {
-    margin-bottom: -1px;
-}
+
 section.recent-posts {
     margin-bottom: 0;
     margin-left:auto;
     margin-right:auto;
 }
-
+#footer {
+    margin-bottom: -1px ;
+}
 .section-title h2 {
-    border-bottom: 1px solid rgba(0, 0, 0, .125);
+    text-align: center;
+    border-bottom: 1px solid rgba(24,36,63, .125);
     margin-bottom: 25px;
     font-weight: 700;
     font-size: 1.4rem;
@@ -67,10 +68,12 @@ section.recent-posts {
 }
 
 .section-title span {
-    border-bottom: 1px solid rgba(0, 0, 0, .44);
+    font-weight:300;
+    border-bottom: 4px solid rgba(24,36,63, 1);
     display: inline-block;
+    padding:0 1em;
     padding-bottom: 20px;
-    margin-bottom: -1px;
+    margin-bottom: -2px;
 }
 
 .article-post ol,
@@ -149,7 +152,7 @@ h2.card-title > a{
 }
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
-    color: rgba(0, 0, 0, .44);
+    color: rgba(24,36,63,0.6);
     font-size: 0.95rem;
     line-height: 1.6;
     font-weight: 400;
@@ -180,7 +183,7 @@ h2.card-title > a{
     margin-bottom: 15px;
 }
 .ingress{
-    color:rgba(0, 0, 0, .44);
+    color:rgba(24,36,63, .44);
 }
 .author-thumb {
     width: 40px;
@@ -322,7 +325,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: 'Roboto',Righteous;
+    font-family: 'Roboto',Righteous, Arial, Helvetica, sans-serif;;
 }
 
 .mainheading h1.posttitle {
@@ -347,14 +350,14 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-    font-family: 'Roboto',Merriweather;
+    font-family: 'Roboto Slab', TimesNewRoman, serif;
     font-size: 1.1rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);
 }
 
 blockquote {
-    border-left: 4px solid #e9425e;
+    border-left: 4px solid #18243f;
     padding: 0 20px;
     font-style: italic;
     color: rgba(0, 0, 0, .5);
@@ -364,7 +367,15 @@ blockquote {
 .article-post blockquote {
     margin: 0 0 1.5rem 0;
 }
-
+.article-post p img{
+    position: relative;
+    margin: 0 auto;
+    max-height: 600px;
+    display: block;
+    width:100%;
+    height:100%;
+    object-fit: contain;
+}
 .featured-image {
     display: block;
     margin-bottom: 1.5rem;
@@ -397,6 +408,9 @@ blockquote {
     line-height: 30px;
     text-align: center;
     border-radius: 50%;
+}
+.share ul li i.fa.fab{
+    border:0;
 }
 
 .svgIcon {
@@ -777,6 +791,7 @@ span.navigation {
 
 .pagination {
     display: block;
+    margin: 2em 0;
 }
 
 iframe {
@@ -830,9 +845,9 @@ iframe {
 }
 @media (min-width: 1200px) {
     .recent-posts{
-        max-width: 1200px;
+        max-width: 1440px;
     }
-    .container > .row{
+    .container > .row.single{
         max-width: 1200px;
         margin:0 auto;
     }
