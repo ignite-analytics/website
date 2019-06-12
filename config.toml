@@ -15,7 +15,9 @@ logo = "/images/logo.svg"
 [taxonomies]
      tag = "tags"
      category = "categories"
-
+[permalinks]
+    categories = "blogg/:slug/"
+    tags = "blogg/tag/:slug"
 # <==
 
 
@@ -122,7 +124,7 @@ logo = "/images/logo.svg"
           name = "Innsikt"
           identifier = "innsikt"
           title = "Innsikt"
-          url = "/categories/innsikt/"
+          url = "/blogg/innsikt/"
           weight = "2"
 
      [[languages.no.menu.blogg]]
@@ -130,7 +132,7 @@ logo = "/images/logo.svg"
           name = "Caser"
           identifier = "caser"
           title = "Caser"
-          url = "/categories/cases/"
+          url = "/blogg/cases/"
           weight = "3"  
 
      [[languages.no.menu.blogg]]
@@ -138,7 +140,7 @@ logo = "/images/logo.svg"
           name = "Nyheter"
           identifier = "nyheter"
           title = "Nyheter"
-          url = "/categories/nyheter/"
+          url = "/blogg/nyheter/"
           weight = "4"
 
     
@@ -236,7 +238,7 @@ logo = "/images/logo.svg"
      name = "Blog"
      identifier = "blog"
      title = "Blog"
-     url = "https://medium.com/ignite-procurement"
+     url = "/blogg/"
      weight = "5"
      hasChildren = "true"
 
@@ -245,7 +247,7 @@ logo = "/images/logo.svg"
           name = "Latest"
           identifier = "latest"
           title = "Latest"
-          url = "/blogg"
+          url = "/blogg/"
           weight = "1"
 
      [[languages.en.menu.blogg]]
@@ -253,7 +255,7 @@ logo = "/images/logo.svg"
           name = "Insight"
           identifier = "insight"
           title = "insight"
-          url = "/categories/innsikt/"
+          url = "/blogg/innsikt/"
           weight = "2"
 
      [[languages.en.menu.blogg]]
@@ -261,7 +263,7 @@ logo = "/images/logo.svg"
           name = "Cases"
           identifier = "cases"
           title = "Cases"
-          url = "/categories/cases/"
+          url = "/blogg/cases/"
           weight = "3"  
 
      [[languages.en.menu.blogg]]
@@ -269,7 +271,7 @@ logo = "/images/logo.svg"
           name = "News"
           identifier = "news"
           title = "News"
-          url = "/categories/nyheter/"
+          url = "/blogg/nyheter/"
           weight = "4"  
 
 

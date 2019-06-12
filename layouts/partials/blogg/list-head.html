@@ -13,7 +13,7 @@
         {{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options }}
         <link rel="stylesheet" href="{{ ($style | minify | fingerprint).RelPermalink }}">	
         
-    <title>Ignite Procurement{{ if .Title }} - {{ .Title }}  {{ end }}</title>
+    <title>Ignite Procurement{{ if and (.Title) (not (eq .Title "Bloggs"))}} - {{ .Title }}{{else}} - Blogg {{ end }}</title>
     <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}Oppdag kraften i strategisk innkjøp gjort digitalt. Les mer om oss og våre artikler innen kategorien {{ .Title }} her{{ end }}"/>
     <meta property="og:type" content="website" />
     <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}Oppdag kraften i strategisk innkjøp gjort digitalt. Les mer om oss og våre artikler innen kategorien {{ .Title }} her{{ end }}"/>

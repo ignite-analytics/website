@@ -84,9 +84,10 @@
                                     
                                     await (() => { return new Promise(resolve => setTimeout(resolve, 1000))})
                             }
+                            {{ $currentLang := .Site.Language.Lang }}
                             hbspt.forms.create({
                                 portalId: "4304957",
-                                formId: "96ba9b93-a175-4a67-aaeb-b787ee63797c" 
+                                formId: {{ if eq $currentLang "en" }} "f54b9893-35ce-4916-a671-b7d6cee44316" {{else}} "96ba9b93-a175-4a67-aaeb-b787ee63797c" {{end}} 
                             });
                             console.log('%c💪Opp å nikke!💪','font-weight:bold; font-size: 2em;color:#18243f;font-family: Roboto, Georgia, sans-serif');
                         });
@@ -106,7 +107,6 @@
             <img class="footer-logo center" alt="Footer-logo Ignite" src="{{ .Params.Image }}">            
             {{ end }}
             <div class="footer-icons">
-                <a href="https://medium.com/ignite-procurement" target="_blank"><i class="fab fa-medium-m red"></i></a>
                 <a href="https://www.instagram.com/ignite.procurement/" target="_blank"><i class="fab red fa-instagram"></i></a>
                 <a href="https://www.facebook.com/igniteprocurement" target="_blank"><i class="fab red fa-facebook-f"></i></a>
                 <a href="https://www.linkedin.com/company/ignite-procurement/" target="_blank"><i class="fab red fa-linkedin-in"></i></a>

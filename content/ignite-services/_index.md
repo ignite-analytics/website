@@ -15,4 +15,4 @@ thumbnail : "images/ignite-services.jpg/"
 </ul>
 
 {{< button class="btn btn-primary yellow btn-lg" data-toggle="modal" data-target="#modalbooknorw">}}Book et møte{{< /button >}}
-{{< button href="https://medium.com/ignite-procurement" class="btn btn-outline-primary yellow btn-lg" >}}Se eksempler{{< /button >}}
+{{< button href="/blogg" class="btn btn-outline-primary yellow btn-lg" >}}Se eksempler{{< /button >}}

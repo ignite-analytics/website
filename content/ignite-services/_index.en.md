@@ -14,4 +14,4 @@ image: "/images/infographics/analytics-2.svg"
 </ul>
 
 {{< button class="btn btn-primary yellow btn-lg" data-toggle="modal" data-target="#modalbookeng">}}Book a meeting{{< /button >}}
-{{< button href="https://medium.com/ignite-procurement" class="btn btn-outline-primary yellow btn-lg" >}}See examples{{< /button >}}
+{{< button href="/blogg" class="btn btn-outline-primary yellow btn-lg" >}}See examples{{< /button >}}
