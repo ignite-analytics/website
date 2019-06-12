@@ -19,7 +19,7 @@ Gründeren mener likevel at det fortsatt er et stort, uforløst potensial innenf
 
 {{% figure src="https://cdn-images-1.medium.com/max/800/1*-5-4I6S_0aprP0kK4PNpPg.jpeg" alt="Sigbjørn Nome" caption="Sigbjørn Nome"  %}}
 
-> Innkjøp som et strategisk fokusområde er fortsatt relativt «skjult under radaren». Vår erfaring er at virksomheter generelt nedprioriterer og forsømmer viktigheten av strategisk innkjøp — selv om innkjøp utgjør størstedelen av kostnadsbasen, utdyper Sigbjørn Nome.
+> _Innkjøp som et strategisk fokusområde er fortsatt relativt «skjult under radaren». Vår erfaring er at virksomheter generelt nedprioriterer og forsømmer viktigheten av strategisk innkjøp — selv om innkjøp utgjør størstedelen av kostnadsbasen, utdyper Sigbjørn Nome._
 
 ![](https://cdn-images-1.medium.com/max/800/1*-sD3d7bQ53SNqbnbr1fRpQ.jpeg)
 
