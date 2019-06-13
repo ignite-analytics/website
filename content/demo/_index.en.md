@@ -11,13 +11,11 @@ hidden: true
 ---
 
 <script>
-
+document.addEventListener('DOMContentLoaded', () => {
   hbspt.forms.create({
-
-                portalId: "4304957",
-
-                formId: "4228e038-d9f5-40f8-954a-b44bdc8a1fec"
-
+    portalId: "4304957",
+    formId: "4228e038-d9f5-40f8-954a-b44bdc8a1fec"
+  });
 });
 
 </script>
