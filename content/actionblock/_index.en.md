@@ -7,5 +7,5 @@ backgroundimage: ""
 hidden: true
 ---
 
-{{< button class="btn btn-primary action-btn" data-toggle="modal" data-target="#modalbook">}}Try Ignite Analytics{{< /button >}}
+<a class="btn btn-primary action-btn" href="/en/ignite-analytics/demo">Try Ignite Analytics</a>
 

@@ -18,6 +18,4 @@ image: "/images/infographics/dashboard2.svg"
 
 </ul>
 
-{{< button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#modalbooknor">}}Prøv Ignite Analytics{{< /button >}}
-
-{{< button class="btn btn-outline-primary btn-lg" data-toggle="modal" data-target="#modalYT">}}Se video<i class="fas fas-outline fa-play-circle btn-icon"></i>{{< /button >}}
+<a class="btn btn-primary action-btn" style="margin-top:1em !important;" href="/ignite-analytics/demo">Prøv Ignite Analytics</a>

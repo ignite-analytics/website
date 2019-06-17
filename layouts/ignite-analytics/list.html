@@ -1,5 +1,5 @@
 {{ define "main" }}
-<section class="container d-flex bd-highlight flex-column flex-lg-row align-items-center mb-5">
+<section class="container analytics-landing d-flex bd-highlight flex-column flex-lg-row align-items-center mb-5">
         <div class="header-content p-2 flex-fill bd-highlight pr-sm-3 pr-lg-5">
                         <h1>Ignite <span style="color:#3c6fe9;">Analytics</span></h1>
                         <h4>{{.Description}}</h4>  
@@ -8,14 +8,10 @@
         </div>            
         <div class="header-content-img p-2 flex-fill bd-highlight pl-sm-3 pl-lg-5">
                 <img class="" src="{{ .Params.Image }}">
+                <button class="overlaybutton" data-toggle="modal" data-target="#modalYT"><i class="fas fa-play-circle"></i></button>
          </div>
 </section>  
-<section class="seksjon mb-5">
-        {{ with .Site.GetPage "/seksjoner/downloadseksjon" }}
-        {{ partial "sections/downloadseksjon.html" . }}
-        {{ end }}
-</section>
-<section class="container">
+<section class="container analytics-container">
         <section class="container">
                 {{ with .Site.GetPage "item1" }}
                 {{ partial "sections/infoblock.html" . }}
@@ -24,6 +20,11 @@
         <section class="container">
                 {{ with .Site.GetPage "item2" }}
                 {{ partial "sections/infoblock-reverse.html" . }}
+                {{ end }}
+        </section>
+        <section class="seksjon download">
+                {{ with .Site.GetPage "/seksjoner/downloadseksjon" }}
+                {{ partial "sections/downloadseksjon.html" . }}
                 {{ end }}
         </section>
         <section class="">

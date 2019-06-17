@@ -17,7 +17,9 @@
       width:0;
       margin:0;
     }
-    
+    .analytics-landing{
+      flex-direction: column-reverse !important;
+    }
   }
   
 }
@@ -46,9 +48,48 @@ h1.head{
 /*    width: 80%; */
   padding-left: 0;
 }
-
-
-
+section .download{
+  border:0 !important;
+}
+.download > section {
+  border:0;
+  background: #f2f2f2;
+}
+@keyframes clickme{
+  0% {
+    border:5px solid rgba(255, 255, 255, 0);
+  }
+  70% {
+    border:5px solid rgba(255, 255, 255, 1);
+  }
+  100% {
+    border:5px solid rgba(255, 255, 255, 0);
+  }
+}
+.overlaybutton{
+  background:transparent;
+  border:5px solid white;
+  position:absolute;
+  z-index:2;
+  left:50%;
+  top:50%;
+  transform: translate(-50%,-50%);
+  border-radius:50%;
+  margin:0;
+  padding:.2em;
+  animation: clickme 5s ease infinite;
+}
+.overlaybutton i {
+  font-size:5em;
+  color:white !important;
+  cursor:pointer;
+  margin-right:.77em!important;
+  margin-bottom:.01em!important;
+}
+.analytics-container section ul{
+  list-style-type: initial;
+  padding-left:1em;
+}
 .menu ul {
   height: 80px;
   text-align: center;

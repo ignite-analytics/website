@@ -437,7 +437,7 @@ section.seksjon {
 @media screen and (min-width: 1200px) {
     .header-content-img {
         min-width: 700px;
-    
+        position:relative;
     }
     .content-img {
         width: 700px;
@@ -476,18 +476,20 @@ section.seksjon {
   
 }
 
-
+.header-content-img {
+    padding:.5rem !important;
+}
 @media screen and (max-width: 991px) {
-
+.analytics-landing{
+    flex-direction: column-reverse !important;
+}
 .header {
     display: block;
     padding-top: 0;
 
 }
 .header-content {
-
     max-height: 1000px;
-
     margin-bottom: 0em;
     .header{
         flex-direction:column-reverse !important;
@@ -496,6 +498,7 @@ section.seksjon {
 .header-content-img {
     max-height: 500px;
     max-width: 500px;
+    position:relative;
     &.services {
         display: none;
     }
@@ -517,6 +520,6 @@ section.seksjon {
     }
     .header-content-img {
         width: 100%;
-    
+        position:relative;
     }
 }
