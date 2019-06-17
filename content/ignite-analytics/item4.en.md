@@ -1,8 +1,17 @@
 ---
-title: "Seamless tracking of spend development"
-description: "Our KPI-dashboard accompanied by our flexible contract management module provides you with all you need to systematically track spend, suppliers and contracts"
-date: 2018-12-16T15:31:35+01:00
-draft: false
+title: Follow-up. Track spend development
+description: KPIs and contract management provides you with all you need to systematically
+  track spend, suppliers and contracts
+date: 2018-12-16T14:31:35.000+00:00
 image: "/images/infographics/spend.svg"
----
 
+---
+<ul>
+
+<li> KPI dashboards</li>
+
+<li> Contract management</li>
+
+<li> Custom reports</li>
+
+</ul>
