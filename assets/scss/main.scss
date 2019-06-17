@@ -283,7 +283,7 @@ h4.arrow2 {
 .main-content-img {
     margin-bottom: 1em;
     min-width: 250px;
-   
+    max-width:100%;
     padding: 1em auto;
 }
 /** NEWSLETTER**/
@@ -480,7 +480,7 @@ section.seksjon {
     padding:.5rem !important;
 }
 @media screen and (max-width: 991px) {
-.analytics-landing{
+.analytics-landing, .academy-landing{
     flex-direction: column-reverse !important;
 }
 .header {
