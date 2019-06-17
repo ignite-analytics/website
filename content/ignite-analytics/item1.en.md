@@ -1,8 +1,17 @@
 ---
-title: "Full spend transparency and deep insight"
-description: "Within minutes, Ignite Analytics provides you full overview of your spend composition and development, either through our standard analyses or your custom reports"
-date: 2018-12-16T15:31:35+01:00
-draft: false
+title: Analyze. Get deep insight into your spend
+description: Within minutes, Ignite Analytics provides you full overview of spend
+  composition and development
+date: 2018-12-16T14:31:35.000+00:00
 image: "/images/infographics/oversikt.svg"
----
 
+---
+<ul>
+
+<li> Flexible categorization</li>
+
+<li> Automated spend analysis</li>
+
+<li> Custom analysis and dashboards</li>
+
+</ul>
