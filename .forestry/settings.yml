@@ -49,6 +49,23 @@ sections:
   create: all
   match: "**/*"
 - type: heading
+  label: Sider
+- type: directory
+  path: content/ignite-analytics
+  label: Ignite analytics
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ignite-academy
+  label: Ignite academy
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ignite-services
+  label: Ignite services
+  create: all
+  match: "**/*"
+- type: heading
   label: Side-innhold
 - type: directory
   path: content
@@ -58,11 +75,6 @@ sections:
 - type: directory
   path: content/team
   label: Team
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/ignite-services
-  label: Ignite services
   create: all
   match: "**/*"
 - type: directory
@@ -93,11 +105,6 @@ sections:
 - type: directory
   path: content/customers
   label: Customers
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/ignite-academy
-  label: Ignite academy
   create: all
   match: "**/*"
 - type: directory
@@ -133,11 +140,6 @@ sections:
 - type: directory
   path: content/main-buttons
   label: Main buttons
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/ignite-analytics
-  label: Ignite analytics
   create: all
   match: "**/*"
 - type: directory
