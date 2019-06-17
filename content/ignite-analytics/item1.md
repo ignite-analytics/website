@@ -6,4 +6,12 @@ date: 2018-12-16T14:31:35.000+00:00
 image: "/images/infographics/oversikt.svg"
 
 ---
-<ul><li> Fleksibel kategorisering</li> <li> Automatiserte innkjøpsanalyser</li> <li> Egne analyser og dashboards</li></ul>
+<ul>
+
+<li> Fleksibel kategorisering</li> 
+
+<li> Automatiserte innkjøpsanalyser</li> 
+
+<li> Egne analyser og dashboards</li>
+
+</ul>
