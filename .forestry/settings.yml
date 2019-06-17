@@ -34,11 +34,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/header
-  label: Header
-  create: all
-  match: "**/*"
-- type: directory
   path: content/modals
   label: Modals
   create: all
@@ -62,6 +57,11 @@ sections:
   match: "**/*"
 - type: heading
   label: Sider
+- type: directory
+  path: content/header
+  label: Header
+  create: all
+  match: "**/*"
 - type: directory
   path: content/ignite-analytics
   label: Ignite analytics
