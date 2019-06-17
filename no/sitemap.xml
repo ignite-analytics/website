@@ -1437,23 +1437,6 @@
   
   
   <url>
-    <loc>https://ignite.no/ignite-analytics/item2/</loc>
-    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/ignite-analytics/item2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/ignite-analytics/item2/"
-                />
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/modals/mote/</loc>
     <lastmod>2018-12-16T15:31:35+01:00</lastmod>
     <xhtml:link
@@ -1615,6 +1598,23 @@
   
   
   
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/ignite-analytics/item2/</loc>
+    <lastmod>2018-12-16T14:31:35+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/ignite-analytics/item2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/ignite-analytics/item2/"
+                />
+  </url>
   
   
   
