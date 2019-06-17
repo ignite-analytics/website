@@ -6,7 +6,7 @@ date: 2018-12-16T14:31:35.000+00:00
 image: "/images/infographics/dashboard2.svg"
 
 ---
-<ul class="fa-ul"> <li><span class="fa-li"><i class="fas fa-chart-bar" style="color: #3C6FE9"></i></span>Analyze. Få dyp innsikt i innkjøpet ditt</li> <li><span class="fa-li"><i class="fas fa-exclamation-triangle" style="color: #3C6FE9"></i></span>Prioritize. Identifiser muligheter og risikoer</li> <li><span class="fa-li"><i class="fas fa-magic" style="color: #3C6FE9"></i></span>Implement. Gjennomfør forbedringstiltak</li> <li><span class="fa-li"><i class="fas fa-sync"></i></span><span style="color: #3C6FE9">Follow-up</span>. Følg opp utviklingen i innkjøpet</li> </ul>
+<ul class="fa-ul"> <li><span class="fa-li"><i class="fas fa-chart-bar" style="color: #3C6FE9"></i></span>Analyze. Få dyp innsikt i innkjøpet ditt</li> <li><span class="fa-li"><i class="fas fa-exclamation-triangle" style="color: #3C6FE9"></i></span>Prioritize. Identifiser muligheter og risikoer</li> <li><span class="fa-li"><i class="fas fa-magic" style="color: #3C6FE9"></i></span><span style="color: #3C6FE9">Implement</span> Gjennomfør forbedringstiltak</li> <li><span class="fa-li"><i class="fas fa-sync"></i></span><span style="color: #3C6FE9">Follow-up</span> Følg opp utviklingen i innkjøpet</li> </ul>
 
 {{< button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#modalbooknor">}}Prøv Ignite Analytics{{< /button >}}
 
