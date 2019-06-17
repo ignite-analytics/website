@@ -1,8 +1,7 @@
 ---
 title: Unlock the power of strategic procurement made digital
-description: Realizing the full potential within procurement is challenging. With
-  Ignite it has never been easier – let us help you simplify everyday life and improve
-  profitability!
+description: Realizing the full potential within procurement is challenging. Let us
+  help you simplify everyday life and improve profitability!
 date: 2018-12-16T14:31:35.000+00:00
 image: "/images/infographics/dashboard2.svg"
 hidden: true
