@@ -1,8 +1,8 @@
 ---
-title: "Automatisk identifikasjon av muligheter og risikoer"
-description: "Med intelligent databerikelse kan du umiddelbart identifisere de største mulighetene og risikoene i din leverandørbase​"
-date: 2018-12-16T15:31:35+01:00
-draft: false
+title: Prioritize. Identifiser muligheter og risikoer
+description: Med intelligent databerikelse kan du umiddelbart identifisere de største
+  mulighetene og risikoene i din leverandørbase
+date: 2018-12-16T14:31:35.000+00:00
 image: "/images/infographics/risiko.svg"
----
 
+---
