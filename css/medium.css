@@ -154,6 +154,7 @@ section.recent-posts {
 }
 h2.card-title > a{
     padding-bottom:.2em;
+    color:#18243f;
 }
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
@@ -335,8 +336,9 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.posttitle {
-    font-weight: 400;
+    font-weight: 600;
     margin-bottom: 1rem;
+    color: rgba(24,36,63, .84);
 }
 
 .footer {
@@ -372,11 +374,13 @@ blockquote {
 .article-post p,
 .article-post blockquote {
     margin: 0 0 1.5rem 0;
+    color: rgba(24,36,63, .84);
 }
 .article-post figure figcaption p {
     font-weight:300;
     text-align:center;
-    color:rgba(24,36,63,0.8);
+    font-size:0.75em;
+    color:rgba(24,36,63,0.68);
     padding: .5em
 }
 .article-post p img, .article-post figure img{
@@ -763,7 +767,7 @@ h6 {
     font-size: 1.5em;
 }
 .article-post  h4 {
-    font-weight:600;
+    font-weight:700;
 }
 .article-post img.shadow {
     -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.30);
@@ -821,13 +825,16 @@ span.navigation {
     margin: 2em 0;
 }
 .pagination a{
-    color: r#3c6fe9;
+    color:#3c6fe9;
 }
-.pagination span.currentpage {
-    color:rgba(24, 36, 63, 0.65)
+
+.pagination > * {
+    color:rgba(60, 111, 233, 0.65)
 }
 iframe {
     max-width: 100%;
+    margin: 0 0 1.5em 0;
+    padding-bottom:1.5em;
 }
 
 .transpdark {
