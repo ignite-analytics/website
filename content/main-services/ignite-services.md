@@ -1,14 +1,12 @@
 ---
-title: "Ignite-services"
-date: 2019-02-20T13:09:05+01:00
-description: "Erfarne konsulenter er tilgjengelige for å skape raske resultater gjennom skreddersydde løsninger"
-draft: false
+title: Ignite-services
+date: 2019-02-20T12:09:05.000+00:00
+description: Få støtte til å realisere ditt innkjøpspotensial med Ignite Services
 logo: "/images/services.svg"
 weight: "3"
 url: "/ignite-services/"
+
 ---
-
-
 <ul class="fa-ul">
 <li><span class="fa-li"><i class="fas fa-hand-holding-usd" style="color: #ebaf41;"></i></span>Realisering av besparelser​</li>
 <li><span class="fa-li"><i class="fas fa-sitemap" style=" color: #ebaf41;"></i></span>Utvikling av innkjøpsorganisasjon​</li>
@@ -16,7 +14,4 @@ url: "/ignite-services/"
 <li><span class="fa-li"><i class="fas fa-list-alt" style="color: #ebaf41;"></i></span>Og mye mer</li>
 </ul>
 
-{{< button class=" service-btns2 btn btn-primary yellow btn-lg" data-toggle="modal" data-target="#modalbooknorw">}}Book et møte{{< /button >}}
-
 {{< button href="/ignite-services" class="service-btns btn btn-outline-primary yellow btn-lg" >}}Finn ut mer{{< /button >}}
-
