@@ -55,6 +55,11 @@ sections:
   label: Demo
   create: all
   match: "**/*"
+- type: directory
+  path: content/produktinformasjon
+  label: Produktinformasjon
+  create: all
+  match: "**/*"
 - type: heading
   label: Sider
 - type: directory
@@ -73,8 +78,23 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: content/kontakt
+  label: Kontakt
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/om-oss
+  label: Om oss
+  create: all
+  match: "**/*"
+- type: directory
   path: content/personvernerklæring
   label: Personvernerklæring
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/karriere
+  label: Karriere
   create: all
   match: "**/*"
 - type: heading
@@ -125,16 +145,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/karriere
-  label: Karriere
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/produktinformasjon
-  label: Produktinformasjon
-  create: all
-  match: "**/*"
-- type: directory
   path: content/main-services
   label: Main services
   create: all
@@ -147,16 +157,6 @@ sections:
 - type: directory
   path: content/services
   label: Services
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/kontakt
-  label: Kontakt
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/om-oss
-  label: Om oss
   create: all
   match: "**/*"
 upload_dir: static/images
