@@ -8,8 +8,8 @@ image: "/images/infographics/academy.svg"
 
 ---
 <ul class="fa-ul">
-<li><span class="fa-li"><i class="fas fa-award" style="color: #31B096"></i></span>Tips and tricks</li>
-<li><span class="fa-li"><i class="fas fa-play-circle" style="color: #31B096"></i></span>Best practice templates​</li>
-<li><span class="fa-li"><i class="fas fa-indent" style="color: #31B096"></i></span>Online video courses</li>
+<li><span class="fa-li"><i class="far fa-lightbulb" style="color: #31B096"></i></span>Tips and tricks</li>
+<li><span class="fa-li"><i class="fas fa-tasks" style="color: #31B096"></i></span>Best practice templates​</li>
+<li><span class="fa-li"><i class="fas fa-laptop" style="color: #31B096"></i></span>Online video courses</li>
 <li><span class="fa-li"><i class="fas fa-chalkboard-teacher" style="color: #31B096"></i></span>Courses, webinars and seminars​</li>
 </ul>
