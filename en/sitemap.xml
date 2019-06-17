@@ -698,7 +698,41 @@
   
   
   
+  <url>
+    <loc>https://ignite.no/en/ignite-academy/praksis/</loc>
+    <lastmod>2018-12-16T14:31:35+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/ignite-academy/praksis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/ignite-academy/praksis/"
+                />
+  </url>
   
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/en/ignite-academy/kurs/</loc>
+    <lastmod>2018-12-16T14:31:35+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/ignite-academy/kurs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/ignite-academy/kurs/"
+                />
+  </url>
   
   
   
@@ -845,6 +879,23 @@
   
   
   <url>
+    <loc>https://ignite.no/en/ignite-academy/online/</loc>
+    <lastmod>2018-12-16T14:31:35+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/ignite-academy/online/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/ignite-academy/online/"
+                />
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/en/ignite-services/item6/</loc>
     <lastmod>2018-12-16T15:31:35+01:00</lastmod>
     <xhtml:link
@@ -949,6 +1000,23 @@
   </url>
   
   
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/en/ignite-academy/tips/</loc>
+    <lastmod>2018-12-16T14:31:35+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/ignite-academy/tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/ignite-academy/tips/"
+                />
+  </url>
   
   
   
