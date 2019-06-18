@@ -60,3 +60,5 @@ fields:
   description: Ikke rør
   hidden: true
   default: true
+pages:
+- content/ignite-academy/maler/innkjøpsvirkemidler.md
