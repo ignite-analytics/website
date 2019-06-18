@@ -48,11 +48,12 @@ h1.head{
 /*    width: 80%; */
   padding-left: 0;
 }
-section .download{
+.download{
   border:0 !important;
+  background: #f2f2f2;
 }
 .download > section {
-  border:0;
+  border:0 !important;
   background: #f2f2f2;
 }
 @keyframes clickme{

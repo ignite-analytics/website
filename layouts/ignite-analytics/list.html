@@ -22,18 +22,20 @@
                 {{ partial "sections/infoblock-reverse.html" . }}
                 {{ end }}
         </section>
+</section>
         <section class="seksjon download">
                 {{ with .Site.GetPage "/seksjoner/downloadseksjon" }}
                 {{ partial "sections/downloadseksjon.html" . }}
                 {{ end }}
         </section>
-        <section class="">
+<section class="container analytics-container"></section>
+        <section class="container">
                 {{ with .Site.GetPage "item3" }}
                 {{ partial "sections/infoblock.html" . }}
                 {{ end }}
   
         </section>
-         <section class="">
+         <section class="container">
                 {{ with .Site.GetPage "item4" }}
                 {{ partial "sections/infoblock-reverse.html" . }}
                 {{ end }}

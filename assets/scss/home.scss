@@ -10,3 +10,124 @@
 .row {
     margin: 0;
 }
+.container.mal{
+    max-width:1200px;
+    padding-top: 3em;
+}
+.mal .hbspt-form{
+    max-width:600px;
+    margin-left: auto;
+    margin-right:auto;
+}
+.center-logo{
+    text-align:center;
+}
+body.minimal{
+    min-height:100vh;
+    background-color:#18243f !important;
+    overflow-x:hidden;
+}
+body.minimal .nav-padding{
+    background-color:white;
+    padding:5em 0;
+}
+body.minimal #footer{
+}
+#confetti-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    color: white;
+    z-index: 2;
+    overflow:hidden;
+    max-height:100%;
+    max-width:100%;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    pointer-events: none;
+  }
+  .single-mal{
+      list-style-type: none;
+      line-height:1.6;
+      letter-spacing: 1px;
+      border-bottom: 3px solid #18243f;
+      padding-bottom:1em;
+  }
+  .mal-list{
+      overflow-y:auto;
+      overflow-x:hidden;
+  }
+  .single-mal{
+      display:flex;
+      flex-direction:row;
+      flex-wrap:wrap;
+      align-items: center;
+  }
+  .single-mal  b {
+      font-size:2em;
+  }
+  .single-mal p {
+      max-width:700px;
+  }
+  .confetti {
+    height: 5px;
+    width: 5px;
+    position: absolute;
+    opacity: 0.75;
+    z-index: 0;
+    /* gpu acceleration */
+    -webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    -o-transform: translateZ(0);
+    transform: translateZ(0);
+    &.blue {
+      background: #3c6fe9;
+    }
+    &.green {
+      background: #31b096;
+    }
+    &.yellow {
+      background: rgb(240,193,97);
+    }
+    &.red {
+      background: #e9425e;
+    }
+    &.pink {
+      background: rgb(31,112,96);
+    }
+    &.circle {
+      border-radius: 50%;
+    }
+    &.rectangle {
+      padding: 0 1px;
+    }
+  }
+  .ty{
+      text-align:center;
+  }
+.ty h1{
+    font-size:8em;
+    padding:.15em;
+    color:#31b096;
+}
+.ty h4{
+    max-width:600px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+.ty code{
+    margin: .5em auto;
+    color:white;
+    background: #18243f;
+    border-radius:5px;
+    padding:10px 15px;
+    cursor: text;
+}
