@@ -4,13 +4,6 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: content/ty
-  label: Thank you page
-  create: all
-  match: "**/*"
-  templates:
-  - thank-you-page
 - type: heading
   label: Blogg
 - type: directory
@@ -62,6 +55,13 @@ sections:
   label: Produktinformasjon
   create: all
   match: "**/*"
+- type: directory
+  path: content/ty
+  label: Thank you page
+  create: all
+  match: "**/*"
+  templates:
+  - thank-you-page
 - type: heading
   label: Sider
 - type: directory
