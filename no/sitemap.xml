@@ -22,7 +22,7 @@
   
   <url>
     <loc>https://ignite.no/ignite-analytics/</loc>
-    <lastmod>2019-02-20T12:09:05+00:00</lastmod>
+    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,7 +39,7 @@
   
   <url>
     <loc>https://ignite.no/ignite-analytics/</loc>
-    <lastmod>2019-02-20T12:09:05+00:00</lastmod>
+    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -94,7 +94,7 @@
   
   <url>
     <loc>https://ignite.no/ignite-academy/</loc>
-    <lastmod>2019-02-20T12:09:05+00:00</lastmod>
+    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -111,7 +111,7 @@
   
   <url>
     <loc>https://ignite.no/ignite-academy/</loc>
-    <lastmod>2019-02-20T12:09:05+00:00</lastmod>
+    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -166,7 +166,7 @@
   
   <url>
     <loc>https://ignite.no/ignite-services/</loc>
-    <lastmod>2019-02-20T12:09:05+00:00</lastmod>
+    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -183,7 +183,7 @@
   
   <url>
     <loc>https://ignite.no/ignite-services/</loc>
-    <lastmod>2019-02-20T12:09:05+00:00</lastmod>
+    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -476,7 +476,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/cases/</loc>
+    <loc>https://ignite.no/categories/cases/</loc>
     <lastmod>2019-06-06T14:49:16+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -545,7 +545,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/analyser/</loc>
+    <loc>https://ignite.no/tags/analyser/</loc>
     <lastmod>2019-06-06T14:49:16+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -553,7 +553,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/forhandling/</loc>
+    <loc>https://ignite.no/tags/forhandling/</loc>
     <lastmod>2019-06-06T14:49:16+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -561,7 +561,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/forhandlingsresultater/</loc>
+    <loc>https://ignite.no/tags/forhandlingsresultater/</loc>
     <lastmod>2019-06-06T14:49:16+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -569,7 +569,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8psvirkemidler/</loc>
+    <loc>https://ignite.no/tags/innkj%C3%B8psvirkemidler/</loc>
     <lastmod>2019-06-06T14:49:16+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -577,7 +577,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/reforhandling/</loc>
+    <loc>https://ignite.no/tags/reforhandling/</loc>
     <lastmod>2019-06-06T14:49:16+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -585,7 +585,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/ignite-analytics/</loc>
+    <loc>https://ignite.no/tags/ignite-analytics/</loc>
     <lastmod>2019-05-29T14:20:54+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -593,7 +593,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/innsikt/</loc>
+    <loc>https://ignite.no/categories/innsikt/</loc>
     <lastmod>2019-05-29T14:20:54+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -608,7 +608,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/forhandlinger/</loc>
+    <loc>https://ignite.no/tags/forhandlinger/</loc>
     <lastmod>2019-05-29T14:20:54+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -616,7 +616,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/tips/</loc>
+    <loc>https://ignite.no/tags/tips/</loc>
     <lastmod>2019-05-29T14:20:54+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -631,7 +631,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8psmodell/</loc>
+    <loc>https://ignite.no/tags/innkj%C3%B8psmodell/</loc>
     <lastmod>2019-05-20T14:23:42+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -639,7 +639,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8psprosess/</loc>
+    <loc>https://ignite.no/tags/innkj%C3%B8psprosess/</loc>
     <lastmod>2019-05-20T14:23:42+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -647,7 +647,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/source-to-contract/</loc>
+    <loc>https://ignite.no/tags/source-to-contract/</loc>
     <lastmod>2019-05-20T14:23:42+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -655,7 +655,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/strategisk-innkj%C3%B8p/</loc>
+    <loc>https://ignite.no/tags/strategisk-innkj%C3%B8p/</loc>
     <lastmod>2019-05-20T14:23:42+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -663,7 +663,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/verdiskaping/</loc>
+    <loc>https://ignite.no/tags/verdiskaping/</loc>
     <lastmod>2019-05-20T14:23:42+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -678,7 +678,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/bundebygg/</loc>
+    <loc>https://ignite.no/tags/bundebygg/</loc>
     <lastmod>2019-05-14T10:43:58+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -686,7 +686,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/nyheter/</loc>
+    <loc>https://ignite.no/categories/nyheter/</loc>
     <lastmod>2019-05-14T10:43:58+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -701,7 +701,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</loc>
+    <loc>https://ignite.no/tags/innkj%C3%B8pspotensial/</loc>
     <lastmod>2019-05-13T14:16:33+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -709,7 +709,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/kompetanse/</loc>
+    <loc>https://ignite.no/tags/kompetanse/</loc>
     <lastmod>2019-05-13T14:16:33+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -717,7 +717,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/profesjonalisering/</loc>
+    <loc>https://ignite.no/tags/profesjonalisering/</loc>
     <lastmod>2019-05-13T14:16:33+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -725,7 +725,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/strategi/</loc>
+    <loc>https://ignite.no/tags/strategi/</loc>
     <lastmod>2019-05-13T14:16:33+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -733,7 +733,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/difi/</loc>
+    <loc>https://ignite.no/tags/difi/</loc>
     <lastmod>2019-05-08T10:29:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -741,7 +741,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/ehf/</loc>
+    <loc>https://ignite.no/tags/ehf/</loc>
     <lastmod>2019-05-08T10:29:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -749,7 +749,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/ehf-konferansen/</loc>
+    <loc>https://ignite.no/tags/ehf-konferansen/</loc>
     <lastmod>2019-05-08T10:29:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -764,7 +764,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/anskaffelser/</loc>
+    <loc>https://ignite.no/tags/anskaffelser/</loc>
     <lastmod>2019-05-08T10:29:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -772,7 +772,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/digitaliseringsprogram/</loc>
+    <loc>https://ignite.no/tags/digitaliseringsprogram/</loc>
     <lastmod>2019-05-08T10:29:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -780,7 +780,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/offentlige-anskaffelser/</loc>
+    <loc>https://ignite.no/tags/offentlige-anskaffelser/</loc>
     <lastmod>2019-05-08T10:29:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -788,7 +788,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/stortingsmelding/</loc>
+    <loc>https://ignite.no/tags/stortingsmelding/</loc>
     <lastmod>2019-05-08T10:29:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -803,7 +803,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</loc>
+    <loc>https://ignite.no/tags/innkj%C3%B8pskategori/</loc>
     <lastmod>2019-05-02T14:10:50+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -811,7 +811,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/kategoristrategi/</loc>
+    <loc>https://ignite.no/tags/kategoristrategi/</loc>
     <lastmod>2019-05-02T14:10:50+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -819,7 +819,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/kraljic-matrisen/</loc>
+    <loc>https://ignite.no/tags/kraljic-matrisen/</loc>
     <lastmod>2019-05-02T14:10:50+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -827,7 +827,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/spesifikasjoner/</loc>
+    <loc>https://ignite.no/tags/spesifikasjoner/</loc>
     <lastmod>2019-05-02T14:10:50+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -835,7 +835,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/strategiske-kategorier/</loc>
+    <loc>https://ignite.no/tags/strategiske-kategorier/</loc>
     <lastmod>2019-05-02T14:10:50+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -843,7 +843,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/strategiske-partnere/</loc>
+    <loc>https://ignite.no/tags/strategiske-partnere/</loc>
     <lastmod>2019-05-02T14:10:50+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -858,7 +858,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/avtalevilk%C3%A5r/</loc>
+    <loc>https://ignite.no/tags/avtalevilk%C3%A5r/</loc>
     <lastmod>2019-04-29T14:07:32+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -866,7 +866,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/bundling/</loc>
+    <loc>https://ignite.no/tags/bundling/</loc>
     <lastmod>2019-04-29T14:07:32+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -874,7 +874,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8psvolum/</loc>
+    <loc>https://ignite.no/tags/innkj%C3%B8psvolum/</loc>
     <lastmod>2019-04-29T14:07:32+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -889,7 +889,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/digitale-verkt%C3%B8y/</loc>
+    <loc>https://ignite.no/tags/digitale-verkt%C3%B8y/</loc>
     <lastmod>2019-04-29T13:58:32+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -897,7 +897,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</loc>
+    <loc>https://ignite.no/tags/innkj%C3%B8psfunksjon/</loc>
     <lastmod>2019-04-29T13:58:32+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -905,7 +905,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8psressurser/</loc>
+    <loc>https://ignite.no/tags/innkj%C3%B8psressurser/</loc>
     <lastmod>2019-04-29T13:58:32+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -913,7 +913,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/ressursallokering/</loc>
+    <loc>https://ignite.no/tags/ressursallokering/</loc>
     <lastmod>2019-04-29T13:58:32+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -921,7 +921,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/n%C3%A6rings-og-fiskeridepartementet/</loc>
+    <loc>https://ignite.no/tags/n%C3%A6rings-og-fiskeridepartementet/</loc>
     <lastmod>2019-04-29T10:19:22+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -936,7 +936,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/torbj%C3%B8rn-r%C3%B8e-isaksen/</loc>
+    <loc>https://ignite.no/tags/torbj%C3%B8rn-r%C3%B8e-isaksen/</loc>
     <lastmod>2019-04-29T10:19:22+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -944,7 +944,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/digitalisering/</loc>
+    <loc>https://ignite.no/tags/digitalisering/</loc>
     <lastmod>2019-04-29T10:19:22+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -952,7 +952,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/smartere-innkj%C3%B8p/</loc>
+    <loc>https://ignite.no/tags/smartere-innkj%C3%B8p/</loc>
     <lastmod>2019-04-29T10:19:22+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -967,7 +967,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/obos/</loc>
+    <loc>https://ignite.no/tags/obos/</loc>
     <lastmod>2019-04-23T14:29:26+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -975,7 +975,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/startuplab/</loc>
+    <loc>https://ignite.no/tags/startuplab/</loc>
     <lastmod>2019-04-23T14:29:26+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -983,7 +983,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/besparelser/</loc>
+    <loc>https://ignite.no/tags/besparelser/</loc>
     <lastmod>2019-04-23T14:29:26+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -991,7 +991,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/foresp%C3%B8rselsprosess/</loc>
+    <loc>https://ignite.no/tags/foresp%C3%B8rselsprosess/</loc>
     <lastmod>2019-04-23T14:29:26+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -999,7 +999,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/leverand%C3%B8rmodul/</loc>
+    <loc>https://ignite.no/tags/leverand%C3%B8rmodul/</loc>
     <lastmod>2019-04-23T14:29:26+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1007,7 +1007,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/pilotprosjekt/</loc>
+    <loc>https://ignite.no/tags/pilotprosjekt/</loc>
     <lastmod>2019-04-23T14:29:26+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1022,7 +1022,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/analyse/</loc>
+    <loc>https://ignite.no/tags/analyse/</loc>
     <lastmod>2019-04-23T10:12:51+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1030,7 +1030,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/avtalestyring/</loc>
+    <loc>https://ignite.no/tags/avtalestyring/</loc>
     <lastmod>2019-04-23T10:12:51+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1038,7 +1038,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/leverand%C3%B8rer/</loc>
+    <loc>https://ignite.no/tags/leverand%C3%B8rer/</loc>
     <lastmod>2019-04-23T10:12:51+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1046,7 +1046,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/optimar/</loc>
+    <loc>https://ignite.no/tags/optimar/</loc>
     <lastmod>2019-04-15T10:09:28+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1068,7 +1068,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/kategoristyring/</loc>
+    <loc>https://ignite.no/tags/kategoristyring/</loc>
     <lastmod>2019-04-10T10:52:58+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1076,7 +1076,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/ressursp%C3%A5drag/</loc>
+    <loc>https://ignite.no/tags/ressursp%C3%A5drag/</loc>
     <lastmod>2019-04-10T10:52:58+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1084,7 +1084,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/at-kearney/</loc>
+    <loc>https://ignite.no/tags/at-kearney/</loc>
     <lastmod>2019-04-04T09:17:33+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1092,7 +1092,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/pwc/</loc>
+    <loc>https://ignite.no/tags/pwc/</loc>
     <lastmod>2019-04-04T09:17:33+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1100,7 +1100,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/advisor/</loc>
+    <loc>https://ignite.no/tags/advisor/</loc>
     <lastmod>2019-04-04T09:17:33+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1122,7 +1122,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/autostore/</loc>
+    <loc>https://ignite.no/tags/autostore/</loc>
     <lastmod>2019-04-01T09:08:23+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1137,7 +1137,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/sykehusinnkj%C3%B8p/</loc>
+    <loc>https://ignite.no/tags/sykehusinnkj%C3%B8p/</loc>
     <lastmod>2019-03-27T15:30:25+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1145,7 +1145,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/kategoristruktur/</loc>
+    <loc>https://ignite.no/tags/kategoristruktur/</loc>
     <lastmod>2019-03-27T15:30:25+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1160,7 +1160,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/maler/</loc>
+    <loc>https://ignite.no/tags/maler/</loc>
     <lastmod>2019-03-24T15:17:17+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1168,7 +1168,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/r%C3%A5d/</loc>
+    <loc>https://ignite.no/tags/r%C3%A5d/</loc>
     <lastmod>2019-03-24T15:17:17+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1176,7 +1176,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/ignite-2.0/</loc>
+    <loc>https://ignite.no/tags/ignite-2.0/</loc>
     <lastmod>2019-03-20T09:23:02+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1191,7 +1191,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/lansering/</loc>
+    <loc>https://ignite.no/tags/lansering/</loc>
     <lastmod>2019-03-20T09:23:02+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1212,8 +1212,6 @@
                 href="https://ignite.no/kontakt/adresse/"
                 />
   </url>
-  
-  
   
   
   
@@ -1348,7 +1346,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/achilles/</loc>
+    <loc>https://ignite.no/tags/achilles/</loc>
     <lastmod>2019-02-15T11:37:06+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1356,7 +1354,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/achilles-unce/</loc>
+    <loc>https://ignite.no/tags/achilles-unce/</loc>
     <lastmod>2019-02-15T11:37:06+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1371,7 +1369,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/kvalifikasjonssystem/</loc>
+    <loc>https://ignite.no/tags/kvalifikasjonssystem/</loc>
     <lastmod>2019-02-15T11:37:06+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1422,40 +1420,19 @@
   
   
   <url>
-    <loc>https://ignite.no/ignite-analytics/item1/</loc>
-    <lastmod>2018-12-16T14:31:35+00:00</lastmod>
+    <loc>https://ignite.no/ignite-analytics/item2/</loc>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ignite.no/en/ignite-analytics/item1/"
+                href="https://ignite.no/en/ignite-analytics/item2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://ignite.no/ignite-analytics/item1/"
+                href="https://ignite.no/ignite-analytics/item2/"
                 />
   </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/ignite-academy/maler/</loc>
-    <lastmod>2018-12-16T14:31:35+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/ignite-academy/maler/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/ignite-academy/maler/"
-                />
-  </url>
-  
-  
-  
-  
   
   
   
@@ -1494,17 +1471,34 @@
   
   
   <url>
-    <loc>https://ignite.no/ignite-analytics/item4/</loc>
-    <lastmod>2018-12-16T14:31:35+00:00</lastmod>
+    <loc>https://ignite.no/ignite-analytics/item3/</loc>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ignite.no/en/ignite-analytics/item4/"
+                href="https://ignite.no/en/ignite-analytics/item3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://ignite.no/ignite-analytics/item4/"
+                href="https://ignite.no/ignite-analytics/item3/"
+                />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/ignite-analytics/item1/</loc>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/ignite-analytics/item1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/ignite-analytics/item1/"
                 />
   </url>
   
@@ -1512,7 +1506,7 @@
   
   <url>
     <loc>https://ignite.no/ignite-academy/</loc>
-    <lastmod>2018-12-16T14:31:35+00:00</lastmod>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1546,7 +1540,7 @@
   
   <url>
     <loc>https://ignite.no/ignite-analytics/</loc>
-    <lastmod>2018-12-16T14:31:35+00:00</lastmod>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1563,7 +1557,7 @@
   
   <url>
     <loc>https://ignite.no/ignite-services/</loc>
-    <lastmod>2018-12-16T14:31:35+00:00</lastmod>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1575,25 +1569,6 @@
                 href="https://ignite.no/ignite-services/"
                 />
   </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/ignite-analytics/item3/</loc>
-    <lastmod>2018-12-16T14:31:35+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/ignite-analytics/item3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/ignite-analytics/item3/"
-                />
-  </url>
-  
-  
   
   
   
@@ -1640,25 +1615,6 @@
   
   
   
-  
-  
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/ignite-analytics/item2/</loc>
-    <lastmod>2018-12-16T14:31:35+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/ignite-analytics/item2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/ignite-analytics/item2/"
-                />
-  </url>
   
   
   
@@ -1716,6 +1672,21 @@
   </url>
   
   
+  
+  <url>
+    <loc>https://ignite.no/ignite-analytics/item4/</loc>
+    <lastmod>2018-12-16T15:31:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/ignite-analytics/item4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/ignite-analytics/item4/"
+                />
+  </url>
   
   
   
@@ -1802,7 +1773,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/internships/</loc>
+    <loc>https://ignite.no/tags/internships/</loc>
     <lastmod>2018-08-27T13:59:41+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1810,7 +1781,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/modul/</loc>
+    <loc>https://ignite.no/tags/modul/</loc>
     <lastmod>2018-08-27T13:59:41+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1825,7 +1796,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/team/</loc>
+    <loc>https://ignite.no/tags/team/</loc>
     <lastmod>2018-08-27T13:59:41+00:00</lastmod>
     <priority>0</priority>
   </url>
