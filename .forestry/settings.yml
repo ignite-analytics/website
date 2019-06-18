@@ -55,6 +55,10 @@ sections:
   label: Produktinformasjon
   create: all
   match: "**/*"
+- type: document
+  path: content/ty
+  label: Thank you page
+  match: "**/*"
 - type: heading
   label: Sider
 - type: directory
