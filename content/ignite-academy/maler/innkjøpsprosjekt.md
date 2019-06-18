@@ -7,5 +7,5 @@ hidden = true
 image = "/images/undraw_download_pc33-1.svg"
 title = "Innkjøpsprosjekt"
 type = "mal"
-
+lang = "no"
 +++

@@ -7,5 +7,5 @@ hidden = true
 image = "/images/undraw_download_pc33.svg"
 title = "Innkjøpsvirkemidler"
 type = "mal"
-
+lang =  "no"
 +++

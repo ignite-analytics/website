@@ -9,5 +9,5 @@ type: mal
 hidden: true
 downloadtext: Last ned
 thankyoupage: "/ty/kategoristrategi-ty"
-
+lang: no
 ---

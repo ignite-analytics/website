@@ -9,5 +9,5 @@ type: mal
 hidden: true
 downloadText: Download
 thankyoupage: "/en/ty/kategoristrategi-ty"
-
+lang: en
 ---
