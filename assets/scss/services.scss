@@ -6,33 +6,19 @@
 }
 
 .Service {
-  height: 500px;
+  height: 100%;
   width: 70%;
   padding: 0 !important;
   position: relative;
   margin: 3em auto;
   z-index: 1;
 }
-
 .Service:after {
   content: "";
   position: absolute;
   top: 70px;
   left: 0;
-  height: calc(500px - 50px);
-  width: 100%;
-  border: 2px solid $dark-blue;
-  border-radius: 15px;
-  flex: 1;
-  background: #fff;
-  z-index: -1;
-}
-.Service:after {
-  content: "";
-  position: absolute;
-  top: 70px;
-  left: 0;
-  height: calc(500px - 50px);
+  height: calc(100% - 50px);
   width: 100%;
   border: 2px solid $blue;
   border-radius: 15px;
@@ -180,11 +166,11 @@ i.fab {
   }
   .Service {
     width: 30%;
-    height: 680px;
+    height: 100%;
     margin: 0 auto;
   }
   .Service:after {
-    height: 625px;
+    height: calc(100% - 40px);
   }
   .service-btns {
     position: absolute;
@@ -205,15 +191,25 @@ i.fab {
   .servicesblock {
     height: 350px;
   }
+  .Service {
+    width: 55%;
+    height: 100%;
+    margin: 3em auto;
+  }
+  .service-btns {
+    position: absolute;
+    width: 87%;
+    bottom: 0;
+  }
 }
 @media (max-width: 991px) {
   .Service {
     width: 70%;
-    height: 530px;
+    height: 100%;
     margin: 3em auto;
   }
   .Service:after {
-    height: 490px;
+    height: calc(100% - 50px);
   }
   .service-btns {
     position: absolute;
@@ -231,11 +227,11 @@ i.fab {
 @media (max-width: 767px) {
   .Service {
     width: 90%;
-    height: 560px;
+    height: 100%;
     margin: 3em auto;
   }
   .Service:after {
-    height: 500px;
+    height: calc(100% - 50px);
   }
   .service-btns {
     position: absolute;
@@ -268,11 +264,11 @@ i.fab {
   }
   .Service {
     width: 90%;
-    height: 630px;
+    height: 100%;
     margin: 3em auto;
   }
   .Service:after {
-    height: 580px;
+    height: calc(100% - 20px);
   }
   .service-btns,
   .service-btns4 {

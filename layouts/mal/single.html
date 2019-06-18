@@ -1,6 +1,6 @@
 {{ define "main" }} {{ partial "minimal-header.html" . }}
 <section class="container mal">
-  {{ with .Site.GetPage "kategoristrategi" }} {{ partial "sections/produkt-download.html" . }} {{ end }}
+  {{ with . }} {{ partial "sections/produkt-download.html" . }} {{ end }}
 
   <script>
     document.addEventListener("DOMContentLoaded", () => {
