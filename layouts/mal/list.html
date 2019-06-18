@@ -13,8 +13,8 @@
     {{ range .Pages }}
         <li class="single-mal">
             <div>
-                <b>{{ .Title }}</b>
-                <p>{{.Description}}</p>
+                <h3><b>{{ .Title }}</b></h3>
+                <h4>{{.Description}}</h4>
             </div>
             <a href="{{ .RelPermalink }}" class="btn btn-primary green btn-lg">{{ .Params.downloadtext }}</a>
         </li>

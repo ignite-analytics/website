@@ -64,7 +64,7 @@ section .section-title {
 
 .actionblock {
   height: 10em;
-  background: #efefef;
+  background: #f2f2f2f2;
 
   /* background-image: url("images/dots2.svg"); */
   background-repeat: no-repeat;
@@ -73,9 +73,19 @@ section .section-title {
   & .container {
     height: 10em;
     text-align: center;
-    align-items: center;
-    padding: 3.4em 0;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+    height:100%;
+    width:100%;
   }
+}
+.actionblock-h3{
+  font-size:1.5em;
+  margin:0;
+  margin-bottom:1.2em;
+  color: rgba(24, 36, 63, 0.9);
 }
 .action-btn {
   margin: 0 !important;
