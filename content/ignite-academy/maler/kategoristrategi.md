@@ -8,6 +8,6 @@ image: "/images/Category strategy - cover.png"
 type: mal
 hidden: true
 downloadtext: Last ned
-thankyoupage: "/thankyou/kategoristrategi-takk"
+thankyoupage: "/ty/kategoristrategi-ty"
 
 ---
