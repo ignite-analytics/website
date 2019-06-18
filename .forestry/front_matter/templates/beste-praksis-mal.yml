@@ -60,6 +60,21 @@ fields:
   description: Ikke rør
   hidden: true
   default: true
+- name: lang
+  type: select
+  default: 'no'
+  config:
+    required: true
+    options:
+    - en
+    - 'no'
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Språk
+  description: Velg språket
 pages:
 - content/ignite-academy/maler/innkjøpsprosjekt.md
 - content/ignite-academy/maler/innkjøpsvirkemidler.md
