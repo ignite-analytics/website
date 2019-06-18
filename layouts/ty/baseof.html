@@ -96,6 +96,11 @@
       }
       emit();
       setInterval(emit, 10000);
+      document.addEventListener('visibilitychange', function(e) {
+          document.querySelectorAll('.confetti').forEach(c => {
+            c.remove()
+          })
+      });
     </script>
   </body>
 </html>
