@@ -33,7 +33,7 @@ fields:
   label: type
   description: Ikke rør
   hidden: true
-  default: thankyou
+  default: ty
 - name: hidden
   type: boolean
   label: hidden
