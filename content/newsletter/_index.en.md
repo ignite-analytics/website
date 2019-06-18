@@ -9,7 +9,6 @@ image: /images/infographics/newsletter.svg
 hidden: true
 ---
 
-
 <script> 
 document.addEventListener('DOMContentLoaded', () => {
   hbspt.forms.create({ 
@@ -17,4 +16,4 @@ document.addEventListener('DOMContentLoaded', () => {
     formId: "506acf1b-d291-445a-892e-986cbe5d21a4" 
   }); 
 })
-</script> 
+</script>

@@ -5,7 +5,6 @@ description: Bli inspirert og videreutvikle din innkjøpsekspertise med Ignite A
 logo: "/images/academy.svg"
 weight: "2"
 url: "/ignite-academy/"
-
 ---
 
 {{< button href="/ignite-academy/" class="service-btns4 btn btn-outline-primary green btn-lg" >}}Finn ut mer{{< /button >}}

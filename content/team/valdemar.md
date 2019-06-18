@@ -2,10 +2,11 @@
 title: "Valdemar Rolfsen"
 date: 2018-12-16T14:24:18+01:00
 position: "Technology Director"
-description: "Valdemar leder det tekniske teamet hos Ignite og han har god erfaring med utvikling av tekniske løsninger. 
-            Fra tidligere har han ledet flere utviklingsprosjekter innenfor rekrutteringsbransjen og har blant annet jobbet 
-              med å videreutvikle et analyseverktøy for oljeindustrien. Før Valdemar kom til Ignite jobbet han som prosjektleder 
-             for konsulentselskapet Korde, men har også erfaring fra selskaper som Cisco Systems og Rystad Energy."
+description:
+  "Valdemar leder det tekniske teamet hos Ignite og han har god erfaring med utvikling av tekniske løsninger.
+  Fra tidligere har han ledet flere utviklingsprosjekter innenfor rekrutteringsbransjen og har blant annet jobbet
+  med å videreutvikle et analyseverktøy for oljeindustrien. Før Valdemar kom til Ignite jobbet han som prosjektleder
+  for konsulentselskapet Korde, men har også erfaring fra selskaper som Cisco Systems og Rystad Energy."
 draft: false
 weight: "2"
 image: "/images/team/Valdemar_Rolfsen.jpg"

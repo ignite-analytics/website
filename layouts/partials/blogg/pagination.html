@@ -2,29 +2,26 @@
   <div class="pointerup"><i class="fa fa-caret-up"></i></div>
   <span class="navigation" role="navigation">
     {{ if gt .TotalPages 1 }}
-      <div class="pagination">
-        {{ if .HasPrev }}
-          {{if and ( not ( eq .First.PageNumber .PageNumber ) )  (not ( eq .First.PageNumber .Prev.PageNumber  ) ) }}
-            <a class="ml-1 mr-1" href="{{.First.URL}}"> {{ .First.PageNumber }} </a>
-          {{end}}
-          <a class="ml-1 mr-1" href="{{.Prev.URL}}">&#9664;</a>
-          <a class="ml-1 mr-1" href="{{.Prev.URL}}">{{ .Prev.PageNumber }}</a>
-        {{ else }}
-          <span class="currentpage">|</span>
-        {{ end }}
+    <div class="pagination">
+      {{ if .HasPrev }} {{if and ( not ( eq .First.PageNumber .PageNumber ) ) (not ( eq .First.PageNumber .Prev.PageNumber ) ) }}
+      <a class="ml-1 mr-1" href="{{.First.URL}}"> {{ .First.PageNumber }} </a>
+      {{end}}
+      <a class="ml-1 mr-1" href="{{.Prev.URL}}">&#9664;</a>
+      <a class="ml-1 mr-1" href="{{.Prev.URL}}">{{ .Prev.PageNumber }}</a>
+      {{ else }}
+      <span class="currentpage">|</span>
+      {{ end }}
 
-        <span class="ml-1 mr-1 currentpage">{{ .PageNumber }}</span>
-        {{ if .HasNext }}
-          <a class="ml-1 mr-1" href="{{.Next.URL}}">{{ .Next.PageNumber }}</a>
-          <a class="ml-1 mr-1" href="{{.Next.URL}}">&#9654;</a>
-          {{if and ( not ( eq .Last.PageNumber .PageNumber ) )  (not ( eq .Last.PageNumber .Next.PageNumber  ) ) }}
-            <a class="ml-1 mr-1" href="{{.Last.URL}}"> {{ .Last.PageNumber }}</a>
-          {{end}}
-        {{ else }}
-          <span>|</span>
-        {{ end }}
-      </div>
+      <span class="ml-1 mr-1 currentpage">{{ .PageNumber }}</span>
+      {{ if .HasNext }}
+      <a class="ml-1 mr-1" href="{{.Next.URL}}">{{ .Next.PageNumber }}</a>
+      <a class="ml-1 mr-1" href="{{.Next.URL}}">&#9654;</a>
+      {{if and ( not ( eq .Last.PageNumber .PageNumber ) ) (not ( eq .Last.PageNumber .Next.PageNumber ) ) }}
+      <a class="ml-1 mr-1" href="{{.Last.URL}}"> {{ .Last.PageNumber }}</a>
+      {{end}} {{ else }}
+      <span>|</span>
+      {{ end }}
+    </div>
     {{ end }}
-
   </span>
 </div>

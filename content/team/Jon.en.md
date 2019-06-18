@@ -11,4 +11,3 @@ image: "/images/team/Jon_Riege.jpg"
 <a class="phoneto" href="tel:+47 482 688 62"><i class="fas fa-phone"></i>+47 482 68 862</a>
 <a class="mailto" href="mailto:jon.riege@ignite.no "><i class="fas fa-envelope"></i></i>jon.riege@ignite.no </a>
 <a class="mailto" target="_blank" href="https://www.linkedin.com/in/jon-riege-2b2a45120/"><i class="fab fa-linkedin-in"></i>Linkedin</a>
-

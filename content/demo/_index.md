@@ -10,7 +10,6 @@ url: "/ignite-analytics/demo"
 hidden: true
 ---
 
-
 <script>
   document.addEventListener('DOMContentLoaded', () => {
     hbspt.forms.create({

@@ -2,11 +2,12 @@
 title: "Frank-Willie Bødal"
 date: 2018-12-16T14:24:18+01:00
 position: "Marketing Director"
-description: "Frank er konsulent i Ignite. Han har arbeidet med innkjøpsprosjekter for selskaper innenfor matvareproduksjon og retail. 
-            Frank har tidligere arbeidet i PwC innenfor Assurance og Deals med bred erfaring fra en rekke tjenesteområder som blant annet 
-            transaksjoner, modellering, verdsettelse og revisjon. I PwC jobbet han primært med store norske aktører innenfor shipping, 
-            eiendom og finans. Frank er utdannet siviløkonom med spesialisering i finansiell økonomi fra Norges Handelshøyskole og 
-            University of California. Han har også en mastergrad i regnskap og revisjon fra Handelshøyskolen BI."
+description:
+  "Frank er konsulent i Ignite. Han har arbeidet med innkjøpsprosjekter for selskaper innenfor matvareproduksjon og retail.
+  Frank har tidligere arbeidet i PwC innenfor Assurance og Deals med bred erfaring fra en rekke tjenesteområder som blant annet
+  transaksjoner, modellering, verdsettelse og revisjon. I PwC jobbet han primært med store norske aktører innenfor shipping,
+  eiendom og finans. Frank er utdannet siviløkonom med spesialisering i finansiell økonomi fra Norges Handelshøyskole og
+  University of California. Han har også en mastergrad i regnskap og revisjon fra Handelshøyskolen BI."
 draft: false
 weight: "3"
 image: "/images/team/Frank_Willie_Bødal.jpg"

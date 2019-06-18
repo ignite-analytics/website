@@ -9,6 +9,7 @@ tags = ["OBOS", "StartupLab", "forespørselsprosess", "Ignite Analytics", "pilot
 title = "30 MNOK i årlige besparelser for OBOS forvaltede boligselskaper"
 
 +++
+
 > _På_ [_StartupLab_](https://startuplab.no/) _gjør vi alt vi kan for å sikre at startup-selskaper lykkes — ved å gi selskapene tilgang til kompetanse, kapital, ansatte og mulige kunder. Samarbeidet mellom OBOS og Ignite Procurement er et godt eksempel på hva slike samarbeid kan lede til, og er veldig motiverende for oss og mange andre, sier Heidi Hopstock, Community Manager i StartupLab._
 
 I dette innlegget forteller vi mer om hvordan samarbeidet vårt allerede har resultert i betydelige besparelser for boligselskapene hos [OBOS](https://www.obos.no/).
@@ -19,11 +20,11 @@ I dette innlegget forteller vi mer om hvordan samarbeidet vårt allerede har res
 
 Første steg på veien for å få oversikt og utføre innsiktsfulle analyser av kjøpet, var å fremskaffe innkjøpsdata som kunne benyttes i vår plattform for strategisk innkjøp, Ignite Analytics. Data fra alle boligselskapene hos OBOS ble lastet opp for perioden 2014–2017, hvor uttrekket inneholdt følgende informasjon:
 
-* Leverandørnavn og organisasjonsnummer
-* Beløp
-* Dato
-* Regnskapskonto
-* Boligselskap
+- Leverandørnavn og organisasjonsnummer
+- Beløp
+- Dato
+- Regnskapskonto
+- Boligselskap
 
 Et [boligselskap](https://www.obos.no/styre/boligforvaltning?WT.mc_id=sok_1070314172_goo&gclid=CjwKCAjwycfkBRAFEiwAnLX5IfsqK5cVvCXaYfeoh4z_4ggFFV3BZyWDHb5SQ8f-N7kBNVARn01aBBoCZFYQAvD_BwE) hos OBOS kan sammenlignes med en vilkårlig avdeling i andre virksomheter. De resterende dataparameterne er informasjon de aller fleste virksomheter har lett tilgjengelig i sine systemer, og som er enkelt å hente ut.
 

@@ -5,8 +5,8 @@ description: Get inspired and boost your procurement expertise with Ignite Acade
 logo: "/images/academy.svg"
 weight: "2"
 url: "/en/ignite-academy/"
-
 ---
+
 <ul class="fa-ul">
 
 <li><span class="fa-li"><i class="far fa-lightbulb" style="color: #31B096"></i></span>Tips and tricks</li>

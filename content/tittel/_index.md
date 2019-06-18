@@ -9,4 +9,3 @@ hidden: true
 
 {{< button href="/ignite-analytics" class="btn btn-primary blue btn-lg" >}}Finn ut mer{{< /button >}}
 {{< button class="btn btn-outline-primary btn-lg" data-toggle="modal" data-target="#modalbook">}}Book en demo{{< /button >}}
-

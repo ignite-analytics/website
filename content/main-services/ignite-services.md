@@ -5,8 +5,8 @@ description: Få støtte til å realisere ditt innkjøpspotensial med Ignite Ser
 logo: "/images/services.svg"
 weight: "3"
 url: "/ignite-services/"
-
 ---
+
 <ul class="fa-ul">
 <li><span class="fa-li"><i class="fas fa-hand-holding-usd" style="color: #ebaf41;"></i></span>Realisering av besparelser​</li>
 <li><span class="fa-li"><i class="fas fa-sitemap" style=" color: #ebaf41;"></i></span>Utvikling av innkjøpsorganisasjon​</li>

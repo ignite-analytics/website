@@ -9,6 +9,7 @@ tags = ["kraljic-matrisen", "innkjøpskategori", "strategiske kategorier", "spes
 title = "Hvordan adressere strategiske innkjøpskategorier"
 
 +++
+
 ![](https://cdn-images-1.medium.com/max/1200/1*XdkWq10bwvUUQ8SxoxsXYg.png)
 
 ### Strategiske kategorier
@@ -31,7 +32,7 @@ Det finnes flere tilfeller hvor det ikke er enkelt å endre spesifikasjonene for
 
 For å lykkes med en slik strategi er det helt essensielt med gjensidig tillit, samt full åpenhet om hvilke elementer som driver kostnadene. Sammen vil man da kunne bryte seg ned i de viktigste kostnadsdriverne og se på hvordan disse kan reduseres for å få ned totalkostnaden. I tillegg er det viktig at partene setter av tid og ressurser for å bidra inn i prosjektet. For å sikre riktige insentiver er det viktig at realiserte gevinster fordeles jevnt mellom alle parter i prosjektgjennomføringen.
 
-***
+---
 
 _Vår plattform for strategisk innkjøp, Ignite Analytics, er bygget basert på en kategoristyrt tilnærming til innkjøp. Med plattformen får du umiddelbart dyp innsikt i kjøpets sammensetning, muligheter og risikoer i den enkelte kategori, samt støtte til å realisere potensialet man har._
 

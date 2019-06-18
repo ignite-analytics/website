@@ -9,13 +9,14 @@ tags = ["Kruse Smith", "Ignite Analytics"]
 title = "Kruse Smith + Ignite = lisensavtale for bruk av Ignite Analytics"
 
 +++
+
 ![](https://cdn-images-1.medium.com/max/800/1*L-w0GvPU4CCLHnv4oNpwSA.png)
 
 Kruse Smith er et solid, innovativt og framtidsrettet entreprenør- og boligkonsern med nasjonalt nedslagsfelt. Selskapets forretningsområder er bygg, byggfornyelse, anlegg samt bolig- og eiendomsutvikling.
 
 Du kan lese mer om Kruse Smith på deres [hjemmeside](https://www.kruse-smith.no/).
 
-***
+---
 
 _Interessert i å få vite mer om hvordan Ignite Analytics kan hjelpe deg og din virksomhet? Prøv selv og finn ut hvorfor flere ledende selskaper benytter plattformen i sitt innkjøpsarbeid!_
 

@@ -10,6 +10,7 @@ tags = ["Bergene Holm", "Ignite Analytics"]
 title = "Bergene Holm inngår avtale for bruk av Ignite Analytics"
 
 +++
+
 ![](https://cdn-images-1.medium.com/max/800/1*iQIAVy53AFKqkOcE-wYRvQ.png)
 
 Bergene Holm AS er et norsk trelastkonsern med 430 medarbeidere fordelt på åtte produksjonsavdelinger. Selskapet er en ledende totalleverandør av trelast til norsk byggevarehandel og industrikunder i inn- og utland.

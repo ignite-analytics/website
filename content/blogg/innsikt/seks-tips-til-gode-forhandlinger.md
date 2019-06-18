@@ -9,6 +9,7 @@ tags = ["forhandlinger", "tips", "analyser", "Ignite Analytics"]
 title = "Seks tips til gode forhandlinger"
 
 +++
+
 ![](/images/Forhandlinger - 6 tips - Med.png)
 
 #### 1. Invester i analysearbeid i forkant
@@ -37,7 +38,7 @@ Alle selgere er opptatt av volum og hva de kan få igjen i et fremtidig samarbei
 
 Gjensidig respekt er et avgjørende premiss for gode samarbeid. I forhandlinger er det svært viktig at man opptrer med integritet og respekt for motparten. Dette er forhåpentligvis samarbeidspartnere man skal arbeide tett sammen med i lang tid fremover, noe som fordrer en tett og god dialog i avtaleperioden. Å opptre ryddig, profesjonelt og med normal folkeskikk i møtene er derfor en nødvendig forutsetning. Selv etter en hard forhandlingsrunde, vil dette bidra til å styrke leverandørforholdet.
 
-***
+---
 
 _Ignite Analytics støtter hele den strategiske innkjøpsprosessen, herunder gjennomføring av forhandlinger. Plattformen identifiserer mulige forhandlingskandidater og automatiserer analyser til bruk i forhandlingsmøter. Oppdag kraften i strategisk innkjøp gjort digitalt!_
 

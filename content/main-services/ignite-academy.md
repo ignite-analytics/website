@@ -5,8 +5,8 @@ description: Bli inspirert og videreutvikle din innkjøpsekspertise med Ignite A
 logo: "/images/academy.svg"
 weight: "2"
 url: "/ignite-academy/"
-
 ---
+
 <ul class="fa-ul">
 
 <li><span class="fa-li"><i class="far fa-lightbulb" style="color: #31B096"></i></span>Tips og råd</li>

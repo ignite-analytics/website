@@ -1,13 +1,13 @@
-<div class="d-flex bd-highlight flex-column flex-md-row align-items-center mb-5">
-    <div class="content-img flex-fill bd-highlight pr-lg-5">
-      <img class="main-content-img" src="{{ .Params.image }}">
-    </div>
+<div
+  class="d-flex bd-highlight flex-column flex-md-row align-items-center mb-5"
+>
+  <div class="content-img flex-fill bd-highlight pr-lg-5">
+    <img class="main-content-img" src="{{ .Params.image }}" />
+  </div>
 
-    <div class="content-txt p-2 flex-fill bd-highlight">
-        <h3>{{ .Params.title }}</h3>
-        <h4>{{ .Description }}</h4>
-        {{.Content}}
-    </div>
+  <div class="content-txt p-2 flex-fill bd-highlight">
+    <h3>{{ .Params.title }}</h3>
+    <h4>{{ .Description }}</h4>
+    {{.Content}}
+  </div>
 </div>
-
-

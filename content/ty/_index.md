@@ -6,5 +6,3 @@ image: "/images/infographics/folder.svg"
 thumbnail: images/academy.jpg
 hidden: true
 ---
-
-

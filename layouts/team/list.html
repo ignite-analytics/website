@@ -1,9 +1,4 @@
-{{define "head"}}
-{{ partial "head.html" .}}
-{{end}}
-{{ define "main" }}
+{{define "head"}} {{ partial "head.html" .}} {{end}} {{ define "main" }}
 <h1 style="text-align: center">Team</h1>
-{{ with .Site.GetPage "team" }}
-    {{ partial "sections/team.html" . }}
-{{ end }}
+{{ with .Site.GetPage "team" }} {{ partial "sections/team.html" . }} {{ end }}
 {{end}}

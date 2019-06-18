@@ -1,12 +1,13 @@
 ---
 title: Ignite Services – Få støtte til å realisere ditt innkjøpspotensial
-description: Erfarne konsulenter er tilgjengelige for å skape raske resultater gjennom
+description:
+  Erfarne konsulenter er tilgjengelige for å skape raske resultater gjennom
   skreddersydde løsninger
 date: 2018-12-16T14:31:35.000+00:00
 image: "/images/infographics/analytics-2.svg"
 thumbnail: images/ignite-services.jpg/
-
 ---
+
 <ul class="fa-ul">
 <li><span class="fa-li"><i class="fas fa-hand-holding-usd" style="color: #ebaf41;"></i></span>Realisering av besparelser​</li>
 <li><span class="fa-li"><i class="fas fa-sitemap" style=" color: #ebaf41;"></i></span>Utvikling av innkjøpsorganisasjon​</li>

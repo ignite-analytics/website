@@ -1,180 +1,181 @@
 ---
 new_page_extension: md
 auto_deploy: true
-admin_path: ''
-webhook_url: 
+admin_path: ""
+webhook_url:
 sections:
-- type: heading
-  label: Blogg
-- type: directory
-  path: content/blogg
-  label: Blogg
-  create: all
-  match: "**/*"
-- type: heading
-  label: Komponenter
-- type: directory
-  path: content/footer
-  label: Footer
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/quote
-  label: Quote
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/tittel
-  label: Tittel
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/navbar
-  label: Navbar
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/modals
-  label: Modals
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/contactform
-  label: Contactform
-  create: all
-  match: "**/*"
-- type: heading
-  label: Landingsside
-- type: directory
-  path: content/demo
-  label: Demo
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/produktinformasjon
-  label: Produktinformasjon
-  create: all
-  match: "**/*"
-- type: heading
-  label: Sider
-- type: directory
-  path: content/header
-  label: Header
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/ignite-analytics
-  label: Ignite analytics
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/ignite-academy
-  label: Ignite academy
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/ignite-services
-  label: Ignite services
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/kontakt
-  label: Kontakt
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/om-oss
-  label: Om oss
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/personvernerklæring
-  label: Personvernerklæring
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/karriere
-  label: Karriere
-  create: all
-  match: "**/*"
-- type: heading
-  label: Side-innhold
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
-  path: content/team
-  label: Team
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/seksjoner
-  label: Seksjoner
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/sertifisering
-  label: Sertifisering
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/partners
-  label: Partners
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/kategoristrategi
-  label: Kategoristrategi
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/newsletter
-  label: Newsletter
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/customers
-  label: Customers
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/karrierebanner
-  label: Karrierebanner
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/main-services
-  label: Main services
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/main-buttons
-  label: Main buttons
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/services
-  label: Services
-  create: all
-  match: "**/*"
+  - type: heading
+    label: Blogg
+  - type: directory
+    path: content/blogg
+    label: Blogg
+    create: all
+    match: "**/*"
+  - type: heading
+    label: Komponenter
+  - type: directory
+    path: content/footer
+    label: Footer
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/quote
+    label: Quote
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/tittel
+    label: Tittel
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/navbar
+    label: Navbar
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/modals
+    label: Modals
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/contactform
+    label: Contactform
+    create: all
+    match: "**/*"
+  - type: heading
+    label: Landingsside
+  - type: directory
+    path: content/demo
+    label: Demo
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/produktinformasjon
+    label: Produktinformasjon
+    create: all
+    match: "**/*"
+  - type: heading
+    label: Sider
+  - type: directory
+    path: content/header
+    label: Header
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/ignite-analytics
+    label: Ignite analytics
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/ignite-academy
+    label: Ignite academy
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/ignite-services
+    label: Ignite services
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/kontakt
+    label: Kontakt
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/om-oss
+    label: Om oss
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/personvernerklæring
+    label: Personvernerklæring
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/karriere
+    label: Karriere
+    create: all
+    match: "**/*"
+  - type: heading
+    label: Side-innhold
+  - type: directory
+    path: content
+    label: Pages
+    create: all
+    match: "*"
+  - type: directory
+    path: content/team
+    label: Team
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/seksjoner
+    label: Seksjoner
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/sertifisering
+    label: Sertifisering
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/partners
+    label: Partners
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/kategoristrategi
+    label: Kategoristrategi
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/newsletter
+    label: Newsletter
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/customers
+    label: Customers
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/karrierebanner
+    label: Karrierebanner
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/main-services
+    label: Main services
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/main-buttons
+    label: Main buttons
+    create: all
+    match: "**/*"
+  - type: directory
+    path: content/services
+    label: Services
+    create: all
+    match: "**/*"
 upload_dir: static/images
 public_path: "/images"
-front_matter_path: ''
+front_matter_path: ""
 use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
   publish_command: hugo
   preview_env:
-  - HUGO_ENV=staging
-  - HUGO_VERSION=0.55.6
+    - HUGO_ENV=staging
+    - HUGO_VERSION=0.55.6
   publish_env:
-  - HUGO_ENV=production
-  - HUGO_VERSION=0.55.6
+    - HUGO_ENV=production
+    - HUGO_VERSION=0.55.6
   preview_output_directory: public
   output_directory: docs
-  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+  instant_preview_command:
+    hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
     -d public
 version: 0.55.6

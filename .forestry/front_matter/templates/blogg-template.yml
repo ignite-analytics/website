@@ -2,107 +2,107 @@
 label: Blogg template
 hide_body: false
 fields:
-- type: datetime
-  name: date
-  label: date
-  config:
-    required: true
-  default: now
-- type: text
-  name: title
-  label: Title
-  config:
-    required: true
-- type: text
-  name: ingress
-  label: Ingress
-  config:
-    required: false
-  description: Kort oppsummering / blikkfanger på 1 setning
-- type: file
-  name: image
-  label: image
-- name: showmainimg
-  type: boolean
-  label: Show main image
-  description: Skal hovedbildet som vises under ingressen vises på artikkelen?
-  default: false
-- type: list
-  name: categories
-  label: categories
-  config:
-    use_select: true
-    source:
-      type: simple
-    options:
-    - Innsikt
-    - Cases
-    - Nyheter
-    min: '1'
-    max: '1'
-- type: select
-  name: author
-  label: author
-  description: First name of author with "æøå" as "aoa"
-  hidden: false
-  config:
-    source:
-      type: simple
-      file: authors-toml
-      path: data/
-    options:
-    - Andreas
-    - Bendik
-    - Borge
-    - Frank
-    - Hege
-    - Henrik
-    - Ingeborg
-    - Jon
-    - Kristian
-    - Lars
-    - Martin
-    - Oystein
-    - Rikard
-    - Sander
-    - Sigbjorn
-    - Tord
-    - Valdemar
-    - Ignite
-    required: true
-  default: Ignite
-- name: tags
-  type: tag_list
-  default: []
-  label: Tags
-  description: Her putter du relevante nøkkelord for artikkelen
+  - type: datetime
+    name: date
+    label: date
+    config:
+      required: true
+    default: now
+  - type: text
+    name: title
+    label: Title
+    config:
+      required: true
+  - type: text
+    name: ingress
+    label: Ingress
+    config:
+      required: false
+    description: Kort oppsummering / blikkfanger på 1 setning
+  - type: file
+    name: image
+    label: image
+  - name: showmainimg
+    type: boolean
+    label: Show main image
+    description: Skal hovedbildet som vises under ingressen vises på artikkelen?
+    default: false
+  - type: list
+    name: categories
+    label: categories
+    config:
+      use_select: true
+      source:
+        type: simple
+      options:
+        - Innsikt
+        - Cases
+        - Nyheter
+      min: "1"
+      max: "1"
+  - type: select
+    name: author
+    label: author
+    description: First name of author with "æøå" as "aoa"
+    hidden: false
+    config:
+      source:
+        type: simple
+        file: authors-toml
+        path: data/
+      options:
+        - Andreas
+        - Bendik
+        - Borge
+        - Frank
+        - Hege
+        - Henrik
+        - Ingeborg
+        - Jon
+        - Kristian
+        - Lars
+        - Martin
+        - Oystein
+        - Rikard
+        - Sander
+        - Sigbjorn
+        - Tord
+        - Valdemar
+        - Ignite
+      required: true
+    default: Ignite
+  - name: tags
+    type: tag_list
+    default: []
+    label: Tags
+    description: Her putter du relevante nøkkelord for artikkelen
 pages:
-- content/blogg/nyheter/ignite-lanserer-ny-versjon-av-plattform-for-strategisk-innkjøp.md
-- content/blogg/cases/reforhandling - et-undervurdert-strategisk-virkemiddel.md
-- content/blogg/nyheter/ehf-konferansen-2019 - dagens-teknologi-muliggjør-digitale-anskaffelser.md
-- content/blogg/nyheter/ignite-procurement-kvalifisert-i-achilles-utilities-nce.md
-- content/blogg/innsikt/hvordan-adressere-strategiske-innkjøpskategorier.md
-- content/blogg/nyheter/autostore-enters-into-an-agreement-for-the-use-of-ignite-analytics.md
-- content/blogg/nyheter/innherred-innkjøp-iks.md
-- content/blogg/nyheter/sparebank-1.md
-- content/blogg/innsikt/bruk-data-til-å-ta-gode-faktabaserte-beslutninger.md
-- content/blogg/nyheter/lars-lien.md
-- content/blogg/nyheter/henrik-høiness.md
-- content/blogg/innsikt/tips-til-organisering-av-en-innkjøpsfunksjon.md
-- content/blogg/nyheter/bergene-holm-inngår-avtale-for-bruk-av-ignite-analytics.md
-- content/blogg/nyheter/kruse-smith-ignite-lisensavtale-for-bruk-av-ignite-analytics.md
-- content/blogg/cases/30-mnok-i-årlige-besparelser-for-obos-forvaltede-boligselskaper.md
-- content/blogg/innsikt/hvordan-skape-verdier-gjennom-strategisk-innkjøp.md
-- content/blogg/innsikt/seks-tips-til-gode-forhandlinger.md
-- content/blogg/innsikt/innkjøp - et-uforløst-potensial-i-ditt-selskap.md
-- content/blogg/cases/hvordan-bruke-bundling-til-å-redusere-innkjøpskostnadene.md
-- content/blogg/innsikt/det-investeres-for-lite-i-innkjøpsfunksjonen.md
-- content/blogg/innsikt/en-praktisk-tilnærming-til-kategoristyring.md
-- content/blogg/nyheter/bundebygg-inngår-avtale-for-bruk-av-ignite-analytics.md
-- content/blogg/nyheter/stortingsmelding-om-offentlige-anskaffelser - digitalisering-og-profesjonalisering.md
-- content/blogg/nyheter/leverandørmodul-basert-på-ignite-analytics-lansert-for-obos-forvaltede-boligselskaper.md
-- content/blogg/nyheter/optimar-ignite-lisensavtale-for-bruk-av-ignite-analytics.md
-- content/blogg/nyheter/øystein-nygård-blir-senior-advisor-i-ignite-procurement.md
-- content/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur.md
-- content/blogg/innsikt/dette-trenger-du-til-en-aksjonsbasert-kategoristrategi.md
-- content/blogg/nyheter/nye-moduler-i-ignite-analytics.md
+  - content/blogg/nyheter/ignite-lanserer-ny-versjon-av-plattform-for-strategisk-innkjøp.md
+  - content/blogg/cases/reforhandling - et-undervurdert-strategisk-virkemiddel.md
+  - content/blogg/nyheter/ehf-konferansen-2019 - dagens-teknologi-muliggjør-digitale-anskaffelser.md
+  - content/blogg/nyheter/ignite-procurement-kvalifisert-i-achilles-utilities-nce.md
+  - content/blogg/innsikt/hvordan-adressere-strategiske-innkjøpskategorier.md
+  - content/blogg/nyheter/autostore-enters-into-an-agreement-for-the-use-of-ignite-analytics.md
+  - content/blogg/nyheter/innherred-innkjøp-iks.md
+  - content/blogg/nyheter/sparebank-1.md
+  - content/blogg/innsikt/bruk-data-til-å-ta-gode-faktabaserte-beslutninger.md
+  - content/blogg/nyheter/lars-lien.md
+  - content/blogg/nyheter/henrik-høiness.md
+  - content/blogg/innsikt/tips-til-organisering-av-en-innkjøpsfunksjon.md
+  - content/blogg/nyheter/bergene-holm-inngår-avtale-for-bruk-av-ignite-analytics.md
+  - content/blogg/nyheter/kruse-smith-ignite-lisensavtale-for-bruk-av-ignite-analytics.md
+  - content/blogg/cases/30-mnok-i-årlige-besparelser-for-obos-forvaltede-boligselskaper.md
+  - content/blogg/innsikt/hvordan-skape-verdier-gjennom-strategisk-innkjøp.md
+  - content/blogg/innsikt/seks-tips-til-gode-forhandlinger.md
+  - content/blogg/innsikt/innkjøp - et-uforløst-potensial-i-ditt-selskap.md
+  - content/blogg/cases/hvordan-bruke-bundling-til-å-redusere-innkjøpskostnadene.md
+  - content/blogg/innsikt/det-investeres-for-lite-i-innkjøpsfunksjonen.md
+  - content/blogg/innsikt/en-praktisk-tilnærming-til-kategoristyring.md
+  - content/blogg/nyheter/bundebygg-inngår-avtale-for-bruk-av-ignite-analytics.md
+  - content/blogg/nyheter/stortingsmelding-om-offentlige-anskaffelser - digitalisering-og-profesjonalisering.md
+  - content/blogg/nyheter/leverandørmodul-basert-på-ignite-analytics-lansert-for-obos-forvaltede-boligselskaper.md
+  - content/blogg/nyheter/optimar-ignite-lisensavtale-for-bruk-av-ignite-analytics.md
+  - content/blogg/nyheter/øystein-nygård-blir-senior-advisor-i-ignite-procurement.md
+  - content/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur.md
+  - content/blogg/innsikt/dette-trenger-du-til-en-aksjonsbasert-kategoristrategi.md
+  - content/blogg/nyheter/nye-moduler-i-ignite-analytics.md

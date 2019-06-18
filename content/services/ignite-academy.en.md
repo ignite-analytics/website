@@ -5,7 +5,6 @@ description: Get inspired and boost your procurement expertise with Ignite Acade
 logo: "/images/academy.svg"
 weight: "2"
 url: "/en/ignite-academy/"
-
 ---
 
 {{< button href="/en/ignite-academy/" class="service-btns4 btn btn-outline-primary green btn-lg" >}}Find out more{{< /button >}}

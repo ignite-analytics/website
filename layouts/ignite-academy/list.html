@@ -1,37 +1,33 @@
 {{ define "main" }}
-<section class="container academy-landing d-flex bd-highlight flex-column flex-lg-row align-items-center mb-5">
-        <div class="header-content p-2 flex-fill bd-highlight pr-sm-3 pr-lg-5">
-                        <h2>{{ .Params.mainheading}}<span style="color:#31B096;"> Academy</span></h2>
-                        <h3>{{.Params.header}}</h3>
-                        <h4>{{.Description}}</h4>  
-                        {{ .Content }}                        
-                      
-        </div>            
-        <div class="header-content-img p-2 flex-fill bd-highlight pl-sm-3 pl-lg-5">
-                <img class="" src="{{ .Params.Image }}">
-         </div>
-</section>  
+<section
+  class="container academy-landing d-flex bd-highlight flex-column flex-lg-row align-items-center mb-5"
+>
+  <div class="header-content p-2 flex-fill bd-highlight pr-sm-3 pr-lg-5">
+    <h2>
+      {{ .Params.mainheading}}<span style="color:#31B096;"> Academy</span>
+    </h2>
+    <h3>{{.Params.header}}</h3>
+    <h4>{{.Description}}</h4>
+    {{ .Content }}
+  </div>
+  <div class="header-content-img p-2 flex-fill bd-highlight pl-sm-3 pl-lg-5">
+    <img class="" src="{{ .Params.Image }}" />
+  </div>
+</section>
+<section class="container">
   <section class="container">
-    <section class="container">
-        {{ with .Site.GetPage "tips" }}
-        {{ partial "sections/infoblock.html" . }}
-        {{ end }}
-    </section>
-    <section class="container">
-            {{ with .Site.GetPage "praksis" }}
-            {{ partial "sections/infoblock-reverse.html" . }}
-            {{ end }}
-    </section>
-    <section class="container">
-            {{ with .Site.GetPage "online" }}
-            {{ partial "sections/infoblock.html" . }}
-            {{ end }}
-    </section>
-    <section class="container">
-            {{ with .Site.GetPage "kurs" }}
-            {{ partial "sections/infoblock-reverse.html" . }}
-            {{ end }}
-    </section>    
+    {{ with .Site.GetPage "tips" }} {{ partial "sections/infoblock.html" . }} {{ end }}
   </section>
+  <section class="container">
+    {{ with .Site.GetPage "praksis" }} {{ partial "sections/infoblock-reverse.html" . }} {{ end }}
+  </section>
+  <section class="container">
+    {{ with .Site.GetPage "online" }} {{ partial "sections/infoblock.html" . }}
+    {{ end }}
+  </section>
+  <section class="container">
+    {{ with .Site.GetPage "kurs" }} {{ partial "sections/infoblock-reverse.html" . }} {{ end }}
+  </section>
+</section>
 
 {{ end }}

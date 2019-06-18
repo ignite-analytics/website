@@ -9,6 +9,7 @@ tags = ["innkjøpsfunksjon", "ressursallokering", "innkjøpsressurser", "kompeta
 title = "Det investeres for lite i innkjøpsfunksjonen"
 
 +++
+
 Vi tok en prat med noen av våre medarbeidere, som daglig er i kontakt med flere ulike virksomheter, for å få et innblikk i viktige erfaringer og observasjoner de har gjort seg.
 
 > _Gjennom flere prosjekter for våre kunder, samt mange møter med ulike virksomheter, har vi opparbeidet oss en god forståelse av hvordan ulike næringslivsaktører arbeider med strategisk innkjøp i det daglige, erfarer Sigbjørn Nome, CEO & Product Director​ i Ignite Procurement._

@@ -8,4 +8,3 @@ hidden: true
 ---
 
 {{< button id="btn-demo" data-toggle="modal" data-target="#modalbook">}}Book en demo{{< /button >}}
-

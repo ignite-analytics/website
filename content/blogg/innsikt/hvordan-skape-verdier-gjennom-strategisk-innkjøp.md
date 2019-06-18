@@ -9,6 +9,7 @@ tags = ["strategisk innkjøp", "verdiskaping", "innkjøpsmodell", "source-to-con
 title = "Hvordan skape verdier gjennom strategisk innkjøp"
 
 +++
+
 ### En generisk innkjøpsmodell
 
 I mangel på et bedre norsk ord, benytter vi det engelske begrepet «source-to-pay», eller «procurement», som en definisjon på hele innkjøpsprosessen. Source-to-pay omfatter alle aktivitetene som kreves i en virksomhet for å kjøpe og betale for sine varer og tjenester.

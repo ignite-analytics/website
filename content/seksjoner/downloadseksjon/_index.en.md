@@ -8,4 +8,5 @@ description: "Learn more about the functionality in Ignite Analytics and how the
 image: /images/produktinfo.png
 hidden: true
 ---
+
 {{< button class="btn btn-primary btn-lg" href="/en/ignite-analytics/produktinformasjon">}}Download<i class="fas fa-download btn-icon"></i>{{< /button >}}

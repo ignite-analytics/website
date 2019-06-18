@@ -1,46 +1,29 @@
 {{ define "main" }}
 <section class="container">
-        <div class="header-content  flex-fill bd-highlight pr-sm-3 pr-lg-5">
-                {{ with .Site.GetPage "header" }}
-                {{ partial "top-banner.html" . }}
-                {{ end }}  
-        </div>
-        
-        
-</section>        
+  <div class="header-content  flex-fill bd-highlight pr-sm-3 pr-lg-5">
+    {{ with .Site.GetPage "header" }} {{ partial "top-banner.html" . }} {{ end }}
+  </div>
+</section>
 
 <div class="container">
-    {{ with .Site.GetPage "customers" }}
-    {{ partial "sections/customers.html" . }}
-    {{ end }}
- </div>
- <!-- Tittel-->
+  {{ with .Site.GetPage "customers" }} {{ partial "sections/customers.html" . }}
+  {{ end }}
+</div>
+<!-- Tittel-->
 <div class="container pt-5">
-        {{ with .Site.GetPage "tjenester-tittel" }}
-        {{ partial "tittel.html" . }}
-        {{ end }}
+  {{ with .Site.GetPage "tjenester-tittel" }} {{ partial "tittel.html" . }} {{ end }}
 </div>
 <div class="full-width py-5">
-        <div class="">
-                 {{ with .Site.GetPage "main-services" }}
-                     {{ partial "sections/main-services.html" . }}
-                {{ end }}
-                    
-    </div>
+  <div class="">
+    {{ with .Site.GetPage "main-services" }} {{ partial "sections/main-services.html" . }} {{ end }}
+  </div>
 </div>
 <div class="full-width py-5">
-        <div class="container">
-                 {{ with .Site.GetPage "quote" }}
-                     {{ partial "sections/quote.html" . }}
-                {{ end }}
-         </div>
+  <div class="container">
+    {{ with .Site.GetPage "quote" }} {{ partial "sections/quote.html" . }} {{ end }}
+  </div>
 </div>
 <section class="actionblock">
-
-        {{ with .Site.GetPage "actionblock" }}
-        {{ partial "sections/actionblock.html" . }}
-        {{ end }}  
-   
-   </section>
+  {{ with .Site.GetPage "actionblock" }} {{ partial "sections/actionblock.html" . }} {{ end }}
+</section>
 {{ end }}
-

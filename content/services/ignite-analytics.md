@@ -5,7 +5,6 @@ description: Gjør din innkjøpsdata om til innsikt og resultater med Ignite Ana
 logo: "/images/analytics.svg"
 weight: "1"
 url: "/ignite-analytics/"
-
 ---
 
 {{< button href="/ignite-analytics/" class="service-btns4 btn btn-outline-primary btn-lg" >}}Finn ut mer{{< /button >}}

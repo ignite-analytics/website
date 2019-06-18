@@ -1,11 +1,12 @@
 ---
 title: Analyze. Get deep insight into your spend
-description: Within minutes, Ignite Analytics provides you full overview of spend
+description:
+  Within minutes, Ignite Analytics provides you full overview of spend
   composition and development
 date: 2018-12-16T14:31:35.000+00:00
 image: "/images/infographics/oversikt.svg"
-
 ---
+
 <ul>
 
 <li> Flexible categorization</li>

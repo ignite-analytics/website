@@ -9,6 +9,7 @@ tags = ["OBOS", "leverandørmodul", "avtalestyring", "analyse", "leverandører",
 title = "Leverandørmodul basert på Ignite Analytics lansert for OBOS forvaltede boligselskaper"
 
 +++
+
 #### Avtalestyring og kunnskapsdeling
 
 > _Leverandørmodulen er en del av Styrerommet til OBOS som er et enkelt og intuitivt verktøy som forenkler hverdagen til styremedlemmene i OBOS forvaltede boligselskaper, sier Eiliv Mæhle Liljevik, avdelingsdirektør for strategi og IKT i OBOS. Her kan man raskt registrere en kontaktperson eller en avtale med kun ett museklikk. Samtidig kan man dele kompetanse og kunnskap ved å gi vurdering av leverandørene, og således hjelpe andre styrer å finne gode leverandører. I tillegg kan man raskt søke seg fram til OBOS sine leverandøravtaler hvor det har blitt forhandlet frem konkurransedyktige priser, fortsetter Liljevik._
@@ -31,7 +32,7 @@ Den nye leverandørmodulen inneholder videre et analysedashbord fra Ignite Analy
 
 > _Leverandørmodulen i Styrerommet er et samarbeidsprosjekt mellom_ [_OBOS_](http://www.obos.no/)_,_ [_Unfold_](https://www.unfold.no/) _og oss i Ignite, sier Sigbjørn Nome, daglig leder i Ignite Procurement. Sammen har vi store ambisjoner for videreutviklingen av modulen for å sikre at det skal bli enda lettere for boligselskapene å finne konkurransedyktige og seriøse samarbeidspartnere, avslutter Nome._
 
-***
+---
 
 _Finn ut hvordan Ignite Analytics kan hjelpe deg med å frigjøre tid og forbedre lønnsomheten for din virksomhet!_
 

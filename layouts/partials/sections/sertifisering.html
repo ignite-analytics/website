@@ -1,12 +1,11 @@
 <!-- Tittel-->
 <div class="container pt-5">
-            {{ with .Site.GetPage "sertifiserings-tittel" }}
-            {{ partial "tittel.html" . }}
-            {{ end }}
+  {{ with .Site.GetPage "sertifiserings-tittel" }} {{ partial "tittel.html" . }}
+  {{ end }}
+</div>
+<section class="newsletter">
+  <img class="logo" src="{{ .Params.image }}" alt="Nyheter" width="150px;" />
+  <div class=" newsletter-content">
+    {{ .Content }}
   </div>
- <section class="newsletter">
-      <img class="logo" src="{{ .Params.image }}" alt="Nyheter" width="150px;">
-      <div class=" newsletter-content">
-                  {{ .Content }}  
-      </div>                  
-    </section>
+</section>

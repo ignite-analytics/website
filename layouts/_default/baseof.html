@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html lang="no" class="bg-white">
-    {{block "head" . }}
-        {{ partial "head.html" . }}
-    {{end}}
-    <body class="bg-white">
-        {{ partial "header.html" . }}
-        <div class="nav-padding" id="content">
-        {{ block "main" . }}{{ end }}
-        </div>
-        {{ partial "footer.html" . }}
-    </body>
+  {{block "head" . }} {{ partial "head.html" . }} {{end}}
+  <body class="bg-white">
+    {{ partial "header.html" . }}
+    <div class="nav-padding" id="content">
+      {{ block "main" . }}{{ end }}
+    </div>
+    {{ partial "footer.html" . }}
+  </body>
 </html>

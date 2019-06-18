@@ -9,6 +9,7 @@ tags = ["bundling", "innkjøpsvolum", "avtalevilkår", "Ignite Analytics"]
 title = "Hvordan bruke bundling til å redusere innkjøpskostnadene"
 
 +++
+
 Beskrivelsen over vil trolig høres kjent ut for de fleste. Det er lett å tro at standardiserte avtalevilkår på tvers av virksomheten er en selvfølge — dette er likevel ikke alltid tilfellet.
 
 ![](https://cdn-images-1.medium.com/max/800/1*lVtFbwRmLfsnf6Y9ibhQAQ.png)
@@ -33,6 +34,6 @@ _Finn ut hvordan Ignite Analytics kan hjelpe deg med å frigjøre tid og forbedr
 
 [![](https://cdn-images-1.medium.com/max/800/1*wNfW3gtCL-EO9XYJOYYSnQ.png)](https://www.ignite.no/ignite-analytics/demo/)
 
-***
+---
 
 _Fortsatt ikke overbevist om potensialet som ligger i bundling? Les mer om hvordan_ [_Statens innkjøpssenter_](https://www.difi.no/nyhet/2018/12/staten-kan-spare-mange-milliarder-pa-felles-innkjop) _benytter bundling som et virkemiddel til å redusere statlige innkjøpskostnader._

@@ -1,20 +1,18 @@
 <!-- Tittel-->
 <div class="container pt-5">
-        {{ with .Site.GetPage "karriere-tittel" }}
-        {{ partial "tittel.html" . }}
-        {{ end }}
+  {{ with .Site.GetPage "karriere-tittel" }} {{ partial "tittel.html" . }} {{ end }}
 </div>
 <div class="row vertical-align py-5">
-    <div class="col-md-6">
-        <div class="main-image-container">
-            <img class="first with-shadow" src="{{ .Params.image }}">
-        </div>
+  <div class="col-md-6">
+    <div class="main-image-container">
+      <img class="first with-shadow" src="{{ .Params.image }}" />
     </div>
-    <div class="col-md-6 text-center">
-        <h2>{{ .Title }}</h2>
-        <h4>{{ .Description }}</h4>
-        <div class="mt-5">
-            {{ .Content }}
-        </div>
+  </div>
+  <div class="col-md-6 text-center">
+    <h2>{{ .Title }}</h2>
+    <h4>{{ .Description }}</h4>
+    <div class="mt-5">
+      {{ .Content }}
     </div>
+  </div>
 </div>

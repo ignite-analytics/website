@@ -9,6 +9,7 @@ tags = ["kategoristrategi", "råd", "kategoristyring", "maler"]
 title = "Dette trenger du til en aksjonsbasert kategoristrategi"
 
 +++
+
 ![](https://cdn-images-1.medium.com/max/800/1*kw75yChEWgqD7lv3vx2-0g.png)
 
 En hensiktsmessig kategoristruktur er en forutsetning for god kategoristyring og strategiarbeid, les mer om hvordan bygge en kategoristruktur [her](https://www.ignite.no/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur/).
@@ -41,7 +42,7 @@ Trenger du en mal å ta utgangspunkt i? Last ned vår [her](https://www.ignite.n
 
 ![](https://cdn-images-1.medium.com/max/800/1*_uONa4-uKjIhoVow_0fCRA.png)
 
-***
+---
 
 _Interessert i å få vite mer om hvordan Ignite Analytics kan hjelpe deg og din virksomhet? Last ned produktinformasjonen for å lære mer._
 

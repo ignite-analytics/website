@@ -5,9 +5,8 @@ draft: false
 
 header: "Here is your free template!"
 description: "Description-text goes here "
-GoToURL: https://ignite.no/en/
-type: thankyou
+gotourl: https://ignite.no/en/
+type: ty
+color: academy
 hidden: true
-
 ---
-

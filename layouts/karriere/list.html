@@ -1,18 +1,14 @@
 {{ define "main" }}
 <section class="container mb-5">
   <div>
-    {{ with .Site.GetPage "karriere/top-banner" }}
-    {{ partial "top-banner.html" . }}
-    {{ end }}
-</div>  
-<div class="">
+    {{ with .Site.GetPage "karriere/top-banner" }} {{ partial "top-banner.html" . }} {{ end }}
+  </div>
+  <div class="">
     <div class="col-md-6">
-        {{ .Content }}
+      {{ .Content }}
     </div>
-    <div class="col-md-6">
-            
-    </div>
-</div>
+    <div class="col-md-6"></div>
+  </div>
 </section>
 
 {{ end }}

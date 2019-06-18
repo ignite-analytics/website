@@ -9,6 +9,7 @@ tags = ["kategoristyring", "Ignite Analytics", "ressurspådrag", "kompetanse", "
 title = "En praktisk tilnærming til kategoristyring"
 
 +++
+
 Kort fortalt innebærer kategoristyring at virksomheten benytter en strukturert metodikk, med tilhørende dedikert ansvar for beslektede innkjøp, eller innkjøpskategorier.
 
 For det første er en hensiktsmessig **kategorisering** av innkjøpet en forutsetning for god kategoristyring. Dette etablerer faktagrunnlaget og fungerer som basis for ressursallokering, ansvarsfordeling, og innkjøpsarbeidet i de ulike kategoriene. Du kan lese mer om hvordan bygge en kategoristruktur [her](https://www.ignite.no/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur/).
@@ -27,7 +28,7 @@ Med kategoristyring som grunnleggende prinsipp, er virksomheter ofte bedre ruste
 
 ### Lykke til!
 
-***
+---
 
 _Vår plattform for strategisk innkjøp, Ignite Analytics, er bygget basert på en kategoristyrt tilnærming til innkjøp. Med plattformen får du umiddelbart dyp innsikt i kjøpets sammensetning, muligheter og risikoer i den enkelte kategori, samt støtte til å realisere potensialet man har._
 

@@ -5,10 +5,10 @@ draft: false
 
 header: "Template for category strategy"
 description: "For those who is in need of a template with a clear, actionbased category strategy. Enter your email and recieve your free template"
-formId: "317dfa16-c571-4995-9fcd-00fd4ef3ca03"
+formid: "317dfa16-c571-4995-9fcd-00fd4ef3ca03"
 image: /images/infographics/document.svg
 type: mal
 hidden: true
-downloadText: Download
+downloadtext: Download
 thankyoupage: /en/thankyou/kategoristrategi-takk
 ---

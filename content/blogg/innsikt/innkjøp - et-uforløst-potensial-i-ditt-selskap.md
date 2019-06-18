@@ -9,6 +9,7 @@ tags = ["innkjøpspotensial", "strategi", "verdiskaping", "kompetanse", "profesj
 title = "Innkjøp — et uforløst potensial i ditt selskap?"
 
 +++
+
 Et selskaps kostnader kan overordnet deles i to kategorier; lønn og innkjøp. For de fleste virksomheter er innkjøp den klart største av disse to. En gjennomgang av regnskapene til alle norske virksomheter viser at innkjøpsrelaterte kostnader utgjør nærmere 80 % av de totale kostnadene. Trenden internasjonalt er at andelen øker som følge av et sterkere fokus på kjernevirksomheten — og dermed mer outsourcing.
 
 > _Til tross for at innkjøp som regel utgjør majoriteten av kostnadene, er det bemerkelsesverdig hvor lite fokus innkjøp har i flere virksomheter, bemerker Sigbjørn Nome, CEO i Ignite Procurement._
@@ -29,15 +30,15 @@ I tillegg til direkte kostnadsbesparelser vil en god innkjøpsorganisasjon kunne
 
 For å få ut potensialet som ligger i innkjøp kreves riktig kompetanse i innkjøpsorganisasjonen. En god innkjøpsorganisasjon må inneha sterk kompetanse innen flere områder, og tre områder er spesielt viktige.
 
-* **Analytisk kompetanse** blir stadig viktigere for å trekke ut, forstå og formidle innsikt fra store datamengder.
-* **Relasjonelle ferdigheter** er viktig for å sikre et godt samarbeid med leverandørene, også i etterkant av krevende forhandlinger.
-* I tillegg kreves **strategisk og forretningsmessig forståelse** for å kunne tilpasse innkjøpsstrategien til de ulike kategoriene, og forstå bedriftens behov.
+- **Analytisk kompetanse** blir stadig viktigere for å trekke ut, forstå og formidle innsikt fra store datamengder.
+- **Relasjonelle ferdigheter** er viktig for å sikre et godt samarbeid med leverandørene, også i etterkant av krevende forhandlinger.
+- I tillegg kreves **strategisk og forretningsmessig forståelse** for å kunne tilpasse innkjøpsstrategien til de ulike kategoriene, og forstå bedriftens behov.
 
 > _Til tross for viktigheten av innkjøp, samt kravet til sterk og bred kompetanse — ser vi ofte en tendens til at innkjøp nedprioriteres til fordel for andre funksjoner som salg og markedsføring, sier Nome._
 
 Flere bransjer i Norge — og andre land — vil i årene fremover stå foran store markedsendringer og tøffere global konkurranse. For å møte den nye hverdagen og sikre konkurransedyktigheten, må det satses mer på innkjøpsfunksjonen. Konsernledelsen har her et særlig ansvar for at innkjøp er på dagsordenen og at det investeres tilstrekkelig ressurser for å hente ut verdien som ligger i mer profesjonaliserte innkjøp. Det kan plutselig være for sent!
 
-***
+---
 
 _Ignite Analytics hjelper deg og din virksomhet med å identifisere og realisere potensialet innenfor innkjøp. Oppdag kraften i strategisk innkjøp gjort digitalt!_
 

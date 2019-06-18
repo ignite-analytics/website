@@ -9,6 +9,7 @@ tags = []
 title = "Tips til organisering av en innkjøpsfunksjon"
 
 +++
+
 ![](https://cdn-images-1.medium.com/max/800/1*UhN5P1x99JZJEERCOwJi8w.png)
 
 Som en del av forarbeidet til å etablere en innkjøpsfunksjon bør det defineres et tydelig **mandat** for avdelingen. Et slikt mandat bør inneholde overordnet funksjon, beslutningsmyndighet og nøkkelaktiviteter, samt hvilket nivå i organisasjonen avdelingen skal rapportere til. På det siste punktet er vår anbefaling at innkjøp sitter høyest mulig i organisasjonen, og helst at innkjøpssjefen sitter som en del av konsernledelsen. Bakgrunnen er at i de aller fleste selskapene er innkjøpskostnader den klart største kostnadsposten, og en dynamisk innkjøpsavdeling blir med det den viktigste bidragsyteren for å sikre konkurransedyktighet på kostnader. Som vi skal komme tilbake til er innkjøp en svært tverrfaglig rolle som må jobbe tett med ulike roller i både ledelsen og linjen, og det er derfor svært viktig at de har «plass ved bordet» for å kunne bidra til verdiskapningen.

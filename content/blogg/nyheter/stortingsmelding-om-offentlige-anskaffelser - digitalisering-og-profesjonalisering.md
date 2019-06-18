@@ -9,6 +9,7 @@ tags = ["stortingsmelding", "offentlige anskaffelser", "digitalisering", "Nærin
 title = "Stortingsmelding om offentlige anskaffelser — digitalisering og profesjonalisering"
 
 +++
+
 Nærings- og fiskeridepartementet kom 10. april med en Stortingsmelding om offentlig anskaffelser. Meldingen bærer navnet «Smartere innkjøp — effektive og profesjonelle offentlige anskaffelser», og kan leses i sin helhet [her](https://www.regjeringen.no/contentassets/2d7006f67c374cbdab5d4d6ba7198ebd/no/pdfs/stm201820190022000dddpdfs.pdf).
 
 > _Vi må bruke offentlige midler bedre og mer effektivt, samtidig som vi bidrar til å løse de store samfunnsutfordringene vi står overfor, oppfordrer næringsminister Torbjørn Røe Isaksen._
@@ -55,7 +56,7 @@ Vi tror det ligger et betydelig potensial i å samordne offentlige innkjøp. [St
 
 Et viktig steg på veien mot samordning er å styrke transparensen og dele erfaringer. Mens B2C-markedet blir mer og mer transparent gjennom tjenester som Google Shopping og Prisjakt, henger B2B-markedet fortsatt etter. Vi i Ignite ønsker å bidra til å øke denne transparensen. Eksempelvis har vi, sammen med OBOS, utviklet en løsning som gir OBOS forvaltede boligselskaper mulighet til å dele kunnskap og kompetanse på tvers av selskapene. Alle boligselskapene har mulighet til å søke opp og evaluere leverandører, legge til kontrakter, analysere innkjøpene og snart mulighet for benchmarking på tvers. En tilsvarende løsning for kommuner (og fylkeskommuner), vil kunne bidra til at kommunal sektor får mer igjen for hver krone i begrensede budsjetter.
 
-***
+---
 
 _Ignite Analytics profesjonaliserer og effektiviserer den strategiske innkjøpsprosessen gjennom analyser, muligheter og risikoer, KGV og KAV — alt i èn digital, nettbasert plattform. Finn ut hvordan plattformen kan hjelpe deg til en forenklet hverdag og forbedret lønnsomhet!_
 

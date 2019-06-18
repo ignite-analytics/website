@@ -6,7 +6,7 @@ draft: false
 header: "Her er din gratis mal!"
 description: "Her putter vi inn teksten som vi vil at bruker skal lese etter at de har sendt inn emailen sin. "
 GoToURL: https://ignite.no/
-type: thankyou
+type: ty
+color: academy
 hidden: true
 ---
-

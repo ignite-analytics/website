@@ -7,9 +7,10 @@ logo: "/images/logo-academy-square.svg"
 weight: "2"
 url: "/en/ignite-academy/"
 ---
-+ <i class="fas fa-award" style="color: #31B096"></i>Best practice tips and tricks
-+ <i class="fas fa-play-circle" style="color: #31B096"></i></span>Online video tutorials​
-+ <i class="fas fa-indent" style="color: #31B096"></i></span>Webinars
-+ <i class="fas fa-chalkboard-teacher" style="color: #31B096"></i></span>Classroom courses​
+
+- <i class="fas fa-award" style="color: #31B096"></i>Best practice tips and tricks
+- <i class="fas fa-play-circle" style="color: #31B096"></i></span>Online video tutorials​
+- <i class="fas fa-indent" style="color: #31B096"></i></span>Webinars
+- <i class="fas fa-chalkboard-teacher" style="color: #31B096"></i></span>Classroom courses​
 
 {{< button href="/en/ignite-academy/" class="btn btn-primary green btn-lg" >}}Find out more{{< /button >}}

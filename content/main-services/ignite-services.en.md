@@ -5,8 +5,8 @@ description: Realize your procurement potential with support from Ignite Service
 logo: "/images/services.svg"
 weight: "3"
 url: "/en/ignite-services/"
-
 ---
+
 <ul class="fa-ul">
 <li><span class="fa-li"><i class="fas fa-hand-holding-usd" style="color: #ebaf41;"></i></span>Savings realization</li>
 <li><span class="fa-li"><i class="fas fa-sitemap" style=" color: #ebaf41;"></i></span>Organizational development</li>

@@ -9,6 +9,7 @@ tags = ["EHF-konferansen", "EHF", "Difi", "anskaffelser", "offentlige anskaffels
 title = "EHF-konferansen 2019 — Dagens teknologi muliggjør digitale anskaffelser"
 
 +++
+
 Konferansen ble gjennomført i lyset av den nylige lanserte stortingsmeldingen for offentlige anskaffelser. I meldingen fremgår det at regjeringen har som mål å heldigitalisere anskaffelsesprosessen innen utgangen av 2024. Regjeringen retter fokus mot fire spesielt viktige områder som du kan lese mer om [her](https://www.ignite.no/blogg/nyheter/stortingsmelding-om-offentlige-anskaffelser-digitalisering-og-profesjonalisering/).
 
 ![Ignite Procurement, her ved Sigbjørn Nome, var tilstede under årets EHF-konferanse.](https://cdn-images-1.medium.com/max/800/1*v4CbD33s5wbJWbfLzCyL2w.jpeg)
@@ -23,9 +24,9 @@ Regjeringen har allerede igangsatt et arbeid mot målet om en heldigitalisert an
 
 Thomassen fremhevet tre viktige grunner til å ta i bruk digitale løsninger i anskaffelsesprosessen:
 
-* Forenkling
-* Bedre styringsinformasjon
-* Reduserte kostnader
+- Forenkling
+- Bedre styringsinformasjon
+- Reduserte kostnader
 
 #### Data er drivstoff for å hente ut forretningsmessige verdier
 
@@ -55,7 +56,7 @@ Samarbeidet mellom oppdragsgivere, leverandører og systemleverandører er et vi
 
 Om du ønsker å få vite mer om årets EHF-konferanse, kan du se og laste ned alle presentasjonene [her](https://www.difi.no/arrangement/2019-04-24/heldigitale-anskaffelser-ehf-konferansen-2019-dagens-teknologi-muliggjor-digitale-anskaffelser).
 
-***
+---
 
 _Ignite Analytics profesjonaliserer og effektiviserer den strategiske innkjøpsprosessen gjennom analyser, muligheter og risikoer, KGV og KAV — alt i èn digital, nettbasert plattform. Finn ut hvordan plattformen kan hjelpe deg til en forenklet hverdag og forbedret lønnsomhet!_
 

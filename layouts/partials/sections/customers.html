@@ -1,18 +1,23 @@
 <!-- Tittel-->
 <div class="container">
-        {{ with .Site.GetPage "kunder-tittel" }}
-        {{ partial "tittel.html" . }}
-        {{ end }}
+  {{ with .Site.GetPage "kunder-tittel" }} {{ partial "tittel.html" . }} 
+  {{ end }}
 </div>
-<section class="client-list wrap d-flex p-2 bd-highlight flex-column flex-md-row flex-wrap justify-content-around align-items-center">
-        {{ range .Pages }}
-            <div class="customer-logo">
-                <img class="client-logo" src="{{ .Params.logo }}" alt="{{ .Params.title }}">
-            </div>
-        {{ end }}
-</section> 
+<section
+  class="client-list wrap d-flex p-2 bd-highlight flex-column flex-md-row flex-wrap justify-content-around align-items-center"
+>
+  {{ range .Pages }}
+  <div class="customer-logo">
+    <img
+      class="client-logo"
+      src="{{ .Params.logo }}"
+      alt="{{ .Params.title }}"
+    />
+  </div>
+  {{ end }}
+</section>
 
- <!-- 
+<!-- 
 <div class="container-fluid">
     <div id="carouselExample" class="carousel slide" data-ride="carousel" data-interval="9000">
            

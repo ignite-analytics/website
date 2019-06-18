@@ -4,26 +4,25 @@
   position: fixed;
   top: 0;
   height: 80px;
-  background: $dark!important;
+  background: $dark !important;
   width: 100%;
   z-index: 6;
   align-items: left;
   ul {
-      height: 80px;
-      text-align: center;
+    height: 80px;
+    text-align: center;
   }
-  @media(max-width: 992px){
-    .container{
-      width:0;
-      margin:0;
+  @media (max-width: 992px) {
+    .container {
+      width: 0;
+      margin: 0;
     }
-    .analytics-landing{
+    .analytics-landing {
       flex-direction: column-reverse !important;
     }
   }
-  
 }
-h1.head{
+h1.head {
   padding-left: 15px;
 }
 
@@ -33,109 +32,104 @@ h1.head{
 .header-logo {
   height: 53px;
   z-index: 999;
-  padding: .5em 0;
+  padding: 0.5em 0;
 }
-.navbar-brand{
-  padding: .55em 0;
+.navbar-brand {
+  padding: 0.55em 0;
   z-index: 1000;
 }
-
 
 .nav-list {
   display: flex;
   flex-direction: row;
 
-/*    width: 80%; */
+  /*    width: 80%; */
   padding-left: 0;
 }
-.download{
-  border:0 !important;
+.download {
+  border: 0 !important;
   background: #f2f2f2;
 }
 .download > section {
-  border:0 !important;
+  border: 0 !important;
   background: #f2f2f2;
 }
-@keyframes clickme{
+@keyframes clickme {
   0% {
-    border:5px solid rgba(255, 255, 255, 0);
+    border: 5px solid rgba(255, 255, 255, 0);
   }
   70% {
-    border:5px solid rgba(255, 255, 255, 1);
+    border: 5px solid rgba(255, 255, 255, 1);
   }
   100% {
-    border:5px solid rgba(255, 255, 255, 0);
+    border: 5px solid rgba(255, 255, 255, 0);
   }
 }
-.overlaybutton{
-  background:transparent;
-  border:5px solid white;
-  position:absolute;
-  z-index:2;
-  left:50%;
-  top:50%;
-  transform: translate(-50%,-50%);
-  border-radius:50%;
-  margin:0;
-  padding:.2em;
+.overlaybutton {
+  background: transparent;
+  border: 5px solid white;
+  position: absolute;
+  z-index: 2;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  margin: 0;
+  padding: 0.2em;
   animation: clickme 5s ease infinite;
 }
 .overlaybutton i {
-  font-size:5em;
-  color:white !important;
-  cursor:pointer;
-  margin-right:.77em!important;
-  margin-bottom:.01em!important;
+  font-size: 5em;
+  color: white !important;
+  cursor: pointer;
+  margin-right: 0.77em !important;
+  margin-bottom: 0.01em !important;
 }
-.analytics-container section ul{
+.analytics-container section ul {
   list-style-type: initial;
-  padding-left:1em;
+  padding-left: 1em;
 }
 .menu ul {
   height: 80px;
   text-align: center;
-/*    margin-right: 150px; */
+  /*    margin-right: 150px; */
 }
 
 a.nav-link {
-font-size: 14px;
-font-weight: 400;
-color: $white!important;
-margin-top: 0;
-padding: 29px 20px !important;
-
+  font-size: 14px;
+  font-weight: 400;
+  color: $white !important;
+  margin-top: 0;
+  padding: 29px 15px !important;
 }
 .nav-list li {
   height: 80px;
   font-size: 1em;
   color: #153559;
   margin-top: 0 !important;
-  
 }
 .nav-list li:hover {
   background: $dark-blue;
   &:nth-of-type(1) {
-      background: $blue!important;
+    background: $blue !important;
   }
   &:nth-of-type(2) {
-      background: $green;
+    background: $green;
   }
   &:nth-of-type(3) {
-      background: $yellow !important;
+    background: $yellow !important;
   }
 }
 
 #log-in:hover {
-background: $dark-blue;
+  background: $dark-blue;
 }
 #kontakt:hover {
-background: $dark-blue;
+  background: $dark-blue;
 }
-
 
 .language-list {
   margin-left: 1em;
-
 }
 a.language {
   display: inline-block;
@@ -143,8 +137,8 @@ a.language {
   font-size: 14px;
 
   &.nav-link:hover {
-      color: $white !important;
-      background: $dark-blue;
+    color: $white !important;
+    background: $dark-blue;
   }
 }
 .naving {
@@ -179,17 +173,15 @@ a.language {
   border-radius: 0;
   display: block;
   visibility: hidden;
-  transition: .3s ease;
+  transition: 0.3s ease;
   opacity: 0;
   -webkit-transform: translateY(10px);
   transform: translateY(10px);
   background: $dark;
 }
 
-
-
-.overlay{
-  z-index: 5
+.overlay {
+  z-index: 5;
 }
 
 .dropdown-submenu {
@@ -197,15 +189,15 @@ a.language {
   background: $dark;
   color: $white;
   top: -2px;
-  a{
+  a {
+    color: $white;
+    &:hover {
+      background: $dark-blue;
       color: $white;
-      &:hover {
-          background: $dark-blue;
-          color: $white;
-      }
+    }
   }
 }
-.box{
+.box {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -213,35 +205,35 @@ a.language {
   left: 0;
   margin: 0 auto;
   p {
-      font-size: 20px;
-    }
+    font-size: 20px;
+  }
   a {
-      display: inline-block;
-      position: relative;
-      text-align: center;
-      text-decoration: none;
-      font-size: 20px;
-      overflow: hidden;
-      top: 5px;
-    }
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    overflow: hidden;
+    top: 5px;
+  }
 }
 
-
 .box a:after {
-  content: '';
+  content: "";
   position: absolute;
   height: 2px;
   width: 0%;
   -webkit-transform: translateX(-50%);
-          transform: translateX(-50%);
+  transform: translateX(-50%);
   left: 50%;
   bottom: 0;
-  transition: .35s ease;
+  transition: 0.35s ease;
 }
-.box a:hover:after, .box a:focus:after, .box a:active:after {
+.box a:hover:after,
+.box a:focus:after,
+.box a:active:after {
   width: 100%;
 }
-
 
 .button_container {
   background-color: $dark;
@@ -252,7 +244,7 @@ a.language {
   width: 80px;
   cursor: pointer;
   z-index: 100;
-  transition: opacity .25s ease;
+  transition: opacity 0.25s ease;
   color: $white;
 }
 .button_container:hover {
@@ -260,22 +252,20 @@ a.language {
 }
 .button_container.active {
   .top {
-      -webkit-transform: translateY(10px) translateX(0) rotate(45deg);
-              transform: translateY(10px) translateX(0) rotate(45deg);
-      background: $white;
-    }
-    .middle {
-      opacity: 0;
-      background: #FFF;
-    }
-    .bottom {
-      -webkit-transform: translateY(-10px) translateX(0) rotate(-45deg);
-              transform: translateY(-10px) translateX(0) rotate(-45deg);
-              background: $white;
-    }
-
-} 
-
+    -webkit-transform: translateY(10px) translateX(0) rotate(45deg);
+    transform: translateY(10px) translateX(0) rotate(45deg);
+    background: $white;
+  }
+  .middle {
+    opacity: 0;
+    background: #fff;
+  }
+  .bottom {
+    -webkit-transform: translateY(-10px) translateX(0) rotate(-45deg);
+    transform: translateY(-10px) translateX(0) rotate(-45deg);
+    background: $white;
+  }
+}
 
 .button_container span {
   background: #fff;
@@ -285,18 +275,16 @@ a.language {
   position: absolute;
   top: 30px;
   left: 25px;
-  transition: all .35s ease;
+  transition: all 0.35s ease;
   cursor: pointer;
   &:nth-of-type(2) {
-      top: 40px;
-      width: 35%;
-    }
+    top: 40px;
+    width: 35%;
+  }
   &:nth-of-type(3) {
-      top: 50px;
-    }  
+    top: 50px;
+  }
 }
-
-
 
 .overlay {
   position: fixed;
@@ -307,7 +295,7 @@ a.language {
   height: 0%;
   opacity: 0;
   visibility: hidden;
-  transition: opacity .35s, visibility .35s, height .35s;
+  transition: opacity 0.35s, visibility 0.35s, height 0.35s;
   overflow: hidden;
 }
 .overlay.open {
@@ -316,58 +304,52 @@ a.language {
   height: 100%;
 }
 
-
-
 .overlay.open li {
   -webkit-animation: fadeInRight ease forwards;
-  animation: fadeInRight ease forwards; 
-  -webkit-animation-delay: .35s;
-          animation-delay: .35s;
-          &:hover {
-              background: $dark-blue;
-              &:nth-of-type(1) {
-                  background: $blue;
-              }
-          }
+  animation: fadeInRight ease forwards;
+  -webkit-animation-delay: 0.35s;
+  animation-delay: 0.35s;
+  &:hover {
+    background: $dark-blue;
+    &:nth-of-type(1) {
+      background: $blue;
+    }
+  }
 }
-
 
 .overlay.open li:nth-of-type(2) {
-  -webkit-animation-delay: .4s;
-          animation-delay: .4s;
-          &:hover {
-              background: $green;
-          }
+  -webkit-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+  &:hover {
+    background: $green;
+  }
 }
 .overlay.open li:nth-of-type(3) {
-  -webkit-animation-delay: .45s;
-          animation-delay: .45s;
-          &:hover {
-              background: $yellow;
-          }
+  -webkit-animation-delay: 0.45s;
+  animation-delay: 0.45s;
+  &:hover {
+    background: $yellow;
+  }
 }
 .overlay.open li:nth-of-type(4) {
-  -webkit-animation-delay: .50s;
-          animation-delay: .50s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
 }
 .overlay.open li:nth-of-type(5) {
-  -webkit-animation-delay: .55s;
-          animation-delay: .55s;
+  -webkit-animation-delay: 0.55s;
+  animation-delay: 0.55s;
 }
 .overlay.open li:nth-of-type(6) {
-  -webkit-animation-delay: .6s;
-          animation-delay: .6s;
-} 
-
-
-
+  -webkit-animation-delay: 0.6s;
+  animation-delay: 0.6s;
+}
 
 .overlay nav {
   position: relative;
   height: 100%;
   top: 50%;
   -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
+  transform: translateY(-50%);
   font-size: 1.2em;
   font-weight: 400;
   text-align: center;
@@ -378,13 +360,13 @@ a.language {
   margin: 0 auto;
   display: inline-block;
   position: relative;
-/*     height: 65%; */
+  /*     height: 65%; */
   height: 100%;
   width: 100%;
 }
 .overlay ul li {
   display: block;
-  margin-top: .5em;
+  margin-top: 0.5em;
   height: calc(100% / 15);
   min-height: auto;
   position: relative;
@@ -393,26 +375,26 @@ a.language {
 .overlay ul li a {
   display: block;
   position: relative;
-  color: #FFF;
+  color: #fff;
   text-decoration: none;
-
 }
-.overlay ul li a:hover:after, .overlay ul li a:focus:after, .overlay ul li a:active:after {
+.overlay ul li a:hover:after,
+.overlay ul li a:focus:after,
+.overlay ul li a:active:after {
   width: 100%;
 }
 .overlay ul li a:after {
-  content: '';
+  content: "";
   position: absolute;
   bottom: 0;
   left: 50%;
   width: 0%;
   -webkit-transform: translateX(-50%);
-          transform: translateX(-50%);
+  transform: translateX(-50%);
   height: 3px;
   background: $dark;
-  transition: .5s;
+  transition: 0.5s;
 }
-
 
 .menu-card {
   width: 100%;
@@ -420,8 +402,8 @@ a.language {
 }
 
 a.nav-reg {
-color: $white !important;
-padding: .7em;
+  color: $white !important;
+  padding: 0.7em;
 }
 /* a.dropdown-item {
 color: $blue;
@@ -440,7 +422,6 @@ a{
     }
 }
 } */
-
 
 @-webkit-keyframes fadeInRight {
   0% {
@@ -468,106 +449,77 @@ a{
   margin-left: 1em;
   margin-bottom: 2em;
   font-size: 15px;
-  
 }
-
-
 
 .btn-demo {
   font-size: 14px;
   min-width: 120px !important;
-  padding: .4em 1em;
+  padding: 0.4em 1em;
   height: 35px;
-  margin: 1.7em .5em 1.7em 0;
+  margin: 1.7em 0.5em 1.7em 0;
   border-radius: 25px;
   border: 0;
   background: $blue;
   color: $white;
   &:hover {
-      background-color: $blue-hover;
-      border-color: $blue-hover;
+    background-color: $blue-hover;
+    border-color: $blue-hover;
   }
   &:active {
-      border-color: $white;
+    border-color: $white;
   }
 }
 
 .small {
-position: absolute;
-width: 100%;
-background: $dark-blue;
-z-index: 2000;
+  position: absolute;
+  width: 100%;
+  background: $dark-blue;
+  z-index: 2000;
 }
-@media (max-width: 1390px) {
-  a.nav-link  {
-      font-size: 14px;
-      padding: 29px 10px !important;
+@media (max-width: 1399px) {
+  a.nav-link {
+    font-size: 14px;
+    padding: 29px 7px !important;
   }
   a.nav-link.language {
-      font-size: 14px;
+    font-size: 14px;
   }
   .navbar-brand {
-      padding: .7em 0;
+    padding: 0.7em 0;
   }
   .header-logo {
-      height: 45px;
+    height: 45px;
   }
 }
-
-
 @media (max-width: 1200px) {
   .nav-list {
-      display: none;
+    display: none;
   }
   .navigation {
-      display: inline;
+    display: inline;
   }
   a.nav-link.language {
-      font-size: 1.2em;
+    font-size: 1.2em;
   }
   .navbar-brand {
-      padding: .7em 0;
+    padding: 0.7em 0;
   }
   .header-logo {
-      height: 50px;
+    height: 45px;
   }
 }
-@media screen and (min-width:900px) {
-.overlay nav {
-   
-  font-size: 1.2em;
-  font-weight: 400;
-  text-align: center;
+@media screen and (min-width: 900px) {
+  .overlay nav {
+    font-size: 1.2em;
+    font-weight: 400;
+    text-align: center;
+  }
 }
-}
-@media (max-width: 1000px) and (max-height: 500px){
+@media (max-width: 1000px) and (max-height: 500px) {
   .overlay {
-      overflow: scroll;
-    }
+    overflow: scroll;
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
 
 /* .menu {
     display: flex;
