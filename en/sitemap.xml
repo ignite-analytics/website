@@ -530,7 +530,7 @@
   
   <url>
     <loc>https://ignite.no/en/</loc>
-    <lastmod>2019-02-20T13:09:05+01:00</lastmod>
+    <lastmod>2019-02-20T12:09:05+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -1126,6 +1126,8 @@
                 href="https://ignite.no/en/categories/"
                 />
   </url>
+  
+  
   
   
   
