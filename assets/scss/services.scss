@@ -126,13 +126,22 @@ i.fab {
 /* SERVICES-BLOCK */
 
 .servicesblock {
-  height: 420px;
+  height: auto;
+  display: flex;
+}
+.servicesblock > .flex.column{
+  flex:1;
+  display: flex;
+  flex-direction:column;
+}
+.servicesblock > .flex.column > .align-items-center {
+  margin-top:auto;
 }
 .service-btns4 {
-  position: absolute;
+  position: relative;
   width: 50%;
-  bottom: 0.7em;
-  left: 25% !important;
+  margin:0 auto;
+  bottom:0;
 }
 .service-btns3 {
   position: absolute;

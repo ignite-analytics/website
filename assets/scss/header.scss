@@ -453,6 +453,7 @@ a{
 }
 
 .btn-demo {
+  text-decoration: none;
   font-size: 14px;
   min-width: 120px !important;
   padding: 0.4em 1em;
@@ -465,6 +466,8 @@ a{
   &:hover {
     background-color: $blue-hover;
     border-color: $blue-hover;
+    color: white;
+    text-decoration: none;
   }
   &:active {
     border-color: $white;

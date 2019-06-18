@@ -28,9 +28,9 @@
                     <ul class="footer-list list-unstyled quick-links">
                         {{ $currentPage := . }}
                        
-                         {{ range .Site.Menus.btn }}
-                            <li><a href="#" data-toggle="modal" data-target="{{ .Identifier }}">{{ .Name }}</a></li>
-                        {{ end }}
+                        {{ range .Site.Menus.btn }}
+                            <li><a href="{{ .URL }}" >{{ .Name }}</a></li>
+                        {{end}}
                         {{ range .Site.Menus.mote }}
                         <li><a href="#" data-toggle="modal" data-target="{{ .Identifier }}">{{ .Name }}</a></li>
                     {{ end }}
