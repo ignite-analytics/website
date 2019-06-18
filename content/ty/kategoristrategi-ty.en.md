@@ -6,5 +6,6 @@ description: You can download the template via the link below
 gotourl: bit.ly/categorystrategy
 color: academy
 hidden: true
+lang: en
 
 ---
