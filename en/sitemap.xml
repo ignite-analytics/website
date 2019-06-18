@@ -484,6 +484,10 @@
   
   
   
+  
+  
+  
+  
   <url>
     <loc>https://ignite.no/en/kontakt/kontaktinformasjon/</loc>
     <lastmod>2019-02-20T13:09:05+01:00</lastmod>
@@ -699,17 +703,17 @@
   
   
   <url>
-    <loc>https://ignite.no/en/ignite-academy/praksis/</loc>
+    <loc>https://ignite.no/en/ignite-academy/maler/</loc>
     <lastmod>2018-12-16T14:31:35+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://ignite.no/ignite-academy/praksis/"
+                href="https://ignite.no/ignite-academy/maler/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ignite.no/en/ignite-academy/praksis/"
+                href="https://ignite.no/en/ignite-academy/maler/"
                 />
   </url>
   
@@ -719,20 +723,9 @@
   
   
   
-  <url>
-    <loc>https://ignite.no/en/ignite-academy/kurs/</loc>
-    <lastmod>2018-12-16T14:31:35+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/ignite-academy/kurs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/ignite-academy/kurs/"
-                />
-  </url>
+  
+  
+  
   
   
   
@@ -878,21 +871,6 @@
   
   
   
-  <url>
-    <loc>https://ignite.no/en/ignite-academy/online/</loc>
-    <lastmod>2018-12-16T14:31:35+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/ignite-academy/online/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/ignite-academy/online/"
-                />
-  </url>
-  
   
   
   <url>
@@ -1002,21 +980,6 @@
   
   
   
-  
-  <url>
-    <loc>https://ignite.no/en/ignite-academy/tips/</loc>
-    <lastmod>2018-12-16T14:31:35+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/ignite-academy/tips/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/ignite-academy/tips/"
-                />
-  </url>
   
   
   
