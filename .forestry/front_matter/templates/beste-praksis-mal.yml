@@ -1,4 +1,56 @@
 ---
 label: Beste praksis-mal
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Tittel
+  description: Til meta-description
+- name: header
+  type: text
+  config:
+    required: true
+  label: Header
+  description: Hovedtittel
+- name: description
+  type: text
+  config:
+    required: false
+  label: Undertekst
+  description: Tekst som går under hovedtittelen
+- name: formid
+  type: text
+  config:
+    required: true
+  label: Hubspot formId
+  description: 'Eksempel: 317dfa16-c571-4995-9fcd-00fd4ef3ca03'
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Bilde
+- name: type
+  type: text
+  config:
+    required: true
+  label: Type (Ikke rør)
+  hidden: true
+  description: Ikke rør denne (Don't touch)
+  default: mal
+- name: downloadtext
+  type: select
+  default: []
+  config:
+    required: true
+    options:
+    - Download
+    - Last ned
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Nedlastningstekst
+  description: Velg norsk eller engelsk tekst
