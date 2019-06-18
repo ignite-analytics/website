@@ -71,7 +71,7 @@ fields:
   label: Språk
   description: Velg srpåk
 pages:
-- content/ty/procurement-project.md
+- content/ty/procurement-project.en.md
 - content/ty/innkjøpsprosjekt.md
 - content/ty/procurement-measures.md
 - content/ty/innkjøpsvirkemidler.md

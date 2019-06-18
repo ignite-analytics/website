@@ -6,5 +6,6 @@ header = "THANK YOU!"
 hidden = true
 lang = "en"
 title = "Procurement project"
+type = ""
 
 +++
