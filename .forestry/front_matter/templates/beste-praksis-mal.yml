@@ -54,3 +54,9 @@ fields:
       path: 
   label: Nedlastningstekst
   description: Velg norsk eller engelsk tekst
+- name: hidden
+  type: boolean
+  label: hidden
+  description: Ikke rør
+  hidden: true
+  default: true
