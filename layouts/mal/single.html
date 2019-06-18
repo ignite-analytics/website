@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{ partial "minimal-header.html" . }}
+<section class="container mal">
+    {{ with .Site.GetPage "kategoristrategi" }}
+    {{ partial "sections/produkt-download.html" . }}
+    {{ end }}
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            hbspt.forms.create({
+                portalId: "4304957",
+                formId: "{{ .Params.formId }}"
+            });
+        });
+    </script>
+</section>
+{{ end }}

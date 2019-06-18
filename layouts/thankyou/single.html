@@ -1,0 +1,10 @@
+{{ define "main" }}
+<section class="container academy-landing d-flex bd-highlight flex-column flex-lg-row align-items-center mb-5">
+        <div class="ty header-content p-2 flex-fill bd-highlight pr-sm-3 pr-lg-5">
+            <h1><i class="far fa-check-circle"></i></h1>
+            <h3>{{.Params.header}}</h3>
+            <h4>{{.Description}}</h4>
+            <code>{{ .Params.GoToURL }}</code>      
+        </div>
+</section>
+{{end}}
