@@ -6,6 +6,6 @@ description: Malen kan du laste ned via linken under.
 GoToURL: https://ignite.no/
 color: academy
 hidden: true
-gotourl: http://bit.ly/kategoristrategi
+gotourl: bit.ly/kategoristrategi
 
 ---
