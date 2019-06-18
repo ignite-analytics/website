@@ -55,6 +55,21 @@ fields:
       path: 
   label: Farge-kode
   description: Velg mellom de forskjellige temaene
+- name: lang
+  type: select
+  default: 'no'
+  config:
+    required: true
+    options:
+    - en
+    - 'no'
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Språk
+  description: Velg srpåk
 pages:
 - content/ty/procurement-measures.md
 - content/ty/innkjøpsvirkemidler.md
