@@ -1,4 +1,41 @@
 ---
 label: Thank you page
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Tittel
+  description: Tekst til meta-tittel
+- name: header
+  type: text
+  config:
+    required: true
+  label: header
+  description: Hovedtekst
+- name: description
+  type: text
+  config:
+    required: true
+  label: Beskrivelse
+  description: Tekst som går under hovedtittelen
+- name: gotourl
+  type: text
+  config:
+    required: true
+  label: Resultat-URL
+  description: Slutt-url
+- name: type
+  type: text
+  config:
+    required: true
+  label: type
+  description: Ikke rør
+  hidden: true
+  default: thankyou
+- name: hidden
+  type: boolean
+  label: hidden
+  description: ikke rør
+  default: true
