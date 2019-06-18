@@ -55,3 +55,5 @@ fields:
       path: 
   label: Farge-kode
   description: Velg mellom de forskjellige temaene
+pages:
+- content/ty/innkjøpsvirkemidler.md
