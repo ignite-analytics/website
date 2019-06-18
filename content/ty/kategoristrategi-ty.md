@@ -6,5 +6,6 @@ description: Malen kan du laste ned via linken under
 color: academy
 hidden: true
 gotourl: bit.ly/kategoristrategi
+lang: 'no'
 
 ---
