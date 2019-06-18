@@ -268,10 +268,59 @@
 
   <div class="ty header-content p-2 flex-fill bd-highlight pr-sm-3 pr-lg-5">
     <h1><i class="far fa-check-circle"></i></h1>
-    <h3>TUSEN TAKK!</h3>
+    <h2>TUSEN TAKK!</h2>
     <h4>Malen kan du laste ned via linken under</h4>
-    <code>bit.ly/kategoristrategi</code>
+    <code id="url">bit.ly/kategoristrategi</code>
   </div>
+  <div id="errormsg">
+    <span>Please copy by hand</span>
+  </div>
+  <style>
+    #errormsg{
+      position: fixed;
+      background: white;
+      top: 0;
+      right: 0;
+      margin-right: -1000vw;
+      padding: 20px 30px;
+      border-radius: 40px;
+      transition: all .3s ease;
+      box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.2);
+    }
+    #errormsg.show{
+      margin:5em;
+    }
+  </style>
+  <script>
+    document.querySelector('#url').addEventListener('click', () => {
+    const selection = window.getSelection();
+    const range = document.createRange();
+    range.selectNodeContents(document.querySelector('#url'));
+    selection.removeAllRanges();
+    selection.addRange(range);
+
+    try {
+      document.querySelector('#url').select()
+      document.execCommand('copy');
+      selection.removeAllRanges();
+
+      const original = color.textContent;
+      document.querySelector('#url').textContent = 'Copied!';
+      document.querySelector('#url').classList.add('success');
+
+      setTimeout(() => {
+        document.querySelector('#url').textContent = original;
+        document.querySelector('#url').classList.remove('success');
+      }, 1200);
+    } catch(e) {
+      document.querySelector('#errormsg').classList.add('show');
+
+      setTimeout(() => {
+        document.querySelector('#errormsg').classList.remove('show');
+      }, 3000);
+    }
+  });
+  </script>
 </section>
 
     </div>
@@ -786,6 +835,11 @@
       }
       emit();
       setInterval(emit, 10000);
+      document.addEventListener('visibilitychange', function(e) {
+          document.querySelectorAll('.confetti').forEach(c => {
+            c.remove()
+          })
+      });
     </script>
   </body>
 </html>
