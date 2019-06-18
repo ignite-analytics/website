@@ -43,24 +43,10 @@
     selection.addRange(range);
 
     try {
-      document.querySelector('#url').select()
-      document.execCommand('copy');
-      selection.removeAllRanges();
-
-      const original = color.textContent;
-      document.querySelector('#url').textContent = 'Copied!';
-      document.querySelector('#url').classList.add('success');
-
-      setTimeout(() => {
-        document.querySelector('#url').textContent = original;
-        document.querySelector('#url').classList.remove('success');
-      }, 1200);
+      window.open('https://'+document.querySelector('#url').innerHTML, '_blank');
     } catch(e) {
-      document.querySelector('#errormsg').classList.add('show');
-
-      setTimeout(() => {
-        document.querySelector('#errormsg').classList.remove('show');
-      }, 3000);
+      document.querySelector('#url').select()
+      console.log(e)
     }
   });
   </script>
