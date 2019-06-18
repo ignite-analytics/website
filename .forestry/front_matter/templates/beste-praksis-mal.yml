@@ -77,7 +77,7 @@ fields:
   label: Språk
   description: Velg språket
 pages:
-- content/ignite-academy/maler/procurement-project.md
+- content/ignite-academy/maler/procurement-project.en.md
 - content/ignite-academy/maler/procurement-measures.en.md
 - content/ignite-academy/maler/innkjøpsprosjekt.md
 - content/ignite-academy/maler/innkjøpsvirkemidler.md
