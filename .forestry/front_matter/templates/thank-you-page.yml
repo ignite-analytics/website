@@ -39,3 +39,19 @@ fields:
   label: hidden
   description: ikke rør
   default: true
+- name: color
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - analytics
+    - academy
+    - services
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Farge-kode
+  description: Velg mellom de forskjellige temaene
