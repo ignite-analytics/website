@@ -5,7 +5,8 @@ gotourl = ""
 header = "THANK YOU!"
 hidden = true
 lang = "en"
-subdescription = ""
+subdescription = "Be sure to check if the email has ended up in your junk mail"
 title = "Product information"
+type = ""
 
 +++
