@@ -6,45 +6,45 @@
     <description>Recent content in Ignite Analytics – Gjør din innkjøpsdata om til innsikt og resultater on Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 16 Dec 2018 14:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Dec 2018 15:31:35 +0100</lastBuildDate>
     
 	<atom:link href="https://ignite.no/ignite-analytics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Analyze. Få dyp innsikt i innkjøpet ditt</title>
-      <link>https://ignite.no/ignite-analytics/item1/</link>
-      <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
-      
-      <guid>https://ignite.no/ignite-analytics/item1/</guid>
-      <description>  Fleksibel kategorisering  Automatiserte innkjøpsanalyser  Egne analyser og dashboards  </description>
-    </item>
-    
-    <item>
-      <title>Follow-up. Følg opp utviklingen i innkjøpet</title>
-      <link>https://ignite.no/ignite-analytics/item4/</link>
-      <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
-      
-      <guid>https://ignite.no/ignite-analytics/item4/</guid>
-      <description>  KPI dashboards  Avtalestyring (KAV)  Egne rapporter  </description>
-    </item>
-    
-    <item>
-      <title>Implement. Gjennomfør forbedringstiltak</title>
-      <link>https://ignite.no/ignite-analytics/item3/</link>
-      <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
-      
-      <guid>https://ignite.no/ignite-analytics/item3/</guid>
-      <description>  Leverandøroversikt  Forhandlingspakker  Digitale forepørsler (KGV)  </description>
-    </item>
-    
-    <item>
-      <title>Prioritize. Identifiser muligheter og risikoer</title>
+      <title>Automatisk identifikasjon av muligheter og risikoer</title>
       <link>https://ignite.no/ignite-analytics/item2/</link>
-      <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
       
       <guid>https://ignite.no/ignite-analytics/item2/</guid>
-      <description>  Finansiell leverandørinformasjon  Analyse av muligheter  Risikoanalyser  </description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enkel implementering ​av forbedringstiltak</title>
+      <link>https://ignite.no/ignite-analytics/item3/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://ignite.no/ignite-analytics/item3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full oversikt og dyp innsikt i innkjøpet</title>
+      <link>https://ignite.no/ignite-analytics/item1/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://ignite.no/ignite-analytics/item1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sømløs oppfølging av innkjøpet</title>
+      <link>https://ignite.no/ignite-analytics/item4/</link>
+      <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
+      
+      <guid>https://ignite.no/ignite-analytics/item4/</guid>
+      <description></description>
     </item>
     
   </channel>
