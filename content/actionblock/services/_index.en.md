@@ -8,4 +8,4 @@ hidden: true
 ---
 
 <h3 class="actionblock-h3">Realize your procurement potential</h3>
-{{< button class="btn btn-primary yellow btn-lg" data-toggle="modal" data-target="#modalbooknorw">}}Book a meeting{{< /button >}}
+{{< button class="btn btn-primary yellow btn-lg services-modal-btn" data-toggle="modal" data-target="#modalbooknorw">}}Book a meeting{{< /button >}}

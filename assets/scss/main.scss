@@ -222,21 +222,21 @@ h4.arrow2 {
   &-primary {
     background: $blue;
     color: $white;
-    &:hover {
+    &:hover, &:focus, &:active  {
       background-color: $blue-hover;
     }
   }
   &-primary.yellow {
     background: $yellow;
     color: $white;
-    &:hover {
-      background-color: $yellow-hover;
+    &:hover, &:focus, &:active {
+      background-color: $yellow-hover !important;
     }
   }
   &-primary.green {
     background: $green;
     color: $white;
-    &:hover {
+    &:hover, &:focus, &:active {
       background-color: $green-hover;
     }
   }
@@ -460,6 +460,9 @@ section.seksjon {
       font-weight:300;
     }
   }
+}
+.services-modal-btn{
+  margin-top:0;
 }
 @media screen and (min-width: 768px) {
   .content-img {

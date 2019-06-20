@@ -9,4 +9,4 @@ backgroundimage: "/images/ignite-services.jpg/"
 hidden: true
 ---
 <h3 class="actionblock-h3">Realiser ditt innkjøpspotensial​</h3>
-{{< button class="btn btn-primary yellow btn-lg" data-toggle="modal" data-target="#modalbooknorw">}}Book et møte{{< /button >}}
+{{< button style="margin-top:0 !important;" class="btn btn-primary yellow btn-lg services-modal-btn" data-toggle="modal" data-target="#modalbooknorw">}}Book et møte{{< /button >}}
