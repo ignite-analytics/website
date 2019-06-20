@@ -1,5 +1,5 @@
 ---
-title: Ignite Services | Få støtte til å realisere ditt innkjøpspotensial
+title: Ignite Services - Få støtte til å realisere ditt innkjøpspotensial
 mainheading: Få støtte til å realisere ditt innkjøpspotensial med Ignite
 description: Erfarne konsulenter er tilgjengelige for å skape raske resultater gjennom
   skreddersydde løsninger
