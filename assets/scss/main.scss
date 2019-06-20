@@ -409,22 +409,25 @@ section.seksjon {
 }
 .demo-content{
     flex:1;
-    padding:10%;
+    padding:5%;
 }
 .demo-img{
   flex:1;
-  flex-basis: auto;
+  flex-basis: none;
   display:flex;
   justify-content: center;
   align-items:center;
+  min-width:400px;
   img{
     padding: 2em 0;
+    max-width:500px;
     width:80%;
     margin:auto;
     display: block;
   }
 }
 .demo-subcontent{
+  
   padding:4em 0;
   margin:0 auto;
   display:flex;
@@ -508,6 +511,15 @@ section.seksjon {
 @media screen and (max-width: 991px) {
   .demo-container{
     flex-wrap:wrap-reverse;
+    background:#f2f2f2f2;
+  }
+  
+  .demo-img{
+    flex-basis:auto;
+    min-width:initial;
+    & > img{
+      max-width:90vw;
+    }
   }
   .analytics-landing,
   .academy-landing,
