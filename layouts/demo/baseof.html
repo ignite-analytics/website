@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="no" style="max-width:100vw;width:100%;">
+  {{block "head" . }} {{ partial "head.html" . }} {{end}}
+  <body style="height:100vh;background:#18243f!important">
+    {{ partial "minimal-header.html" . }}
+    <div id="content" style="min-height:80vh; padding-top:80px;">
+      {{ block "main" . }}{{ end }}
+    </div>
+    {{ partial "minimal-footer.html" .}}
+  </body>
+</html>

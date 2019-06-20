@@ -13,7 +13,13 @@
     <h1><i class="far fa-check-circle"></i></h1>
     <h2>{{.Params.header}}</h2>
     <h4>{{.Description}}</h4>
-    <code id="url">{{ .Params.gotourl }}</code>
+    {{if isset .Params "subdescription"}}
+    <h4>{{.Params.subdescription}}</h4>
+    {{end}}
+    {{if isset .Params "gotourl"}}
+      <code id="url">{{ .Params.gotourl }}</code>
+    {{end}}
+    
   </div>
   <div id="errormsg">
     <span>Please copy by hand</span>
