@@ -21,10 +21,16 @@ fields:
     required: true
   label: Beskrivelse
   description: Tekst som går under hovedtittelen
+- name: subdescription
+  type: text
+  config:
+    required: false
+  label: Undertekst
+  description: Bruk denne om du ikke har en link du skal gå til
 - name: gotourl
   type: text
   config:
-    required: true
+    required: false
   label: Resultat-URL
   description: Slutt-url
 - name: type
