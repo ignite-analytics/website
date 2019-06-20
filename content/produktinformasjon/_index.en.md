@@ -1,7 +1,7 @@
 ---
-title: Download product information
+title: Product information Ignite Analytics
 date: 2019-02-20T12:09:05.000+00:00
-header: Download product information
+header: Product information Ignite Analytics
 description: Learn more about the functionality in Ignite Analytics and how the platform
   can help you and your business
 image: "/images/IA Dashboard in Frame - v2.png"
