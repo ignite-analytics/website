@@ -6,7 +6,7 @@
     <description>Recent content on Ignite Procurement - Unlock the power of strategic sourcing made digital </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Feb 2019 13:09:05 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 Feb 2019 12:09:05 +0000</lastBuildDate>
     
 	<atom:link href="https://ignite.no/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -380,6 +380,15 @@ Norway</description>
       
       <guid>https://ignite.no/en/kontakt/kontaktinformasjon/</guid>
       <description>+47 944 88 923 post@ignite.no</description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://ignite.no/en/ignite-analytics/demo/ty/</link>
+      <pubDate>Wed, 20 Feb 2019 12:09:05 +0000</pubDate>
+      
+      <guid>https://ignite.no/en/ignite-analytics/demo/ty/</guid>
+      <description></description>
     </item>
     
     <item>
