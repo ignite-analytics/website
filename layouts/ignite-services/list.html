@@ -3,7 +3,7 @@
   class="container d-flex bd-highlight flex-column flex-lg-row align-items-center mb-5"
 >
   <div class="header-content p-2 flex-fill bd-highlight pr-sm-3 pr-lg-5">
-    <h1>Ignite <span style="color:#ebaf41;">Services</span></h1>
+    <h1>{{.Params.mainheading}} <span style="color:#ebaf41;">Services</span></h1>
     <h4>{{.Description}}</h4>
     {{ .Content }}
   </div>
@@ -24,5 +24,11 @@
 <section class="container mb-5">
   {{ with .Site.GetPage "item8" }} {{ partial "sections/infoblock-reverse.html" . }} {{ end }}
 </section>
+<section class="actionblock">
 
+  {{ with .Site.GetPage "actionblock/services" }}
+    {{ partial "sections/actionblock.html" . }}
+  {{ end }}  
+
+</section>
 {{ end }}

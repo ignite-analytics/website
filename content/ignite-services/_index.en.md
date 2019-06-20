@@ -1,5 +1,6 @@
 ---
-title: Ignite Services – Get support to realize your procurement potential
+title: Ignite Services 
+mainheading: Realize your procurement potential with support from Ignite
 description:
   "Experienced consultants are available to create fast results through
   customized solutions "
@@ -15,4 +16,3 @@ image: "/images/infographics/analytics-2.svg"
 </ul>
 
 {{< button class="btn btn-primary yellow btn-lg" data-toggle="modal" data-target="#modalbookeng">}}Book a meeting{{< /button >}}
-{{< button href="/blogg" class="btn btn-outline-primary yellow btn-lg" >}}See examples{{< /button >}}

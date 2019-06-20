@@ -1,5 +1,6 @@
 ---
-title: Ignite Services – Få støtte til å realisere ditt innkjøpspotensial
+title: Ignite Services
+mainheading: Få aktiv støtte til å realisere ditt innkjøpspotensial med Ignite
 description:
   Erfarne konsulenter er tilgjengelige for å skape raske resultater gjennom
   skreddersydde løsninger
@@ -16,4 +17,4 @@ thumbnail: images/ignite-services.jpg/
 </ul>
 
 {{< button class="btn btn-primary yellow btn-lg" data-toggle="modal" data-target="#modalbooknorw">}}Book et møte{{< /button >}}
-{{< button href="/blogg" class="btn btn-outline-primary yellow btn-lg" >}}Se eksempler{{< /button >}}
+

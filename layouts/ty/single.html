@@ -17,7 +17,9 @@
     <h4>{{.Params.subdescription}}</h4>
     {{end}}
     {{if isset .Params "gotourl"}}
+      {{if not (eq .Params.gotourl "") }}
       <code id="url">{{ .Params.gotourl }}</code>
+      {{end}}
     {{end}}
     
   </div>
