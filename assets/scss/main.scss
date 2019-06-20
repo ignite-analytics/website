@@ -447,13 +447,16 @@ section.seksjon {
     min-width:300px;
     padding:1em;
     text-align:center;
+    display: flex;
+    flex-direction: column;
     & > img{
       width:80%;
       display:block;
       margin:0 auto,
 
     }
-    & > h4 {
+    & > h3 {
+      margin-top:auto;
       font-weight: 500;
     }
     & > p {
