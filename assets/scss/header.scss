@@ -17,6 +17,15 @@
       width: 0;
       margin: 0;
     }
+    .navbar-brand {
+      padding: 0;
+      height:100%;
+      display: flex;
+      justify-content: center;
+    }
+    .header-logo{
+      margin:auto;
+    }
     .minimal.container{
       width:auto;
       margin:auto;
@@ -61,34 +70,32 @@ h1.head {
 }
 @keyframes clickme {
   0% {
-    border: 5px solid rgba(255, 255, 255, 0);
+    transform: translateY(0%);
   }
   70% {
-    border: 5px solid rgba(255, 255, 255, 1);
+    transform: translateY(4%);
   }
   100% {
-    border: 5px solid rgba(255, 255, 255, 0);
+    transform: translateY(0%);
   }
 }
 .overlaybutton {
   background: transparent;
-  border: 5px solid white;
   position: absolute;
   z-index: 2;
   left: 50%;
-  top: 50%;
+  top: 47.5%;
+  border:0;
   transform: translate(-50%, -50%);
   border-radius: 50%;
   margin: 0;
-  padding: 0.2em;
-  animation: clickme 5s ease infinite;
+  padding:0;
 }
 .overlaybutton i {
   font-size: 5em;
   color: white !important;
   cursor: pointer;
-  margin-right: 0.77em !important;
-  margin-bottom: 0.01em !important;
+  animation: clickme 3s ease infinite;
 }
 .analytics-container section ul {
   list-style-type: initial;
@@ -461,8 +468,8 @@ a{
   font-size: 14px;
   min-width: 120px !important;
   padding: 0.4em 1em;
-  height: 35px;
-  margin: 1.7em 0.5em 1.7em 0;
+  height: auto;
+  margin: auto;
   border-radius: 25px;
   border: 0;
   background: $blue;
