@@ -4,7 +4,6 @@
   padding: 0 !important;
   flex: 1;
 }
-
 .Service {
   height: 100%;
   width: 70%;
@@ -216,6 +215,9 @@ i.fab {
     width: 70%;
     height: 100%;
     margin: 3em auto;
+  }
+  .image-before-text{
+    flex-direction:column-reverse !important;
   }
   .Service:after {
     height: calc(100% - 50px);

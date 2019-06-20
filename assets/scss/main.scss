@@ -520,7 +520,9 @@ section.seksjon {
     flex-wrap:wrap-reverse;
     background:#f2f2f2f2;
   }
-  
+  .omoss-top > .image-before-text{
+    flex-direction:column-reverse !important;
+  }
   .demo-img{
     flex-basis:auto;
     min-width:initial;
