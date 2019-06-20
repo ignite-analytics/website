@@ -1,15 +1,14 @@
 ---
-title: "Last ned produktinformasjon"
-date: 2019-02-20T13:09:05+01:00
-draft: false
-
-header: "Last ned produktinformasjon"
-description: "Få mer informasjon om funksjonaliteten i Ignite Analytics og hvordan plattformen kan hjelpe deg og din virksomhet"
-image: /images/infographics/productinfo.svg
+title: Last ned produktinformasjon
+date: 2019-02-20T12:09:05.000+00:00
+header: Last ned produktinformasjon
+description: Få mer informasjon om funksjonaliteten i Ignite Analytics og hvordan
+  plattformen kan hjelpe deg og din virksomhet
+image: "/images/IA Dashboard in Frame - v2.png"
 url: "/ignite-analytics/produktinformasjon"
 hidden: true
----
 
+---
 <script>
 document.addEventListener('DOMContentLoaded', () => {
   hbspt.forms.create({

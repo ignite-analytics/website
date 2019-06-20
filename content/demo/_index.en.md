@@ -4,7 +4,7 @@ date: 2019-02-20T12:09:05.000+00:00
 header: Try Ignite Analytics
 description: You’re one step closer to saving time and improving the profitability
   of your business!
-image: "/images/infographics/dashboard2.svg"
+image: "/images/IA Dashboard in Frame - v2.png"
 url: "/en/ignite-analytics/demo"
 subcontent:
   item1:
