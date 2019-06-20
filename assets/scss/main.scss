@@ -410,6 +410,12 @@ section.seksjon {
 .demo-content{
     flex:1;
     padding:5%;
+     & > img{
+      margin-bottom: 1.5em !important;
+     }
+    & > p, & > h3 {
+      font-size:0.9em;
+    }
 }
 .demo-img{
   flex:1;
