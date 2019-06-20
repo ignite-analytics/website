@@ -10,7 +10,7 @@ hidden: true
 subcontent:
   item1:
     image: /images/infographics/oversikt.svg
-    keyword: Analyze
+    keyword: Analyze.
     heading: Få dyp innsikt i innkjøpet ditt
     text: På få minutter gir Ignite Analytics deg full oversikt over innkjøpets sammensetning og utvikling
   item2:
