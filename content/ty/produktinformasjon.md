@@ -1,9 +1,8 @@
 +++
 color = "analytics"
-description = "dsa"
-draft = true
+description = "Du vil i løpet av kort tid motta en e-post med produktinformasjon om Ignite Analytics"
 gotourl = ""
-header = "dsa"
+header = "TUSEN TAKK!"
 hidden = true
 lang = "no"
 subdescription = ""
