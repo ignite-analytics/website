@@ -1,13 +1,12 @@
 ---
-title: Ignite Services 
+title: Ignite Services - Get support to realize your procurement potential
 mainheading: Realize your procurement potential with support from Ignite
-description:
-  "Experienced consultants are available to create fast results through
-  customized solutions "
+description: 'Experienced consultants are available to create fast results through
+  customized solutions '
 date: 2018-12-16T14:31:35.000+00:00
 image: "/images/infographics/analytics-2.svg"
----
 
+---
 <ul class="fa-ul">
 <li><span class="fa-li"><i class="fas fa-hand-holding-usd" style="color: #ebaf41;"></i></span>Savings realization</li>
 <li><span class="fa-li"><i class="fas fa-sitemap" style=" color: #ebaf41;"></i></span>Organizational development</li>
