@@ -142,31 +142,40 @@
                                 <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
                             </li>
                             {{ end }}
-
+                            {{ range .Site.Menus.kontakt}}
+                            <li class="">
+                                <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
+                            </li>
+                            {{ end }}
                           {{ range .Site.Menus.blogg}}
                             <li class="overlay-list-item">
                                 <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
                             </li>
                             {{ end }}
                         
-
-
-                            {{ range .Site.Menus.kontakt}}
-                            <li class="">
-                                <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
-                            </li>
-                            {{ end }}
-                            {{ range .Site.Menus.btn}}
-                            <div class="nav-reg">
-                                <button class="btn-demo" data-toggle="modal" data-target="{{ .Identifier }}">{{ .Name }}</button>                         
-                            </div>
-                            {{ end }}
                             {{ range .Site.Menus.secondary}}
                             <li class="">
                                 <a class="nav-reg" href="{{ .URL }}">{{ .Name }}</a>
                             </li>
                             {{ end }}
-                            
+                            <div class="language-list">
+                                    {{ if .Site.IsMultiLingual }}
+                                    {{ range .Site.Languages }}
+                                    {{ if eq . $.Site.Language }}
+                                <!--    <a href="#" class="nav-link language">{{ .LanguageName }}</a> -->
+                                    {{ else }}
+                                    {{ range $.Translations }}
+                                            <a href="{{ .Permalink }}" class="nav-link language">{{ .Language.LanguageName }}</a>
+                                            {{ end }}
+                                        {{ end }}
+                                        {{ end }}
+                                    {{ end }}
+                            </div> 
+                            {{ range .Site.Menus.btn}}
+                            <div class="nav-reg">
+                                <button class="btn-demo" data-toggle="modal" data-target="{{ .Identifier }}">{{ .Name }}</button>                         
+                            </div>
+                            {{ end }}
                       </ul>
                       
                       <div class="language-list">

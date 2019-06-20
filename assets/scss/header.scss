@@ -317,10 +317,6 @@ a.language {
 }
 
 .overlay.open li {
-  -webkit-animation: fadeInRight ease forwards;
-  animation: fadeInRight ease forwards;
-  -webkit-animation-delay: 0.35s;
-  animation-delay: 0.35s;
   &:hover {
     background: $dark-blue;
     &:nth-of-type(1) {
@@ -330,30 +326,14 @@ a.language {
 }
 
 .overlay.open li:nth-of-type(2) {
-  -webkit-animation-delay: 0.4s;
-  animation-delay: 0.4s;
   &:hover {
     background: $green;
   }
 }
 .overlay.open li:nth-of-type(3) {
-  -webkit-animation-delay: 0.45s;
-  animation-delay: 0.45s;
   &:hover {
     background: $yellow;
   }
-}
-.overlay.open li:nth-of-type(4) {
-  -webkit-animation-delay: 0.5s;
-  animation-delay: 0.5s;
-}
-.overlay.open li:nth-of-type(5) {
-  -webkit-animation-delay: 0.55s;
-  animation-delay: 0.55s;
-}
-.overlay.open li:nth-of-type(6) {
-  -webkit-animation-delay: 0.6s;
-  animation-delay: 0.6s;
 }
 
 .overlay nav {
@@ -382,12 +362,12 @@ a.language {
   height: calc(100% / 15);
   min-height: auto;
   position: relative;
-  opacity: 0;
+  opacity: 1;
 }
 .overlay ul li a {
   display: block;
   position: relative;
-  color: #fff;
+  color: #fff !important;
   text-decoration: none;
 }
 .overlay ul li a:hover:after,
