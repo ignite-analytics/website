@@ -6,10 +6,19 @@
     <description>Recent content in Prøv Ignite Analytics on Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 20 Feb 2019 13:09:05 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 Feb 2019 12:09:05 +0000</lastBuildDate>
     
 	<atom:link href="https://ignite.no/ignite-analytics/demo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Last ned produktinformasjon</title>
+      <link>https://ignite.no/ignite-analytics/produktinformasjon/</link>
+      <pubDate>Wed, 20 Feb 2019 13:09:05 +0100</pubDate>
+      
+      <guid>https://ignite.no/ignite-analytics/produktinformasjon/</guid>
+      <description> document.addEventListener(&#39;DOMContentLoaded&#39;, () = { hbspt.forms.create({ portalId: &#34;4304957&#34;, formId: &#34;0ee0a699-9732-4ee4-b988-0f224246018b&#34; }); });  </description>
+    </item>
     
   </channel>
 </rss>
