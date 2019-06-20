@@ -78,6 +78,7 @@ fields:
   label: Språk
   description: Velg srpåk
 pages:
+- content/ty/nyhetsbrev.md
 - content/ty/product-information.en.md
 - content/ty/produktinformasjon.md
 - content/ty/procurement-project.en.md
