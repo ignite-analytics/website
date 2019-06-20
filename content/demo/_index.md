@@ -1,11 +1,10 @@
 ---
-title: "Prøv Ignite Analytics"
-date: 2019-02-20T13:09:05+01:00
-draft: false
-
-header: "Prøv Ignite Analytics"
-description: "Du er ett skritt nærmere å frigjøre din tid og forbedre lønnsomheten for din virksomhet!"
-image: /images/infographics/dashboard2.svg
+title: Prøv Ignite Analytics
+date: 2019-02-20T12:09:05.000+00:00
+header: Oppdag kraften i strategisk innkjøp gjort digitalt
+description: Du er ett skritt nærmere å frigjøre din tid og forbedre lønnsomheten
+  for din virksomhet!
+image: "/images/IA Dashboard in Frame - v2.png"
 url: "/ignite-analytics/demo"
 hidden: true
 subcontent:
@@ -31,7 +30,6 @@ subcontent:
     text: KPIer og avtalestyring gir deg alt du trenger for å systematisk følge opp kjøpet, leverandører og avtaler over tid
 
 ---
-
 <script>
   document.addEventListener('DOMContentLoaded', () => {
     hbspt.forms.create({
