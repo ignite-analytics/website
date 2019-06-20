@@ -1,10 +1,10 @@
 ---
 title: Produktinformasjon Ignite Analytics
 date: 2019-02-20T12:09:05.000+00:00
-header: Last ned produktinformasjon
+header: Produktinformasjon Ignite Analytics
 description: Få mer informasjon om funksjonaliteten i Ignite Analytics og hvordan
   plattformen kan hjelpe deg og din virksomhet
-image: "/images/infographics/dashboard2.svg"
+image: "/images/IA Dashboard in Frame - v2.png"
 url: "/ignite-analytics/produktinformasjon/"
 subcontent:
   item1:
