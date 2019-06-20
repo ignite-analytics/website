@@ -8,4 +8,4 @@ image: "/images/infographics/video_course.svg"
 hidden: true
 ---
 
-<a href="#" class="btn btn-primary green btn-lg">Video courses (coming soon)</a>
+<a href="#" class="btn btn-primary green btn-lg">Video courses (Coming soon)</a>

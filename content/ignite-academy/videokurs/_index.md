@@ -4,7 +4,8 @@ description: Se våre online videokurs for å hente inspirasjon til å videreutv
   din innkjøpskompetanse
 date: 2018-12-16T14:31:35.000+00:00
 image: "/images/infographics/video_course.svg"
-hidden: true
-
+opentext: Se video
+videolink: https://ignite.no/ignite-academy/
+emptytext: Ingen videoerkurs, kom tilbake senere
+type: videokurs
 ---
-<a href="#" class="btn btn-primary green btn-lg">Videokurs (Kommer snart)</a>

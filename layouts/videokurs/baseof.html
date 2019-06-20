@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="no" class="bg-white">
+  {{block "head" . }} {{ partial "head.html" . }} {{end}}
+  <body class="bg-white minimal">
+    {{ partial "header.html" . }}
+    <div class="nav-padding" id="content">
+      {{ block "main" . }}{{ end }}
+    </div>
+    {{ if eq .Kind "page" }} {{ partial "minimal-footer.html" .}} {{else}} {{ partial "footer.html" .}} {{end}}
+  </body>
+</html>
