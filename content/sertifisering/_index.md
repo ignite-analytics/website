@@ -1,18 +1,15 @@
 ---
-title: "Sertifisering"
-date: 2019-02-20T13:09:05+01:00
-draft: false
-header: ""
+title: Sertifisering
+date: 2019-02-20T12:09:05.000+00:00
+header: ''
 image: "/images/partners/achilles.jpg"
-author: ""
-position: ""
+author: ''
+position: ''
 hidden: true
+
 ---
+##### Ignite Procurement er kvalifiserte hos Achilles Utilities NCE for følgende produkter / tjenester:
 
-##### Ignite Procurement is Achilles Utilities NCE qualified for the following products/services:
-
-- 1.5.8 Specialist Business Software
-
-- 2.1.10 Data Collection & Handling Services
-
-- 2.2.8 Procurement & Materials Management Consultancy
+* 1.5.8 Spesialisert programvare
+* 2.1.10 Datainnsamlings- og behandlingstjenester
+* 2.2.8 Rådgivning om anskaffelse og materialhåndtering
