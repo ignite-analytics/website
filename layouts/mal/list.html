@@ -11,6 +11,7 @@
 <section class="container mal-landing d-flex bd-highlight flex-column flex-lg-row align-items-center mb-5">
     <ul class="mal-list">
     {{ range .Pages }}
+        {{if not .Params.standalone}}
         <li class="single-mal">
             <div>
                 <h3><b>{{ .Title }}</b></h3>
@@ -18,6 +19,7 @@
             </div>
             <a href="{{ .RelPermalink }}" class="btn btn-primary green btn-lg">{{ .Params.downloadtext }}</a>
         </li>
+        {{end}}
     {{end}}
     </ul>
 </section>
