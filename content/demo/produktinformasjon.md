@@ -10,27 +10,27 @@ subcontent:
   item1:
     image: "/images/infographics/oversikt.svg"
     keyword: Analyze.
-    heading: Get deep insight into your spend
-    text: Within minutes, Ignite Analytics provides you full overview of spend composition
-      and development
+    heading: Få dyp innsikt i innkjøpet ditt
+    text: På få minutter gir Ignite Analytics deg full oversikt over innkjøpets sammensetning
+      og utvikling
   item2:
     image: "/images/infographics/risiko.svg"
     keyword: Prioritize.
-    heading: Identify opportunities and risks
-    text: Intelligent data enrichment enables you to identify the largest opportunities
-      and risks in your supplier base
+    heading: Identifiser muligheter og risikoer
+    text: Med intelligent databerikelse kan du umiddelbart identifisere de største
+      mulighetene og risikoene i din leverandørbase
   item3:
     image: "/images/infographics/setup.svg"
     keyword: Implement.
-    heading: Execute improvement measures
-    text: Renegotiations and tender processes based on a battle-proven approach are
-      ready for efficient implementation
+    heading: Gjennomfør forbedringstiltak
+    text: Reforhandlinger og forespørselsprosesser basert på en velprøvd tilnærming
+      er klare til å implementeres - enkelt og effektivt
   item4:
     image: "/images/infographics/spend.svg"
     keyword: Follow-up.
-    heading: Track spend development
-    text: KPIs and contract management provides you with all you need to systematically
-      track spend, suppliers and contracts
+    heading: Følg opp utviklingen i innkjøpet
+    text: KPIer og avtalestyring gir deg alt du trenger for å systematisk følge opp
+      kjøpet, leverandører og avtaler over tid
 hidden: true
 
 ---
