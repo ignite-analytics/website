@@ -1,115 +1,41 @@
 <nav class="menu">
         <div class="container">
             <div>
-                <div>
-                    <ul>
-                        {{range .Site.Menus.content }}
-                            {{if not (isset . "onlyfooter")}}
-                                <li>{{.Title}}</li>
-                                {{if .HasChildren}}
-                                <ul>
-                                    {{range .Children}}
-                                        <li>{{.Title}}</li>
-                                    {{end}}
-                                </ul>
-                                {{end}}
-                            {{end}}
-                        {{end}}
-                    </ul>
-                </div> 
                 <ul class="nav-list">
                     <a class="navbar-brand" href='{{ "/" | relLangURL }}'>
                         <img class="header-logo" src="{{ $.Site.Params.logo }}" alt="Ignite Procurement Logo" /> 
                     </a>
-                 
-                    {{ range .Site.Menus.services}}
-                    {{ if .HasChildren }}
-                    <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-                        aria-expanded="false">
-                        {{ .Name }}
-                    </a>
-                    <div class="dropdown-submenu" >
-                        {{ range .Children }}
-                        <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
-                        {{ end }}
-                    </div>
-                    </li>
-                    {{ else }}
-                    <li class="nav-item">
-                        <a class="nav-link nav-services" href="{{ .URL }}">{{ .Name }}</a>
-                    </li>
-                    {{ end }}
-                    {{ end }}
-                    {{ range .Site.Menus.main }}
-                    {{ if .HasChildren }}
-                    <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-                        aria-expanded="false">
-                        {{ .Name }}
-                    </a>
-                    <div class="dropdown-submenu" >
-                        {{ range .Children }}
-                        <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
-                        {{ end }}
-                    </div>
-                    </li>
-                    {{ else }}
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
-                    </li>
-                    {{ end }}
-                    {{ end }}
-                    {{ range .Site.Menus.blogg }}
-                    {{ if .HasChildren }}
-                    <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-                        aria-expanded="false">
-                        {{ .Name }}
-                    </a>
-                    <div class="dropdown-submenu" >
-                        {{ range .Children }}
-                        <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
-                        {{ end }}
-                    </div>
-                    </li>
-                    {{ else }}
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
-                    </li>
-                    {{ end }}
-                    {{ end }}
-                    
-                   <ul class="naving">
-                        {{ range .Site.Menus.kontakt}}
-                        <li class="nav-item nav-right">
-                            <a class="nav-link" id="kontakt" href="{{ .URL }}">{{ .Name }}</a>
-                        </li>
-                        {{ end }}   
-
-                    {{ range .Site.Menus.btn}}
-                    <div class="nav-right" style="display: flex;height:100%;">
-                        <a class="btn-demo" style="display:block;cursor:pointer;" href="{{ .URL}}">{{ .Name }}</a>                         
-                    </div>
-                    {{ end }}
-
-                    {{ range .Site.Menus.secondary}}
-                    <li class="nav-item nav-right">
-                        <a class="nav-link" id="log-in" href="{{ .URL }}">{{ .Name }}</a>
-                    </li>
-                 
-                    {{ end }}
+                        {{range .Site.Menus.content }}
+                            {{$menuitem := .}}
+                            {{if not (isset $menuitem "onlyfooter")}}
+                                {{if .HasChildren}}
+                                <li class='nav-item dropdown {{if isset . "classes" }}{{.classes}}{{end}}'>
+                                        <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+                                            aria-expanded="false">
+                                            {{ .Title }}
+                                        </a>
+                                        <div class="dropdown-submenu" >
+                                            {{ range .Children }}
+                                            <a class="dropdown-item" href="{{ .URL }}">{{ .Title }}</a>
+                                            {{ end }}
+                                        </div>
+                                    </li>
+                                {{else}}
+                                <li class='nav-item {{if isset . "classes" }}{{.classes}}{{end}}'>
+                                    <a class="nav-link nav-services" href="{{ .URL }}">{{ .Title }}</a>
+                                </li>
+                                {{end}}
+                            {{end}}
+                        {{end}}
        
                         <div class="language-list nav-right">
                             {{ if .Site.IsMultiLingual }}
-                            {{ range .Site.Languages }}
-                            {{ if eq . $.Site.Language }}
-                        <!--    <a href="#" class="nav-link language">{{ .LanguageName }}</a> -->
-                            {{ else }}
-                            {{ range $.Translations }}
-                                    <a href="{{ .Permalink }}" class="nav-link language">{{ .Language.LanguageName }}</a>
+                                {{ range .Site.Languages }}
+                                    {{ if not ( eq . $.Site.Language )}}
+                                        {{ range $.Translations }}
+                                            <a href="{{ .Permalink }}" class="nav-link language">{{ .Language.LanguageName }}</a>
+                                        {{ end }}
                                     {{ end }}
-                                {{ end }}
                                 {{ end }}
                             {{ end }}
                         </div> 

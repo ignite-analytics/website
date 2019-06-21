@@ -11,6 +11,17 @@
   ul {
     height: 80px;
     text-align: center;
+    li{
+      &-analytics:hover{
+        background: $blue;
+      }
+      &-academy:hover{
+        background: $green;
+      }
+      &-services:hover{
+        background: $yellow;
+      }
+    }
   }
   @media (max-width: 992px) {
     .container {

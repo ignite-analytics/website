@@ -42,7 +42,8 @@ logo = "/images/logo.svg"
           title = "Ignite Procurement - Unlock the power of strategic procurement made digital "
           description = "Realizing the full potential within procurement is challenging. With Ignite it has never been easier – let us help you simplify everyday life and improve profitability!"
           thumbnail = "/images/ignite-services.jpg/"
- 
+#Norwegian menu
+#------------
 [[languages.no.menu.content]]
      hasChildren="false"
      name = "analytics"
@@ -50,13 +51,14 @@ logo = "/images/logo.svg"
      title = "Ignite Analytics"
      url = "/ignite-analytics"
      weight = "1"
+     classes="ul-analytics"
 
 [[languages.no.menu.content]]
      hasChildren="true"
      name = "allservices"
      identifier = "allservices"
      title = "Andre Tjenester"
-     url = "/ignite-analytics"
+     url = "#"
      weight = "2"
      
      [[languages.no.menu.content]]
@@ -67,6 +69,7 @@ logo = "/images/logo.svg"
           title = "Ignite Academy"
           url = "/ignite-academy"
           weight = "1"
+          classes="ul-academy"
      
      [[languages.no.menu.content]]
           parent="allservices"
@@ -76,6 +79,7 @@ logo = "/images/logo.svg"
           title = "Ignite Services"
           url = "/ignite-services"
           weight = "2"
+          classes="ul-services"
 
 [[languages.no.menu.content]]
      hasChildren="true"
@@ -124,7 +128,7 @@ logo = "/images/logo.svg"
      identifier = "selskapet"
      title = "Selskapet"
      url = "/om-oss/"
-     weight = "3"
+     weight = "4"
 
      [[languages.no.menu.content]]
           parent = "selskapet"
@@ -144,36 +148,40 @@ logo = "/images/logo.svg"
      
      [[languages.no.menu.content]]
           parent = "selskapet"
+          name = "partnere"
+          identifier = "partnere"
+          title = "Partnere"
+          url = "#"
+          weight = "3"   
+
+     [[languages.no.menu.content]]
+          parent = "selskapet"
           name = "Karriere"
           identifier = "Karriere"
           title = "Karriere"
           url = "/karriere"
-          weight = "3"   
+          weight = "4"   
 
 [[languages.no.menu.content]]
      name = "Kontakt oss"
      identifier = "kontakt oss"
      title = "Kontakt oss"
      url = "/kontakt/"
-     weight = "4"
+     weight = "5"
 
 [[languages.no.menu.content]]
      name = "Prøv Ignite Analytics"
      identifier = "demo"
      title = "Book demo"
      url = "/ignite-analytics/demo"
-     weight = "5"  
+     weight = "6"  
 
 [[languages.no.menu.content]]
      name = "Logg inn"
      identifier = "logg inn"
      title = "Logg inn"
      url = "https://app.ignite.no/dashboard/"
-     weight = "6"
-
-
-
-
+     weight = "7"
 
 [[languages.no.menu.content]]
      onlyfooter="true"
@@ -181,79 +189,53 @@ logo = "/images/logo.svg"
      identifier = "#modalbooknorw"
      title = "Book demo"
      id = "#modalbooknorw"
-     weight = "1"        
+     weight = "8"        
 
-[[languages.no.menu.personvern]]
-     name = "Personvernerklæring"
-     identifier = "personvernerklæring"
-     title = "personvernerklæring"
-     url = "/personvernerklæring"
-     weight = "1"        
 
-[[languages.en.menu.services]]
+#English menu
+#------------
+[[languages.en.menu.content]]
+     hasChildren="false"
      name = "Ignite Analytics"
      identifier = "ignite-analytics"
      title = "Ignite Analytics"
      url = "/en/ignite-analytics/"
      weight = "1"
-     image = "/images/infographics/academy.svg" 
 
-[[languages.en.menu.services]]
-    name = "Ignite Academy"
-    identifier = "ignite-academy"
-    title = "Ignite Academy"
-    url = "/en/ignite-academy/"
-    weight = "2"
-
-[[languages.en.menu.services]]
-     name = "Ignite Services"
-     identifier = "ignite-services"
-     title = "Ignite Services"
-     url = "/en/ignite-services/"
-     id = "ignite-services"
-     weight = "3"
-
-[[languages.en.menu.main]]
-     name = "Company"
-     identifier = "company"
-     title = "Company"
-     url = "/en/om-oss/"
-     weight = "4"
-     hasChildren = "true"
-
-     [[languages.en.menu.main]]
-          parent = "company"
-          name = "About us"
-          identifier = "About us"
-          title = "about us"
-          url = "/en/om-oss"
+[[languages.en.menu.content]]
+     hasChildren="true"
+     name = "allservices"
+     identifier = "allservices"
+     title = "Other services"
+     url = "#"
+     weight = "2"
+     
+     [[languages.en.menu.content]]
+          parent="allservices"
+          name = "Ignite Academy"
+          identifier = "ignite-academy"
+          title = "Ignite Academy"
+          url = "/en/ignite-academy/"
           weight = "1"
-
-     [[languages.en.menu.main]]
-          parent = "company"
-          name = "Team"
-          identifier = "Team"
-          title = "Team"
-          url = "/en/om-oss/#team"
+     
+     [[languages.en.menu.content]]
+          parent="allservices"
+          name = "Ignite Services"
+          identifier = "ignite-services"
+          title = "Ignite Services"
+          url = "/en/ignite-services/"
+          id = "ignite-services"
           weight = "2"
 
-     [[languages.en.menu.main]]
-          parent = "company"
-          name = "Career"
-          identifier = "Career"
-          title = "Career"
-          url = "/en/karriere"
-          weight = "3"            
-
-[[languages.en.menu.blogg]]
+[[languages.en.menu.content]]
      name = "Blog"
      identifier = "blog"
      title = "Blog"
      url = "/blogg/"
-     weight = "5"
+     weight = "3"
      hasChildren = "true"
 
-     [[languages.en.menu.blogg]]
+     [[languages.en.menu.content]]
           parent = "blog"
           name = "Latest"
           identifier = "latest"
@@ -261,7 +243,7 @@ logo = "/images/logo.svg"
           url = "/blogg/"
           weight = "1"
 
-     [[languages.en.menu.blogg]]
+     [[languages.en.menu.content]]
           parent = "blog"
           name = "Insight"
           identifier = "insight"
@@ -269,7 +251,7 @@ logo = "/images/logo.svg"
           url = "/blogg/innsikt/"
           weight = "2"
 
-     [[languages.en.menu.blogg]]
+     [[languages.en.menu.content]]
           parent = "blog"
           name = "Cases"
           identifier = "cases"
@@ -277,7 +259,7 @@ logo = "/images/logo.svg"
           url = "/blogg/cases/"
           weight = "3"  
 
-     [[languages.en.menu.blogg]]
+     [[languages.en.menu.content]]
           parent = "blog"
           name = "News"
           identifier = "news"
@@ -287,33 +269,75 @@ logo = "/images/logo.svg"
 
 
 
-[[languages.en.menu.kontakt]]
+[[languages.en.menu.content]]
+     hasChildren="true"
+     name = "company"
+     identifier = "company"
+     title = "Company"
+     url = "/om-oss/"
+     weight = "4"
+
+     [[languages.en.menu.content]]
+          parent = "company"
+          name = "About us"
+          identifier = "About us"
+          title = "about us"
+          url = "/en/om-oss"
+          weight = "1"
+
+     [[languages.en.menu.content]]
+          parent = "company"
+          name = "Team"
+          identifier = "Team"
+          title = "Team"
+          url = "/en/om-oss/#team"
+          weight = "2"
+
+     [[languages.no.menu.content]]
+          parent = "company"
+          name = "partnere"
+          identifier = "partnere"
+          title = "Partners"
+          url = "#"
+          weight = "3" 
+     
+     [[languages.en.menu.content]]
+          parent = "company"
+          name = "Career"
+          identifier = "Career"
+          title = "Career"
+          url = "/en/karriere"
+          weight = "4"             
+
+[[languages.en.menu.content]]
      name = "Contact us"
      identifier = "kontakt"
      title = "kontakt"
      url = "/en/kontakt/"
-     weight = "1"
+     weight = "5"
 
-[[languages.en.menu.btn]]
+[[languages.en.menu.content]]
      name = "Try Ignite Analytics"
      identifier = "demo"
      title = "Book demo"
      url = "/en/ignite-analytics/demo"
-     weight = "2" 
+     weight = "6"  
 
-[[languages.en.menu.secondary]]
+[[languages.en.menu.content]]
      name = "Log in"
      identifier = "log in"
      title = "Log in"
      url = "https://app.ignite.no/"
-     weight = "3"
+     weight = "7"
 
-[[languages.en.menu.mote]]
+[[languages.en.menu.content]]
+     onlyfooter="true"
      name = "Book meeting"
      identifier = "#modalbookeng"
      title = "Book meeting"
      id = "#modalbooknorw"
-     weight = "1"        
+     weight = "10"     
+   
 
 [[languages.en.menu.personvern]]
      name = "Privacy policy"
@@ -322,8 +346,10 @@ logo = "/images/logo.svg"
      url = "/en/privacy-policy"
      weight = "1"      
 
-
-
-
-
+[[languages.no.menu.personvern]]
+     name = "Personvernerklæring"
+     identifier = "personvernerklæring"
+     title = "personvernerklæring"
+     url = "/personvernerklæring"
+     weight = "1"       
 #FOOTER
