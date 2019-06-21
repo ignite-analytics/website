@@ -78,7 +78,7 @@ fields:
   label: Språk
   description: Velg srpåk
 pages:
-- content/ignite-academy/maler/template-for-category-strategy.md
+- content/ignite-academy/maler/category-strategy-li.en.md
 - content/ty/category-strategy-li.en.md
 - content/ty/customized-courses.en.md
 - content/ty/skreddersydde-kurs.md
