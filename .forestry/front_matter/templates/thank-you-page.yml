@@ -78,6 +78,7 @@ fields:
   label: Språk
   description: Velg srpåk
 pages:
+- content/ty/customized-courses.md
 - content/ty/skreddersydde-kurs.md
 - content/ty/newsletter.en.md
 - content/ty/nyhetsbrev.md
