@@ -80,6 +80,21 @@ fields:
   type: boolean
   label: Standalone
   description: Skal malen være synlig fra /maler siden?
+- name: subfields
+  type: field_group_list
+  fields:
+  - name: text
+    type: text
+    config:
+      required: false
+    label: text
+    description: Tekstfelt
+  config:
+    min: '0'
+    max: '5'
+    labelField: 
+  label: subfields
+  description: Ekstra felter
 pages:
 - content/ignite-academy/maler/category-strategy-li.en.md
 - content/ignite-academy/maler/procurement-project.en.md
