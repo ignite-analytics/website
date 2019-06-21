@@ -5,7 +5,7 @@ gotourl = ""
 header = "THANK YOU!"
 hidden = true
 lang = "en"
-subdescription = "PS. Don’t forget to check out our unique digital solution for strategic procurement – Ignite Analytics"
+subdescription = ""
 title = "Category strategy - LI"
 
 +++
