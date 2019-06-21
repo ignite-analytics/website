@@ -1,7 +1,11 @@
 {{ define "main" }} {{ partial "minimal-header.html" . }}
 <section class="container mal">
   {{ with . }} {{ partial "sections/produkt-download.html" . }} {{ end }}
-
+  {{if isset .Params "subfields"}}
+    {{range .Params.subfields}}
+      <h5>{{.text}}</h5>
+    {{end}}
+  {{end}}
   <script>
     document.addEventListener("DOMContentLoaded", () => {
       hbspt.forms.create({
