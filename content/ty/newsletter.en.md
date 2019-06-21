@@ -7,5 +7,6 @@ hidden = true
 lang = "en"
 subdescription = "In the future you will receive news, updates and tips from us directly to your inbox"
 title = "Newsletter"
+type = ""
 
 +++
