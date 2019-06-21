@@ -479,6 +479,10 @@ section.seksjon {
     max-height: 430px;
   }
 }
+.mal h5{
+  margin: auto;
+  text-align:center;
+}
 @media screen and (min-width: 1200px) {
   .header-content-img {
     min-width: 700px;
@@ -497,8 +501,6 @@ section.seksjon {
   }
   .mal h5{
     width: 40%;
-    margin: auto;
-    text-align:center;
   }
   .form-group {
     display: inline-block;
