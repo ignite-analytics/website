@@ -402,6 +402,9 @@ section.seksjon {
   margin: auto;
   text-align:center;
 }
+.services-landing{
+  padding:3em 0;
+}
 .demo-container{
   margin: auto;
   display:flex;
@@ -524,7 +527,6 @@ section.seksjon {
     height: 300px;
   }
 }
-
 .header-content-img {
   padding: 0.5rem !important;
 }
@@ -545,6 +547,7 @@ section.seksjon {
   }
   .analytics-landing,
   .academy-landing,
+  .services-landing,
   .mal-landing {
     flex-direction: column-reverse !important;
   }
