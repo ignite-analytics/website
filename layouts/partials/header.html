@@ -1,14 +1,27 @@
 <nav class="menu">
         <div class="container">
             <div>
-                    
+                <div>
+                    <ul>
+                        {{range .Site.Menus.content }}
+                            {{if not (isset . "onlyfooter")}}
+                                <li>{{.Title}}</li>
+                                {{if .HasChildren}}
+                                <ul>
+                                    {{range .Children}}
+                                        <li>{{.Title}}</li>
+                                    {{end}}
+                                </ul>
+                                {{end}}
+                            {{end}}
+                        {{end}}
+                    </ul>
+                </div> 
                 <ul class="nav-list">
-                        <!-- <a class="navbar-brand" href="/"> -->
-                          <a class="navbar-brand" href='{{ "/" | relLangURL }}'>
-                            <img class="header-logo" src="{{ $.Site.Params.logo }}" alt="Ignite Procurement Logo" /> 
-                        </a>
-            
-                    {{ $currentPage := . }}        
+                    <a class="navbar-brand" href='{{ "/" | relLangURL }}'>
+                        <img class="header-logo" src="{{ $.Site.Params.logo }}" alt="Ignite Procurement Logo" /> 
+                    </a>
+                 
                     {{ range .Site.Menus.services}}
                     {{ if .HasChildren }}
                     <li class="nav-item dropdown">
