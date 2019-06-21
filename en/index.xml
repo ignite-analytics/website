@@ -6,7 +6,7 @@
     <description>Recent content on Ignite Procurement - Unlock the power of strategic procurement made digital </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Feb 2019 12:09:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Feb 2019 13:09:05 +0100</lastBuildDate>
     
 	<atom:link href="https://ignite.no/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -748,6 +748,15 @@ Norway</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ignite.no/en/ty/product-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Template for category strategy</title>
+      <link>https://ignite.no/en/ignite-academy/maler/category-strategy-li/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ignite.no/en/ignite-academy/maler/category-strategy-li/</guid>
       <description></description>
     </item>
     
