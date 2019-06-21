@@ -13,6 +13,12 @@
 .container.mal {
   max-width: 1200px;
   padding-top: 3em;
+  .newsletter .newsletter-img {
+    @media screen and (min-width: 992px) {
+      min-width:600px;
+      max-height:300px;
+    }
+  }
 }
 .mal .hbspt-form {
   max-width: 600px;
