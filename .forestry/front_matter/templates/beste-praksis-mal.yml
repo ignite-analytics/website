@@ -81,6 +81,7 @@ fields:
   label: Standalone
   description: Skal malen være synlig fra /maler siden?
 pages:
+- content/ignite-academy/maler/template-for-category-strategy.md
 - content/ignite-academy/maler/procurement-project.en.md
 - content/ignite-academy/maler/procurement-measures.en.md
 - content/ignite-academy/maler/innkjøpsprosjekt.md
