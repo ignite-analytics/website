@@ -1,13 +1,12 @@
 ---
 title: Ignite Analytics – Gjør din innkjøpsdata om til innsikt og resultater
 mainheading: Gjør din innkjøpsdata om til innsikt og resultater med Ignite
-description:
-  Analyse og gjennomføring av strategiske innkjøpsbeslutninger har aldri
-  vært enklere og mer tilgjengelig
+description: Spendanalyser og gjennomføring av strategiske innkjøpsbeslutninger har
+  aldri vært enklere og mer tilgjengelig
 date: 2018-12-16T14:31:35.000+00:00
 image: "/images/infographics/dashboard2.svg"
----
 
+---
 <ul class="fa-ul">
 
 <li><span class="fa-li"><i class="fas fa-chart-bar" style="color: #3C6FE9"></i></span><span style="color: #3C6FE9">Analyze.</span> Få dyp innsikt i innkjøpet ditt</li>
