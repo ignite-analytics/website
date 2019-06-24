@@ -1,15 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ignite Academy – Get inspired and deepen your sourcing expertise  on Ignite Procurement - Unlock the power of strategic sourcing made digital </title>
+    <title>Ignite Academy – Get inspired and boost your procurement expertise  on Ignite Procurement - Unlock the power of strategic procurement made digital </title>
     <link>https://ignite.no/en/ignite-academy/</link>
-    <description>Recent content in Ignite Academy – Get inspired and deepen your sourcing expertise  on Ignite Procurement - Unlock the power of strategic sourcing made digital </description>
+    <description>Recent content in Ignite Academy – Get inspired and boost your procurement expertise  on Ignite Procurement - Unlock the power of strategic procurement made digital </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Dec 2018 15:31:35 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 16 Dec 2018 14:31:35 +0000</lastBuildDate>
     
 	<atom:link href="https://ignite.no/en/ignite-academy/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Best practice templates</title>
+      <link>https://ignite.no/en/ignite-academy/praksis/</link>
+      <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
+      
+      <guid>https://ignite.no/en/ignite-academy/praksis/</guid>
+      <description>See our templates</description>
+    </item>
+    
+    <item>
+      <title>Courses, webinars and seminars</title>
+      <link>https://ignite.no/en/ignite-academy/kurs/</link>
+      <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
+      
+      <guid>https://ignite.no/en/ignite-academy/kurs/</guid>
+      <description>Course overview (coming soon)</description>
+    </item>
+    
+    <item>
+      <title>Online video courses</title>
+      <link>https://ignite.no/en/ignite-academy/online/</link>
+      <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
+      
+      <guid>https://ignite.no/en/ignite-academy/online/</guid>
+      <description>Video courses (Coming soon)</description>
+    </item>
+    
+    <item>
+      <title>Tips and tricks</title>
+      <link>https://ignite.no/en/ignite-academy/tips/</link>
+      <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
+      
+      <guid>https://ignite.no/en/ignite-academy/tips/</guid>
+      <description>Read our tips and tricks</description>
+    </item>
     
   </channel>
 </rss>
