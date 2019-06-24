@@ -59,17 +59,16 @@ section.recent-posts {
   margin-bottom: -1px;
 }
 .section-title h2 {
-  text-transform: uppercase;
   text-align: center;
   border-bottom: 1px solid rgba(24, 36, 63, 0.125);
   margin-bottom: 25px;
-  font-weight: 500;
-  font-size: 1.8rem;
+  font-weight: 700;
+  font-size: 1.4rem;
   margin-bottom: 27px;
 }
 
 .section-title span {
-  font-weight: 500;
+  font-weight: 300;
   border-bottom: 4px solid rgba(24, 36, 63, 1);
   display: inline-block;
   padding: 0 1em;
@@ -80,13 +79,6 @@ section.recent-posts {
 .article-post ol,
 .article-post ul {
   margin-bottom: 1.5rem;
-  text-decoration: initial;
-  list-style-type: disc;
-  padding-left: 1.5em;
-  color: rgba(24, 36, 63, 0.84);
-}
-.article-post ul li {
-  color: rgba(24,36,63, .84);
 }
 
 .article-post ol ol,
@@ -154,15 +146,13 @@ section.recent-posts {
   font-size: 1.3rem;
   font-weight: 700;
   line-height: 1.25;
-  color: #18243f;
 }
 h2.card-title > a {
   padding-bottom: 0.2em;
-  color: #18243f;
 }
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
-  color: rgba(24, 36, 63, 0.65);
+  color: rgba(24, 36, 63, 0.6);
   font-size: 0.95rem;
   line-height: 1.6;
   font-weight: 400;
@@ -193,8 +183,7 @@ h2.card-title > a {
   margin-bottom: 15px;
 }
 .ingress {
-  font-weight: 400;
-  color: rgba(24, 36, 63, 0.65);
+  color: rgba(24, 36, 63, 0.44);
 }
 .author-thumb {
   width: 40px;
@@ -340,9 +329,8 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.posttitle {
-  font-weight: 600;
+  font-weight: 700;
   margin-bottom: 1rem;
-  color: rgba(24, 36, 63, 0.84);
 }
 
 .footer {
@@ -378,17 +366,8 @@ blockquote {
 .article-post p,
 .article-post blockquote {
   margin: 0 0 1.5rem 0;
-  color: rgba(24, 36, 63, 0.84);
 }
-.article-post figure figcaption p {
-  font-weight: 300;
-  text-align: center;
-  font-size: 0.75em;
-  color: rgba(24, 36, 63, 0.68);
-  padding: 0.5em;
-}
-.article-post p img,
-.article-post figure img {
+.article-post p img {
   position: relative;
   margin: 0 auto;
   max-height: 600px;
@@ -396,9 +375,6 @@ blockquote {
   width: 100%;
   height: 100%;
   object-fit: contain;
-}
-.article-post p img {
-  margin-top: 1.5em;
 }
 .featured-image {
   display: block;
@@ -413,7 +389,6 @@ blockquote {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  z-index: 1;
 }
 
 .share ul li {
@@ -424,7 +399,6 @@ blockquote {
 .share ul {
   padding-left: 0;
   margin-left: 0;
-  display: inline-grid;
 }
 
 .share ul li i.fa {
@@ -525,9 +499,6 @@ blockquote {
 }
 
 @media (max-width: 767px) {
-  .share ul {
-    display: inline-block;
-  }
   .card-group {
     padding: 0;
   }
@@ -766,15 +737,9 @@ h6 {
 .article-post h5,
 .article-post h6 {
   font-weight: 700;
-  margin-bottom: 0.5rem;
-  color: rgba(24, 36, 63, 0.84);
+  margin-bottom: 1.5rem;
 }
-.article-post h3 {
-  font-size: 1.5em;
-}
-.article-post h4 {
-  font-weight: 700;
-}
+
 .article-post img.shadow {
   -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
   -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
@@ -790,7 +755,6 @@ h6 {
 
 .layout-page .article-post p {
   margin-bottom: 1rem;
-  color: rgba(24, 36, 63, 0.84);
 }
 
 img {
@@ -832,17 +796,9 @@ span.navigation {
   display: block;
   margin: 2em 0;
 }
-.pagination a {
-  color: #3c6fe9;
-}
 
-.pagination > * {
-  color: rgba(60, 111, 233, 0.65);
-}
-.article-post iframe {
+iframe {
   max-width: 100%;
-  margin: 0 0 1.5em 0;
-  padding-bottom: 1.5em;
 }
 
 .transpdark {
