@@ -469,15 +469,7 @@
   
   <url>
     <loc>https://ignite.no/blogg/</loc>
-    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/cases/</loc>
-    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
+    <lastmod>2019-06-25T09:21:25+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -485,7 +477,7 @@
   
   <url>
     <loc>https://ignite.no/categories/</loc>
-    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
+    <lastmod>2019-06-25T09:21:25+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -502,8 +494,15 @@
   
   
   <url>
+    <loc>https://ignite.no/blogg/nyheter/effektivare-offentlig-upphandling-mer-nytta-f%C3%B6r-pengarna/</loc>
+    <lastmod>2019-06-25T09:21:25+00:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/</loc>
-    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
+    <lastmod>2019-06-25T09:21:25+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -520,15 +519,16 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/cases/reforhandling-et-undervurdert-strategisk-virkemiddel/</loc>
-    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
+    <loc>https://ignite.no/blogg/nyheter/</loc>
+    <lastmod>2019-06-25T09:21:25+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   
   
   <url>
     <loc>https://ignite.no/tags/</loc>
-    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
+    <lastmod>2019-06-25T09:21:25+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -540,6 +540,69 @@
                 hreflang="no"
                 href="https://ignite.no/tags/"
                 />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/digitalisere/</loc>
+    <lastmod>2019-06-25T09:21:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/effektivisere/</loc>
+    <lastmod>2019-06-25T09:21:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/kategoristyring/</loc>
+    <lastmod>2019-06-25T09:21:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/offentlige-anskaffelser/</loc>
+    <lastmod>2019-06-25T09:21:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/spendanalyser/</loc>
+    <lastmod>2019-06-25T09:21:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/upphandling/</loc>
+    <lastmod>2019-06-25T09:21:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/cases/</loc>
+    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/cases/reforhandling-et-undervurdert-strategisk-virkemiddel/</loc>
+    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
   </url>
   
   
@@ -585,14 +648,6 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/ignite-analytics/</loc>
-    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/innsikt/</loc>
     <lastmod>2019-05-29T14:20:54+00:00</lastmod>
     <priority>0</priority>
@@ -609,6 +664,14 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/forhandlinger/</loc>
+    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/ignite-analytics/</loc>
     <lastmod>2019-05-29T14:20:54+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -679,14 +742,6 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/bundebygg/</loc>
-    <lastmod>2019-05-14T10:43:58+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/nyheter/</loc>
     <lastmod>2019-05-14T10:43:58+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -773,14 +828,6 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/digitaliseringsprogram/</loc>
-    <lastmod>2019-05-08T10:29:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/offentlige-anskaffelser/</loc>
     <lastmod>2019-05-08T10:29:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1063,14 +1110,6 @@
   <url>
     <loc>https://ignite.no/blogg/innsikt/en-praktisk-tiln%C3%A6rming-til-kategoristyring/</loc>
     <lastmod>2019-04-10T10:52:58+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/kategoristyring/</loc>
-    <lastmod>2019-04-10T10:52:58+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   
