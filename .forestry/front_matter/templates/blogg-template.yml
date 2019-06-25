@@ -77,6 +77,7 @@ fields:
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
 pages:
+- content/blogg/nyheter/effektivare-offentlig-upphandling-mer-nytta-för-pengarna.md
 - content/blogg/cases/hvordan-bruke-bundling-til-å-redusere-innkjøpskostnadene.md
 - content/blogg/nyheter/kruse-smith-ignite-lisensavtale-for-bruk-av-ignite-analytics.md
 - content/blogg/nyheter/nye-moduler-i-ignite-analytics.md
