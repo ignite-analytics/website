@@ -648,6 +648,14 @@
   
   
   <url>
+    <loc>https://ignite.no/blogg/tag/ignite-analytics/</loc>
+    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/blogg/innsikt/</loc>
     <lastmod>2019-05-29T14:20:54+00:00</lastmod>
     <priority>0</priority>
@@ -664,14 +672,6 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/forhandlinger/</loc>
-    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/ignite-analytics/</loc>
     <lastmod>2019-05-29T14:20:54+00:00</lastmod>
     <priority>0</priority>
   </url>
