@@ -60,7 +60,7 @@ weight = 1
      hasChildren="true"
      name = "allservices"
      identifier = "allservices"
-     title = "Andre Tjenester"
+     title = "Andre tjenester"
      url = "#"
      weight = "2"
      pre=""
@@ -102,7 +102,7 @@ weight = 1
           parent = "blogg"
           name = "Siste"
           identifier = "siste"
-          title = "SISTE"
+          title = "Siste"
           url = "/blogg/"
           weight = "1"
           pre=""
@@ -196,7 +196,7 @@ weight = 1
      title = "Kontakt oss"
      url = "/kontakt/"
      weight = "5"
-     pre=""
+     pre="contact-li"
      post="kontakt"
 
 [[languages.no.menu.content]]
@@ -284,7 +284,7 @@ weight = 1
           parent = "blog"
           name = "Latest"
           identifier = "latest"
-          title = "LATEST"
+          title = "Latest"
           url = "/blogg/"
           weight = "1"
           pre=""
@@ -378,7 +378,7 @@ weight = 1
      title = "Contact us"
      url = "/en/kontakt/"
      weight = "5"
-     pre=""
+     pre="contact-li"
      post="kontakt"
 
 [[languages.en.menu.content]]

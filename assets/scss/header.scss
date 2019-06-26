@@ -491,6 +491,9 @@ a{
   justify-content: center;
   align-items:center;
 }
+.nav-list > .contact-li{
+  padding-left:5em;
+}
 .overlay-list-item > .btn-demo-nav {
   text-decoration: none;
   font-size: 18px;
@@ -550,6 +553,9 @@ a{
   z-index: 2000;
 }
 @media (max-width: 1399px) {
+  .btn-demo-nav a.nav-link{
+    padding: 0.4em 1em !important;
+  }
   a.nav-link {
     font-size: 14px;
     padding: 29px 7px !important;
