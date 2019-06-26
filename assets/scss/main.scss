@@ -498,11 +498,15 @@ section.seksjon {
   }
   /** NEWSLETTER-media**/
   .newsletter-content {
-    width: 40%;
+    width: 50%;
     margin: 2em auto;
   }
   .mal h5{
-    width: 40%;
+    width: 50%;
+  }
+  .mal > h5 {
+    font-size:1em;
+    color: #18243f;
   }
   .form-group {
     display: inline-block;
