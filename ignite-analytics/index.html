@@ -38,7 +38,7 @@
   
   <link
     rel="stylesheet"
-    href="/style.min.63faadffe70dff900134cca85d635c1efb969ad69f2e561163d933aa063053b4.css"
+    href="/style.min.fddb0501b528eefd9727728fc2248e4be716c8201106364ea82b4053d28b0745.css"
   />
   <link
     rel="stylesheet"
@@ -330,7 +330,67 @@
                 <img class="" src="/images/infographics/dashboard2.svg">
                 <button class="overlaybutton" data-toggle="modal" data-target="#modalYT"><i class="fas fa-play-circle"></i></button>
          </div>
-</section>  
+</section>
+<section class="container">
+        
+        <section class="quote-section">
+    <div class="quotes">
+        <q id="customerquote"></q>
+        <h5 id="quoteBy"></h5>
+    </div>
+    <div id="partner-images"></div>
+    <script>
+        const images = [
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/obos.png',
+                alt: 'Obos',
+                quote: 'Ignite Analytics har gjort det enkelt for oss å identifisere innkjøps-kategorier passende for fellesavtaler for våre 4300 boligselskaper, gjennomføre strukturerte forespørselsprosesser og følge opp leverandørene etter avtalene er inngått',
+                person: 'Harris Khan​, Contract Manager, OBOS Forvaltning '
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/af-gruppen.svg',
+                alt: 'AF Gruppen',
+                quote: 'Ignite Analytics hjelper oss å strukturere våre transaksjons-data slik at vi enkelt kan jobbe faktabasert med innkjøp i og på tvers av våre forretningsenheter og kategorier. I tillegg er nyttig informasjon om både risiko og muligheter enkelt tilgjengelig for våre brukere​',
+                person: 'Ragnar Furru​, CPO, AF Gruppen'
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/Implenia_logo.png',
+                alt: 'Implenia',
+                quote: 'Ignite Analytics gir meg totaloversikt over muligheter og risikoer og hjelper meg i mine strategiske vurderinger. Jeg bruker det også i forberedelser til forhandlinger og til rapportering av status. Det er enkelt å bruke og det kommer stadig nye oppdateringer og funksjoner​',
+                person: 'Bogna Aadnevik​, CPO, Implenia Norge'
+              },
+            
+            ],
+            s = document.querySelector('#partner-images'),
+            len = images.length;
+            images.forEach((image, i) => {
+                s.innerHTML += `<img class="single-slide ${i > 3 ? 'shrink' : ''}" data-index="${i}" src="${image.src}" alt="${image.alt}"/>`
+            });
+            let firstQuote = null;
+            const quoteMaker = (slide) => {
+                let quote = images[slide.getAttribute('data-index')];
+                document.querySelector('#customerquote').innerHTML = quote.quote;
+                if(quote.person !== ""){
+                document.querySelector('#quoteBy').innerHTML = quote.person;
+            }
+        }
+        document.querySelectorAll('.single-slide').forEach(slide => {
+        if(images[slide.getAttribute('data-index')].quote !== ""){
+            if(!firstQuote){ firstQuote = slide; quoteMaker(slide)}
+
+        slide.addEventListener('mouseover', () => {quoteMaker(slide)});
+        }
+        })
+        if(firstQuote === null){
+        document.querySelector('.quotes').style.display = "none";
+        }
+    </script>
+</section>
+        
+</section>
 <section class="container analytics-container">
         <section class="container">
                 
