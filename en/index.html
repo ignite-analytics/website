@@ -39,7 +39,7 @@
   
   <link
     rel="stylesheet"
-    href="/style.min.0fd50bb447378a21c198a850d0bf87d6aac5fe59ce62fefa8c5adbc15b611fdb.css"
+    href="/style.min.42919fa6f0bcb2306789cc8d7b5ee5b7c63823ce8fb53d66eb21808a19a28d55.css"
   />
   <link
     rel="stylesheet"
@@ -113,7 +113,7 @@
                                             
                                             <a class='dropdown-item ' href="/en/om-oss/#team">Team</a>
                                             
-                                            <a class='dropdown-item ' href="#">Partners</a>
+                                            <a class='dropdown-item ' href="/en/om-oss/#partnere">Partners</a>
                                             
                                             <a class='dropdown-item ' href="/en/karriere">Career</a>
                                             
@@ -247,7 +247,7 @@
                                     
                                     <a class='dropdown-item nav-reg ' href="/en/om-oss/#team">Team</a>
                                     
-                                    <a class='dropdown-item nav-reg ' href="#">Partners</a>
+                                    <a class='dropdown-item nav-reg ' href="/en/om-oss/#partnere">Partners</a>
                                     
                                     <a class='dropdown-item nav-reg ' href="/en/karriere">Career</a>
                                     
@@ -368,96 +368,68 @@
   
 </div>
 <section
-  class="slideshow-customers"
+  class="client-list wrap d-flex p-2 bd-highlight flex-column flex-md-row flex-wrap justify-content-around align-items-center"
 >
-    <div class="slide">
-      <div id="slideshow">
-      </div>
-    </div>
-    <div>
-        <button id="left-slide">Leftbutton</button>
-        <button id="right-slide">Rightbutton</button>
-    </div>
-      <script>
-        const images = [
-          
-            {
-              src: 'https:\/\/ignite.no\/images\/customers\/eqt.svg',
-              alt: 'Eqt'
-            },
-          
-            {
-              src: 'https:\/\/ignite.no\/images\/customers\/obos.png',
-              alt: 'Obos'
-            },
-          
-            {
-              src: 'https:\/\/ignite.no\/images\/customers\/hexagon.png',
-              alt: 'Hexagon'
-            },
-          
-            {
-              src: 'https:\/\/ignite.no\/images\/customers\/arkwright.png',
-              alt: 'Arkwright'
-            },
-          
-            {
-              src: 'https:\/\/ignite.no\/images\/customers\/Implenia_logo.png',
-              alt: 'Implenia'
-            },
-          
-            {
-              src: 'https:\/\/ignite.no\/images\/customers\/kolonial.png',
-              alt: 'Kolonial'
-            },
-          
-            {
-              src: 'https:\/\/ignite.no\/images\/customers\/con-form.png',
-              alt: 'Con-Form'
-            },
-          
-        ],
-        s = document.querySelector('#slideshow'),
-        len = images.length;
-
-        let index = 0,
-        isAnimating = false;
-        images.forEach((image, i) => {
-          s.innerHTML += `<img class="single-slide ${i > 3 ? 'shrink' : ''}" data-index="${i}" src="${image.src}" alt="${image.alt}"/>`
-        });
-        function findIndex(directionalPoints){
-          let i = index,
-          negative = directionalPoints < 0;
-          for(var y = Math.abs(directionalPoints); y > 0; y--){
-            if(negative){ i = i === 0 ? len-1 : i-1 }
-            else{ i = i === len-1 ? 0 : i + 1}
-          }
-          return i;
-        }
-        function left(){
-          if(isAnimating) return;
-          document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).style.order =  Number(document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).style.order) - 1;
-          isAnimating = true;
-          document.querySelector(`.single-slide[data-index="${findIndex(3)}"]`).classList.add('shrink');
-          index = findIndex(-1);
-          document.querySelector(`.single-slide[data-index="${findIndex(0)}"]`).classList.remove('shrink');
-          isAnimating = false;
-        }
-        function right(){
-          if(isAnimating) return;
-          document.querySelector(`.single-slide[data-index="${index}"]`).style.order =  Number(document.querySelector(`.single-slide[data-index="${index}"]`).style.order) + 1
-          isAnimating = true
-          document.querySelector(`.single-slide[data-index="${index}"]`).classList.add('shrink');
-          index = findIndex(1);
-          document.querySelector(`.single-slide[data-index="${findIndex(3)}"]`).classList.remove('shrink');
-          isAnimating = false
-        }
-        document.querySelector('#left-slide').addEventListener('click' , left, true);
-        document.querySelector('#right-slide').addEventListener('click' , right, true);
-      </script>
-    </div>
+  
+  <div class="customer-logo">
+    <img
+      class="client-logo"
+      src="/images/customers/eqt.svg"
+      alt="Eqt"
+    />
   </div>
+  
+  <div class="customer-logo">
+    <img
+      class="client-logo"
+      src="/images/customers/obos.png"
+      alt="Obos"
+    />
+  </div>
+  
+  <div class="customer-logo">
+    <img
+      class="client-logo"
+      src="/images/customers/hexagon.png"
+      alt="Hexagon"
+    />
+  </div>
+  
+  <div class="customer-logo">
+    <img
+      class="client-logo"
+      src="/images/customers/arkwright.png"
+      alt="Arkwright"
+    />
+  </div>
+  
+  <div class="customer-logo">
+    <img
+      class="client-logo"
+      src="/images/customers/Implenia_logo.png"
+      alt="Implenia"
+    />
+  </div>
+  
+  <div class="customer-logo">
+    <img
+      class="client-logo"
+      src="/images/customers/kolonial.png"
+      alt="Kolonial"
+    />
+  </div>
+  
+  <div class="customer-logo">
+    <img
+      class="client-logo"
+      src="/images/customers/con-form.png"
+      alt="Con-Form"
+    />
+  </div>
+  
 </section>
+
+
 
   
 </div>
@@ -849,7 +821,7 @@
                                         <li><a href="/en/om-oss/#team"></i>Team</a></li>
                                     
                                     
-                                        <li><a href="#"></i>Partners</a></li>
+                                        <li><a href="/en/om-oss/#partnere"></i>Partners</a></li>
                                     
                                     
                                         <li><a href="/en/karriere"></i>Career</a></li>
