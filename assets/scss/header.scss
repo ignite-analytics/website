@@ -490,6 +490,9 @@ a{
   display:flex;
   justify-content: center;
   align-items:center;
+  &:hover{
+    background: transparent !important;
+  }
 }
 .nav-list > .contact-li{
   margin-left:5em;
