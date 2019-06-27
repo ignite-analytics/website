@@ -47,6 +47,10 @@
   
          </section>
 </section>
+<div class="container">
+        {{ with .Site.GetPage "companies" }} {{ partial "sections/customers.html" . }}
+        {{ end }}
+</div>
 <section class="actionblock">
 
                 {{ with .Site.GetPage "actionblock" }}

@@ -24,6 +24,10 @@
 <section class="container mb-5">
   {{ with .Site.GetPage "item8" }} {{ partial "sections/infoblock-reverse.html" . }} {{ end }}
 </section>
+<div class="container">
+    {{ with .Site.GetPage "services-companies" }} {{ partial "sections/customers.html" . }}
+    {{ end }}
+</div>
 <section class="actionblock">
 
   {{ with .Site.GetPage "actionblock/services" }}

@@ -20,10 +20,9 @@
 <section class="container p-3">
   {{ with .Site.GetPage "team" }} {{ partial "sections/team.html" . }} {{ end }}
 </section>
-
-<div class="container p-3" id="partnere">
-  {{ with .Site.GetPage "partners" }} {{ partial "sections/partners.html" . }}
-  {{ end }}
+<div class="container">
+    {{ with .Site.GetPage "partnere" }} {{ partial "sections/customers.html" . }}
+    {{ end }}
 </div>
 <div class="container p-3">
   {{ with .Site.GetPage "sertifisering" }} 
