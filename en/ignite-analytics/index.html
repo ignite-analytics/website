@@ -538,6 +538,157 @@
   
          </section>
 </section>
+<div class="container">
+         
+<div class="container">
+    <div class="tittel2">
+  <h4 class="arrow2">TRUSTED BY LEADING COMPANIES​</h4>
+  <svg height="2em" width="30%">
+    <line
+      x1="60%"
+      y1="24"
+      x2="40%"
+      y2="24"
+      style="stroke:#18243f;stroke-width:5"
+    />
+  </svg>
+</div>
+
+
+ 
+  </div>
+  <section class="slideshow-customers">
+      <button id="left-slide"><i class="fas fa-chevron-left"></i></button>
+      <div class="slide">
+        <div id="slideshow">
+        </div>
+      </div>
+      <button id="right-slide"><i class="fas fa-chevron-right"></i></button>
+        <script>
+          const customerimages = [
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/obos.png',
+                alt: 'Obos',
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/af-gruppen.svg',
+                alt: 'AF Gruppen',
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/autostore.png',
+                alt: 'Autostore',
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/OPTIMAR.png',
+                alt: 'Optimar',
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/Implenia_logo.png',
+                alt: 'Implenia',
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/BundeBygg.png',
+                alt: 'BundeBygg',
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/kruse-smith.png',
+                alt: 'Kruse Smith',
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/bergene-holm.png',
+                alt: 'Bergene Holm',
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/levanger.png',
+                alt: 'Levanger',
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/inder%C3%B8y.png',
+                alt: 'Inderøy',
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/steinkjer.png',
+                alt: 'Steinkjer',
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/verran.png',
+                alt: 'Verran',
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/sn%C3%A5sa.png',
+                alt: 'Snåsa',
+              },
+            
+          ],
+          slideshow = document.querySelector('#slideshow'),
+          customerlen = customerimages.length;
+  
+          let index = 0,
+          isAnimating = false;
+          customerimages.forEach((image, i) => {
+            slideshow.innerHTML += `<img class="single-slide ${i > 3 ? 'shrink' : ''}" src="${i < 4 ? image.src : "none"}" data-index="${i}" data-src="${image.src}" alt="${image.alt}"/>`
+          });
+
+          function findIndex(directionalPoints){
+            let i = index,
+            negative = directionalPoints < 0;
+            for(var y = Math.abs(directionalPoints); y > 0; y--){
+              if(negative){ i = i === 0 ? customerlen-1 : i-1 }
+              else{ i = i === customerlen-1 ? 0 : i + 1}
+            }
+            return i;
+          }
+          function left(){
+            if(isAnimating) return;
+            isAnimating = true;
+            if(document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).src !== document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).getAttribute('data-src')){
+              document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).src = document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).getAttribute('data-src')
+            }
+            document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`)
+            document.querySelector(`.single-slide[data-index="${findIndex(3)}"]`).classList.add('shrink');
+            document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).style.order =  Number(document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).style.order) - 1;
+            document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).classList.remove('shrink');
+            setTimeout(() => {
+              index = findIndex(-1);
+              isAnimating = false;
+            },500)
+          }
+          function right(){
+            if(isAnimating) return;
+            isAnimating = true
+            if(document.querySelector(`.single-slide[data-index="${findIndex(4)}`).src !== document.querySelector(`.single-slide[data-index="${findIndex(4)}"]`).getAttribute('data-src')){
+              document.querySelector(`.single-slide[data-index="${findIndex(4)}"]`).src = document.querySelector(`.single-slide[data-index="${findIndex(4)}"]`).getAttribute('data-src')
+            }
+            document.querySelector(`.single-slide[data-index="${index}"]`).classList.add('shrink');
+            document.querySelector(`.single-slide[data-index="${index}"]`).style.order =  Number(document.querySelector(`.single-slide[data-index="${index}"]`).style.order) + 1
+            document.querySelector(`.single-slide[data-index="${findIndex(4)}"]`).classList.remove('shrink');
+            setTimeout(() => {
+              index = findIndex(1);
+              isAnimating = false
+            },500)
+          }
+          document.querySelector('#left-slide').addEventListener('click' , left, true);
+          document.querySelector('#right-slide').addEventListener('click' , right, true);
+        </script>
+      </div>
+    </div>
+  </section>
+  
+        
+</div>
 <section class="actionblock">
 
                 

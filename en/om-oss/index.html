@@ -745,11 +745,10 @@
 </div>
  
 </section>
-
-<div class="container p-3" id="partnere">
-   
-<div class="container pt-5">
-   <div class="tittel2">
+<div class="container">
+     
+<div class="container">
+    <div class="tittel2">
   <h4 class="arrow2">PARTNERS</h4>
   <svg height="2em" width="30%">
     <line
@@ -764,26 +763,103 @@
 
 
  
-</div>
-<section
-  class="client-list wrap d-flex p-2 bd-highlight flex-column flex-md-row flex-wrap justify-content-around align-items-center"
->
-  
-  <div class="customer-logo">
-    <img class="client-logo" src="/images/partners/FR.svg" />
   </div>
+  <section class="slideshow-customers">
+      <button id="left-slide"><i class="fas fa-chevron-left"></i></button>
+      <div class="slide">
+        <div id="slideshow">
+        </div>
+      </div>
+      <button id="right-slide"><i class="fas fa-chevron-right"></i></button>
+        <script>
+          const customerimages = [
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/eqt.svg',
+                alt: 'Keyforce',
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/partners\/in.svg',
+                alt: 'Innovasjon Norge',
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/partners\/startuplab.svg',
+                alt: 'Startup Lab',
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/forskningsr%C3%A5det.png',
+                alt: 'Forskningsrådet',
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/tiger-consulting.png',
+                alt: 'Tiger Consulting',
+              },
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/google-cloud.png',
+                alt: 'Google Cloud',
+              },
+            
+          ],
+          slideshow = document.querySelector('#slideshow'),
+          customerlen = customerimages.length;
   
-  <div class="customer-logo">
-    <img class="client-logo" src="/images/partners/in.svg" />
-  </div>
-  
-  <div class="customer-logo">
-    <img class="client-logo" src="/images/partners/startuplab.svg" />
-  </div>
-  
-</section>
+          let index = 0,
+          isAnimating = false;
+          customerimages.forEach((image, i) => {
+            slideshow.innerHTML += `<img class="single-slide ${i > 3 ? 'shrink' : ''}" src="${i < 4 ? image.src : "none"}" data-index="${i}" data-src="${image.src}" alt="${image.alt}"/>`
+          });
 
+          function findIndex(directionalPoints){
+            let i = index,
+            negative = directionalPoints < 0;
+            for(var y = Math.abs(directionalPoints); y > 0; y--){
+              if(negative){ i = i === 0 ? customerlen-1 : i-1 }
+              else{ i = i === customerlen-1 ? 0 : i + 1}
+            }
+            return i;
+          }
+          function left(){
+            if(isAnimating) return;
+            isAnimating = true;
+            if(document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).src !== document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).getAttribute('data-src')){
+              document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).src = document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).getAttribute('data-src')
+            }
+            document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`)
+            document.querySelector(`.single-slide[data-index="${findIndex(3)}"]`).classList.add('shrink');
+            document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).style.order =  Number(document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).style.order) - 1;
+            document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).classList.remove('shrink');
+            setTimeout(() => {
+              index = findIndex(-1);
+              isAnimating = false;
+            },500)
+          }
+          function right(){
+            if(isAnimating) return;
+            isAnimating = true
+            if(document.querySelector(`.single-slide[data-index="${findIndex(4)}`).src !== document.querySelector(`.single-slide[data-index="${findIndex(4)}"]`).getAttribute('data-src')){
+              document.querySelector(`.single-slide[data-index="${findIndex(4)}"]`).src = document.querySelector(`.single-slide[data-index="${findIndex(4)}"]`).getAttribute('data-src')
+            }
+            document.querySelector(`.single-slide[data-index="${index}"]`).classList.add('shrink');
+            document.querySelector(`.single-slide[data-index="${index}"]`).style.order =  Number(document.querySelector(`.single-slide[data-index="${index}"]`).style.order) + 1
+            document.querySelector(`.single-slide[data-index="${findIndex(4)}"]`).classList.remove('shrink');
+            setTimeout(() => {
+              index = findIndex(1);
+              isAnimating = false
+            },500)
+          }
+          document.querySelector('#left-slide').addEventListener('click' , left, true);
+          document.querySelector('#right-slide').addEventListener('click' , right, true);
+        </script>
+      </div>
+    </div>
+  </section>
   
+    
 </div>
 <div class="container p-3">
    

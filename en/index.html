@@ -350,8 +350,8 @@
 <div class="container">
    
 <div class="container">
-     <div class="tittel2">
-  <h4 class="arrow2">SELECTED CUSTOMERS</h4>
+    <div class="tittel2">
+  <h4 class="arrow2">Selected Customers</h4>
   <svg height="2em" width="30%">
     <line
       x1="60%"
@@ -365,7 +365,6 @@
 
 
  
-    
   </div>
   <section class="slideshow-customers">
       <button id="left-slide"><i class="fas fa-chevron-left"></i></button>
@@ -375,7 +374,7 @@
       </div>
       <button id="right-slide"><i class="fas fa-chevron-right"></i></button>
         <script>
-          const images = [
+          const customerimages = [
             
               {
                 src: 'https:\/\/ignite.no\/images\/customers\/obos.png',
@@ -443,21 +442,21 @@
               },
             
           ],
-          s = document.querySelector('#slideshow'),
-          len = images.length;
+          slideshow = document.querySelector('#slideshow'),
+          customerlen = customerimages.length;
   
           let index = 0,
           isAnimating = false;
-          images.forEach((image, i) => {
-            s.innerHTML += `<img class="single-slide ${i > 3 ? 'shrink' : ''}" src="${i < 4 ? image.src : "none"}" data-index="${i}" data-src="${image.src}" alt="${image.alt}"/>`
+          customerimages.forEach((image, i) => {
+            slideshow.innerHTML += `<img class="single-slide ${i > 3 ? 'shrink' : ''}" src="${i < 4 ? image.src : "none"}" data-index="${i}" data-src="${image.src}" alt="${image.alt}"/>`
           });
 
           function findIndex(directionalPoints){
             let i = index,
             negative = directionalPoints < 0;
             for(var y = Math.abs(directionalPoints); y > 0; y--){
-              if(negative){ i = i === 0 ? len-1 : i-1 }
-              else{ i = i === len-1 ? 0 : i + 1}
+              if(negative){ i = i === 0 ? customerlen-1 : i-1 }
+              else{ i = i === customerlen-1 ? 0 : i + 1}
             }
             return i;
           }
