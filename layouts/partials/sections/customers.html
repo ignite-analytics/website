@@ -1,110 +1,75 @@
 <!-- Tittel-->
 <div class="container">
-  {{ with .Site.GetPage "kunder-tittel" }} {{ partial "tittel.html" . }} 
-  {{ end }}
-</div>
-<section
-  class="client-list wrap d-flex p-2 bd-highlight flex-column flex-md-row flex-wrap justify-content-around align-items-center"
->
-  {{ range .Pages }}
-  <div class="customer-logo">
-    <img
-      class="client-logo"
-      src="{{ .Params.logo }}"
-      alt="{{ .Params.title }}"
-    />
+    {{ with .Site.GetPage "kunder-tittel" }} {{ partial "tittel.html" . }} 
+    {{ end }}
   </div>
-  {{ end }}
-</section>
-
-<!-- 
-<div class="container-fluid">
-    <div id="carouselExample" class="carousel slide" data-ride="carousel" data-interval="9000">
-           
-        <div class="carousel-inner row w-100 mx-auto client-list wrap d-flex p-2 bd-highlight flex-column flex-md-row flex-wrap justify-content-around align-items-center" role="listbox">
-            
-            <div class="client-list carousel-item col-md-2  active">
-
-               <div class="panel panel-default">
-                  <div class="customer-logo panel-thumbnail">
-                
-                      <img class=" client-logo img-fluid d-block" src="/images/customers/eqt.svg" alt="slide 1">
-                  
-                  </div>
-                </div>
-            </div>
-            <div class="client-list carousel-item col-md-2 ">
-               <div class="panel panel-default">
-                  <div class="customer-logo panel-thumbnail">
-            
-                     <img class="client-logo img-fluid mx-auto d-block" src="/images/customers/obos.png" alt="slide 2">
-                  
-                  </div>
-                </div>
-            </div>
-            <div class="client-list carousel-item col-md-2 ">
-               <div class="panel panel-default">
-                  <div class="customer-logo panel-thumbnail">
-                 
-                     <img class="client-logo img-fluid d-block" src="/images/customers/Implenia_logo.png" alt="slide 3">
-                 
-                  </div>
-                </div>
-            </div>
-            <div class="client-list carousel-item col-md-2 ">
-                <div class="panel panel-default">
-                  <div class="customer-logo panel-thumbnail">
-                  
-                     <img class="client-logo img-fluid d-block" src="/images/customers/arkwright.png" alt="slide 4">
-                 
-                  </div>
-                </div>
-            </div>
-            <div class="client-list carousel-item col-md-2 ">
-              <div class="panel panel-default">
-                  <div class="customer-logo panel-thumbnail">
-                   
-                      <img class="client-logo img-fluid d-block" src="/images/customers/con-form.png" alt="slide 5">
-                 
-                  </div>
-                </div>
-            </div>
-            <div class="client-list carousel-item col-md-2 ">
-               <div class="panel panel-default">
-                  <div class="customer-logo panel-thumbnail">
-                    
-                      <img class="client-logo img-fluid d-block" src="/images/customers/kolonial.png" alt="kolonial">
-                   
-                  </div>
-                </div>
-            </div>
-            <div class="client-list carousel-item col-md-2 ">
-               <div class="panel panel-default">
-                  <div class="customer-logo panel-thumbnail">
-                   
-                      <img class="client-logo img-fluid d-block" src="/images/customers/hexagon.png" alt="hexagon">
-                   
-                  </div>
-                </div>
-            </div>
-             <div class="client-list carousel-item col-md-2  ">
-                <div class="panel panel-default">
-                  <div class="customer-logo panel-thumbnail">
-                   
-                     <img class="client-logo img-fluid d-block" src="/images/customers/af-gruppen.svg" alt="af-gruppen">
-                  
-                  </div>
-                  
-                </div>
-            </div>
+  <section class="slideshow-customers">
+      <button id="left-slide"><i class="fas fa-chevron-left"></i></button>
+      <div class="slide">
+        <div id="slideshow">
         </div>
-        <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next text-faded" href="#carouselExample" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
+      </div>
+      <button id="right-slide"><i class="fas fa-chevron-right"></i></button>
+        <script>
+          const images = [
+            {{ range .Params.Customers }}
+              {
+                src: '{{ .logo | absURL}}',
+                alt: '{{ .title}}',
+              },
+            {{end}}
+          ],
+          s = document.querySelector('#slideshow'),
+          len = images.length;
+  
+          let index = 0,
+          isAnimating = false;
+          images.forEach((image, i) => {
+            s.innerHTML += `<img class="single-slide ${i > 3 ? 'shrink' : ''}" src="${i < 4 ? image.src : "none"}" data-index="${i}" data-src="${image.src}" alt="${image.alt}"/>`
+          });
+
+          function findIndex(directionalPoints){
+            let i = index,
+            negative = directionalPoints < 0;
+            for(var y = Math.abs(directionalPoints); y > 0; y--){
+              if(negative){ i = i === 0 ? len-1 : i-1 }
+              else{ i = i === len-1 ? 0 : i + 1}
+            }
+            return i;
+          }
+          function left(){
+            if(isAnimating) return;
+            isAnimating = true;
+            if(document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).src !== document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).getAttribute('data-src')){
+              document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).src = document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).getAttribute('data-src')
+            }
+            document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`)
+            document.querySelector(`.single-slide[data-index="${findIndex(3)}"]`).classList.add('shrink');
+            document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).style.order =  Number(document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).style.order) - 1;
+            document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).classList.remove('shrink');
+            setTimeout(() => {
+              index = findIndex(-1);
+              isAnimating = false;
+            },500)
+          }
+          function right(){
+            if(isAnimating) return;
+            isAnimating = true
+            if(document.querySelector(`.single-slide[data-index="${findIndex(4)}`).src !== document.querySelector(`.single-slide[data-index="${findIndex(4)}"]`).getAttribute('data-src')){
+              document.querySelector(`.single-slide[data-index="${findIndex(4)}"]`).src = document.querySelector(`.single-slide[data-index="${findIndex(4)}"]`).getAttribute('data-src')
+            }
+            document.querySelector(`.single-slide[data-index="${index}"]`).classList.add('shrink');
+            document.querySelector(`.single-slide[data-index="${index}"]`).style.order =  Number(document.querySelector(`.single-slide[data-index="${index}"]`).style.order) + 1
+            document.querySelector(`.single-slide[data-index="${findIndex(4)}"]`).classList.remove('shrink');
+            setTimeout(() => {
+              index = findIndex(1);
+              isAnimating = false
+            },500)
+          }
+          document.querySelector('#left-slide').addEventListener('click' , left, true);
+          document.querySelector('#right-slide').addEventListener('click' , right, true);
+        </script>
+      </div>
     </div>
-</div>  -->
+  </section>
+  

@@ -18,11 +18,6 @@
     {{ with .Site.GetPage "main-services" }} {{ partial "sections/main-services.html" . }} {{ end }}
   </div>
 </div>
-<div class="full-width py-5">
-  <div class="container">
-    {{ with .Site.GetPage "quote" }} {{ partial "sections/quote.html" . }} {{ end }}
-  </div>
-</div>
 <section class="actionblock">
   {{ with .Site.GetPage "actionblock" }} {{ partial "sections/actionblock.html" . }} {{ end }}
 </section>

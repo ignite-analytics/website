@@ -10,7 +10,12 @@
                 <img class="" src="{{ .Params.Image }}">
                 <button class="overlaybutton" data-toggle="modal" data-target="#modalYT"><i class="fas fa-play-circle"></i></button>
          </div>
-</section>  
+</section>
+<section class="container">
+        {{ with .Site.GetPage "quotes" }}
+        {{ partial "sections/quotes.html" . }}
+        {{ end }}
+</section>
 <section class="container analytics-container">
         <section class="container">
                 {{ with .Site.GetPage "item1" }}
