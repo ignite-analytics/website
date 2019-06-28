@@ -3,9 +3,10 @@ title: "PARTNERS"
 date: 2019-02-20T10:56:46+01:00
 draft: false
 hidden: true
+key: "partners"
 customers:
     -
-        logo: "/images/customers/eqt.svg"
+        logo: "/images/customers/keyforce.png"
         title: "Keyforce"
     -
         logo: "/images/partners/in.svg"

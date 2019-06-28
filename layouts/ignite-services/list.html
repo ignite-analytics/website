@@ -13,6 +13,11 @@
   </div>
 </section>
 <section class="container">
+    {{ with .Site.GetPage "services-quotes" }}
+    {{ partial "sections/quotes.html" . }}
+    {{ end }}
+</section>
+<section class="container">
   {{ with .Site.GetPage "item5" }} {{ partial "sections/infoblock.html" . }} {{ end }}
 </section>
 <section class="container">

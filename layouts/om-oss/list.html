@@ -14,13 +14,17 @@
   </div>
   <div class="col-md-6"></div>
 </section>
+<div class="container">
+    {{ with .Site.GetPage "experience" }} {{ partial "sections/customers.html" . }}
+    {{ end }}
+</div>
 <div class="container pt-3">
   {{ with .Site.GetPage "team-tittel" }} {{ partial "tittel.html" . }} {{ end }}
 </div>
 <section class="container p-3">
   {{ with .Site.GetPage "team" }} {{ partial "sections/team.html" . }} {{ end }}
 </section>
-<div class="container">
+<div class="container" id="partnere">
     {{ with .Site.GetPage "partnere" }} {{ partial "sections/customers.html" . }}
     {{ end }}
 </div>

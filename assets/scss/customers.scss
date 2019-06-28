@@ -30,6 +30,12 @@
       margin-right: 0;
       margin-left:0 ;
     }
+    & .fas.fa-chevron-left{
+      transform:translateX(-2px) !important;
+    }
+    & .fas.fa-chevron-right{
+      transform:translateX(2px) !important;
+    }
   }
   #left-slide{
     left:0;
@@ -53,7 +59,7 @@
       height:100px;
       position:relative;
       max-width:initial;
-      & .single-slide{
+      & .single-slide-customer{
         object-fit:contain;
         display:block;
         width:150px;
@@ -86,10 +92,10 @@
   .quotes{
     font-size: 0.8em;
   }
-  & .single-slide{
-    width: 40vw !important;
-    margin-left: calc(30vw - 15px) !important;
-    margin-right: calc(30vw - 15px) !important;
+  .single-slide-customer, .single-slide{
+    width: 25vw !important;
+    margin-left: calc(calc(75vw / 2) - 15px) !important;
+    margin-right: calc(calc(75vw / 2) - 15px) !important;
   }
   #left-slide, #right-slide{
     position:absolute;
@@ -97,17 +103,23 @@
     background:rgba(255,255,255,0.8) !important;
   }
   #partner-images{
+    flex-wrap:wrap !important;
     & .single-slide{
-      width:100px;
+      flex: 1;
+      max-width:60px !important;
     }
   }
   #partner-images{
-    overflow-x: auto;
-    width:fit-content !important;
     max-width:100% !important;
-    justify-content: initial !important;
     & .single-slide{
-      margin: 10px 25px 10px 25px !important;
+      margin: 10px auto !important;
+    }
+  }
+}
+@media screen and (max-width: 441px){
+  #partner-images{
+    & .single-slide{
+      width: 50px !important;
     }
   }
 }
@@ -123,6 +135,7 @@
 #quoteBy{
   font-size: 1em;
   opacity:0.8;
+  text-transform: uppercase;
   &:before{
     content:"- "
   }
@@ -131,8 +144,11 @@
   width:0 !important;
 }
 .quote-section{
-  margin: 3em 0;
+  margin: 5em 0;
   display:block;
+}
+.customer-container{
+  margin: 2em 0 5em 0;
 }
 #partner-images{
   height:100px;
@@ -144,13 +160,14 @@
   flex-wrap:nowrap;
   justify-content: center;
   height: fit-content;
+  min-width:100%;
   & .single-slide{
     object-fit:contain;
+    flex:1 0 100px;
     display:block;
     width:150px;
     height:100px;
-    max-width:100%;
-    max-width:100vw;
+    max-width:150px;
     margin: 0 50px;
     transform-origin:center center;
     transition: all .5s ease;
