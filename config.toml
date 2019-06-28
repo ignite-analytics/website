@@ -14,7 +14,7 @@ weight = 1
      #Identified by each Menu-items identifier
      footerservices = ["analytics", "academy", "services", "ignite-analytics", "ignite-services", "ignite-academy"]
      footerblogg = ["siste", "innsikt", "caser", "nyheter", "latest", "insight", "cases","news"]
-     footercontact = ["kontakt oss","demo","logg inn", "log in","kontakt","#modalbookeng"]
+     footercontact = ["kontakt oss","demo","#modalbooknorw","logg inn", "log in","kontakt","#modalbookeng",]
      footerselskapet = ["Om oss", "Team", "partnere", "Karriere", "About us", "Career", "partners"]
 # Blog content ==>
 [taxonomies]
@@ -191,30 +191,12 @@ weight = 1
           post="selskapet"
 
 [[languages.no.menu.content]]
-     name = "Kontakt oss"
-     identifier = "kontakt oss"
-     title = "Kontakt oss"
-     url = "/kontakt/"
-     weight = "5"
-     pre="contact-li"
-     post="kontakt"
-
-[[languages.no.menu.content]]
      name = "Prøv Ignite Analytics"
      identifier = "demo"
      title = "Prøv Ignite Analytics"
      url = "/ignite-analytics/demo"
-     weight = "6"  
+     weight = "5"  
      pre="btn-demo-nav"
-     post="kontakt"
-
-[[languages.no.menu.content]]
-     name = "Logg inn"
-     identifier = "logg inn"
-     title = "Logg inn"
-     url = "https://app.ignite.no/dashboard/"
-     weight = "7"
-     pre=""
      post="kontakt"
 
 [[languages.no.menu.content]]
@@ -222,9 +204,18 @@ weight = 1
      identifier = "#modalbooknorw"
      title = "Book demo"
      id = "#modalbooknorw"
-     weight = "8"   
+     weight = "6"   
      pre="onlyfooter"   
      post="kontakt"  
+
+[[languages.no.menu.content]]
+     name = "Kontakt oss"
+     identifier = "kontakt oss"
+     title = "Kontakt oss"
+     url = "/kontakt/"
+     weight = "7"
+     pre=""
+     post="kontakt"
 
 
 #English menu
@@ -373,40 +364,32 @@ weight = 1
           post="selskapet"        
 
 [[languages.en.menu.content]]
-     name = "kontakt"
-     identifier = "kontakt"
-     title = "Contact us"
-     url = "/en/kontakt/"
-     weight = "5"
-     pre="contact-li"
-     post="kontakt"
-
-[[languages.en.menu.content]]
      name = "Try Ignite Analytics"
      identifier = "demo"
      title = "Try Ignite Analytics"
      url = "/en/ignite-analytics/demo"
-     weight = "6"  
+     weight = "5"  
      pre="btn-demo-nav"
-     post="kontakt"
-
-[[languages.en.menu.content]]
-     name = "Log in"
-     identifier = "log in"
-     title = "Log in"
-     url = "https://app.ignite.no/"
-     weight = "7"
-     pre=""
      post="kontakt"
 
 [[languages.en.menu.content]]
      name = "Book meeting"
      identifier = "#modalbookeng"
      title = "Book meeting"
-     id = "#modalbooknorw"
-     weight = "10"  
+     id = "#modalbookeng"
+     weight = "6"  
      pre="onlyfooter"    
      post="kontakt"
+
+[[languages.en.menu.content]]
+     name = "kontakt"
+     identifier = "kontakt"
+     title = "Contact us"
+     url = "/en/kontakt/"
+     weight = "7"
+     pre="contact-li"
+     post="kontakt"
+
 
 [[languages.en.menu.personvern]]
      name = "Privacy policy"

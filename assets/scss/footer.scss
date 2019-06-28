@@ -98,6 +98,9 @@ section .section-title {
 #footer {
   background: $dark !important;
   padding-top: 3em;
+  & .onlyfooter{
+    display:inline-block;
+  }
 }
 
 .footer {
