@@ -8,12 +8,12 @@ logo: "/images/customers/arkwright.png"
 hidden: true
 quotes:
     -   
-        quote: "Ignite Analytics har gjort det enkelt for oss å identifisere innkjøps-kategorier passende for fellesavtaler for våre 4300 boligselskaper, gjennomføre strukturerte forespørselsprosesser og følge opp leverandørene etter avtalene er inngått"
+        quote: "Ignite Analytics har gjort det enkelt for oss å identifisere innkjøpskategorier passende for fellesavtaler for våre 4300 boligselskaper, gjennomføre strukturerte forespørselsprosesser og følge opp leverandørene etter avtalene er inngått"
         name: "Harris Khan​, Contract Manager, OBOS Forvaltning "
         logo: "/images/customers/obos.png"
         title: "Obos"
     -   
-        quote: "Ignite Analytics hjelper oss å strukturere våre transaksjons-data slik at vi enkelt kan jobbe faktabasert med innkjøp i og på tvers av våre forretningsenheter og kategorier. I tillegg er nyttig informasjon om både risiko og muligheter enkelt tilgjengelig for våre brukere​"
+        quote: "Ignite Analytics hjelper oss å strukturere vår transaksjonsdata, slik at vi enkelt kan jobbe faktabasert med innkjøp i og på tvers av våre forretningsenheter og kategorier. I tillegg er nyttig informasjon om både risiko og muligheter enkelt tilgjengelig for våre brukere​"
         name: "Ragnar Furru​, CPO, AF Gruppen"
         logo: "/images/customers/af-gruppen.svg"
         title: "AF Gruppen"
