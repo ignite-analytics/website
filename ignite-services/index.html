@@ -38,7 +38,7 @@
   
   <link
     rel="stylesheet"
-    href="/style.min.fddb0501b528eefd9727728fc2248e4be716c8201106364ea82b4053d28b0745.css"
+    href="/style.min.fc4cd7336e0fbddcf39bdd3948898d68a500586e2cb6895242d4c8d9bb611758.css"
   />
   <link
     rel="stylesheet"
@@ -336,6 +336,52 @@
   </div>
 </section>
 <section class="container">
+    
+    <section class="quote-section">
+    <div class="quotes">
+        <q id="customerquote"></q>
+        <h5 id="quoteBy"></h5>
+    </div>
+    <div id="partner-images"></div>
+    <script>
+        const images = [
+            
+              {
+                src: 'https:\/\/ignite.no\/images\/customers\/con-form.png',
+                alt: 'Con-Form',
+                quote: 'Ignite Procurement hjalp oss å realisere betydelige kostnadsbesparelser, og har bidratt til at vi nå jobber mer systematisk og analytisk med våre kostnader',
+                person: 'Tom Erik Heggedal, ​CFO, Con-Form​'
+              },
+            
+            ],
+            s = document.querySelector('#partner-images'),
+            len = images.length;
+            images.forEach((image, i) => {
+                s.innerHTML += `<img class="single-slide ${i > 3 ? 'shrink' : ''}" data-index="${i}" src="${image.src}" alt="${image.alt}"/>`
+            });
+            let firstQuote = null;
+            const quoteMaker = (slide) => {
+                let quote = images[slide.getAttribute('data-index')];
+                document.querySelector('#customerquote').innerHTML = quote.quote;
+                if(quote.person !== ""){
+                document.querySelector('#quoteBy').innerHTML = quote.person;
+            }
+        }
+        document.querySelectorAll('.single-slide').forEach(slide => {
+        if(images[slide.getAttribute('data-index')].quote !== ""){
+            if(!firstQuote){ firstQuote = slide; quoteMaker(slide)}
+
+        slide.addEventListener('mouseover', () => {quoteMaker(slide)});
+        }
+        })
+        if(firstQuote === null){
+        document.querySelector('.quotes').style.display = "none";
+        }
+    </script>
+</section>
+    
+</section>
+<section class="container">
    <div
   class="d-flex bd-highlight flex-column flex-md-row align-items-center mb-5"
 >
@@ -418,7 +464,7 @@
 
  
   </div>
-  <section class="slideshow-customers">
+  <section class="slideshow-customers customer-container" id="showcase-key-">
       <button id="left-slide"><i class="fas fa-chevron-left"></i></button>
       <div class="slide">
         <div id="slideshow">
@@ -426,6 +472,7 @@
       </div>
       <button id="right-slide"><i class="fas fa-chevron-right"></i></button>
         <script>
+          (function(){
           const customerimages = [
             
               {
@@ -469,13 +516,14 @@
               },
             
           ],
-          slideshow = document.querySelector('#slideshow'),
+          parent = document.querySelector("#showcase-key-"),
+          slideshow = parent.querySelector('#slideshow'),
           customerlen = customerimages.length;
   
           let index = 0,
           isAnimating = false;
           customerimages.forEach((image, i) => {
-            slideshow.innerHTML += `<img class="single-slide ${i > 3 ? 'shrink' : ''}" src="${i < 4 ? image.src : "none"}" data-index="${i}" data-src="${image.src}" alt="${image.alt}"/>`
+            slideshow.innerHTML += `<img class="single-slide-customer ${i > 3 ? 'shrink' : ''}" src="${i < 4 ? image.src : "none"}" data-index="${i}" data-src="${image.src}" alt="${image.alt}"/>`
           });
 
           function findIndex(directionalPoints){
@@ -490,34 +538,31 @@
           function left(){
             if(isAnimating) return;
             isAnimating = true;
-            if(document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).src !== document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).getAttribute('data-src')){
-              document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).src = document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).getAttribute('data-src')
+            if(parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).src !== parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).getAttribute('data-src')){
+              parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).src = parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).getAttribute('data-src')
             }
-            document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`)
-            document.querySelector(`.single-slide[data-index="${findIndex(3)}"]`).classList.add('shrink');
-            document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).style.order =  Number(document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).style.order) - 1;
-            document.querySelector(`.single-slide[data-index="${findIndex(-1)}"]`).classList.remove('shrink');
-            setTimeout(() => {
-              index = findIndex(-1);
-              isAnimating = false;
-            },500)
+            parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`)
+            parent.querySelector(`.single-slide-customer[data-index="${findIndex(3)}"]`).classList.add('shrink');
+            parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).style.order =  Number(parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).style.order) - 1;
+            parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).classList.remove('shrink');
+            index = findIndex(-1);
+            isAnimating = false;
           }
           function right(){
             if(isAnimating) return;
             isAnimating = true
-            if(document.querySelector(`.single-slide[data-index="${findIndex(4)}`).src !== document.querySelector(`.single-slide[data-index="${findIndex(4)}"]`).getAttribute('data-src')){
-              document.querySelector(`.single-slide[data-index="${findIndex(4)}"]`).src = document.querySelector(`.single-slide[data-index="${findIndex(4)}"]`).getAttribute('data-src')
+            if(parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}`).src !== parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).getAttribute('data-src')){
+              parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).src = parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).getAttribute('data-src')
             }
-            document.querySelector(`.single-slide[data-index="${index}"]`).classList.add('shrink');
-            document.querySelector(`.single-slide[data-index="${index}"]`).style.order =  Number(document.querySelector(`.single-slide[data-index="${index}"]`).style.order) + 1
-            document.querySelector(`.single-slide[data-index="${findIndex(4)}"]`).classList.remove('shrink');
-            setTimeout(() => {
-              index = findIndex(1);
-              isAnimating = false
-            },500)
+            parent.querySelector(`.single-slide-customer[data-index="${index}"]`).classList.add('shrink');
+            parent.querySelector(`.single-slide-customer[data-index="${index}"]`).style.order =  Number(parent.querySelector(`.single-slide-customer[data-index="${index}"]`).style.order) + 1
+            parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).classList.remove('shrink');
+            index = findIndex(1);
+            isAnimating = false
           }
-          document.querySelector('#left-slide').addEventListener('click' , left, true);
-          document.querySelector('#right-slide').addEventListener('click' , right, true);
+          parent.querySelector('#left-slide').addEventListener('click' , left, true);
+          parent.querySelector('#right-slide').addEventListener('click' , right, true);
+        })()
         </script>
       </div>
     </div>

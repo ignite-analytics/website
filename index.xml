@@ -183,11 +183,20 @@
     </item>
     
     <item>
-      <title>Arkwright</title>
+      <title>Quotes</title>
       <link>https://ignite.no/ignite-analytics/quotes/</link>
       <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
       
       <guid>https://ignite.no/ignite-analytics/quotes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quotes</title>
+      <link>https://ignite.no/ignite-services/services-quotes/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://ignite.no/ignite-services/services-quotes/</guid>
       <description></description>
     </item>
     
@@ -663,6 +672,15 @@ Norway</description>
       <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
       
       <guid>https://ignite.no/ignite-analytics/companies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VI HAR ERFARING FRA</title>
+      <link>https://ignite.no/om-oss/experience/</link>
+      <pubDate>Wed, 20 Feb 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://ignite.no/om-oss/experience/</guid>
       <description></description>
     </item>
     
