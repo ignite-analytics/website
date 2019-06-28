@@ -558,12 +558,12 @@
  
   </div>
   <section class="slideshow-customers customer-container" id="showcase-key-trust">
-      <button id="left-slide"><i class="fas fa-chevron-left"></i></button>
+      <button id="left-slide" role="button" name="slideshow-left"><i class="fas fa-chevron-left"></i></button>
       <div class="slide">
         <div id="slideshow">
         </div>
       </div>
-      <button id="right-slide"><i class="fas fa-chevron-right"></i></button>
+      <button id="right-slide" role="button" name="slideshow-right"><i class="fas fa-chevron-right"></i></button>
         <script>
           (function(){
           const customerimages = [
@@ -641,7 +641,7 @@
           let index = 0,
           isAnimating = false;
           customerimages.forEach((image, i) => {
-            slideshow.innerHTML += `<img class="single-slide-customer ${i > 3 ? 'shrink' : ''}" src="${i < 4 ? image.src : "none"}" data-index="${i}" data-src="${image.src}" alt="${image.alt}"/>`
+            slideshow.innerHTML += `<img class="single-slide-customer ${i > 3 ? 'shrink' : ''}" src="${i < 4 ? image.src : '//:0'}" data-index="${i}" data-src="${image.src}" alt="${image.alt}"/>`
           });
 
           function findIndex(directionalPoints){
