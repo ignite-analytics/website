@@ -31,7 +31,6 @@ $dark-blue-secondary: #18243f;
 @import "footer.scss";
 @import "services.scss";
 
-@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap");
 html {
   font-size: 18px;
   background: none;
@@ -166,7 +165,7 @@ h3.modalheading {
   margin: 0 auto;
 }
 .tittel-line {
-  stroke: 2px-solid #eee;
+  stroke: 2px solid #eee;
   width: 100%;
 }
 .modal-footer {

@@ -99,7 +99,9 @@
   }
   .single-slide-customer, .single-slide{
     width: 25vw !important;
+    margin-left: -webkit-calc(-webkit-calc(75vw / 2) - 15px);
     margin-left: calc(calc(75vw / 2) - 15px) !important;
+    margin-right: -webkit-calc(-webkit-calc(75vw / 2) - 15px) !important;
     margin-right: calc(calc(75vw / 2) - 15px) !important;
   }
   #left-slide, #right-slide{
