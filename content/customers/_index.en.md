@@ -44,6 +44,9 @@ customers:
         logo: "/images/customers/snåsa.png"
         title: "Snåsa"
     -
+        logo: "/images/customers/verdal.png"
+        title: "Verdal"
+    -
         logo: "/images/customers/eqt.svg"
         title: "EQT"
     -
