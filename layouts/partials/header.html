@@ -55,25 +55,15 @@
                   <span class="bottom"></span>
                 </div>
                 
-                <div class="overlay" id="overlay">
-                    <script>
-                        document.querySelector('#toggle').addEventListener('click', (e) => {
-                            e.target.classList.toggle('active');
-                            document.querySelector('#overlay').classList.toggle('open')
-                        })
-                        document.querySelector('.dropdown-submenu').addEventListener('click', (e) => {
-                            e.stopPropagation()
-                        })
-                    </script>     
+                <div class="overlay" id="overlay">     
                     <nav class="overlay-menu">
                       <ul class="overlay-list">
 
 
                     {{range .Site.Menus.content }}
                         {{if .HasChildren}}
-                        <li class='overlay-list-item dropdown {{.Pre}}'>
-                                <a class="nav-reg dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-                                    aria-expanded="false">
+                        <li class='overlay-list-item drop {{.Pre}}'>
+                                <a class="nav-reg drop-toggle" href="#" role="button" data-toggle="dropdown-choice">
                                     {{ .Title }}
                                 </a>
                                 <div class="dropdown-submenu " >
@@ -110,4 +100,27 @@
 
 
     </div>
+    <script>        
+        (function(){
+            document.querySelector('#toggle').addEventListener('click', (e) => {
+                e.target.classList.toggle('active');
+                document.querySelector('#overlay').classList.toggle('open')
+            })
+            document.querySelector('.dropdown-submenu').addEventListener('click', (e) => {
+                e.stopPropagation()
+            })
+            document.querySelectorAll('.drop-toggle').forEach(d => d.addEventListener('click', (e) => {
+                if(e.target.parentNode.classList.contains('activenav')){
+                    e.target.parentNode.classList.remove('activenav')
+                }else{
+                    if(document.querySelector('.activenav')) {
+                        document.querySelector('.activenav').classList.remove('activenav')
+                    }
+                    e.target.parentNode.classList.add('activenav')
+                }
+                
+            }))   
+        })()
+        
+    </script>
 </nav>

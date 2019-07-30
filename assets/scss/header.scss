@@ -379,23 +379,6 @@ a.language {
   color: #fff !important;
   text-decoration: none;
 }
-.overlay ul li a:hover:after,
-.overlay ul li a:focus:after,
-.overlay ul li a:active:after {
-  width: 100%;
-}
-.overlay ul li a:after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  width: 0%;
-  -webkit-transform: translateX(-50%);
-  transform: translateX(-50%);
-  height: 3px;
-  background: $dark;
-  transition: 0.5s;
-}
 
 .menu-card {
   width: 100%;
@@ -434,35 +417,20 @@ a.nav-reg {
 .overlay-menu .onlyfooter{
   display:none;
 }
-.overlay-list-item.dropdown:hover .dropdown-submenu{
-  height:auto;
-  padding-bottom: 1em;
+.overlay-list-item.drop.activenav .dropdown-submenu{
+  width: 100%;
+  height:100%;
+  visibility: visible;
+  opacity: 1;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
 }
-.overlay-list-item:hover ~ .overlay-list-item a{
-  pointer-events:none !important;
-}
-.overlay-list-item.dropdown:active .dropdown-submenu{
-  height:auto;
-  padding-bottom: 1em;
-}
-.overlay-list-item.dropdown a:after{
-  transition: visibility 0s;
-  position:initial;
-  vertical-align: initial;
-
-}
-.overlay-list-item.dropdown:hover a:after{
-  visibility: hidden;
-  position:initial;
-  vertical-align: initial;
-  display:none;
-}
-.overlay-list-item.dropdown .dropdown-submenu{
+.overlay-list-item.drop .dropdown-submenu{
   display:block;
   height:0;
-  transition: all .3s ease;
   box-shadow: none !important;
   background:$dark !important;
+  transition:all .2s ease;
 }
 .language-list {
   margin-left: 1em;
