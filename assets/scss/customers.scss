@@ -31,12 +31,12 @@
     }
     & .fas.fa-chevron-left{
       transform:translateX(-2px) !important;
-      -webkit-transform: translateX(-2px) !important;
+      -webkit-transform: translate3d(-2px,0,0) !important;
       -ms-transform: translateX(-2px) !important;
     }
     & .fas.fa-chevron-right{
       transform:translateX(2px) !important;
-      -webkit-transform: translateX(2px) !important;
+      -webkit-transform: translate3d(2px,0,0) !important;
       -ms-transform: translateX(2px) !important;
     }
   }
