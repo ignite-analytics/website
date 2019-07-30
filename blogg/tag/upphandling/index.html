@@ -16,7 +16,7 @@
   
   <link
     rel="stylesheet"
-    href="/style.min.2f963dd16ce20bffda80182c50fd702f9037abc106f6217dcb06412c29f25919.css"
+    href="/style.min.038d29b5052f27762a8e5550a4d56cc6acda44e41527a127db085772d60f1d60.css"
   />
 
   <title>
@@ -185,16 +185,7 @@
                   <span class="bottom"></span>
                 </div>
                 
-                <div class="overlay" id="overlay">
-                    <script>
-                        document.querySelector('#toggle').addEventListener('click', (e) => {
-                            e.target.classList.toggle('active');
-                            document.querySelector('#overlay').classList.toggle('open')
-                        })
-                        document.querySelector('.dropdown-submenu').addEventListener('click', (e) => {
-                            e.stopPropagation()
-                        })
-                    </script>     
+                <div class="overlay" id="overlay">     
                     <nav class="overlay-menu">
                       <ul class="overlay-list">
 
@@ -207,10 +198,9 @@
                         
                     
                         
-                        <li class='overlay-list-item dropdown '>
-                                <a class="nav-reg dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-                                    aria-expanded="false">
-                                    Andre tjenester
+                        <li class='overlay-list-item drop '>
+                                <a class="nav-reg drop-toggle" href="#" role="button" data-toggle="dropdown-choice">
+                                    Andre tjenester <span class="arrdown">▾</span>
                                 </a>
                                 <div class="dropdown-submenu " >
                                     
@@ -223,10 +213,9 @@
                         
                     
                         
-                        <li class='overlay-list-item dropdown '>
-                                <a class="nav-reg dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-                                    aria-expanded="false">
-                                    Blogg
+                        <li class='overlay-list-item drop '>
+                                <a class="nav-reg drop-toggle" href="#" role="button" data-toggle="dropdown-choice">
+                                    Blogg <span class="arrdown">▾</span>
                                 </a>
                                 <div class="dropdown-submenu " >
                                     
@@ -243,10 +232,9 @@
                         
                     
                         
-                        <li class='overlay-list-item dropdown '>
-                                <a class="nav-reg dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-                                    aria-expanded="false">
-                                    Selskapet
+                        <li class='overlay-list-item drop '>
+                                <a class="nav-reg drop-toggle" href="#" role="button" data-toggle="dropdown-choice">
+                                    Selskapet <span class="arrdown">▾</span>
                                 </a>
                                 <div class="dropdown-submenu " >
                                     
@@ -302,6 +290,29 @@
 
 
     </div>
+    <script>        
+        (function(){
+            document.querySelector('#toggle').addEventListener('click', (e) => {
+                e.target.classList.toggle('active');
+                document.querySelector('#overlay').classList.toggle('open')
+            })
+            document.querySelector('.dropdown-submenu').addEventListener('click', (e) => {
+                e.stopPropagation()
+            })
+            document.querySelectorAll('.drop-toggle').forEach(d => d.addEventListener('click', (e) => {
+                if(e.target.parentNode.classList.contains('activenav')){
+                    e.target.parentNode.classList.remove('activenav')
+                }else{
+                    if(document.querySelector('.activenav')) {
+                        document.querySelector('.activenav').classList.remove('activenav')
+                    }
+                    e.target.parentNode.classList.add('activenav')
+                }
+                
+            }))   
+        })()
+        
+    </script>
 </nav>
 
     <div class="nav-padding" id="content">
