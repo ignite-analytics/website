@@ -283,6 +283,9 @@ h4.arrow2 {
 /** NEWSLETTER**/
 .newsletter {
   text-align: center;
+  &.sertifisering img {
+    margin:3em auto 0 auto;
+  }
 }
 
 .social-media-icons {
@@ -303,6 +306,15 @@ h4.arrow2 {
     text-align: left;
     list-style-type: none;
     margin-left: 10%;
+  }
+  &.sertifisering ul{
+    text-align: left;
+    list-style-type: disc;
+    margin-left: 10%;
+    font-size: 0.9em;
+  }
+  &.sertifisering {
+    margin:2em auto;
   }
 }
 .newsletter-content ul li {
