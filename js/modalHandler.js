@@ -106,7 +106,7 @@
     }
   }
   $(document).ready(function() {
-    document.querySelectorAll(".modal").forEach(m => {
+    document.querySelectorAll(".modal").forEach(function(m){
       let id = m.getAttribute("id");
       $(`#${id}`).on("shown.bs.modal", e => {
         let t = e.target;
@@ -132,4 +132,5 @@
       });
     });
   });
+
 })();

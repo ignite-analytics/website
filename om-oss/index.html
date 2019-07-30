@@ -745,96 +745,94 @@
         </div>
       </div>
       <button id="right-slide" role="button" name="slideshow-right"><i class="fas fa-chevron-right"></i></button>
-        <script>
-          (function(){
-          const customerimages = [
-            
-              {
-                src: 'https:\/\/ignite.no\/images\/experience\/bcg.png',
-                alt: 'Boston Consulting Group',
-              },
-            
-              {
-                src: 'https:\/\/ignite.no\/images\/experience\/pwc.png',
-                alt: 'PWC',
-              },
-            
-              {
-                src: 'https:\/\/ignite.no\/images\/experience\/kearney.png',
-                alt: 'AT Kearney',
-              },
-            
-              {
-                src: 'https:\/\/ignite.no\/images\/experience\/rystad.png',
-                alt: 'Rystad Energy',
-              },
-            
-              {
-                src: 'https:\/\/ignite.no\/images\/experience\/nhh.png',
-                alt: 'Norges Handelshøyskole',
-              },
-            
-              {
-                src: 'https:\/\/ignite.no\/images\/experience\/ntnu.png',
-                alt: 'Norges teknisk-naturvitenskapelige universitet',
-              },
-            
-              {
-                src: 'https:\/\/ignite.no\/images\/experience\/harvard.png',
-                alt: 'Harvard University',
-              },
-            
-          ],
-          parent = document.querySelector("#showcase-key-experience"),
-          slideshow = parent.querySelector('#slideshow'),
-          customerlen = customerimages.length;
-  
-          let index = 0,
-          isAnimating = false;
-          customerimages.forEach((image, i) => {
-            slideshow.innerHTML += `<img class="single-slide-customer ${i > 3 ? 'shrink' : ''}" src="${i < 4 ? image.src : '//:0'}" data-index="${i}" data-src="${image.src}" alt="${image.alt}"/>`
-          });
+      <script>
+        (function(){
+        const customerimages = [
+          
+            {
+              src: 'https:\/\/ignite.no\/images\/experience\/bcg.png',
+              alt: 'Boston Consulting Group',
+            },
+          
+            {
+              src: 'https:\/\/ignite.no\/images\/experience\/pwc.png',
+              alt: 'PWC',
+            },
+          
+            {
+              src: 'https:\/\/ignite.no\/images\/experience\/kearney.png',
+              alt: 'AT Kearney',
+            },
+          
+            {
+              src: 'https:\/\/ignite.no\/images\/experience\/rystad.png',
+              alt: 'Rystad Energy',
+            },
+          
+            {
+              src: 'https:\/\/ignite.no\/images\/experience\/nhh.png',
+              alt: 'Norges Handelshøyskole',
+            },
+          
+            {
+              src: 'https:\/\/ignite.no\/images\/experience\/ntnu.png',
+              alt: 'Norges teknisk-naturvitenskapelige universitet',
+            },
+          
+            {
+              src: 'https:\/\/ignite.no\/images\/experience\/harvard.png',
+              alt: 'Harvard University',
+            },
+          
+        ],
+        parent = document.querySelector("#showcase-key-experience"),
+        slideshow = parent.querySelector('#slideshow'),
+        customerlen = customerimages.length;
 
-          function findIndex(directionalPoints){
-            let i = index,
-            negative = directionalPoints < 0;
-            for(var y = Math.abs(directionalPoints); y > 0; y--){
-              if(negative){ i = i === 0 ? customerlen-1 : i-1 }
-              else{ i = i === customerlen-1 ? 0 : i + 1}
-            }
-            return i;
+        let index = 0,
+        isAnimating = false;
+        customerimages.forEach((image, i) => {
+          slideshow.innerHTML += `<img class="single-slide-customer ${i > 3 ? 'shrink' : ''}" src="${i < 4 ? image.src : '//:0'}" data-index="${i}" data-src="${image.src}" alt="${image.alt}"/>`
+        });
+
+        function findIndex(directionalPoints){
+          let i = index,
+          negative = directionalPoints < 0;
+          for(var y = Math.abs(directionalPoints); y > 0; y--){
+            if(negative){ i = i === 0 ? customerlen-1 : i-1 }
+            else{ i = i === customerlen-1 ? 0 : i + 1}
           }
-          function left(){
-            if(isAnimating) return;
-            isAnimating = true;
-            if(parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).src !== parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).getAttribute('data-src')){
-              parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).src = parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).getAttribute('data-src')
-            }
-            parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`)
-            parent.querySelector(`.single-slide-customer[data-index="${findIndex(3)}"]`).classList.add('shrink');
-            parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).style.order =  Number(parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).style.order) - 1;
-            parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).classList.remove('shrink');
-            index = findIndex(-1);
-            isAnimating = false;
+          return i;
+        }
+        function left(){
+          if(isAnimating) return;
+          isAnimating = true;
+          if(parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).src !== parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).getAttribute('data-src')){
+            parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).src = parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).getAttribute('data-src')
           }
-          function right(){
-            if(isAnimating) return;
-            isAnimating = true
-            if(parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}`).src !== parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).getAttribute('data-src')){
-              parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).src = parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).getAttribute('data-src')
-            }
-            parent.querySelector(`.single-slide-customer[data-index="${index}"]`).classList.add('shrink');
-            parent.querySelector(`.single-slide-customer[data-index="${index}"]`).style.order =  Number(parent.querySelector(`.single-slide-customer[data-index="${index}"]`).style.order) + 1
-            parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).classList.remove('shrink');
-            index = findIndex(1);
-            isAnimating = false
+          parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`)
+          parent.querySelector(`.single-slide-customer[data-index="${findIndex(3)}"]`).classList.add('shrink');
+          parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).style.order =  Number(parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).style.order) - 1;
+          parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).classList.remove('shrink');
+          index = findIndex(-1);
+          isAnimating = false;
+        }
+        function right(){
+          if(isAnimating) return;
+          isAnimating = true
+          if(parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}`).src !== parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).getAttribute('data-src')){
+            parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).src = parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).getAttribute('data-src')
           }
-          parent.querySelector('#left-slide').addEventListener('click' , left, true);
-          parent.querySelector('#right-slide').addEventListener('click' , right, true);
-        })()
-        </script>
-      </div>
-    </div>
+          parent.querySelector(`.single-slide-customer[data-index="${index}"]`).classList.add('shrink');
+          parent.querySelector(`.single-slide-customer[data-index="${index}"]`).style.order =  Number(parent.querySelector(`.single-slide-customer[data-index="${index}"]`).style.order) + 1
+          parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).classList.remove('shrink');
+          index = findIndex(1);
+          isAnimating = false
+        }
+        parent.querySelector('#left-slide').addEventListener('click' , left, true);
+        parent.querySelector('#right-slide').addEventListener('click' , right, true);
+      })()
+      </script>
   </section>
   
   
@@ -863,91 +861,89 @@
         </div>
       </div>
       <button id="right-slide" role="button" name="slideshow-right"><i class="fas fa-chevron-right"></i></button>
-        <script>
-          (function(){
-          const customerimages = [
-            
-              {
-                src: 'https:\/\/ignite.no\/images\/customers\/keyforce.png',
-                alt: 'Keyforce',
-              },
-            
-              {
-                src: 'https:\/\/ignite.no\/images\/customers\/tiger-consulting.png',
-                alt: 'Tiger Consulting',
-              },
-            
-              {
-                src: 'https:\/\/ignite.no\/images\/partners\/in.svg',
-                alt: 'Innovasjon Norge',
-              },
-            
-              {
-                src: 'https:\/\/ignite.no\/images\/customers\/google-cloud.png',
-                alt: 'Google Cloud',
-              },
-            
-              {
-                src: 'https:\/\/ignite.no\/images\/partners\/startuplab.svg',
-                alt: 'Startup Lab',
-              },
-            
-              {
-                src: 'https:\/\/ignite.no\/images\/customers\/forskningsr%C3%A5det.png',
-                alt: 'Forskningsrådet',
-              },
-            
-          ],
-          parent = document.querySelector("#showcase-key-partners"),
-          slideshow = parent.querySelector('#slideshow'),
-          customerlen = customerimages.length;
-  
-          let index = 0,
-          isAnimating = false;
-          customerimages.forEach((image, i) => {
-            slideshow.innerHTML += `<img class="single-slide-customer ${i > 3 ? 'shrink' : ''}" src="${i < 4 ? image.src : '//:0'}" data-index="${i}" data-src="${image.src}" alt="${image.alt}"/>`
-          });
+      <script>
+        (function(){
+        const customerimages = [
+          
+            {
+              src: 'https:\/\/ignite.no\/images\/customers\/keyforce.png',
+              alt: 'Keyforce',
+            },
+          
+            {
+              src: 'https:\/\/ignite.no\/images\/customers\/tiger-consulting.png',
+              alt: 'Tiger Consulting',
+            },
+          
+            {
+              src: 'https:\/\/ignite.no\/images\/partners\/in.svg',
+              alt: 'Innovasjon Norge',
+            },
+          
+            {
+              src: 'https:\/\/ignite.no\/images\/customers\/google-cloud.png',
+              alt: 'Google Cloud',
+            },
+          
+            {
+              src: 'https:\/\/ignite.no\/images\/partners\/startuplab.svg',
+              alt: 'Startup Lab',
+            },
+          
+            {
+              src: 'https:\/\/ignite.no\/images\/customers\/forskningsr%C3%A5det.png',
+              alt: 'Forskningsrådet',
+            },
+          
+        ],
+        parent = document.querySelector("#showcase-key-partners"),
+        slideshow = parent.querySelector('#slideshow'),
+        customerlen = customerimages.length;
 
-          function findIndex(directionalPoints){
-            let i = index,
-            negative = directionalPoints < 0;
-            for(var y = Math.abs(directionalPoints); y > 0; y--){
-              if(negative){ i = i === 0 ? customerlen-1 : i-1 }
-              else{ i = i === customerlen-1 ? 0 : i + 1}
-            }
-            return i;
+        let index = 0,
+        isAnimating = false;
+        customerimages.forEach((image, i) => {
+          slideshow.innerHTML += `<img class="single-slide-customer ${i > 3 ? 'shrink' : ''}" src="${i < 4 ? image.src : '//:0'}" data-index="${i}" data-src="${image.src}" alt="${image.alt}"/>`
+        });
+
+        function findIndex(directionalPoints){
+          let i = index,
+          negative = directionalPoints < 0;
+          for(var y = Math.abs(directionalPoints); y > 0; y--){
+            if(negative){ i = i === 0 ? customerlen-1 : i-1 }
+            else{ i = i === customerlen-1 ? 0 : i + 1}
           }
-          function left(){
-            if(isAnimating) return;
-            isAnimating = true;
-            if(parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).src !== parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).getAttribute('data-src')){
-              parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).src = parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).getAttribute('data-src')
-            }
-            parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`)
-            parent.querySelector(`.single-slide-customer[data-index="${findIndex(3)}"]`).classList.add('shrink');
-            parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).style.order =  Number(parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).style.order) - 1;
-            parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).classList.remove('shrink');
-            index = findIndex(-1);
-            isAnimating = false;
+          return i;
+        }
+        function left(){
+          if(isAnimating) return;
+          isAnimating = true;
+          if(parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).src !== parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).getAttribute('data-src')){
+            parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).src = parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).getAttribute('data-src')
           }
-          function right(){
-            if(isAnimating) return;
-            isAnimating = true
-            if(parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}`).src !== parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).getAttribute('data-src')){
-              parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).src = parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).getAttribute('data-src')
-            }
-            parent.querySelector(`.single-slide-customer[data-index="${index}"]`).classList.add('shrink');
-            parent.querySelector(`.single-slide-customer[data-index="${index}"]`).style.order =  Number(parent.querySelector(`.single-slide-customer[data-index="${index}"]`).style.order) + 1
-            parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).classList.remove('shrink');
-            index = findIndex(1);
-            isAnimating = false
+          parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`)
+          parent.querySelector(`.single-slide-customer[data-index="${findIndex(3)}"]`).classList.add('shrink');
+          parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).style.order =  Number(parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).style.order) - 1;
+          parent.querySelector(`.single-slide-customer[data-index="${findIndex(-1)}"]`).classList.remove('shrink');
+          index = findIndex(-1);
+          isAnimating = false;
+        }
+        function right(){
+          if(isAnimating) return;
+          isAnimating = true
+          if(parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}`).src !== parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).getAttribute('data-src')){
+            parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).src = parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).getAttribute('data-src')
           }
-          parent.querySelector('#left-slide').addEventListener('click' , left, true);
-          parent.querySelector('#right-slide').addEventListener('click' , right, true);
-        })()
-        </script>
-      </div>
-    </div>
+          parent.querySelector(`.single-slide-customer[data-index="${index}"]`).classList.add('shrink');
+          parent.querySelector(`.single-slide-customer[data-index="${index}"]`).style.order =  Number(parent.querySelector(`.single-slide-customer[data-index="${index}"]`).style.order) + 1
+          parent.querySelector(`.single-slide-customer[data-index="${findIndex(4)}"]`).classList.remove('shrink');
+          index = findIndex(1);
+          isAnimating = false
+        }
+        parent.querySelector('#left-slide').addEventListener('click' , left, true);
+        parent.querySelector('#right-slide').addEventListener('click' , right, true);
+      })()
+      </script>
   </section>
   
     
