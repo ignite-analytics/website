@@ -302,23 +302,6 @@
   
   
   <url>
-    <loc>https://ignite.no/team/sander/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/team/sander/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/team/sander/"
-                />
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/team/rikard/</loc>
     <lastmod>2018-12-16T14:24:18+01:00</lastmod>
     <xhtml:link
@@ -652,6 +635,14 @@
   
   
   <url>
+    <loc>https://ignite.no/blogg/tag/ignite-analytics/</loc>
+    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/blogg/innsikt/</loc>
     <lastmod>2019-05-29T14:20:54+00:00</lastmod>
     <priority>0</priority>
@@ -668,14 +659,6 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/forhandlinger/</loc>
-    <lastmod>2019-05-29T14:20:54+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/ignite-analytics/</loc>
     <lastmod>2019-05-29T14:20:54+00:00</lastmod>
     <priority>0</priority>
   </url>
