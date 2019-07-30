@@ -33,6 +33,9 @@ customers:
         logo: "/images/customers/levanger.png"
         title: "Levanger"
     -
+        logo: "/images/customers/verdal.png"
+        title: "Verdal"
+    -
         logo: "/images/customers/inderøy.png"
         title: "Inderøy"
     -

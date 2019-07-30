@@ -25,7 +25,4 @@ customers:
     -
         logo: "/images/customers/jottacloud.png"
         title: "Jottacloud"
-    -
-        logo: "/images/customers/bergene-holm.png"
-        title: "Bergene Holm"
 ---
