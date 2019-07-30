@@ -17,13 +17,14 @@
     line-height:1.8em;
     font-size:1.8em;
     height:1.8em;
-    width:1.8em;
+    width:1.8em !important;
+    overflow:hidden;
     cursor:pointer;
     display:flex;
     justify-items: center;
     align-content: center;
     & .fas.fa-chevron-left, & .fas.fa-chevron-right{
-      width:1.8em;
+      width:1.8em !important;
       box-sizing:border-box;
       color:  rgba(24,36,63,0.8);
       margin-right: 0;
