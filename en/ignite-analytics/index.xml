@@ -30,25 +30,7 @@
     </item>
     
     <item>
-      <title>Analyze. Get deep insight into your spend</title>
-      <link>https://ignite.no/en/ignite-analytics/item1/</link>
-      <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
-      
-      <guid>https://ignite.no/en/ignite-analytics/item1/</guid>
-      <description>  Flexible categorization  Automated spend analysis  Custom analysis and dashboards  </description>
-    </item>
-    
-    <item>
-      <title>Follow-up. Track spend development</title>
-      <link>https://ignite.no/en/ignite-analytics/item4/</link>
-      <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
-      
-      <guid>https://ignite.no/en/ignite-analytics/item4/</guid>
-      <description>  KPI dashboards  Contract management  Custom reports  </description>
-    </item>
-    
-    <item>
-      <title>Implement. Execute improvement measures</title>
+      <title>Execute improvement measures</title>
       <link>https://ignite.no/en/ignite-analytics/item3/</link>
       <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
       
@@ -57,12 +39,30 @@
     </item>
     
     <item>
-      <title>Prioritize. Identify opportunities and risks</title>
+      <title>Get deep insight into your spend</title>
+      <link>https://ignite.no/en/ignite-analytics/item1/</link>
+      <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
+      
+      <guid>https://ignite.no/en/ignite-analytics/item1/</guid>
+      <description>  Flexible categorization  Automated spend analysis  Custom analysis and dashboards  </description>
+    </item>
+    
+    <item>
+      <title>Identify opportunities and risks</title>
       <link>https://ignite.no/en/ignite-analytics/item2/</link>
       <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
       
       <guid>https://ignite.no/en/ignite-analytics/item2/</guid>
       <description>  Financial supplier information  Analyze opportunities  Risk analysis  </description>
+    </item>
+    
+    <item>
+      <title>Track spend development</title>
+      <link>https://ignite.no/en/ignite-analytics/item4/</link>
+      <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
+      
+      <guid>https://ignite.no/en/ignite-analytics/item4/</guid>
+      <description>  KPI dashboards  Contract management  Custom reports  </description>
     </item>
     
   </channel>

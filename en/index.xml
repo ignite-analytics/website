@@ -6,7 +6,7 @@
     <description>Recent content on Ignite Procurement - Unlock the power of strategic procurement made digital </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Feb 2019 13:09:05 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 Feb 2019 12:09:05 +0000</lastBuildDate>
     
 	<atom:link href="https://ignite.no/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -482,15 +482,6 @@ Norway</description>
     </item>
     
     <item>
-      <title>Analyze. Get deep insight into your spend</title>
-      <link>https://ignite.no/en/ignite-analytics/item1/</link>
-      <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
-      
-      <guid>https://ignite.no/en/ignite-analytics/item1/</guid>
-      <description>  Flexible categorization  Automated spend analysis  Custom analysis and dashboards  </description>
-    </item>
-    
-    <item>
       <title>And much more </title>
       <link>https://ignite.no/en/ignite-services/item8/</link>
       <pubDate>Sun, 16 Dec 2018 15:31:35 +0100</pubDate>
@@ -536,12 +527,30 @@ Norway</description>
     </item>
     
     <item>
-      <title>Follow-up. Track spend development</title>
-      <link>https://ignite.no/en/ignite-analytics/item4/</link>
+      <title>Execute improvement measures</title>
+      <link>https://ignite.no/en/ignite-analytics/item3/</link>
       <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
       
-      <guid>https://ignite.no/en/ignite-analytics/item4/</guid>
-      <description>  KPI dashboards  Contract management  Custom reports  </description>
+      <guid>https://ignite.no/en/ignite-analytics/item3/</guid>
+      <description>  Supplier overview  Negotiation packages  eTenders  </description>
+    </item>
+    
+    <item>
+      <title>Get deep insight into your spend</title>
+      <link>https://ignite.no/en/ignite-analytics/item1/</link>
+      <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
+      
+      <guid>https://ignite.no/en/ignite-analytics/item1/</guid>
+      <description>  Flexible categorization  Automated spend analysis  Custom analysis and dashboards  </description>
+    </item>
+    
+    <item>
+      <title>Identify opportunities and risks</title>
+      <link>https://ignite.no/en/ignite-analytics/item2/</link>
+      <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
+      
+      <guid>https://ignite.no/en/ignite-analytics/item2/</guid>
+      <description>  Financial supplier information  Analyze opportunities  Risk analysis  </description>
     </item>
     
     <item>
@@ -551,15 +560,6 @@ Norway</description>
       
       <guid>https://ignite.no/en/modals/video/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Implement. Execute improvement measures</title>
-      <link>https://ignite.no/en/ignite-analytics/item3/</link>
-      <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
-      
-      <guid>https://ignite.no/en/ignite-analytics/item3/</guid>
-      <description>  Supplier overview  Negotiation packages  eTenders  </description>
     </item>
     
     <item>
@@ -605,15 +605,6 @@ Norway</description>
       
       <guid>https://ignite.no/en/tittel/partners-tittel/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Prioritize. Identify opportunities and risks</title>
-      <link>https://ignite.no/en/ignite-analytics/item2/</link>
-      <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
-      
-      <guid>https://ignite.no/en/ignite-analytics/item2/</guid>
-      <description>  Financial supplier information  Analyze opportunities  Risk analysis  </description>
     </item>
     
     <item>
@@ -677,6 +668,15 @@ Norway</description>
       
       <guid>https://ignite.no/en/ignite-academy/tips/</guid>
       <description>Read our tips and tricks</description>
+    </item>
+    
+    <item>
+      <title>Track spend development</title>
+      <link>https://ignite.no/en/ignite-analytics/item4/</link>
+      <pubDate>Sun, 16 Dec 2018 14:31:35 +0000</pubDate>
+      
+      <guid>https://ignite.no/en/ignite-analytics/item4/</guid>
+      <description>  KPI dashboards  Contract management  Custom reports  </description>
     </item>
     
     <item>
