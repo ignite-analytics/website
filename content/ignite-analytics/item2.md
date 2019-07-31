@@ -1,5 +1,7 @@
 ---
-title: Prioritize. Identifiser muligheter og risikoer
+title:  Identifiser muligheter og risikoer
+keyword: Prioritize.
+color:  "#3C6FE9"
 description:
   Med intelligent databerikelse kan du umiddelbart identifisere de største
   mulighetene og risikoene i din leverandørbase

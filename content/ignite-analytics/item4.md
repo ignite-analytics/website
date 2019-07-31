@@ -1,5 +1,7 @@
 ---
-title: Follow-up. Følg opp utviklingen i innkjøpet
+title:  Følg opp utviklingen i innkjøpet
+keyword: Follow-up.
+color:  "#3C6FE9"
 description:
   KPIer og avtalestyring gir deg alt du trenger for å systematisk følge
   opp kjøpet, leverandører og avtaler over tid

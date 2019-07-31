@@ -1,5 +1,7 @@
 ---
 title: Analyze. Få dyp innsikt i innkjøpet ditt
+keyword: Analyze.
+color:  "#3C6FE9"
 description:
   På få minutter gir Ignite Analytics deg full oversikt over innkjøpets
   sammensetning og utvikling

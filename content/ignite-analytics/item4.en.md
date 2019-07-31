@@ -1,5 +1,7 @@
 ---
-title: Follow-up. Track spend development
+title:  Track spend development
+keyword: Follow-up.
+color:  "#3C6FE9"
 description:
   KPIs and contract management provides you with all you need to systematically
   track spend, suppliers and contracts

@@ -1,5 +1,7 @@
 ---
 title: Implement. Gjennomfør forbedringstiltak
+keyword: Implement.
+color:  "#3C6FE9"
 description:
   "Reforhandlinger og forespørselsprosesser basert på en velprøvd tilnærming
   er klare til å implementeres - enkelt og effektivt "

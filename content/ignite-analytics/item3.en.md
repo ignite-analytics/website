@@ -1,5 +1,7 @@
 ---
-title: Implement. Execute improvement measures
+title:  Execute improvement measures
+keyword: Implement.
+color:  "#3C6FE9"
 description:
   Renegotiations and tender processes based on a battle-proven approach
   are ready for efficient implementation

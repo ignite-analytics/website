@@ -6,7 +6,7 @@
   </div>
 
   <div class="content-txt p-2 flex-fill bd-highlight">
-    <h3>{{ .Params.title }}</h3>
+    <h3><span style='{{if isset .Params "color"}}color: {{.Params.color}}{{end}}'>{{if isset .Params "keyword"}}{{ .Params.keyword }}{{end}}</span> {{ .Params.title }}</h3>
     <h4>{{ .Description }}</h4>
     {{.Content}}
   </div>
