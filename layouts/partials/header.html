@@ -30,7 +30,7 @@
                                 {{ range .Site.Languages }}
                                     {{ if not ( eq . $.Site.Language )}}
                                         {{ range $.Translations }}
-                                            <a href="{{ .Permalink }}" class="nav-link language">{{ .Language.LanguageName }}</a>
+                                            <a href="{{ .Permalink }}" class="nav-link language"><img src="/images/{{ .Language.LanguageName }}.svg" alt="Flag {{ .Language.LanguageName }}"/></a>
                                         {{ end }}
                                     {{ end }}
                                 {{ end }}
@@ -84,7 +84,7 @@
                             {{ if eq . $.Site.Language }}
                             {{ else }}
                             {{ range $.Translations }}
-                                    <a href="{{ .Permalink }}" class="nav-link language">{{ .Language.LanguageName }}</a>
+                                    <a href="{{ .Permalink }}" class="nav-link language"><img src="/images/{{ .Language.LanguageName }}.svg" alt="Flag {{ .Language.LanguageName }}"/></a>
                                     {{ end }}
                                 {{ end }}
                                 {{ end }}

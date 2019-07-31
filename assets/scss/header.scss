@@ -167,7 +167,11 @@ a.language {
   display: inline-block;
   color: $blue !important;
   font-size: 14px;
-
+  & img {
+    width:25px;
+    max-width:25px;
+    height:auto;
+  }
   &.nav-link:hover {
     color: $white !important;
     background: $dark-blue;
@@ -357,18 +361,20 @@ a.language {
   text-align: center;
 }
 .overlay ul {
+  display:flex;
+  flex-direction:column;
+  justify-content:space-around;
   list-style: none;
   padding: 0;
   margin: 0 auto;
-  display: inline-block;
   position: relative;
-  /*     height: 65%; */
-  height: 100%;
+  height: calc(100% - 80px);
   width: 100%;
 }
 .overlay ul li {
   display: block;
-  margin-top: 0.5em;
+  margin: 0;
+  width:100%;
   min-height: auto;
   position: relative;
   opacity: 1;
@@ -424,6 +430,10 @@ a.nav-reg {
   opacity: 1;
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
+  & ul {
+    opacity:1;
+    transform:translateY(0)
+  }
 }
 .overlay-list-item.drop .dropdown-submenu{
   display:block;
@@ -431,10 +441,15 @@ a.nav-reg {
   box-shadow: none !important;
   background:$dark !important;
   transition:all .2s ease;
+  & ul{
+    opacity:0;
+    transform:translateY(10px);
+    transition:all .2s ease;
+  }
 }
 .arrdown{
-  font-size: 0.7em;
-  opacity:0.4;
+  font-size: 1em;
+  opacity:1
 }
 .language-list {
   margin-left: 1em;
