@@ -23,8 +23,8 @@
       }
     }
   }
-  @media (max-width: 992px) {
-    .container {
+  @media screen and (max-width: 1200px) {
+    & .container {
       width: 0;
       margin: 0;
     }
