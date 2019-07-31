@@ -560,6 +560,24 @@
   
   
   
+  <url>
+    <loc>https://ignite.no/en/ty/</loc>
+    <lastmod>2019-02-20T12:09:05+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/ty/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/ty/"
+                />
+  </url>
+  
+  
+  
   
   
   <url>
@@ -696,8 +714,6 @@
                 href="https://ignite.no/en/ignite-academy/maler/"
                 />
   </url>
-  
-  
   
   
   
