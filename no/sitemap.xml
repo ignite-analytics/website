@@ -1547,6 +1547,23 @@
   
   
   <url>
+    <loc>https://ignite.no/ignite-analytics/item3/</loc>
+    <lastmod>2018-12-16T14:31:35+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/ignite-analytics/item3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/ignite-analytics/item3/"
+                />
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/ignite-analytics/item2/</loc>
     <lastmod>2018-12-16T14:31:35+00:00</lastmod>
     <xhtml:link
@@ -1626,23 +1643,6 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://ignite.no/ignite-services/"
-                />
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/ignite-analytics/item3/</loc>
-    <lastmod>2018-12-16T14:31:35+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/ignite-analytics/item3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/ignite-analytics/item3/"
                 />
   </url>
   
