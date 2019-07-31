@@ -17,26 +17,41 @@
             ],
             s = document.querySelector('#partner-images'),
             len = images.length;
+            
             images.forEach((image, i) => {
                 s.innerHTML += `<img class="single-slide ${i > 3 ? 'shrink' : ''}" data-index="${i}" src="${image.src}" alt="${image.alt}"/>`
             });
-            let firstQuote = null;
+            let firstQuote = null,
+                quoteInterval = null,
+                currentQuote = 0;
             const quoteMaker = (slide) => {
+                if(slide === false){
+                    let tempIndex = currentQuote !== (len - 1) ? currentQuote + 1 : 0;
+                    slide = s.querySelectorAll('.single-slide')[tempIndex]
+                }else{
+                    clearInterval(quoteInterval);
+                    quoteInterval = setInterval(() => quoteMaker(false),10000)
+                }
+
                 let quote = images[slide.getAttribute('data-index')];
+                currentQuote = Number(slide.getAttribute('data-index'));
+                s.querySelectorAll('.single-slide').forEach(slide=> slide.classList.remove('activequote'))
+                slide.classList.add('activequote')
                 document.querySelector('#customerquote').innerHTML = quote.quote;
                 if(quote.person !== ""){
-                document.querySelector('#quoteBy').innerHTML = quote.person;
-            }
-        }
-        document.querySelectorAll('.single-slide').forEach(slide => {
-        if(images[slide.getAttribute('data-index')].quote !== ""){
-            if(!firstQuote){ firstQuote = slide; quoteMaker(slide)}
+                    document.querySelector('#quoteBy').innerHTML = quote.person;
+                }
 
-        slide.addEventListener('mouseover', () => {quoteMaker(slide)});
-        }
+            }
+            quoteInterval = setInterval(() => quoteMaker(false),10000)
+        s.querySelectorAll('.single-slide').forEach(slide => {
+            if(images[slide.getAttribute('data-index')].quote !== ""){
+                if(!firstQuote){ firstQuote = slide; quoteMaker(slide)}
+                slide.addEventListener('mouseover', () => {quoteMaker(slide)});
+            }
         })
         if(firstQuote === null){
-        document.querySelector('.quotes').style.display = "none";
+            document.querySelector('.quotes').style.display = "none";
         }
-    </script>
+   </script>
 </section>
