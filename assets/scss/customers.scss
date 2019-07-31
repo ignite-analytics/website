@@ -21,14 +21,10 @@
     overflow:hidden;
     cursor:pointer;
     display:flex;
-    justify-items: center;
-    align-content: center;
     & .fas.fa-chevron-left, & .fas.fa-chevron-right{
-      width:1.8em !important;
+      margin:auto;
       box-sizing:border-box;
       color:  rgba(24,36,63,0.8);
-      margin-right: 0;
-      margin-left:0 ;
     }
     & .fas.fa-chevron-left{
       transform:translateX(-2px) !important;
