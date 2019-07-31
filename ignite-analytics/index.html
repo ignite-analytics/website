@@ -39,7 +39,7 @@
   
   <link
     rel="stylesheet"
-    href="/style.min.2eb943a6697e41d54a746f913b5c758d1f330fd9b15e32d530bcd00e6b0b1bf2.css"
+    href="/style.min.7145ef391a4ac7215470c2ddac5c5ed3ab27e9061783cf9378459e9f4663a33d.css"
   />
   <link
     rel="stylesheet"
@@ -366,28 +366,43 @@
             ],
             s = document.querySelector('#partner-images'),
             len = images.length;
+            
             images.forEach((image, i) => {
                 s.innerHTML += `<img class="single-slide ${i > 3 ? 'shrink' : ''}" data-index="${i}" src="${image.src}" alt="${image.alt}"/>`
             });
-            let firstQuote = null;
+            let firstQuote = null,
+                quoteInterval = null,
+                currentQuote = 0;
             const quoteMaker = (slide) => {
+                if(slide === false){
+                    let tempIndex = currentQuote !== (len - 1) ? currentQuote + 1 : 0;
+                    slide = s.querySelectorAll('.single-slide')[tempIndex]
+                }else{
+                    clearInterval(quoteInterval);
+                    quoteInterval = setInterval(() => quoteMaker(false),10000)
+                }
+
                 let quote = images[slide.getAttribute('data-index')];
+                currentQuote = Number(slide.getAttribute('data-index'));
+                s.querySelectorAll('.single-slide').forEach(slide=> slide.classList.remove('activequote'))
+                slide.classList.add('activequote')
                 document.querySelector('#customerquote').innerHTML = quote.quote;
                 if(quote.person !== ""){
-                document.querySelector('#quoteBy').innerHTML = quote.person;
-            }
-        }
-        document.querySelectorAll('.single-slide').forEach(slide => {
-        if(images[slide.getAttribute('data-index')].quote !== ""){
-            if(!firstQuote){ firstQuote = slide; quoteMaker(slide)}
+                    document.querySelector('#quoteBy').innerHTML = quote.person;
+                }
 
-        slide.addEventListener('mouseover', () => {quoteMaker(slide)});
-        }
+            }
+            quoteInterval = setInterval(() => quoteMaker(false),10000)
+        s.querySelectorAll('.single-slide').forEach(slide => {
+            if(images[slide.getAttribute('data-index')].quote !== ""){
+                if(!firstQuote){ firstQuote = slide; quoteMaker(slide)}
+                slide.addEventListener('mouseover', () => {quoteMaker(slide)});
+            }
         })
         if(firstQuote === null){
-        document.querySelector('.quotes').style.display = "none";
+            document.querySelector('.quotes').style.display = "none";
         }
-    </script>
+   </script>
 </section>
         
 </section>
@@ -926,7 +941,6 @@
                                 portalId: "4304957",
                                 formId:  "96ba9b93-a175-4a67-aaeb-b787ee63797c"  
                             });
-                            console.log('%c💪Opp å nikke!💪','font-weight:bold; font-size: 2em;color:#18243f;font-family: Roboto, Georgia, sans-serif');
                         });
                         
                         </script>
