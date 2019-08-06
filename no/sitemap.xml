@@ -1878,22 +1878,5 @@
   
   
   
-  <url>
-    <loc>https://ignite.no/seksjoner/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/seksjoner/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/seksjoner/"
-                />
-  </url>
-  
-  
-  
   
 </urlset>
