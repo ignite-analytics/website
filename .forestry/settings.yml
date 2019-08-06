@@ -68,38 +68,6 @@ sections:
   create: all
   match: "**/*"
 - type: heading
-  label: Komponenter
-- type: directory
-  path: content/footer
-  label: Footer
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/quote
-  label: Quote
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/tittel
-  label: Tittel
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/navbar
-  label: Navbar
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/modals
-  label: Modals
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/contactform
-  label: Contactform
-  create: all
-  match: "**/*"
-- type: heading
   label: Om Oss
 - type: directory
   path: content/om-oss
@@ -136,6 +104,38 @@ sections:
 - type: directory
   path: content/main-services
   label: Main services
+  create: all
+  match: "**/*"
+- type: heading
+  label: Komponenter
+- type: directory
+  path: content/footer
+  label: Footer
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/quote
+  label: Quote
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tittel
+  label: Tittel
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/navbar
+  label: Navbar
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/modals
+  label: Modals
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/contactform
+  label: Contactform
   create: all
   match: "**/*"
 upload_dir: static/images
