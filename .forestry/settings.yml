@@ -100,20 +100,10 @@ sections:
   create: all
   match: "**/*"
 - type: heading
-  label: Side-innhold
-- type: directory
-  path: content/team
-  label: Team
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/seksjoner
-  label: Seksjoner
-  create: all
-  match: "**/*"
+  label: Om Oss
 - type: directory
   path: content/sertifisering
-  label: Sertifisering
+  label: sertifisering
   create: all
   match: "**/*"
 - type: directory
@@ -122,8 +112,15 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/newsletter
-  label: Newsletter
+  path: content/services
+  label: Services
+  create: all
+  match: "**/*"
+- type: heading
+  label: Side-innhold
+- type: directory
+  path: content/team
+  label: Team
   create: all
   match: "**/*"
 - type: directory
@@ -132,23 +129,23 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/karrierebanner
-  label: Karrierebanner
-  create: all
-  match: "**/*"
-- type: directory
   path: content/main-services
   label: Main services
   create: all
   match: "**/*"
 - type: directory
-  path: content/main-buttons
-  label: Main buttons
+  path: content/newsletter
+  label: Newsletter
   create: all
   match: "**/*"
 - type: directory
-  path: content/services
-  label: Services
+  path: content/karrierebanner
+  label: Karrierebanner
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/main-buttons
+  label: Main buttons
   create: all
   match: "**/*"
 upload_dir: static/images
