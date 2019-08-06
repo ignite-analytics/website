@@ -78,10 +78,10 @@ fields:
   label: Språk
   description: Velg srpåk
 pages:
+- content/ty/newsletter.en.md
 - content/ty/innkjøpsvirkemidler.md
 - content/ty/innkjøpsprosjekt.md
 - content/ty/skreddersydde-kurs.md
-- content/ty/newsletter.en.md
 - content/ty/nyhetsbrev.md
 - content/ty/category-strategy-li.en.md
 - content/ty/customized-courses.en.md

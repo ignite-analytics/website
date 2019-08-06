@@ -5,7 +5,7 @@ gotourl = ""
 header = "THANK YOU!"
 hidden = true
 lang = "en"
-subdescription = "In the future you will receive news, updates and tips from us directly to your inbox"
+subdescription = "You will shortly receive a confirmation email. Be sure to check if the email has ended up in your junk mail and to whitelist our email in order to receive future newsletters"
 title = "Newsletter"
 type = ""
 
