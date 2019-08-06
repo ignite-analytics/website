@@ -29,7 +29,7 @@ sections:
   label: Sider
 - type: directory
   path: content/header
-  label: Header
+  label: Homepage top content
   create: all
   match: "**/*"
 - type: directory
