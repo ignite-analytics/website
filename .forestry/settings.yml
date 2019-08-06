@@ -102,11 +102,6 @@ sections:
 - type: heading
   label: Side-innhold
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
   path: content/team
   label: Team
   create: all
@@ -124,11 +119,6 @@ sections:
 - type: directory
   path: content/partners
   label: Partners
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/kategoristrategi
-  label: Kategoristrategi
   create: all
   match: "**/*"
 - type: directory
