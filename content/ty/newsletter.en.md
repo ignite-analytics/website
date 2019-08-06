@@ -1,6 +1,6 @@
 +++
 color = "analytics"
-description = "You have just signed up for our newsletters and will shortly receive a confirmation email"
+description = "You have just signed up for our newsletters and will shortly receive an email confirmation"
 gotourl = ""
 header = "THANK YOU!"
 hidden = true
