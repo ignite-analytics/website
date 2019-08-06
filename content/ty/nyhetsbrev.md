@@ -1,6 +1,6 @@
 +++
 color = "analytics"
-description = "Du har nettopp meldt deg på vårt nyhetsbrev og vil i løpet av kort tid motta en bekreftelse på e-post"
+description = "Du har nettopp meldt deg på vårt nyhetsbrev og vil i løpet av kort tid motta en bekreftelse per e-post"
 gotourl = ""
 header = "TUSEN TAKK!"
 hidden = true
