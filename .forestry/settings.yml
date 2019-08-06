@@ -12,47 +12,10 @@ sections:
   create: all
   match: "**/*"
 - type: heading
-  label: Komponenter
-- type: directory
-  path: content/footer
-  label: Footer
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/quote
-  label: Quote
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/tittel
-  label: Tittel
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/navbar
-  label: Navbar
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/modals
-  label: Modals
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/contactform
-  label: Contactform
-  create: all
-  match: "**/*"
-- type: heading
   label: Landingsside
 - type: directory
   path: content/demo
   label: Demo
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/produktinformasjon
-  label: Produktinformasjon
   create: all
   match: "**/*"
 - type: directory
@@ -102,6 +65,38 @@ sections:
 - type: directory
   path: content/karriere
   label: Karriere
+  create: all
+  match: "**/*"
+- type: heading
+  label: Komponenter
+- type: directory
+  path: content/footer
+  label: Footer
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/quote
+  label: Quote
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tittel
+  label: Tittel
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/navbar
+  label: Navbar
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/modals
+  label: Modals
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/contactform
+  label: Contactform
   create: all
   match: "**/*"
 - type: heading
