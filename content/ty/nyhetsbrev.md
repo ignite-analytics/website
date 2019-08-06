@@ -5,7 +5,7 @@ gotourl = ""
 header = "TUSEN TAKK!"
 hidden = true
 lang = "no"
-subdescription = "Husk å sjekke om e-posten er havnet i søppelposten din og ikke glem å hvitliste e-posten vår for å motta nyhetsbrevene"
+subdescription = "Husk å sjekke om e-posten er havnet i søppelposten din, og ikke glem å hvitliste e-posten vår for å motta nyhetsbrevene"
 title = "Nyhetsbrev"
 type = ""
 
