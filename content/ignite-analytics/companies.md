@@ -32,7 +32,7 @@ customers:
   title: Verran
 - logo: "/images/customers/snåsa.png"
   title: Snåsa
-- logo: "/images/Indre_Ostfold_kommune.png"
+- logo: "/images/Indre-Ostfold-kommune.png"
   title: Indre Østfold kommune
 
 ---
