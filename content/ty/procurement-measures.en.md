@@ -1,10 +1,12 @@
 +++
 color = "academy"
-description = "You can download the template via the link below"
-gotourl = "bit.ly/procurementmeasures"
+description = "You will shortly receive an email with the requested template attached"
+gotourl = ""
 header = "THANK YOU!"
 hidden = true
 lang = "en"
+subdescription = "Be sure to check if the email has ended up in your junk mail"
 title = "Procurement measures"
+type = ""
 
 +++
