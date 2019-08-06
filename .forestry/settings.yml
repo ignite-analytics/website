@@ -53,11 +53,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/om-oss
-  label: Om oss
-  create: all
-  match: "**/*"
-- type: directory
   path: content/personvernerklæring
   label: Personvernerklæring
   create: all
@@ -101,6 +96,11 @@ sections:
   match: "**/*"
 - type: heading
   label: Om Oss
+- type: directory
+  path: content/om-oss
+  label: Om oss
+  create: all
+  match: "**/*"
 - type: directory
   path: content/sertifisering
   label: sertifisering
