@@ -6,6 +6,7 @@ description: Få mer informasjon om funksjonaliteten i Ignite Analytics og hvord
   plattformen kan hjelpe deg og din virksomhet
 image: "/images/IA Dashboard in Frame - v2.png"
 url: "/ignite-analytics/produktinformasjon/"
+type: "demo"
 subcontent:
   item1:
     image: "/images/infographics/oversikt.svg"
