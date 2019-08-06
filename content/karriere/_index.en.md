@@ -2,6 +2,7 @@
 title: "We are growing"
 
 date: 2018-12-16T15:31:35+01:00
+description: 'Ignite Procurement is growing and we want to get in touch with potential employees.'
 draft: false
 image: "/images/infographics/work.svg"
 ---
