@@ -13,10 +13,10 @@ Flere innkjøpsorganisasjoner bruker mye tid og ressurser på både behovsplanle
 
 ![](/images/Avtalestyring.png "Avtalestyring")
 
-{{% figure 
-    src="$https://www.ignite.no/images/Avtalestyring.png" 
-    alt="$FIGURE_ALT" 
-    caption="$FIGURE_CAPTION" 
+{{% figure
+src="https://www.ignite.no/images/Avtalestyring.png"
+alt="FIGURE_ALT"
+caption="FIGURE_CAPTION"
 %}}
 
 #### Hvorfor er avtaleoppfølging så viktig?
