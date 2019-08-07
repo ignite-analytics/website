@@ -12,7 +12,9 @@ title = "Kontraktsoppfølging er kritisk for å realisere gevinster"
 +++
 Flere innkjøpsorganisasjoner bruker mye tid og ressurser på både behovsplanlegging og konkurransegjennomføring – begge kritiske aktiviteter i anskaffelsesprosessen. En annen viktig aktivitet, som vi ofte opplever at det fokuseres for lite på, er løpende oppfølging av avtalene etter at konkurransen er gjennomført og kontrakten er signert.
 
-#### **Hvorfor er avtaleoppfølging så viktig?**
+![](/images/Avtalestyring.png "Avtalestyring")
+
+#### Hvorfor er avtaleoppfølging så viktig?
 
 Det finnes flere momenter som tydeliggjør viktigheten av å følge opp avtalene dine, hvor vi gjerne vil trekke frem følgende eksempler:
 
@@ -22,7 +24,7 @@ Det finnes flere momenter som tydeliggjør viktigheten av å følge opp avtalene
 * Dele avtaleinformasjon og -vilkår på tvers av organisasjonen og relevante brukere
 * Maksimere avtalelojalitet i virksomheten og sikre gevinstrealisering
 
-**Systematisk oppfølging av avtalene dine med Ignite Analytics**
+### Systematisk oppfølging av avtalene dine med Ignite Analytics
 
 Et innkjøp følger typisk en underliggende avtale. For å sikre en best mulig avtaleoppfølging, er det derfor særs viktig at innkjøpsdataen sees i sammenheng med de ulike avtalene. Med Ignite Analytics legger vi til rette for en systematisk oppfølging gjennom en integrert avtalestyringsmodul. I Ignite Analytics kan dere blant annet enkelt:
 
