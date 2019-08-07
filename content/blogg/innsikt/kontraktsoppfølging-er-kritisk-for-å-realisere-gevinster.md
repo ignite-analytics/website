@@ -30,6 +30,8 @@ Det finnes flere momenter som tydeliggjør viktigheten av å følge opp avtalene
 * Dele avtaleinformasjon og -vilkår på tvers av organisasjonen og relevante brukere
 * Maksimere avtalelojalitet i virksomheten og sikre gevinstrealisering
 
+![](/images/Ignite Analytics - Avtalestyring.png "Ignite Analytics - Avtalestyring")
+
 ### Systematisk oppfølging av avtalene dine med Ignite Analytics
 
 Et innkjøp følger typisk en underliggende avtale. For å sikre en best mulig avtaleoppfølging, er det derfor særs viktig at innkjøpsdataen sees i sammenheng med de ulike avtalene. Med Ignite Analytics legger vi til rette for en systematisk oppfølging gjennom en integrert avtalestyringsmodul. I Ignite Analytics kan dere blant annet enkelt:
