@@ -24,6 +24,10 @@ Som en del av forarbeidet til å etablere en innkjøpsfunksjon bør det definere
 
 Vi anbefaler at innkjøpsavdelingen i store- og mellomstore selskaper arbeider basert på prinsippene for **kategoristyring**. [Kategoristyring](https://www.ignite.no/blogg/innsikt/en-praktisk-tiln%C3%A6rming-til-kategoristyring/) innebærer at man jobber systematisk innenfor hver innkjøpskategori for å finne tiltak som reduserer totalkostnaden i hele verdikjeden. Arbeidsmetodikken fokuserer på å implementere nytenking og resultatforbedrende tiltak, utover det tradisjonelle innkjøpsarbeidet med fokus på avtaler og pris. Kategoriene utarbeides basert på [egenskapene i leverandørmarkedet](https://www.ignite.no/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur/). Personene i innkjøpsorganisasjonen arbeider med sine dedikerte kategorier. Kategorilederen er ansvarlig for å utarbeide og implementere en [kategoristrategi](https://www.ignite.no/blogg/innsikt/dette-trenger-du-til-en-aksjonsbasert-kategoristrategi/) for hver kategori som er i tråd med virksomhetens overordnede mål.
 
+![Maler for kategoristrategi](/images/Mal kategoristrategi_.png "Maler for kategoristrategi")
+
+_Trenger du en mal for å utarbeide kategoristrategier? Last ned vår_ [_her_](https://www.ignite.no/ignite-academy/maler/kategoristrategi/)**_._**
+
 #### 4. Invester i innkjøpsfunksjonen
 
 En tommelfingerregel innenfor innkjøp er at en velfungerende innkjøpsavdeling kan bidra til årlig verdiskapning på minst 3 % av kostnadsbasen. Tar vi ta utgangspunkt i at totale kostnader for en innkjøper er rundt 1 MNOK i året inkl. lønn og sosiale utgifter, må hver innkjøper minimum være ansvarlig for en kostnadsbase på 33,33 MNOK for å «dekke» sine kostnader. I praksis vil hver innkjøper ha ansvar for en større kostnadsbase, spesielt for store selskaper. Vår generelle erfaring er det [investeres for lite i innkjøpsfunksjonen](https://www.ignite.no/blogg/innsikt/det-investeres-for-lite-i-innkj%C3%B8psfunksjonen/) relativt til andre funksjoner i selskapet. Det er imidlertid vanskelig å komme med konkrete råd på dette punktet uten en nærmere forståelse av de bransje- og selskapsspesifikke forholdene.
@@ -32,11 +36,11 @@ En tommelfingerregel innenfor innkjøp er at en velfungerende innkjøpsavdeling 
 
 Å sikre riktig **kompetanse** i innkjøpsavdelingen er kritisk for at den skal gi tilsiktet effekt. Vi anbefaler derfor at det utarbeides en kravspesifikasjon på alle stillinger som man ser for seg i avdelingen. En del egenskaper må innkjøpsavdelingen samlet sett inneha for at den skal kunne fungere hensiktsmessig. Evnen til å samarbeide med resten av organisasjonen er en slik egenskap, det samme er analytiske ferdigheter og kommersiell forståelse. Desto mindre innkjøpsavdelingen er, jo viktigere er det at alle personene i avdelingene har en bred profil. I større avdelinger kan man tåle at noen har en mer spisset på utvalgte egenskaper. For eksempel vil det for en større innkjøpsavdeling gi stor verdi å ha en innkjøpscontroller med spesialkompetanse innen analyse.
 
-_Les mer om hvilke_ [_kompetanseområder vi mener er kritiske_]() _for å hente ut det fulle innkjøpspotensialet._
+_Les mer om hvilke_ [_kompetanseområder vi mener er kritiske_](https://www.ignite.no/blogg/innsikt/innkj%C3%B8p-et-uforl%C3%B8st-potensial-i-ditt-selskap/) _for å hente ut det fulle innkjøpspotensialet._
 
 #### 6. Bruk gode verktøy
 
-Gode **verktøy** er også en kritisk suksessfaktor for å sikre en velfungerende innkjøpsavdeling. Slike verktøy kan kompensere for både begrenset kapasitet og kompetanse - og kan til og med øke kompetansen. Innkjøpsavdelingen bør ha tilgang til et verktøy som støtter hele den strategiske innkjøpsprosessen. Det finnes flere verktøy på markedet som støtter denne prosessen, men problemet er at de fleste fokuserer kun på utvalgte deler av prosessen. Gode innkjøpsverktøy er typisk en mindre investering som kan løfte virksomheten din til nye høyder.
+Gode **verktøy** er også en kritisk suksessfaktor for å sikre en velfungerende innkjøpsavdeling. Slike verktøy kan kompensere for både begrenset kapasitet og kompetanse - og kan til og med øke kompetansen. Innkjøpsavdelingen bør ha tilgang til et verktøy som støtter hele den [strategiske innkjøpsprosessen](https://www.ignite.no/blogg/innsikt/hvordan-skape-verdier-gjennom-strategisk-innkj%C3%B8p/). Det finnes flere verktøy på markedet som støtter denne prosessen, men problemet er at de fleste fokuserer kun på utvalgte deler av prosessen. Gode innkjøpsverktøy er typisk en mindre investering som kan løfte virksomheten din til nye høyder.
 
 Ignite Analytics er et webbasert verktøy som støtter hele den strategiske innkjøpsprosessen og bidrar til at innkjøpsfunksjonen skaper verdi langt utover kostnadene.
 
