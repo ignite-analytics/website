@@ -76,6 +76,7 @@ fields:
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
 pages:
+- content/blogg/nyheter/ignite-lanserer-ny-versjon-av-plattform-for-strategisk-innkjøp.md
 - content/blogg/innsikt/kontraktsoppfølging-er-kritisk-for-å-realisere-gevinster.md
 - content/blogg/innsikt/dette-trenger-du-til-en-aksjonsbasert-kategoristrategi.md
 - content/blogg/nyheter/stortingsmelding-om-offentlige-anskaffelser - digitalisering-og-profesjonalisering.md
@@ -88,7 +89,6 @@ pages:
 - content/blogg/innsikt/bruk-data-til-å-ta-gode-faktabaserte-beslutninger.md
 - content/blogg/nyheter/autostore-enters-into-an-agreement-for-the-use-of-ignite-analytics.md
 - content/blogg/cases/reforhandling - et-undervurdert-strategisk-virkemiddel.md
-- content/blogg/nyheter/ignite-lanserer-ny-versjon-av-plattform-for-strategisk-innkjøp.md
 - content/blogg/nyheter/nye-moduler-i-ignite-analytics.md
 - content/blogg/nyheter/effektivare-offentlig-upphandling-mer-nytta-för-pengarna.md
 - content/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur.md
