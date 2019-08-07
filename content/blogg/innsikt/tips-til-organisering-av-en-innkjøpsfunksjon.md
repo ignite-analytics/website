@@ -36,12 +36,12 @@ _Les mer om hvilke_ [_kompetanseområder vi mener er kritiske_]() _for å hente 
 
 #### 6. Bruk gode verktøy
 
-Gode **verktøy** er også en kritisk suksessfaktor for å sikre en velfungerende innkjøpsavdeling. Innkjøpsavdelingen bør ha tilgang til et verktøy som støtter hele [innkjøpsprosessen]() - fra analyse til oppfølging av kjøpet over tid. Det finnes flere verktøy på markedet som støtter disse prosessene, men de fleste fokuserer kun på utvalgte deler av prosessen. 
+Gode **verktøy** er også en kritisk suksessfaktor for å sikre en velfungerende innkjøpsavdeling. Slike verktøy kan kompensere for både begrenset kapasitet og kompetanse — og kan til og med øke kompetansen. Innkjøpsavdelingen bør ha tilgang til et verktøy som støtter hele [innkjøpsprosessen](). Det finnes flere verktøy på markedet som støtter denne prosessen, men problemet er at de fleste fokuserer kun på utvalgte deler av prosessen. Gode innkjøpsverktøy er typisk en mindre investering som kan løfte virksomheten din til nye høyder. 
 
-For å bistå våre kunder har vi utviklet Ignite Analytics - en webbasert verktøy som støtter hele den strategiske innkjøpsprosessen - som sikrer at innkjøpsfunksjonen skaper verdi langt utover kostnadene.
+Ignite Analytics støtter hele den strategiske innkjøpsprosessen og bidrar til at innkjøpsfunksjonen skaper verdi langt utover kostnadene.
 
 ***
 
-_Ignite Analytics støtter hele den strategiske innkjøpsprosessen og er bygget basert på en kategoristyrt tilnærming til innkjøp. Oppdag kraften i strategisk innkjøp gjort digitalt!_
+_Prøv Ignite Analytics — så skal vi vise deg hvordan både økonomien og arbeidshverdagen din kan forbedres!_
 
 [![](https://cdn-images-1.medium.com/max/800/1*wNfW3gtCL-EO9XYJOYYSnQ.png)](https://www.ignite.no/ignite-analytics/demo/)
