@@ -4,13 +4,12 @@ categories = ["Innsikt"]
 date = "2019-05-29T15:11:08+00:00"
 draft = true
 image = ""
-ingress = "I forbindelse med prosjektene vi gjennomfører har vi også bistått i å bygge opp innkjøpsfunksjoner hos våre kunder. Basert på vår erfaring fra slike prosesser har vi her samlet noen konkrete tips som kan være til hjelp når man skal bygge en moderne innkjøpsfunksjon."
+ingress = "I forbindelse med prosjektene vi gjennomfører har vi også bistått i å bygge opp innkjøpsfunksjoner for våre kunder. Basert på vår erfaring har vi samlet noen konkrete tips som kan være til hjelp når man skal bygge en moderne innkjøpsfunksjon."
+showmainimg = false
 tags = []
 title = "Tips til organisering av en innkjøpsfunksjon"
 
 +++
-
-![](https://cdn-images-1.medium.com/max/800/1*UhN5P1x99JZJEERCOwJi8w.png)
 
 Som en del av forarbeidet til å etablere en innkjøpsfunksjon bør det defineres et tydelig **mandat** for avdelingen. Et slikt mandat bør inneholde overordnet funksjon, beslutningsmyndighet og nøkkelaktiviteter, samt hvilket nivå i organisasjonen avdelingen skal rapportere til. På det siste punktet er vår anbefaling at innkjøp sitter høyest mulig i organisasjonen, og helst at innkjøpssjefen sitter som en del av konsernledelsen. Bakgrunnen er at i de aller fleste selskapene er innkjøpskostnader den klart største kostnadsposten, og en dynamisk innkjøpsavdeling blir med det den viktigste bidragsyteren for å sikre konkurransedyktighet på kostnader. Som vi skal komme tilbake til er innkjøp en svært tverrfaglig rolle som må jobbe tett med ulike roller i både ledelsen og linjen, og det er derfor svært viktig at de har «plass ved bordet» for å kunne bidra til verdiskapningen.
 
@@ -20,7 +19,7 @@ Videre anbefaler vi for store- og mellomstore selskaper at innkjøpsavdelingen a
 
 ![](https://cdn-images-1.medium.com/max/800/1*4-DPDYMiddTot4H49P1Wlw.png)
 
-En tommelfingerregel innenfor innkjøp er at en velfungerende innkjøpsavdeling kan bidra til årlig verdiskapning på rundt 3 % av kostnadsbasen. Tar vi ta utgangspunkt i at totale kostnader for en innkjøper er rundt 1 MNOK i året inkl. lønn og sosiale utgifter vil det si at hver innkjøper må minimum være ansvarlig for en kostnadsbase på 33,33 MNOK for å dekke sine kostnader. I praksis vil hver innkjøper ha ansvar for en større kostnadsbase, spesielt for store selskaper. Vår generelle erfaring at **norske selskaper underinvesterer i innkjøp**, relativt til andre funksjoner i selskapet. Det er imidlertid vanskelig å komme med konkrete råd på dette punktet uten en nærmere forståelse av de bransje- og selskapsspesifikke forholdene.
+En tommelfingerregel innenfor innkjøp er at en velfungerende innkjøpsavdeling kan bidra til årlig verdiskapning på rundt 3 % av kostnadsbasen. Tar vi ta utgangspunkt i at totale kostnader for en innkjøper er rundt 1 MNOK i året inkl. lønn og sosiale utgifter vil det si at hver innkjøper må minimum være ansvarlig for en kostnadsbase på 33,33 MNOK for å dekke sine kostnader. I praksis vil hver innkjøper ha ansvar for en større kostnadsbase, spesielt for store selskaper. Vår generelle erfaring er at **norske selskaper underinvesterer i innkjøp**, relativt til andre funksjoner i selskapet. Det er imidlertid vanskelig å komme med konkrete råd på dette punktet uten en nærmere forståelse av de bransje- og selskapsspesifikke forholdene.
 
 ![](https://cdn-images-1.medium.com/max/800/1*JRPViLxv0_dSoSA6TI0ZJA.jpeg)
 
@@ -28,4 +27,8 @@ En tommelfingerregel innenfor innkjøp er at en velfungerende innkjøpsavdeling 
 
 Riktige **verktøy** er også en kritisk suksessfaktor for å sikre en velfungerende innkjøpsavdeling. Innkjøpsavdelingen bør ha tilgang til et verktøy som støtter hele innkjøpsprosessen fra analyse og datauthenting til oppfølging av kjøpet over tid. Det finnes her flere verktøy på markedet som støtter disse prosessene, der de fleste fokuserer på en liten del av prosessen. For å bistå våre kunder har vi utviklet [Ignite Analytics](https://www.ignite.no/ignite-analytics/) som er et webbasert verktøy som skal støtte gjennom hele denne prosessen og sikre at innkjøpsfunksjonen skaper verdi langt utover kostnadene.
 
-![](https://cdn-images-1.medium.com/max/800/1*40IBRb4fkSOP_vJo_4wNtQ.png)
+***
+
+_Ignite Analytics støtter hele den strategiske anskaffelsesprosessen og er bygget basert på en kategoristyrt tilnærming til innkjøp. Oppdag kraften i strategisk innkjøp gjort digitalt!_
+
+[![](https://cdn-images-1.medium.com/max/800/1*wNfW3gtCL-EO9XYJOYYSnQ.png)](https://www.ignite.no/ignite-analytics/demo/)
