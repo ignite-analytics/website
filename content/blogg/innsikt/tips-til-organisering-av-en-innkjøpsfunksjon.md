@@ -30,18 +30,18 @@ En tommelfingerregel innenfor innkjøp er at en velfungerende innkjøpsavdeling 
 
 #### 5. Sikre riktig kompetanse
 
-Å sikre riktig **kompetanse** i innkjøpsavdelingen er kritisk for at den skal gi tilsiktet effekt. Vi anbefaler derfor at det utarbeides en kravspesifikasjon på alle stillinger som man ser for seg i avdelingen. En del egenskaper må innkjøpsavdelingen samlet sett inneha for at den skal kunne fungere hensiktsmessig. Evnen til å samarbeide med resten av organisasjonen er en slik egenskap, det samme er analytiske ferdigheter og kommersiell forståelse. Desto mindre innkjøpsavdelingen er, jo viktigere er det at alle personene i avdelingene har en bred profil. I større avdelinger kan man tåle at noen har en mer spisset på utvalgte egenskaper. For eksempel vil det for en større innkjøpsavdeling gi stor verdi å ha en innkjøpscontroller med spesialkompetanse innen analyse. 
+Å sikre riktig **kompetanse** i innkjøpsavdelingen er kritisk for at den skal gi tilsiktet effekt. Vi anbefaler derfor at det utarbeides en kravspesifikasjon på alle stillinger som man ser for seg i avdelingen. En del egenskaper må innkjøpsavdelingen samlet sett inneha for at den skal kunne fungere hensiktsmessig. Evnen til å samarbeide med resten av organisasjonen er en slik egenskap, det samme er analytiske ferdigheter og kommersiell forståelse. Desto mindre innkjøpsavdelingen er, jo viktigere er det at alle personene i avdelingene har en bred profil. I større avdelinger kan man tåle at noen har en mer spisset på utvalgte egenskaper. For eksempel vil det for en større innkjøpsavdeling gi stor verdi å ha en innkjøpscontroller med spesialkompetanse innen analyse.
 
 _Les mer om hvilke_ [_kompetanseområder vi mener er kritiske_]() _for å hente ut det fulle innkjøpspotensialet._
 
 #### 6. Bruk gode verktøy
 
-Gode **verktøy** er også en kritisk suksessfaktor for å sikre en velfungerende innkjøpsavdeling. Slike verktøy kan kompensere for både begrenset kapasitet og kompetanse — og kan til og med øke kompetansen. Innkjøpsavdelingen bør ha tilgang til et verktøy som støtter hele [innkjøpsprosessen](). Det finnes flere verktøy på markedet som støtter denne prosessen, men problemet er at de fleste fokuserer kun på utvalgte deler av prosessen. Gode innkjøpsverktøy er typisk en mindre investering som kan løfte virksomheten din til nye høyder. 
+Gode **verktøy** er også en kritisk suksessfaktor for å sikre en velfungerende innkjøpsavdeling. Slike verktøy kan kompensere for både begrenset kapasitet og kompetanse - og kan til og med øke kompetansen. Innkjøpsavdelingen bør ha tilgang til et verktøy som støtter hele den strategiske innkjøpsprosessen. Det finnes flere verktøy på markedet som støtter denne prosessen, men problemet er at de fleste fokuserer kun på utvalgte deler av prosessen. Gode innkjøpsverktøy er typisk en mindre investering som kan løfte virksomheten din til nye høyder.
 
-Ignite Analytics støtter hele den strategiske innkjøpsprosessen og bidrar til at innkjøpsfunksjonen skaper verdi langt utover kostnadene.
+Ignite Analytics er et webbasert verktøy som støtter hele den strategiske innkjøpsprosessen og bidrar til at innkjøpsfunksjonen skaper verdi langt utover kostnadene.
 
 ***
 
-_Prøv Ignite Analytics — så skal vi vise deg hvordan både økonomien og arbeidshverdagen din kan forbedres!_
+_Oppdag kraften i strategisk innkjøp gjort digitalt!_
 
 [![](https://cdn-images-1.medium.com/max/800/1*wNfW3gtCL-EO9XYJOYYSnQ.png)](https://www.ignite.no/ignite-analytics/demo/)
