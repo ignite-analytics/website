@@ -7,7 +7,7 @@ image = "/images/Innkjøpsfunksjon - seks til til organisering.png"
 ingress = "I forbindelse med prosjektene vi gjennomfører har vi bistått med å bygge opp innkjøpsfunksjoner for våre kunder. Basert på vår erfaring har vi samlet seks konkrete tips som kan være til hjelp når man skal bygge en moderne innkjøpsfunksjon."
 showmainimg = false
 tags = ["Innkjøpsfunksjon", "Organisering", "Mandat", "Forankring", "Kategoristyring", "Kompetanse", "Innkjøpsverktøy", "Ignite Analytics"]
-title = "Tips til organisering av en innkjøpsfunksjon"
+title = "Seks tips til organisering av en innkjøpsfunksjon"
 
 +++
 ![Seks tips til organisering av en innkjøpsfunksjon](/images/Innkjøpsfunksjon - seks til til organisering.png "Innkjøpsfunksjon")
@@ -26,7 +26,7 @@ Vi anbefaler at innkjøpsavdelingen i store- og mellomstore selskaper arbeider b
 
 ![Maler for kategoristrategi](/images/Mal kategoristrategi_.png "Maler for kategoristrategi")
 
-_Trenger du en mal for å utarbeide kategoristrategier? Last ned vår_ [_her_](https://www.ignite.no/ignite-academy/maler/kategoristrategi/)**_._**
+_Trenger du en mal for å utarbeide kategoristrategier? Last ned malen vår_ [_her_](https://www.ignite.no/ignite-academy/maler/kategoristrategi/)**_._**
 
 #### 4. Invester i innkjøpsfunksjonen
 
