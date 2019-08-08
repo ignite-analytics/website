@@ -21,7 +21,7 @@ Gründeren mener likevel at det fortsatt er et stort, uforløst potensial innenf
 
 > _Innkjøp som et strategisk fokusområde er fortsatt relativt «skjult under radaren». Vår erfaring er at virksomheter generelt nedprioriterer og forsømmer viktigheten avstrategisk innkjøp — selv om innkjøp utgjør størstedelen av kostnadsbasen, utdyper Sigbjørn Nome._
 
-![](https://cdn-images-1.medium.com/max/800/1*-sD3d7bQ53SNqbnbr1fRpQ.jpeg)
+![Lansering av Ignite 2.0](https://cdn-images-1.medium.com/max/800/1*-sD3d7bQ53SNqbnbr1fRpQ.jpeg "Lansering av Ignite 2.0")
 
 Torsdag 14. mars ble det invitert til offisiell lansering av Ignite 2.0. Der ble nyeste versjon av Ignite Analytics — en egenutviklet, webbasert løsning for strategisk innkjøp som hjelper kunder med å frigjøre tid og forbedre lønnsomheten — lansert. Lanseringen markerte videre oppdateringen grafisk profil med blant annet ny nettside og logoer.
 
@@ -29,13 +29,13 @@ Torsdag 14. mars ble det invitert til offisiell lansering av Ignite 2.0. Der ble
 
 > _Så langt har samarbeidet med Ignite resultert i 30 millioner kroner i årlige besparelser for OBOS-beboere. Vi gleder oss til det videre samarbeidet som skal gjøre det lettere for styremedlemmene å finne frem til seriøse og konkurransedyktige leverandører, sier Eiliv Mæhle Liljevik, avdelingsdirektør for strategi og IKT i OBOS._
 
-![Eiliv Mæhle Liljevik, avdelingsdirektør for strategi og IKT i OBOS](https://cdn-images-1.medium.com/max/800/1*xM80xtuw1l0bs9gfCYF7aw.jpeg)
+![Eiliv Mæhle Liljevik, avdelingsdirektør for strategi og IKT i OBOS](https://cdn-images-1.medium.com/max/800/1*xM80xtuw1l0bs9gfCYF7aw.jpeg "Eiliv Mæhle Liljevik")
 
 Samarbeidet med OBOS ble en realitet etter å ha vært en del av [StartupLab ](https://startuplab.no/)sitt akseleratorprogram, og påfølgende «matching» i forbindelse med MeetCorporates.
 
 > _På StartupLab gjør vi alt vi kan for å sikre at startup-selskaper lykkes — ved å gi selskapene tilgang til kompetanse, kapital, ansatte og mulige kunder. Samarbeidet mellom OBOS og Ignite er et godt eksempel på hva slike samarbeid kan lede til, og er veldig motiverende for oss og mange andre, sier Heidi Hopstock, Community Manager i StartupLab._
 
-![](https://cdn-images-1.medium.com/max/800/1*L9B7WLrgDv0altfv5SUPpg.jpeg)
+![Børge Langedal under lanseringsfesten](https://cdn-images-1.medium.com/max/800/1*L9B7WLrgDv0altfv5SUPpg.jpeg "Lansering av Ignite 2.0")
 
 Ignite har et klart mål om å hjelpe sine kunder til å bli «best i klassen» innenfor strategisk innkjøp.
 
