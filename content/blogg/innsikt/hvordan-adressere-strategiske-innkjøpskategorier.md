@@ -9,8 +9,7 @@ tags = ["kraljic-matrisen", "innkjøpskategori", "strategiske kategorier", "spes
 title = "Hvordan adressere strategiske innkjøpskategorier"
 
 +++
-
-![](https://cdn-images-1.medium.com/max/1200/1*XdkWq10bwvUUQ8SxoxsXYg.png)
+![Kraljic-matrisen og strategiske kategorier](https://cdn-images-1.medium.com/max/1200/1*XdkWq10bwvUUQ8SxoxsXYg.png "Kraljic-matrisen")
 
 ### Strategiske kategorier
 
@@ -20,7 +19,7 @@ Valg av innkjøpsvirkemidler er en sentral del av en helhetlig tilnærming til s
 
 _Skal du utarbeide en kategoristrategi, men er usikker på hvor du skal starte? Les våre_ [_seks enkle råd_](https://www.ignite.no/blogg/innsikt/dette-trenger-du-til-en-aksjonsbasert-kategoristrategi/) _for å utarbeide en aksjonsbasert kategoristrategi._
 
-![](https://cdn-images-1.medium.com/max/800/1*cjZf69MkEwvcwfIba5BsEA.png)
+![Innkjøpsvirkemidler](https://cdn-images-1.medium.com/max/800/1*cjZf69MkEwvcwfIba5BsEA.png "Innkjøpsvirkemidler")
 
 #### Forbedre spesifikasjoner
 
@@ -32,7 +31,7 @@ Det finnes flere tilfeller hvor det ikke er enkelt å endre spesifikasjonene for
 
 For å lykkes med en slik strategi er det helt essensielt med gjensidig tillit, samt full åpenhet om hvilke elementer som driver kostnadene. Sammen vil man da kunne bryte seg ned i de viktigste kostnadsdriverne og se på hvordan disse kan reduseres for å få ned totalkostnaden. I tillegg er det viktig at partene setter av tid og ressurser for å bidra inn i prosjektet. For å sikre riktige insentiver er det viktig at realiserte gevinster fordeles jevnt mellom alle parter i prosjektgjennomføringen.
 
----
+***
 
 _Vår plattform for strategisk innkjøp, Ignite Analytics, er bygget basert på en kategoristyrt tilnærming til innkjøp. Med plattformen får du umiddelbart dyp innsikt i kjøpets sammensetning, muligheter og risikoer i den enkelte kategori, samt støtte til å realisere potensialet man har._
 
