@@ -9,18 +9,17 @@ tags = ["innkjøpsfunksjon", "ressursallokering", "innkjøpsressurser", "kompeta
 title = "Det investeres for lite i innkjøpsfunksjonen"
 
 +++
-
 Vi tok en prat med noen av våre medarbeidere, som daglig er i kontakt med flere ulike virksomheter, for å få et innblikk i viktige erfaringer og observasjoner de har gjort seg.
 
 > _Gjennom flere prosjekter for våre kunder, samt mange møter med ulike virksomheter, har vi opparbeidet oss en god forståelse av hvordan ulike næringslivsaktører arbeider med strategisk innkjøp i det daglige, erfarer Sigbjørn Nome, CEO & Product Director​ i Ignite Procurement._
 
-![Sigbjørn Nome, CEO & Product Director​ i Ignite Procurement](https://cdn-images-1.medium.com/max/800/1*-5-4I6S_0aprP0kK4PNpPg.jpeg)
+![Sigbjørn Nome, CEO & Product Director​ i Ignite Procurement](https://cdn-images-1.medium.com/max/800/1*-5-4I6S_0aprP0kK4PNpPg.jpeg "Sigbjørn Nome, CEO & Product Director​ i Ignite Procurement")
 
 ### Innkjøp — mindre «sexy» enn andre forretningsområder?
 
 Gjør en overordnet vurdering av viktigheten som tilordnes innkjøp i din virksomhet sammenlignet med andre forretningsområder. Hvilke områder mener du det fokuseres mest på? Et vanlig svar her er at markedsføring og salg prioriteres høyest.
 
-![](https://cdn-images-1.medium.com/max/800/1*c3L3vfyXXCXNiRY7myf9Gw.png)
+![Innkjøp sammenlignet med salg og markedsføring](https://cdn-images-1.medium.com/max/800/1*c3L3vfyXXCXNiRY7myf9Gw.png "Innkjøp sammenlignet med salg og markedsføring")
 
 > _Denne typiske «ressursallokeringen» kan også belyses gjennom et raskt personsøk på LinkedIn: «Innkjøp» gir 41.812 treff på antall personer, mens «marked» og «salg» gir et totalresultat på 253.941 personer — en innkjøpsandel på kun 16 %, bemerker Nome._
 
@@ -44,7 +43,7 @@ For å sikre best mulig innkjøp over tid, kreves dyp innsikt i de viktigste kat
 
 > _I det daglige arbeidet, er vår erfaring at det strategiske perspektivet ofte nedprioriteres. Daglig drift og operasjonelle aktiviteter prioriteres først — på bekostning av mer strategisk arbeid med tilhørende forbedringstiltak, sier Børge Langedal, Sales & Customer Success Director i Ignite Procurement._
 
-![Børge Langedal, Sales & Customer Success Director i Ignite Procurement](https://cdn-images-1.medium.com/max/800/1*UburX4eOsbf_-ZnPvUC8Kw.jpeg)
+![Børge Langedal, Sales & Customer Success Director i Ignite Procurement](https://cdn-images-1.medium.com/max/800/1*UburX4eOsbf_-ZnPvUC8Kw.jpeg "Børge Langedal, Sales & Customer Success Director i Ignite Procurement")
 
 Forbedringstiltak må prioriteres kontinuerlig for å bedre kvaliteten, øke brukertilfredsheten, minimere risiko og forbedre lønnsomheten. Et viktig premiss er at organisasjonen legger til rette for kompetanseutvikling innenfor strategisk innkjøp og prosjektledelse.
 

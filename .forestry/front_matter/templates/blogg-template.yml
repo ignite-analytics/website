@@ -76,6 +76,7 @@ fields:
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
 pages:
+- content/blogg/innsikt/det-investeres-for-lite-i-innkjøpsfunksjonen.md
 - content/blogg/cases/reforhandling - et-undervurdert-strategisk-virkemiddel.md
 - content/blogg/cases/hvordan-bruke-bundling-til-å-redusere-innkjøpskostnadene.md
 - content/blogg/cases/30-mnok-i-årlige-besparelser-for-obos-forvaltede-boligselskaper.md
@@ -84,7 +85,6 @@ pages:
 - content/blogg/nyheter/ignite-lanserer-ny-versjon-av-plattform-for-strategisk-innkjøp.md
 - content/blogg/innsikt/dette-trenger-du-til-en-aksjonsbasert-kategoristrategi.md
 - content/blogg/nyheter/stortingsmelding-om-offentlige-anskaffelser - digitalisering-og-profesjonalisering.md
-- content/blogg/innsikt/det-investeres-for-lite-i-innkjøpsfunksjonen.md
 - content/blogg/innsikt/seks-tips-til-gode-forhandlinger.md
 - content/blogg/nyheter/bergene-holm-inngår-avtale-for-bruk-av-ignite-analytics.md
 - content/blogg/nyheter/henrik-høiness.md
