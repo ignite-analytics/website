@@ -9,22 +9,21 @@ tags = ["OBOS", "StartupLab", "forespørselsprosess", "Ignite Analytics", "pilot
 title = "30 MNOK i årlige besparelser for OBOS forvaltede boligselskaper"
 
 +++
-
 > _På_ [_StartupLab_](https://startuplab.no/) _gjør vi alt vi kan for å sikre at startup-selskaper lykkes — ved å gi selskapene tilgang til kompetanse, kapital, ansatte og mulige kunder. Samarbeidet mellom OBOS og Ignite Procurement er et godt eksempel på hva slike samarbeid kan lede til, og er veldig motiverende for oss og mange andre, sier Heidi Hopstock, Community Manager i StartupLab._
 
 I dette innlegget forteller vi mer om hvordan samarbeidet vårt allerede har resultert i betydelige besparelser for boligselskapene hos [OBOS](https://www.obos.no/).
 
-![](https://cdn-images-1.medium.com/max/800/1*BLaC6TnmaPfeAZ6w52x54A.jpeg)
+![Samarbeid mellom Ignite Procurement og OBOS i DN](https://cdn-images-1.medium.com/max/800/1*BLaC6TnmaPfeAZ6w52x54A.jpeg "Ignite Procurement og OBOS")
 
 #### Full oversikt og innsiktsfulle analyser av kjøpet med Ignite Analytics
 
 Første steg på veien for å få oversikt og utføre innsiktsfulle analyser av kjøpet, var å fremskaffe innkjøpsdata som kunne benyttes i vår plattform for strategisk innkjøp, Ignite Analytics. Data fra alle boligselskapene hos OBOS ble lastet opp for perioden 2014–2017, hvor uttrekket inneholdt følgende informasjon:
 
-- Leverandørnavn og organisasjonsnummer
-- Beløp
-- Dato
-- Regnskapskonto
-- Boligselskap
+* Leverandørnavn og organisasjonsnummer
+* Beløp
+* Dato
+* Regnskapskonto
+* Boligselskap
 
 Et [boligselskap](https://www.obos.no/styre/boligforvaltning?WT.mc_id=sok_1070314172_goo&gclid=CjwKCAjwycfkBRAFEiwAnLX5IfsqK5cVvCXaYfeoh4z_4ggFFV3BZyWDHb5SQ8f-N7kBNVARn01aBBoCZFYQAvD_BwE) hos OBOS kan sammenlignes med en vilkårlig avdeling i andre virksomheter. De resterende dataparameterne er informasjon de aller fleste virksomheter har lett tilgjengelig i sine systemer, og som er enkelt å hente ut.
 
@@ -34,7 +33,7 @@ Etter opplastingen av innkjøpsdata til Ignite Analytics — startet arbeidet me
 
 _Du kan lese mer om hvordan bygge en hensiktsmessig kategoristruktur_ [_her_](https://www.ignite.no/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur/)_._
 
-![](https://cdn-images-1.medium.com/max/800/1*WuLPJ5koLTDGQVmb26_qIw.png)
+![Kategorisering i Ignite Analytics](https://cdn-images-1.medium.com/max/800/1*WuLPJ5koLTDGQVmb26_qIw.png "Ignite Analytics")
 
 #### Pilotprosjekt: Heis identifisert som kategori med stort potensial
 
@@ -54,7 +53,7 @@ I etterkant av introduksjonsmøtene ble det utarbeidet et forespørselsdokument 
 
 Prisene ble sammenlignet og leverandørene ble innkalt til et nytt møte for å gå gjennom de respektive tilbudene med oppfølgingsspørsmål. I tillegg ble det gitt konkrete tilbakemeldinger på hvorvidt heisselskapene var konkurransedyktig på de ulike priselementene i tilbudet og hva som måtte forbedres for at de skulle bli vurdert videre i prosessen.
 
-![](https://cdn-images-1.medium.com/max/800/1*MkNJDRqwSePlh1bUd7O9Iw.png)
+![Digitale forespørsler i Ignite Analytics](https://cdn-images-1.medium.com/max/800/1*MkNJDRqwSePlh1bUd7O9Iw.png "Ignite Analytics")
 
 #### Tre samarbeidspartnere — 30 MNOK i årlige besparelser
 
@@ -72,6 +71,6 @@ Pilotprosjektet viser det enorme potensialet som ligger i å ha en strukturert o
 
 > _Vi gleder oss til det videre samarbeidet som skal gjøre det lettere for styremedlemmene å finne frem til seriøse og konkurransedyktige leverandører, sier Eiliv Mæhle Liljevik, avdelingsdirektør for strategi og IKT i OBOS._
 
-![Eiliv Mæhle Liljevik, avdelingsdirektør for strategi og IKT i OBOS, her på plass under lanseringsfesten vår i mars.](https://cdn-images-1.medium.com/max/800/1*fieHvV7mbXVl4RqUTsEYgA.jpeg)
+![Eiliv Mæhle Liljevik, avdelingsdirektør for strategi og IKT i OBOS, her på plass under lanseringsfesten vår i mars.](https://cdn-images-1.medium.com/max/800/1*fieHvV7mbXVl4RqUTsEYgA.jpeg "Eiliv Mæhle Liljevik")
 
 OBOS lanserte 2. april en egen leverandørmodul i deres nettportal for styremedlemmene kalt Styrerommet. Leverandørmodulen er bygget på vår plattform Ignite Analytics — tilpasset styremedlemmene sine behov og OBOS sitt design. Du kan lese mer om lanseringen [her](https://www.ignite.no/blogg/nyheter/leverand%C3%B8rmodul-basert-p%C3%A5-ignite-analytics-lansert-for-obos-forvaltede-boligselskaper/)!
