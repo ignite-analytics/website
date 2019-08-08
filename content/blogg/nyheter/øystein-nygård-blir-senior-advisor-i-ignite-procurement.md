@@ -9,8 +9,7 @@ tags = ["advisor", "PwC", "AT Kearney"]
 title = "Øystein Nygård blir Senior Advisor i Ignite Procurement"
 
 +++
-
-![](/images/Øystein Nygård - wide-1.png)
+![Øystein Nygård blir Senior Advisor i Ignite Procurement](/images/Øystein Nygård - wide-1.png "Øystein Nygård blir Senior Advisor i Ignite Procurement")
 
 Øystein Nygård har mer enn 20 års erfaring som konsulent og partner i selskaper som PwC og AT Kearney. Øystein forlot sin rolle som partner i PwC Consulting i februar 2017 for å starte sitt eget selskap med fokus på å hjelpe norske startup-selskaper til å vokse. Han har flere styreverv, i tillegg til å være en strategisk rådgiver for store virksomheter og en aktiv støttespiller flere norske oppstartsselskaper, gjennom selskapet hans [iXcelio](http://www.ixcelio.com/).
 
