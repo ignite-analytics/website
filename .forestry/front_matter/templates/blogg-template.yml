@@ -76,6 +76,7 @@ fields:
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
 pages:
+- content/blogg/innsikt/seks-tips-til-gode-forhandlinger.md
 - content/blogg/innsikt/innkjøp - et-uforløst-potensial-i-ditt-selskap.md
 - content/blogg/innsikt/hvordan-skape-verdier-gjennom-strategisk-innkjøp.md
 - content/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur.md
@@ -90,7 +91,6 @@ pages:
 - content/blogg/innsikt/kontraktsoppfølging-er-kritisk-for-å-realisere-gevinster.md
 - content/blogg/nyheter/ignite-lanserer-ny-versjon-av-plattform-for-strategisk-innkjøp.md
 - content/blogg/nyheter/stortingsmelding-om-offentlige-anskaffelser - digitalisering-og-profesjonalisering.md
-- content/blogg/innsikt/seks-tips-til-gode-forhandlinger.md
 - content/blogg/nyheter/bergene-holm-inngår-avtale-for-bruk-av-ignite-analytics.md
 - content/blogg/nyheter/henrik-høiness.md
 - content/blogg/nyheter/lars-lien.md
