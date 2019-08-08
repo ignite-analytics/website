@@ -45,6 +45,6 @@ Ignite Analytics er et webbasert verktøy som støtter hele den strategiske innk
 
 ***
 
-_Oppdag kraften i strategisk innkjøp gjort digitalt!_
+Oppdag kraften i strategisk innkjøp gjort digitalt!
 
 [![](https://cdn-images-1.medium.com/max/800/1*wNfW3gtCL-EO9XYJOYYSnQ.png)](https://www.ignite.no/ignite-analytics/demo/)
