@@ -9,14 +9,13 @@ tags = ["Bundebygg", "Ignite Analytics"]
 title = "BundeBygg inngår avtale for bruk av Ignite Analytics"
 
 +++
-
-![](/images/BundeBygg.png)
+![Avtale mellom Bundebygg og Ignite Procurement](/images/BundeBygg.png "Bundebygg")
 
 BundeBygg er en regionsledende entreprenør innen byggebransjen i Oslo og Akershus, hvor selskapet leverer næringsbygg og boliger i hele regionen. BundeBygg er et datterselskap i BundeGruppen.
 
 Du kan lese mer om BundeBygg på deres [hjemmeside](http://www.bundegruppen.no/selskaper/bundebygg/).
 
----
+***
 
 _Interessert i å få vite mer om hvordan Ignite Analytics kan hjelpe deg og din virksomhet? Prøv selv og finn ut hvorfor flere ledende selskaper benytter plattformen i sitt innkjøpsarbeid!_
 
