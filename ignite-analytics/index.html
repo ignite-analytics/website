@@ -670,7 +670,7 @@
         function findIndex(directionalPoints){
           let i = index,
           negative = directionalPoints < 0;
-          for(var y = Math.abs(directionalPoints); y > 0; y--){
+          for(var y = negative ? Math.abs(directionalPoints) : directionalPoints; y > 0; y--){
             if(negative){ i = i === 0 ? customerlen-1 : i-1 }
             else{ i = i === customerlen-1 ? 0 : i + 1}
           }
