@@ -9,7 +9,7 @@ tags = ["kategoristrategi", "råd", "kategoristyring", "maler"]
 title = "Dette trenger du til en aksjonsbasert kategoristrategi"
 
 +++
-![](https://cdn-images-1.medium.com/max/800/1*kw75yChEWgqD7lv3vx2-0g.png)
+![Kraljic-matrisen](https://cdn-images-1.medium.com/max/800/1*kw75yChEWgqD7lv3vx2-0g.png "Kraljic-matrisen")
 
 En hensiktsmessig kategoristruktur er en forutsetning for god kategoristyring og strategiarbeid, les mer om hvordan bygge en kategoristruktur [her](https://www.ignite.no/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur/).
 
@@ -39,7 +39,7 @@ Dokumenter strategien på en «one-pager» hvor målsetninger dokumenteres — e
 
 Trenger du en mal å ta utgangspunkt i? Last ned vår [her](https://www.ignite.no/ignite-academy/maler/kategoristrategi/)**.**
 
-![](https://cdn-images-1.medium.com/max/800/1*_uONa4-uKjIhoVow_0fCRA.png)
+![Maler for kategoristyring](https://cdn-images-1.medium.com/max/800/1*_uONa4-uKjIhoVow_0fCRA.png "Maler for kategoristyring")
 
 ***
 
