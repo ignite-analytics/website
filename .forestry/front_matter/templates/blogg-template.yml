@@ -76,6 +76,7 @@ fields:
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
 pages:
+- content/blogg/nyheter/effektivare-offentlig-upphandling-mer-nytta-för-pengarna.md
 - content/blogg/nyheter/bundebygg-inngår-avtale-for-bruk-av-ignite-analytics.md
 - content/blogg/nyheter/autostore-enters-into-an-agreement-for-the-use-of-ignite-analytics.md
 - content/blogg/innsikt/seks-tips-til-gode-forhandlinger.md
@@ -98,7 +99,6 @@ pages:
 - content/blogg/nyheter/lars-lien.md
 - content/blogg/innsikt/bruk-data-til-å-ta-gode-faktabaserte-beslutninger.md
 - content/blogg/nyheter/nye-moduler-i-ignite-analytics.md
-- content/blogg/nyheter/effektivare-offentlig-upphandling-mer-nytta-för-pengarna.md
 - content/blogg/nyheter/øystein-nygård-blir-senior-advisor-i-ignite-procurement.md
 - content/blogg/nyheter/optimar-ignite-lisensavtale-for-bruk-av-ignite-analytics.md
 - content/blogg/nyheter/leverandørmodul-basert-på-ignite-analytics-lansert-for-obos-forvaltede-boligselskaper.md

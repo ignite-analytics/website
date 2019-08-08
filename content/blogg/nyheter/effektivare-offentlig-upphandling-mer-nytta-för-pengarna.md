@@ -11,7 +11,7 @@ title = "Effektivare offentlig upphandling - mer nytta för pengarna!"
 +++
 Offentlige anskaffelser i Sverige utgjør nærmere 700 milliarder SEK i årlige innkjøp. I den nylige rapporten [«Effektivare offentlig upphandling - mer nytta för pengarna»](https://www.svensktnaringsliv.se/migration_catalog/Rapporter_och_opinionsmaterial/Rapporter/effektivare-offentlig-upphandling_739484.html/BINARY/Effektivare%20offentlig%20upphandling.pdf) argumenteres det for et besparelsespotensial på mellom 5-15%, eller 70-100 milliarder SEK. [Svenskt Näringsliv](https://www.svensktnaringsliv.se/), NHOs søsterorganisasjon, hevder potensialet kan realiseres gjennom en mer strategisk tilnærming til anskaffelsene.
 
-![](/images/Sverige - Offentlig innkjøp.png)
+![Offentlige anskaffelser i Sverige](/images/Sverige - Offentlig innkjøp.png "Offentlige anskaffelser i Sverige")
 
 #### **Store utfordringer i dagens anskaffelser**
 
