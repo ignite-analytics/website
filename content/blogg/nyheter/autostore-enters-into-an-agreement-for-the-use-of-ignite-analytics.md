@@ -9,8 +9,7 @@ tags = ["autostore", "ignite analytics"]
 title = "AutoStore enters into an agreement for the use of Ignite Analytics"
 
 +++
-
-![](/images/Autostore.png)
+![AutoStore and Ignite Procurement](/images/Autostore.png "AutoStore and Ignite Procurement")
 
 AutoStore is an equipment manufacturer of automated storage and retrieval systems (“ASRS”). The system uses robotics for collecting stored goods in a warehouse, providing significant improvements in capacity and performance. AutoStore represents an optimal solution meeting the growing demands for automated and efficient warehousing.
 
