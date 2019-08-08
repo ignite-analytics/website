@@ -1,7 +1,7 @@
 +++
 author = "Ignite"
 categories = ["Innsikt"]
-date = "2019-08-14T15:11:08+00:00"
+date = "2019-08-08T13:11:08+00:00"
 image = "/images/Innkjøpsfunksjon - seks til til organisering.png"
 ingress = "I forbindelse med prosjektene vi gjennomfører har vi bistått med å bygge opp innkjøpsfunksjoner for våre kunder. Basert på vår erfaring har vi samlet seks konkrete tips som kan være til hjelp når man skal bygge en moderne innkjøpsfunksjon."
 showmainimg = false
