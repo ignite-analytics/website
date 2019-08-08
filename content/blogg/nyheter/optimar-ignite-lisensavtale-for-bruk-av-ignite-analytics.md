@@ -9,14 +9,13 @@ tags = ["Optimar", "Ignite Analytics"]
 title = "Optimar + Ignite = lisensavtale for bruk av Ignite Analytics"
 
 +++
-
-![](/images/Optimar.png)
+![Optimar og Ignite Procurement inngår samarbeid](/images/Optimar.png "Optimar og Ignite Procurement inngår samarbeid")
 
 Optimar er en ledende leverandør og systemintegrator av automatiserte fabrikkløsninger til sjømatsektoren globalt. Etter betydelig vekst de siste årene har selskapet nå avdelinger i Norge, Spania, USA og Romania. Optimar har hovedkontor på Valderøya i Giske kommune, noen kilometer utenfor Ålesund. Til sammen har selskapet rundt 425 ansatte globalt.
 
 Du kan lese mer om Optimar på deres [hjemmeside](https://optimar.no/).
 
----
+***
 
 _Interessert i å få vite mer om hvordan Ignite Analytics kan hjelpe deg og din virksomhet? Last ned produktinformasjonen via linken under for å lære mer._
 
