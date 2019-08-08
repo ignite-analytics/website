@@ -76,6 +76,7 @@ fields:
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
 pages:
+- content/blogg/cases/reforhandling - et-undervurdert-strategisk-virkemiddel.md
 - content/blogg/cases/hvordan-bruke-bundling-til-å-redusere-innkjøpskostnadene.md
 - content/blogg/cases/30-mnok-i-årlige-besparelser-for-obos-forvaltede-boligselskaper.md
 - content/blogg/innsikt/tips-til-organisering-av-en-innkjøpsfunksjon.md
@@ -90,7 +91,6 @@ pages:
 - content/blogg/nyheter/lars-lien.md
 - content/blogg/innsikt/bruk-data-til-å-ta-gode-faktabaserte-beslutninger.md
 - content/blogg/nyheter/autostore-enters-into-an-agreement-for-the-use-of-ignite-analytics.md
-- content/blogg/cases/reforhandling - et-undervurdert-strategisk-virkemiddel.md
 - content/blogg/nyheter/nye-moduler-i-ignite-analytics.md
 - content/blogg/nyheter/effektivare-offentlig-upphandling-mer-nytta-för-pengarna.md
 - content/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur.md

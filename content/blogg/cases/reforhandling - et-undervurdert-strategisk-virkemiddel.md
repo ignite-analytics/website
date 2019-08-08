@@ -9,18 +9,17 @@ tags = ["forhandling", "reforhandling", "analyser", "innkjøpsvirkemidler", "for
 title = "Reforhandling - et undervurdert strategisk virkemiddel?"
 
 +++
-
----
+***
 
 En **reforhandling** kan resultere i betydelige besparelser gjennom forbedrede avtalevilkår. Et best mulig resultat er likevel avhengig av en strukturert og systematisk tilnærming — les mer om våre [seks konkrete tips](https://www.ignite.no/blogg/innsikt/seks-tips-til-gode-forhandlinger/) til hvordan sikre gode, langsiktige resultater fra en forhandling.
 
-![](/images/Innkjøpsvirkemidler_.png)
+![Innkjøpsvirkemidler](/images/Innkjøpsvirkemidler_.png "Innkjøpsvirkemidler")
 
 Andre sentrale spørsmål som er viktige å ta stilling til ved bruk av reforhandling som et innkjøpsvirkemiddel:
 
-- Hvilke avtaler bør vi reforhandle?
-- Hvilke faktagrunnlag bør vi benytte i reforhandlingene?
-- Hvilke resultater kan man forvente?
+* Hvilke avtaler bør vi reforhandle?
+* Hvilke faktagrunnlag bør vi benytte i reforhandlingene?
+* Hvilke resultater kan man forvente?
 
 Dette er spørsmål vi ofte opplever fra våre kunder og som vi belyser nærmere gjennom et faktisk case-eksempel.
 
@@ -40,11 +39,11 @@ Et godt analysearbeid i forkant av en reforhandling er en kritisk suksessfaktor 
 
 Etter at reforhandlingsprosessen var ferdig oppnådde kunden vår i gjennomsnitt 6 % bedre prisbetingelser — og flere millioner kroner i besparelser — på innkjøpet som ble adressert. Besparelsene varierte mellom de forskjellige avtalene og typen kjøp. Eksempelvis fikk man hele 20 % bedre priser på en av avtalene som ble reforhandlet. Dette belyser at reforhandling som et strategisk innkjøpstiltak kan resultere i vesentlig forbedrede avtalevilkår. Prosessen er videre relativt lite tidkrevende, gitt at man kontinuerlig følger opp og har kontroll på faktagrunnlaget.
 
-![](/images/Reforhandlingsresultat_.png)
+![Forhandlingsresultater](/images/Reforhandlingsresultat_.png "Forhandlingsresultater")
 
 En reforhandling kan trolig for noen innkjøpere fremstå som «skadelig» for leverandørsamarbeidet. Vår erfaring er at en slik prosess faktisk styrker forholdet mot leverandørene — og bidrar til et tettere og mer langsiktig samarbeid. Leverandørene er typisk «på tå» for å beholde eller øke sine volumer, i tillegg til at de setter pris på å bli invitert til bordet. I møtene får man typisk også gode innspill fra leverandørene til hvordan man kan redusere innkjøpskostnadene ytterligere, f.eks. gjennom standardisering av produktporteføljen.
 
----
+***
 
 _Ignite Analytics støtter hele den strategiske innkjøpsprosessen, herunder gjennomføring av forhandlinger. Plattformen identifiserer mulige forhandlingskandidater og automatiserer analyser til bruk i forhandlingsmøter. Oppdag kraften i strategisk innkjøp gjort digitalt!_
 
