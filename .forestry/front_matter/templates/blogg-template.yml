@@ -76,6 +76,7 @@ fields:
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
 pages:
+- content/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur.md
 - content/blogg/innsikt/hvordan-adressere-strategiske-innkjøpskategorier.md
 - content/blogg/innsikt/en-praktisk-tilnærming-til-kategoristyring.md
 - content/blogg/innsikt/dette-trenger-du-til-en-aksjonsbasert-kategoristrategi.md
@@ -95,7 +96,6 @@ pages:
 - content/blogg/nyheter/autostore-enters-into-an-agreement-for-the-use-of-ignite-analytics.md
 - content/blogg/nyheter/nye-moduler-i-ignite-analytics.md
 - content/blogg/nyheter/effektivare-offentlig-upphandling-mer-nytta-för-pengarna.md
-- content/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur.md
 - content/blogg/nyheter/øystein-nygård-blir-senior-advisor-i-ignite-procurement.md
 - content/blogg/nyheter/optimar-ignite-lisensavtale-for-bruk-av-ignite-analytics.md
 - content/blogg/nyheter/leverandørmodul-basert-på-ignite-analytics-lansert-for-obos-forvaltede-boligselskaper.md

@@ -9,10 +9,9 @@ tags = ["kategoristyring", "innkjøpskategori", "Ignite Analytics", "Sykehusinnk
 title = "Hvordan bygge en hensiktsmessig kategoristruktur"
 
 +++
-
 Det er flere grunner til at kategorisering lønner seg. En åpenbar grunn er prioritering av ressurser og kapasitet. Store kategorier med et høyt potensial for lønnsomhetsforbedringer bør naturlig nok prioriteres, fremfor mindre kategorier med lavere potensial.
 
-![](https://cdn-images-1.medium.com/max/800/1*0nvtOQyKH3Vp1IE8fmIOWQ.png)
+![Ignite Analytics og kategoristyring](https://cdn-images-1.medium.com/max/800/1*0nvtOQyKH3Vp1IE8fmIOWQ.png "Ignite Analytics")
 
 #### Hva er innkjøpskategorier?
 
@@ -30,13 +29,13 @@ Det finnes flere måter å fordele innkjøpet i de ulike kategoriene («kategori
 
 Sykehusinnkjøp HF har eksempelvis laget en kategoristruktur basert på produkt- og tjenestekoder ved å benytte UNSPSC-kodeverk. Se kategoristrukturen [her](http://hinas.sykehusinnkjop.no/index.php/nasjonale-prosjekt/nasjonal-kategoristruktur/version/1?layout=chart&tmpl=component).
 
-![](https://cdn-images-1.medium.com/max/800/1*yJ11zk7lzz7DJ1WQwFA_1g.png)
+![Ignite Analytics - kategorisering](https://cdn-images-1.medium.com/max/800/1*yJ11zk7lzz7DJ1WQwFA_1g.png "Ignite Analytics - kategorisering")
 
 #### Ignite Analytics legger til rette for kategoristyring av innkjøpet
 
 Løsningen vår for strategisk innkjøp, Ignite Analytics, er bygget basert på en kategoristyrt tilnærming til innkjøpet. Brukere har full fleksibilitet til å utarbeide egne kategoristrukturer, hvor brukeren selv bestemmer valg av detaljnivå som f.eks. antall nivåer og underkategorier. Kategoriseringen baseres på egendefinerte parametere ved hjelp av «drag and drop»-funksjonalitet, samtidig som den kan struktureres automatisk basert på leverandørenes bransjeinformasjon. Kategoriseringsreglene som benyttes (og opprettes) i forbindelse med fordelingen av innkjøpet, sørger for at fremtidige kjøp automatisk kategoriseres til valgte kategorier.
 
----
+***
 
 _Interessert i å få vite mer om hvordan Ignite Analytics kan hjelpe deg og din virksomhet? Last ned produktinformasjonen via linken under for å lære mer._
 
