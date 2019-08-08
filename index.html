@@ -40,7 +40,7 @@
   
   <link
     rel="stylesheet"
-    href="/style.min.7145ef391a4ac7215470c2ddac5c5ed3ab27e9061783cf9378459e9f4663a33d.css"
+    href="/style.min.e9362689663be064d416cc137d2f9ad7626d51eb277978acc2d83362c7d08c5e.css"
   />
   <link
     rel="stylesheet"
@@ -364,10 +364,10 @@
 </div>
  
   </div>
-  <section class="slideshow-customers customer-container" id="showcase-key-">
+  <section class="slideshow-customers customer-container" id="showcase-key-utvalgte-kunder" >
       <button id="left-slide" role="button" name="slideshow-left"><i class="fas fa-chevron-left"></i></button>
       <div class="slide">
-        <div id="slideshow">
+        <div id="slideshow-utvalgte-kunder" class="slideshow">
         </div>
       </div>
       <button id="right-slide" role="button" name="slideshow-right"><i class="fas fa-chevron-right"></i></button>
@@ -486,8 +486,8 @@
             },
           
         ],
-        parent = document.querySelector("#showcase-key-"),
-        slideshow = parent.querySelector('#slideshow'),
+        parent = document.querySelector("#showcase-key-utvalgte-kunder"),
+        slideshow = parent.querySelector("#slideshow-utvalgte-kunder"),
         customerlen = customerimages.length;
 
         let index = 0,
