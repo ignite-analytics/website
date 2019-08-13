@@ -6,6 +6,7 @@ description: ""
 draft: false
 weight: "17"
 image: "/images/team/Martin Egeli.jpg"
+hidden: true
 ---
 
 <a class="phoneto" href="tel:+47 413 32 399"><i class="fas fa-phone"></i>+47 413 32 399</a>

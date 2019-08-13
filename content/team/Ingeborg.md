@@ -6,6 +6,7 @@ description: ""
 draft: false
 weight: "7"
 image: "/images/team/Ingeborg Bakke.jpg"
+hidden: true
 ---
 
 <a class="phoneto" href="tel:+47 906 59 693"><i class="fas fa-phone"></i>+47 906 59 693</a>

@@ -6,6 +6,7 @@ description: ""
 draft: false
 weight: "18"
 image: "/images/team/Øystein.jpg"
+hidden: true
 ---
 
 <a class="phoneto" href="tel:+47 952 60 211"><i class="fas fa-phone"></i>+47 952 60 211</a>

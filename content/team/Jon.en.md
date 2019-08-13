@@ -6,6 +6,7 @@ description: " "
 draft: false
 weight: "14"
 image: "/images/team/Jon_Riege.jpg"
+hidden: true
 ---
 
 <a class="phoneto" href="tel:+47 482 688 62"><i class="fas fa-phone"></i>+47 482 68 862</a>

@@ -6,6 +6,7 @@ description: ""
 draft: false
 weight: "19"
 image: "/images/team/Hege_Obstfelder.jpg"
+hidden: true
 ---
 
 <a class="phoneto" href="tel:+47 959 98 283"><i class="fas fa-phone"></i>+47 959 98 283</a>

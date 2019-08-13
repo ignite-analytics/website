@@ -37,8 +37,6 @@ body.minimal .nav-padding {
   background-color: white;
   padding: 5em 0;
 }
-body.minimal #footer {
-}
 #confetti-container {
   position: fixed;
   top: 0;
@@ -150,4 +148,83 @@ body.minimal #footer {
   border-radius: 5px;
   padding: 10px 15px;
   cursor: pointer;
+}
+
+
+#attentionFab{
+  display:block;
+  position:fixed;
+  left:0;
+  bottom:0;
+  z-index:9997;
+  & > .fabContent{
+    margin: 0;
+    border-radius:0 5px 0 0;
+    width: 100vw;
+    max-width:600px;
+    padding:1em 1em 4em 1em;
+    position:absolute;
+    z-index: 9998;
+    bottom:0;
+    background:white !important;
+    box-shadow: 0px 3px 10px 0px rgba(16,	25,	44,0.2);
+    margin-left: -100vw;
+    transition:all .3s ease;
+  }
+  &.active > a {
+    transform:scale(1);
+  }
+  & > a {
+    height:3em;
+    width:3em;
+    padding:0;
+    z-index:9999;
+    margin: 0 0 1em 1em;
+    color:#18243f;
+    background:#3c6fe9;
+    border:0;
+    border-radius:7.5em;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position:absolute;
+    bottom: 0;
+    left:0;
+    box-shadow: 0px 3px 10px 0px rgba(16,	25,	44,0.8);
+    transform:scale(0);
+    transition: all .3s ease;
+    cursor:pointer;
+    overflow:hidden;
+    text-decoration: none;
+    &:hover {
+      box-shadow: 0px 3px 15px 0px rgba(16,	25,	44,1);
+      width:15em;
+      & > span {
+        display:initial;
+      }
+      & ~ .fabContent{
+        margin-left: 0 !important;
+      }
+      
+    }
+    & > span {
+        display:none;
+        text-decoration:none;
+        white-space:nowrap;
+        color:white;
+        padding-left:.5em;
+    }
+    & i {
+      color:white !important;
+      width: 0.9em;
+      height: 1em;
+      font-size: 1.7em;
+      text-align: justify;
+      padding:0 !important;
+      margin:0 !important;
+    }
+  }
+  & .fabContent:hover{
+    margin-left: 0 !important;
+  }
 }

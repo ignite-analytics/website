@@ -6,6 +6,7 @@ description: ""
 draft: false
 weight: "13"
 image: "/images/team/Henrik_Høiness.jpg"
+hidden: true
 ---
 
 <a class="phoneto" href="tel:+47 480 39 233"><i class="fas fa-phone"></i>+47 480 39 233</a>

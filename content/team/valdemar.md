@@ -10,6 +10,7 @@ description:
 draft: false
 weight: "2"
 image: "/images/team/Valdemar_Rolfsen.jpg"
+hidden: true
 ---
 
 <a class="phoneto" href="tel:+47 993 22 797"><i class="fas fa-phone"></i>+47 993 22 797</a>

@@ -6,6 +6,7 @@ description: ""
 draft: false
 weight: "16"
 image: "/images/team/Andreas Moldskred.jpg"
+hidden: true
 ---
 
 <a class="phoneto" href="tel:+47 993 89 920"><i class="fas fa-phone"></i>+47 993 89 920</a>

@@ -6,6 +6,7 @@ description: ""
 draft: false
 weight: "11"
 image: "/images/team/Rikard_Bakkehaug.jpg"
+hidden: true
 ---
 
 <a class="phoneto" href="tel:+47 416 94 078"><i class="fas fa-phone"></i>+47 416 94 078</a>

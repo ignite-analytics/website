@@ -17,12 +17,12 @@
         {{ end }}
 </section>
 <section class="container analytics-container">
-        <section class="container">
+        <section class="container" id="analyze">
                 {{ with .Site.GetPage "item1" }}
                 {{ partial "sections/infoblock.html" . }}
                 {{ end }}
         </section>
-        <section class="container">
+        <section class="container" id="prioritize">
                 {{ with .Site.GetPage "item2" }}
                 {{ partial "sections/infoblock-reverse.html" . }}
                 {{ end }}
@@ -33,14 +33,14 @@
                 {{ partial "sections/downloadseksjon.html" . }}
                 {{ end }}
         </section>
-<section class="container analytics-container">
+<section class="container analytics-container" id="implement">
         <section class="container">
                 {{ with .Site.GetPage "item3" }}
                 {{ partial "sections/infoblock.html" . }}
                 {{ end }}
   
         </section>
-         <section class="container">
+         <section class="container" id="followup">
                 {{ with .Site.GetPage "item4" }}
                 {{ partial "sections/infoblock-reverse.html" . }}
                 {{ end }}

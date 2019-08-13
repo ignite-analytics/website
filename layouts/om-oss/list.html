@@ -8,13 +8,8 @@
     {{ end }}
   </div>
 </div>
-<section class="container" id="team">
-  <div class="col-md-6">
-    {{ .Content }}
-  </div>
-  <div class="col-md-6"></div>
-</section>
-<div class="container pt-3">
+<div class="container pt-3 link-anchor">
+  <span id="team"></span>
   {{ with .Site.GetPage "team-tittel" }} {{ partial "tittel.html" . }} {{ end }}
 </div>
 <section class="container p-3">
@@ -24,7 +19,8 @@
   {{ with .Site.GetPage "experience" }} {{ partial "sections/customers.html" . }}
   {{ end }}
 </div>
-<div class="container" id="partnere">
+<div class="container link-anchor">
+    <span id="partnere"></span>
     {{ with .Site.GetPage "partnere" }} {{ partial "sections/customers.html" . }}
     {{ end }}
 </div>

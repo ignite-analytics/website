@@ -6,6 +6,7 @@ description: ""
 draft: false
 weight: "6"
 image: "/images/team/Kristian_Morthen.jpg"
+hidden: true
 ---
 
 <a class="phoneto" href="tel:+47 950 52 444"><i class="fas fa-phone"></i>+47 950 52 444</a>

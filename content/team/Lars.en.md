@@ -6,6 +6,7 @@ description: " "
 draft: false
 weight: "12"
 image: "/images/team/Lars_Ankile.jpg"
+hidden: true
 ---
 
 <a class="phoneto" href="tel:+47 948 97 416"><i class="fas fa-phone"></i>+47 948 97 416</a>

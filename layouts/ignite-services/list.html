@@ -23,6 +23,9 @@
 <section class="container">
   {{ with .Site.GetPage "item6" }} {{ partial "sections/infoblock-reverse.html" . }} {{ end }}
 </section>
+<section class="seksjon download">
+    {{with .Site.GetPage "potentialServices"}}{{partial "sections/downloadseksjon.html" .}}{{end}}
+</section>
 <section class="container">
   {{ with .Site.GetPage "item7" }} {{ partial "sections/infoblock.html" . }} {{ end }}
 </section>

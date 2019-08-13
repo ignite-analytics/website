@@ -37,6 +37,7 @@ html {
   @media screen and (max-width: 991px) {
     font-size: 16px;
   }
+  scroll-behavior: smooth;
 }
 
 body {
@@ -188,6 +189,13 @@ h4.arrow {
   line-height: 1.8em;
   margin-top: 25px;
 }
+.link-anchor { 
+  position:relative;
+  & span{
+    position:absolute; top:-80px;
+  }
+}
+
 /** ARROW-HEADING " **/
 .tittel2 {
   margin: 0 auto;
@@ -404,6 +412,20 @@ section.seksjon {
   display: block;
   background-color: $light-grey;
   padding: 1em;
+  &.white{
+    background:white;
+  }
+  & > .actionCard-container{
+    background:white;
+    width: 60%;
+    justify-content: center;
+    & > .content{
+      box-shadow: 0 0px 15px 0px rgba(204,204,204,.8);
+      border-radius: 5px;
+      padding: 1.5em !important;
+      width:60%;
+    }
+  }
 }
 .fas.btn-icon {
   color: $white;
@@ -411,6 +433,14 @@ section.seksjon {
 }
 .fas.fas-outline {
   color: $blue;
+}
+.analytics-link {
+  text-decoration: none;
+  color:inherit;
+  &:hover{
+    text-decoration: none;
+    color:inherit;
+  }
 }
 .mal h5{
   margin: auto;
@@ -547,6 +577,25 @@ section.seksjon {
 }
 .header-content-img {
   padding: 0.5rem !important;
+}
+.innkjøpspotensiale{
+  padding-top:0;
+  overflow:auto;
+  height:100%;
+  width:100%;
+}
+.innkjøpspotensiale-html{
+  overflow:hidden;
+}
+.embed{
+  height:100%;
+  overflow-x:hidden !important;
+  overflow-y:auto !important;
+}
+.embed::-webkit-scrollbar{
+  width: 1px;
+  background-color: transparent;
+  display:none;
 }
 @media screen and (max-width: 991px) {
   .demo-container{

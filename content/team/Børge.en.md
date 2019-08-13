@@ -11,6 +11,7 @@ description:
 draft: false
 weight: "4"
 image: "/images/team/Børge_Kvalheim_Langedal.jpg"
+hidden: true
 ---
 
 <a class="phoneto" href="tel:+47 992 38 391"><i class="fas fa-phone"></i>+47 992 38 391</a>

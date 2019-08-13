@@ -21,6 +21,11 @@
   <section class="container">
     {{ with .Site.GetPage "praksis" }} {{ partial "sections/infoblock-reverse.html" . }} {{ end }}
   </section>
+</section>
+<section class="seksjon download">
+  {{with .Site.GetPage "potentialAcademy"}}{{partial "sections/downloadseksjon.html" .}}{{end}}
+</section>
+<section class="container">
   <section class="container">
     {{ with .Site.GetPage "online" }} {{ partial "sections/infoblock.html" . }}
     {{ end }}

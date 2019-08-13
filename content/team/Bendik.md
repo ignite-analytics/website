@@ -6,6 +6,7 @@ description: ""
 draft: false
 weight: "7"
 image: "/images/team/Bendik_Johnsen_Molland.jpg"
+hidden: true
 ---
 
 <a class="phoneto" href="tel:+47 920 22 954"><i class="fas fa-phone"></i>+47 920 22 954</a>
