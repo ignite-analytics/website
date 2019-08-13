@@ -39,7 +39,7 @@
   
   <link
     rel="stylesheet"
-    href="/style.min.625453161668c35c8f138a853400be82ed650de975973ad780f8346bf1d12618.css"
+    href="/style.min.6cb155497b8272e4c7df8b506dc73220257d751d602cf7f3db847dd6aeafa5e4.css"
   />
   <link
     rel="stylesheet"
@@ -284,6 +284,11 @@
             document.querySelector('#toggle').addEventListener('click', (e) => {
                 e.target.classList.toggle('active');
                 document.querySelector('#overlay').classList.toggle('open')
+                if(e.target.classList.contains('active')){
+                    document.querySelector('#attentionFab').classList.remove('active')
+                }else{
+                    document.querySelector('#attentionFab').classList.add('active')
+                }
             })
             document.querySelector('.dropdown-submenu').addEventListener('click', (e) => {
                 e.stopPropagation()
@@ -362,6 +367,39 @@
 </div>
  
   </section>
+</section>
+<section class="seksjon download">
+  
+<section class="full-widt-container">
+      <div class="container d-flex">
+
+            <div class="p-2 content">
+                  <div class=" pr-5 ">
+                     <h3>Estimer ditt innkjøpspotensial​</h3>
+                  </div>
+                   <div class="pr-5 ">
+                         <h4>Estimer innkjøpspotensialet for din virksomhet ved å bruke vår kalkulator for innkjøpsbesparelser​</h4>
+                  </div>
+                  <div> 
+                        <a
+  class="btn btn-primary green btn-lg"
+  href="/innkjopspotensial/"
+  data-toggle=""
+  data-target=""
+  icon=""
+  ><i class="fas fa-calculator btn-icon"></i>Estimer ditt potensial</a
+>
+
+                        
+                  </div>
+           
+      
+      </div>   
+                            
+</section>
+
+</section>
+<section class="container">
   <section class="container">
      <div
   class="d-flex bd-highlight flex-column flex-md-row align-items-center mb-5"

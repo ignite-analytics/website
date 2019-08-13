@@ -39,7 +39,7 @@
   
   <link
     rel="stylesheet"
-    href="/style.min.625453161668c35c8f138a853400be82ed650de975973ad780f8346bf1d12618.css"
+    href="/style.min.6cb155497b8272e4c7df8b506dc73220257d751d602cf7f3db847dd6aeafa5e4.css"
   />
   <link
     rel="stylesheet"
@@ -284,6 +284,11 @@
             document.querySelector('#toggle').addEventListener('click', (e) => {
                 e.target.classList.toggle('active');
                 document.querySelector('#overlay').classList.toggle('open')
+                if(e.target.classList.contains('active')){
+                    document.querySelector('#attentionFab').classList.remove('active')
+                }else{
+                    document.querySelector('#attentionFab').classList.add('active')
+                }
             })
             document.querySelector('.dropdown-submenu').addEventListener('click', (e) => {
                 e.stopPropagation()
@@ -329,7 +334,7 @@
   <div class="container">
      
 <div class="container pt-5">
-   <div class="tittel2">
+   <div class="tittel2" style="padding-top: 60px; margin-top: -60px;">
   <h4 class="arrow2">VÅRE TJENESTER</h4>
   <svg height="2em" width="30%">
     <line
@@ -433,14 +438,9 @@
     
   </div>
 </div>
-<section class="container" id="team">
-  <div class="col-md-6">
-    
-  </div>
-  <div class="col-md-6"></div>
-</section>
-<div class="container pt-3">
-   <div class="tittel2">
+<div class="container pt-3 link-anchor">
+  <span id="team"></span>
+   <div class="tittel2" style="padding-top: 60px; margin-top: -60px;">
   <h4 class="arrow2">Team</h4>
   <svg height="2em" width="30%">
     <line
@@ -724,7 +724,7 @@
 <div class="container">
    
 <div class="container">
-    <div class="tittel2">
+    <div class="tittel2" style="padding-top: 60px; margin-top: -60px;">
   <h4 class="arrow2">VI HAR ERFARING FRA</h4>
   <svg height="2em" width="30%">
     <line
@@ -739,12 +739,12 @@
  
   </div>
   <section class="slideshow-customers customer-container" id="showcase-key-vi-har-erfaring-fra" >
-      <button id="left-slide" role="button" name="slideshow-left"><i class="fas fa-chevron-left"></i></button>
+      <button id="left-slide" role="button" aria-label="slideshow-left" name="slideshow-left"><i class="fas fa-chevron-left"></i></button>
       <div class="slide">
         <div id="slideshow-vi-har-erfaring-fra" class="slideshow">
         </div>
       </div>
-      <button id="right-slide" role="button" name="slideshow-right"><i class="fas fa-chevron-right"></i></button>
+      <button id="right-slide" role="button" aria-label="slideshow-right" name="slideshow-right"><i class="fas fa-chevron-right"></i></button>
       <script>
         (function(){
         const customerimages = [
@@ -837,10 +837,11 @@
   
   
 </div>
-<div class="container" id="partnere">
+<div class="container link-anchor">
+    <span id="partnere"></span>
      
 <div class="container">
-    <div class="tittel2">
+    <div class="tittel2" style="padding-top: 60px; margin-top: -60px;">
   <h4 class="arrow2">PARTNERE</h4>
   <svg height="2em" width="30%">
     <line
@@ -855,12 +856,12 @@
  
   </div>
   <section class="slideshow-customers customer-container" id="showcase-key-partnere" >
-      <button id="left-slide" role="button" name="slideshow-left"><i class="fas fa-chevron-left"></i></button>
+      <button id="left-slide" role="button" aria-label="slideshow-left" name="slideshow-left"><i class="fas fa-chevron-left"></i></button>
       <div class="slide">
         <div id="slideshow-partnere" class="slideshow">
         </div>
       </div>
-      <button id="right-slide" role="button" name="slideshow-right"><i class="fas fa-chevron-right"></i></button>
+      <button id="right-slide" role="button" aria-label="slideshow-right" name="slideshow-right"><i class="fas fa-chevron-right"></i></button>
       <script>
         (function(){
         const customerimages = [
@@ -951,7 +952,7 @@
 <div class="container p-3">
    
   
-   <div class="tittel2">
+   <div class="tittel2" style="padding-top: 60px; margin-top: -60px;">
   <h4 class="arrow2">Sertifiseringer</h4>
   <svg height="2em" width="30%">
     <line

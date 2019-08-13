@@ -41,21 +41,6 @@
   
   
   
-  <url>
-    <loc>https://ignite.no/en/team/sigbj%C3%B8rn/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/team/sigbj%C3%B8rn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/team/sigbj%C3%B8rn/"
-                />
-  </url>
-  
   
   
   <url>
@@ -95,21 +80,6 @@
   
   
   
-  
-  <url>
-    <loc>https://ignite.no/en/team/valdemar/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/team/valdemar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/team/valdemar/"
-                />
-  </url>
   
   
   
@@ -151,20 +121,6 @@
   
   
   
-  <url>
-    <loc>https://ignite.no/en/team/frank/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/team/frank/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/team/frank/"
-                />
-  </url>
   
   
   
@@ -176,20 +132,30 @@
   
   
   
-  <url>
-    <loc>https://ignite.no/en/team/b%C3%B8rge/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/team/b%C3%B8rge/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/team/b%C3%B8rge/"
-                />
-  </url>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
@@ -198,206 +164,69 @@
   
   
   <url>
-    <loc>https://ignite.no/en/team/kristian/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
+    <loc>https://ignite.no/en/ignite-academy/potentialacademy/</loc>
+    <lastmod>2019-08-12T14:31:35+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://ignite.no/team/kristian/"
+                href="https://ignite.no/ignite-academy/potentialacademy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ignite.no/en/team/kristian/"
-                />
-  </url>
-  
-  
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/en/team/bendik/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/team/bendik/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/team/bendik/"
+                href="https://ignite.no/en/ignite-academy/potentialacademy/"
                 />
   </url>
   
   
   
   <url>
-    <loc>https://ignite.no/en/team/ingeborg/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
+    <loc>https://ignite.no/en/ignite-services/potentialservices/</loc>
+    <lastmod>2019-08-12T14:31:35+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://ignite.no/team/ingeborg/"
+                href="https://ignite.no/ignite-services/potentialservices/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ignite.no/en/team/ingeborg/"
+                href="https://ignite.no/en/ignite-services/potentialservices/"
                 />
   </url>
   
   
   
   <url>
-    <loc>https://ignite.no/en/team/rikard/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
+    <loc>https://ignite.no/en/innkjopspotensial/</loc>
+    <lastmod>2019-08-12T14:31:35+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://ignite.no/team/rikard/"
+                href="https://ignite.no/innkjopspotensial/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ignite.no/en/team/rikard/"
+                href="https://ignite.no/en/innkjopspotensial/"
                 />
   </url>
   
   
   
   <url>
-    <loc>https://ignite.no/en/team/lars/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
+    <loc>https://ignite.no/en/</loc>
+    <lastmod>2019-08-12T14:31:35+00:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://ignite.no/team/lars/"
+                href="https://ignite.no/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ignite.no/en/team/lars/"
-                />
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/en/team/henrik/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/team/henrik/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/team/henrik/"
-                />
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/en/team/jon/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/team/jon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/team/jon/"
-                />
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/en/team/tord/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/team/tord/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/team/tord/"
-                />
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/en/team/andreas/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/team/andreas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/team/andreas/"
-                />
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/en/team/martin/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/team/martin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/team/martin/"
-                />
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/en/team/%C3%B8ystein/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/team/%C3%B8ystein/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/team/%C3%B8ystein/"
-                />
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/en/team/hege/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/team/hege/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/team/hege/"
+                href="https://ignite.no/en/"
                 />
   </url>
   
@@ -462,19 +291,21 @@
   
   
   
+  
+  
   <url>
-    <loc>https://ignite.no/en/</loc>
+    <loc>https://ignite.no/en/potentialcalchomepage/</loc>
     <lastmod>2019-02-20T13:09:05+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://ignite.no/"
+                href="https://ignite.no/potentialcalchomepage/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ignite.no/en/"
+                href="https://ignite.no/en/potentialcalchomepage/"
                 />
   </url>
   
@@ -1071,21 +902,6 @@
   
   
   
-  
-  <url>
-    <loc>https://ignite.no/en/team/</loc>
-    <lastmod>2018-12-16T14:24:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/team/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/team/"
-                />
-  </url>
   
   
   

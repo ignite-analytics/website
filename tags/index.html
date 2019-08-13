@@ -16,7 +16,7 @@
   
   <link
     rel="stylesheet"
-    href="/style.min.625453161668c35c8f138a853400be82ed650de975973ad780f8346bf1d12618.css"
+    href="/style.min.6cb155497b8272e4c7df8b506dc73220257d751d602cf7f3db847dd6aeafa5e4.css"
   />
 
   <title>
@@ -299,6 +299,11 @@
             document.querySelector('#toggle').addEventListener('click', (e) => {
                 e.target.classList.toggle('active');
                 document.querySelector('#overlay').classList.toggle('open')
+                if(e.target.classList.contains('active')){
+                    document.querySelector('#attentionFab').classList.remove('active')
+                }else{
+                    document.querySelector('#attentionFab').classList.add('active')
+                }
             })
             document.querySelector('.dropdown-submenu').addEventListener('click', (e) => {
                 e.stopPropagation()
@@ -468,12 +473,12 @@
 <div class="col-lg-4 col-md-6 mb-30px card-group">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="https://ignite.no/blogg/tag/kompetanse/">
+            <a href="https://ignite.no/blogg/tag/mandat/">
                     <img class="img-fluid imgthumb" src=" " alt=" bilde">
             </a>
         </div>
         <div class="card-body">
-            <h2 class="card-title"><a href="https://ignite.no/blogg/tag/kompetanse/">Kompetanse</a></h2>
+            <h2 class="card-title"><a href="https://ignite.no/blogg/tag/mandat/">Mandat</a></h2>
             <h4 class="card-text">
                 
                     

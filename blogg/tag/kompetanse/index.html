@@ -16,20 +16,20 @@
   
   <link
     rel="stylesheet"
-    href="/style.min.625453161668c35c8f138a853400be82ed650de975973ad780f8346bf1d12618.css"
+    href="/style.min.6cb155497b8272e4c7df8b506dc73220257d751d602cf7f3db847dd6aeafa5e4.css"
   />
 
   <title>
-    Ignite Procurement - Kompetanse
+    Ignite Procurement - kompetanse
   </title>
   <meta
     name="description"
-    content="Oppdag kraften i strategisk innkjøp gjort digitalt. Les mer om oss og våre artikler innen kategorien Kompetanse her"
+    content="Oppdag kraften i strategisk innkjøp gjort digitalt. Les mer om oss og våre artikler innen kategorien kompetanse her"
   />
   <meta property="og:type" content="website" />
   <meta
     property="og:description"
-    content="Oppdag kraften i strategisk innkjøp gjort digitalt. Les mer om oss og våre artikler innen kategorien Kompetanse her"
+    content="Oppdag kraften i strategisk innkjøp gjort digitalt. Les mer om oss og våre artikler innen kategorien kompetanse her"
   />
   <meta property="og:site_name" content="Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt" />
   <meta property="og:url" content="https://ignite.no/blogg/tag/kompetanse/" />
@@ -295,6 +295,11 @@
             document.querySelector('#toggle').addEventListener('click', (e) => {
                 e.target.classList.toggle('active');
                 document.querySelector('#overlay').classList.toggle('open')
+                if(e.target.classList.contains('active')){
+                    document.querySelector('#attentionFab').classList.remove('active')
+                }else{
+                    document.querySelector('#attentionFab').classList.add('active')
+                }
             })
             document.querySelector('.dropdown-submenu').addEventListener('click', (e) => {
                 e.stopPropagation()
@@ -322,7 +327,7 @@
   
   <section class="recent-posts">
     <div class="section-title">
-      <h2><span>Siste innlegg innen Kompetanse</span></h2>
+      <h2><span>Siste innlegg innen kompetanse</span></h2>
     </div>
     <div class="row listrecent">
        

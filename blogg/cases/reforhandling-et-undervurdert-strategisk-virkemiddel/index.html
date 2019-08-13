@@ -10,7 +10,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         
         
-        <link rel="stylesheet" href="/style.min.625453161668c35c8f138a853400be82ed650de975973ad780f8346bf1d12618.css">	
+        <link rel="stylesheet" href="/style.min.6cb155497b8272e4c7df8b506dc73220257d751d602cf7f3db847dd6aeafa5e4.css">	
         
     <title>Ignite Procurement - Reforhandling - et undervurdert strategisk …</title>
     
@@ -270,6 +270,11 @@
             document.querySelector('#toggle').addEventListener('click', (e) => {
                 e.target.classList.toggle('active');
                 document.querySelector('#overlay').classList.toggle('open')
+                if(e.target.classList.contains('active')){
+                    document.querySelector('#attentionFab').classList.remove('active')
+                }else{
+                    document.querySelector('#attentionFab').classList.add('active')
+                }
             })
             document.querySelector('.dropdown-submenu').addEventListener('click', (e) => {
                 e.stopPropagation()
