@@ -9,13 +9,13 @@ image: "/images/infographics/dashboard2.svg"
 ---
 <ul class="fa-ul">
 
-<li><span class="fa-li"><i class="fas fa-chart-bar" style="color: #3C6FE9"></i></span><span style="color: #3C6FE9">Analyze.</span> Få dyp innsikt i innkjøpet ditt</li>
+<li><a href="#analyze" class="analytics-link"><span class="fa-li"><i class="fas fa-chart-bar" style="color: #3C6FE9"></i></span><span style="color: #3C6FE9">Analyze.</span> Få dyp innsikt i innkjøpet ditt</a></li>
 
-<li><span class="fa-li"><i class="fas fa-exclamation-triangle" style="color: #3C6FE9"></i></span><span style="color: #3C6FE9">Prioritize.</span> Identifiser muligheter og risikoer</li>
+<li><a href="#prioritize" class="analytics-link"><span class="fa-li"><i class="fas fa-exclamation-triangle" style="color: #3C6FE9"></i></span><span style="color: #3C6FE9">Prioritize.</span> Identifiser muligheter og risikoer</a></li>
 
-<li><span class="fa-li"><i class="fas fa-magic" style="color: #3C6FE9"></i></span><span style="color: #3C6FE9">Implement.</span> Gjennomfør forbedringstiltak</li>
+<li><a href="#implement" class="analytics-link"><span class="fa-li"><i class="fas fa-magic" style="color: #3C6FE9"></i></span><span style="color: #3C6FE9">Implement.</span> Gjennomfør forbedringstiltak</a></li>
 
-<li><span class="fa-li"><i class="fas fa-sync"></i></span><span style="color: #3C6FE9">Follow-up.</span> Følg opp utviklingen i innkjøpet</li>
+<li><a href="#followup" class="analytics-link"><span class="fa-li"><i class="fas fa-sync"></i></span><span style="color: #3C6FE9">Follow-up.</span> Følg opp utviklingen i innkjøpet</a></li>
 
 </ul>
 

@@ -1,5 +1,5 @@
 <div id="attentionFab">
-    <a href="{{.Params.link}}"><i class="fas fa-calculator btn-icon"></i><span>{{.Params.buttonText}}</span></a>
+    <a href="javascript:void(0)" data-href="{{.Params.link}}"><i class="fas fa-calculator btn-icon"></i><span>{{.Params.buttonText}}</span></a>
     <div class="fabContent">
             <div class="pr-5">
                 <h3>{{ .Params.header }}</h3>
@@ -11,6 +11,12 @@
     <script>
         setTimeout(() => {
             document.querySelector('#attentionFab').classList.add('active')
+            let ele = document.querySelector('#attentionFab>a');
+            if ("ontouchstart" in document.documentElement){
+                ele.onclick = () => {ele.setAttribute('href',ele.getAttribute('data-href')); ele.onclick = ""; return false;}
+            }else{
+                ele.setAttribute('href',ele.getAttribute('data-href'))
+            }
         },8000)
         
     </script>

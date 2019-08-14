@@ -191,7 +191,7 @@ h4.arrow {
 }
 .link-anchor { 
   position:relative;
-  & span{
+  & > span{
     position:absolute; top:-80px;
   }
 }
