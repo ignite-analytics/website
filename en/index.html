@@ -29,10 +29,11 @@
   
   <meta property="og:locale" content="nb_NO" />
   
-  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet"/>
+  <link async defer href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet"/>
   <link
     href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
     rel="stylesheet"
+    defer
     integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
     crossorigin="anonymous"
   />
@@ -40,7 +41,7 @@
   
   <link
     rel="stylesheet"
-    href="/style.min.879226d63f65e549968b9cab8222ec82265a0224fe16b6611e750314a5896e57.css"
+    href="/style.min.9acbb57b94ba04db420e655ebfec7bdc9d92482edc93218be7f30ec88603770d.css"
   />
   <link
     rel="stylesheet"
@@ -694,7 +695,7 @@
  
 </section>
 <div id="attentionFab">
-    <a href="/en/innkjopspotensial/"><i class="fas fa-calculator btn-icon"></i><span>Estimate your potential</span></a>
+    <a href="javascript:void(0)" data-href="/en/innkjopspotensial/"><i class="fas fa-calculator btn-icon"></i><span>Estimate your potential</span></a>
     <div class="fabContent">
             <div class="pr-5">
                 <h3>Estimate your procurement potential​</h3>
@@ -706,6 +707,12 @@
     <script>
         setTimeout(() => {
             document.querySelector('#attentionFab').classList.add('active')
+            let ele = document.querySelector('#attentionFab>a');
+            if ("ontouchstart" in document.documentElement){
+                ele.onclick = () => {ele.setAttribute('href',ele.getAttribute('data-href')); ele.onclick = ""; return false;}
+            }else{
+                ele.setAttribute('href',ele.getAttribute('data-href'))
+            }
         },8000)
         
     </script>
