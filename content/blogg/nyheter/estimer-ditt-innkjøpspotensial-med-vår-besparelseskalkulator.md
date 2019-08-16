@@ -17,6 +17,6 @@ Vi håper at kalkulatoren er informativ, og bidrar med inspirasjon i det videre 
 
 ***
 
-Ignite Analytics hjelper deg med å spare tid og realisere innkjøpspotensialet for din virksomhet. Oppdag kraften i strategisk innkjøp gjort digitalt!
+_Ignite Analytics hjelper deg med å spare tid og realisere innkjøpspotensialet for din virksomhet. Oppdag kraften i strategisk innkjøp gjort digitalt!_
 
 [![](/images/Prøv Ignite Analytics-1.png)](https://www.ignite.no/ignite-analytics/demo/)
