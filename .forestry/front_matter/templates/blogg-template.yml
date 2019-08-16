@@ -76,6 +76,7 @@ fields:
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
 pages:
+- content/blogg/innsikt/tips-til-organisering-av-en-innkjøpsfunksjon.md
 - content/blogg/nyheter/estimer-ditt-innkjøpspotensial-med-vår-besparelseskalkulator.md
 - content/blogg/nyheter/øystein-nygård-blir-senior-advisor-i-ignite-procurement.md
 - content/blogg/nyheter/stortingsmelding-om-offentlige-anskaffelser - digitalisering-og-profesjonalisering.md
@@ -99,7 +100,6 @@ pages:
 - content/blogg/cases/reforhandling - et-undervurdert-strategisk-virkemiddel.md
 - content/blogg/cases/hvordan-bruke-bundling-til-å-redusere-innkjøpskostnadene.md
 - content/blogg/cases/30-mnok-i-årlige-besparelser-for-obos-forvaltede-boligselskaper.md
-- content/blogg/innsikt/tips-til-organisering-av-en-innkjøpsfunksjon.md
 - content/blogg/innsikt/kontraktsoppfølging-er-kritisk-for-å-realisere-gevinster.md
 - content/blogg/nyheter/bergene-holm-inngår-avtale-for-bruk-av-ignite-analytics.md
 - content/blogg/nyheter/henrik-høiness.md
