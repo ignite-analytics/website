@@ -13,6 +13,8 @@ Vi lanserte nylig en interaktiv kalkulator for å hjelpe profesjonelle innkjøpe
 
 Den norske versjonen av kalkulatoren finner du [**her**](https://www.ignite.no/innkjopspotensial/). Om du skulle ha behov for en engelsk versjon, så finner du denne [**her**](https://www.ignite.no/en/innkjopspotensial/).
 
+Vi håper at kalkulatoren er informativ, og bidrar med inspirasjon i det videre innkjøpsarbeidet.
+
 ***
 
 Ignite Analytics hjelper deg med å spare tid og realisere innkjøpspotensialet for din virksomhet. Oppdag kraften i strategisk innkjøp gjort digitalt!
