@@ -164,6 +164,107 @@
   
   
   <url>
+    <loc>https://ignite.no/blogg/</loc>
+    <lastmod>2019-08-16T12:17:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/categories/</loc>
+    <lastmod>2019-08-16T12:17:11+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/categories/"
+                />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/nyheter/estimer-ditt-innkj%C3%B8pspotensial-med-v%C3%A5r-besparelseskalkulator/</loc>
+    <lastmod>2019-08-16T12:17:11+00:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/</loc>
+    <lastmod>2019-08-16T12:17:11+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/"
+                />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</loc>
+    <lastmod>2019-08-16T12:17:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/kalkulator/</loc>
+    <lastmod>2019-08-16T12:17:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/nyheter/</loc>
+    <lastmod>2019-08-16T12:17:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/sparekalkulator/</loc>
+    <lastmod>2019-08-16T12:17:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/tags/</loc>
+    <lastmod>2019-08-16T12:17:11+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/tags/"
+                />
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/ignite-academy/potentialacademy/</loc>
     <lastmod>2019-08-12T14:31:35+00:00</lastmod>
     <xhtml:link
@@ -209,50 +310,6 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://ignite.no/innkjopspotensial/"
-                />
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/</loc>
-    <lastmod>2019-08-12T14:31:35+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/"
-                />
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/</loc>
-    <lastmod>2019-08-08T12:11:08+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/categories/</loc>
-    <lastmod>2019-08-08T12:11:08+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/categories/"
                 />
   </url>
   
@@ -330,24 +387,6 @@
   
   
   <url>
-    <loc>https://ignite.no/tags/</loc>
-    <lastmod>2019-08-08T12:11:08+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/tags/"
-                />
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/tag/kategoristyring/</loc>
     <lastmod>2019-08-08T12:11:08+00:00</lastmod>
     <priority>0</priority>
@@ -397,14 +436,6 @@
   <url>
     <loc>https://ignite.no/blogg/nyheter/effektivare-offentlig-upphandling-mer-nytta-f%C3%B6r-pengarna/</loc>
     <lastmod>2019-06-25T09:21:25+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/nyheter/</loc>
-    <lastmod>2019-06-25T09:21:25+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   
@@ -592,14 +623,6 @@
   <url>
     <loc>https://ignite.no/blogg/innsikt/innkj%C3%B8p-et-uforl%C3%B8st-potensial-i-ditt-selskap/</loc>
     <lastmod>2019-05-13T14:16:33+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</loc>
-    <lastmod>2019-05-13T14:16:33+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   
