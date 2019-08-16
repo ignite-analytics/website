@@ -76,6 +76,7 @@ fields:
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
 pages:
+- content/blogg/nyheter/estimer-ditt-innkjøpspotensial-med-vår-besparelseskalkulator.md
 - content/blogg/nyheter/øystein-nygård-blir-senior-advisor-i-ignite-procurement.md
 - content/blogg/nyheter/stortingsmelding-om-offentlige-anskaffelser - digitalisering-og-profesjonalisering.md
 - content/blogg/nyheter/optimar-ignite-lisensavtale-for-bruk-av-ignite-analytics.md
