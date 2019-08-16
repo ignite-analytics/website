@@ -5,8 +5,11 @@ date = "2019-08-16T12:17:11+00:00"
 draft = true
 image = "/images/Savings calculator - 2.png"
 ingress = "Hvor store innkjøpskostnader kan du spare for din virksomhet? Prøv vår kalkulator for å beregne ditt innkjøpspotensial."
-showmainimg = false
+showmainimg = true
 tags = ["Innkjøpspotensial", "Kalkulator", "Sparekalkulator"]
 title = "Estimer ditt innkjøpspotensial med vår besparelseskalkulator"
 
 +++
+Vi lanserte nylig en interaktiv kalkulator for å hjelpe profesjonelle innkjøpere med å estimere mulige besparelser, eller innkjøpspotensialet, for sin virksomhet. 
+
+Den norske versjonen av kalkulatoren finner du [**her**](https://www.ignite.no/innkjopspotensial/). Om du skulle ha behov for en engelsk versjon, så finner du denne [**her**](https://www.ignite.no/en/innkjopspotensial/).
