@@ -364,14 +364,6 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/kompetanse/</loc>
-    <lastmod>2019-08-08T12:11:08+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/tag/mandat/</loc>
     <lastmod>2019-08-08T12:11:08+00:00</lastmod>
     <priority>0</priority>
@@ -396,6 +388,14 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/kategoristyring/</loc>
+    <lastmod>2019-08-08T12:11:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/kompetanse/</loc>
     <lastmod>2019-08-08T12:11:08+00:00</lastmod>
     <priority>0</priority>
   </url>
