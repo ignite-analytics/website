@@ -581,27 +581,37 @@ section.seksjon {
 .op-interactive{
   height:100%;
 }
+#og_iframe {
+  height:calc(100vh - 80px);
+}
 .innkjøpspotensiale{
   margin-top:80px;
   overflow:auto;
   height:calc(100vh - 80px);
   width:100%;
   bottom:0;
+  & iframe {
+    height: calc(100vh - 80px) !important;
+    min-height: calc(100vh - 80px) !important;
+  & body, & html {
+    height: 100vh !important;
+    min-height: 100vh !important;
+    & .isIframe {
+      background-size:cover !important;
+      height:100vh !important;
+    }
+  }
+  background-repeat: no-repeat
+}
 }
 .innkjøpspotensiale-html{
   height:100vh;
+  overflow:hidden;
 }
 .embed{
   height:100% !important;
   overflow-x:hidden !important;
   overflow-y:auto !important;
-  & iframe {
-    height:100%;
-    & body {
-      height:100%;
-    }
-    background-repeat: no-repeat
-  }
 }
 .embed::-webkit-scrollbar{
   width: 1px;
