@@ -1,12 +1,7 @@
 {{ define "main" }}
 <section class="innkjøpspotensiale">
-  <div 
-    class='op-interactive' 
-    id="{{.Params.key}}" 
-    data-url='https://igniteprocurement.outgrow.us/{{.Params.key}}?vHeight=1' 
-    data-width='100%'>
+  <div id='og_iframe' style='-webkit-overflow-scrolling: touch; overflow: auto;'>
+    <iframe src='https://igniteprocurement.outgrow.us/{{ .Params.key }}' style='border: none; overflow: hidden; width:100%; height: calc(100% - 31px);' scrolling='yes'></iframe>
   </div>
-  <script src='//dyv6f9ner1ir9.cloudfront.net/assets/js/nloader.js'></script>
-  <script>initIframe("{{.Params.key}}");</script>
 </section>
 {{end}}

@@ -612,6 +612,9 @@ section.seksjon {
   height:100% !important;
   overflow-x:hidden !important;
   overflow-y:auto !important;
+  @media screen and (max-width: 640px){#og_iframe{height: calc(100vh - 80px);width:100%;}}
+  @media screen and (min-width: 641px) and (max-width: 1024px){#og_iframe{height: calc(100vh - 80px);width:100%;}}
+  @media screen and (min-width: 1025px){#og_iframe{height: calc(100vh - 80px);width:100%;}}
 }
 .embed::-webkit-scrollbar{
   width: 1px;
