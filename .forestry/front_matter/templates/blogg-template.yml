@@ -76,6 +76,7 @@ fields:
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
 pages:
+- content/blogg/nyheter/buylogic-og-ignite-procurement-inngår-strategisk-samarbeidsavtale.md
 - content/blogg/nyheter/estimer-ditt-innkjøpspotensial-med-vår-besparelseskalkulator.md
 - content/blogg/nyheter/summer-interns-videreutvikler-ignite-analytics.md
 - content/blogg/innsikt/tips-til-organisering-av-en-innkjøpsfunksjon.md
