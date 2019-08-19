@@ -29,7 +29,7 @@ Ignite Analytics videreutvikles kontinuerlig basert på innspill fra våre kunde
 * **Advanced import:** Gi brukerne mulighet til å laste opp ytterligere data i tillegg til dagens innkjøpsdata, for eksempel kontraktsopplysninger og prisindekser.
 * **Grouping:** En videreutvikling av dagens kategoriseringsstruktur for å gi brukerne mulighet til å opprette flere, egendefinerte grupperinger av innkjøpsdataen.
 * **Standard integrations:** Støtte og testing av løsninger for god og sikker integrasjon mot ERP-systemer. Legge til rette for at brukerne selv kan velge eventuelle tilleggsintegrasjoner som for eksempel eBevis.
-* **User rights:** Tilrettelegging for at brukerne selv kan registrere nye brukere og legge til flere brukerinnstillinger og videreutvikling av brukerrettighetene i plattformen.
+* **User rights:** Tilrettelegging for at brukerne selv kan registrere nye brukere og legge til flere brukerinnstillinger, samt videreutvikling av brukerrettighetene i plattformen.
 
 Ny funksjonalitet vil rulleres ut fortløpende i plattformen etter kvalitetssikring i tråd med våre interne rutiner.
 
