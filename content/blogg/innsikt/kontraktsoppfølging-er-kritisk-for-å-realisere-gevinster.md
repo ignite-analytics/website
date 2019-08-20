@@ -46,4 +46,4 @@ Listen over er ikke utfyllende, men viser eksempel på funksjonalitet og nyttige
 
 _Ignite Analytics støtter hele den strategiske anskaffelsesprosessen med blant annet avtalestyring integrert. Oppdag kraften i strategisk innkjøp gjort digitalt!_
 
-[![](https://www.ignite.no/images/Pr%C3%B8v%20Ignite%20Analytics-1.png)](https://www.ignite.no/ignite-analytics/demo/ "Prøv Ignite Analytics")
+[![](/images/Prøv Ignite Analytics - 1200 x100.png)](https://www.ignite.no/ignite-analytics/demo/ "Prøv Ignite Analytics")
