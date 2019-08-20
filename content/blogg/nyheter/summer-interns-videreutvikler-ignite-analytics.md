@@ -2,7 +2,6 @@
 author = "Ignite"
 categories = ["Nyheter"]
 date = "2019-08-16T13:20:37+00:00"
-draft = true
 image = "/images/Utviklingsteamet sommeren 2019.jpg"
 ingress = "Vi har gjentatt suksessen fra i fjor! I sommer har vi hatt 7 interns på plass som har arbeidet med å videreutvikle og utarbeide ny funksjonalitet i Ignite Analytics."
 showmainimg = false
