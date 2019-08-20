@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 16 Aug 2019 13:20:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2019 13:20:37 +0000</lastBuildDate>
     
 	<atom:link href="https://ignite.no/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Ignite Analytics</title>
       <link>https://ignite.no/blogg/tag/ignite-analytics/</link>
-      <pubDate>Fri, 16 Aug 2019 13:20:37 +0000</pubDate>
+      <pubDate>Tue, 20 Aug 2019 13:20:37 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/ignite-analytics/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Integrations</title>
       <link>https://ignite.no/blogg/tag/integrations/</link>
-      <pubDate>Fri, 16 Aug 2019 13:20:37 +0000</pubDate>
+      <pubDate>Tue, 20 Aug 2019 13:20:37 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/integrations/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Moduler</title>
       <link>https://ignite.no/blogg/tag/moduler/</link>
-      <pubDate>Fri, 16 Aug 2019 13:20:37 +0000</pubDate>
+      <pubDate>Tue, 20 Aug 2019 13:20:37 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/moduler/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Platform Engineers</title>
       <link>https://ignite.no/blogg/tag/platform-engineers/</link>
-      <pubDate>Fri, 16 Aug 2019 13:20:37 +0000</pubDate>
+      <pubDate>Tue, 20 Aug 2019 13:20:37 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/platform-engineers/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Savings tracker</title>
       <link>https://ignite.no/blogg/tag/savings-tracker/</link>
-      <pubDate>Fri, 16 Aug 2019 13:20:37 +0000</pubDate>
+      <pubDate>Tue, 20 Aug 2019 13:20:37 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/savings-tracker/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>Summer interns</title>
       <link>https://ignite.no/blogg/tag/summer-interns/</link>
-      <pubDate>Fri, 16 Aug 2019 13:20:37 +0000</pubDate>
+      <pubDate>Tue, 20 Aug 2019 13:20:37 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/summer-interns/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>eBevis</title>
       <link>https://ignite.no/blogg/tag/ebevis/</link>
-      <pubDate>Fri, 16 Aug 2019 13:20:37 +0000</pubDate>
+      <pubDate>Tue, 20 Aug 2019 13:20:37 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/ebevis/</guid>
       <description></description>
@@ -138,15 +138,6 @@
     </item>
     
     <item>
-      <title>Kompetanse</title>
-      <link>https://ignite.no/blogg/tag/kompetanse/</link>
-      <pubDate>Thu, 08 Aug 2019 12:11:08 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/kompetanse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mandat</title>
       <link>https://ignite.no/blogg/tag/mandat/</link>
       <pubDate>Thu, 08 Aug 2019 12:11:08 +0000</pubDate>
@@ -170,6 +161,15 @@
       <pubDate>Thu, 08 Aug 2019 12:11:08 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/kategoristyring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kompetanse</title>
+      <link>https://ignite.no/blogg/tag/kompetanse/</link>
+      <pubDate>Thu, 08 Aug 2019 12:11:08 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/kompetanse/</guid>
       <description></description>
     </item>
     
