@@ -16,7 +16,7 @@ Alle våre interns studerer til vanlig på NTNU, men har i løpet av de siste uk
 
 > Det har vært en utrolig lærerik og givende sommer, sier Morgan Heggland, som til vanlig studerer industriell økonomi. Jeg setter spesielt stor pris på at man får muligheten til å arbeide med både front- og back-end. På denne måten får man god innsikt i alle aspektene i Ignite Analytics, samtidig som man får innføring i «best practices». En flott sommer med dyktige og hyggelige kollegaer!
 
-![](/images/Utviklingsteamet sommeren 2019.jpg)
+![Utviklerteamet sommeren 2019](/images/Utviklingsteamet sommeren 2019.jpg "Utviklerteamet sommeren 2019")
 
 #### **Ansvar for egne moduler**
 
