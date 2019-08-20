@@ -9,7 +9,7 @@ tags = ["Innkjøpspotensial", "Kalkulator", "Sparekalkulator"]
 title = "Estimer ditt innkjøpspotensial med vår besparelseskalkulator"
 
 +++
-![](/images/Prøv Ignite Analytics - 1200 x100.png)![](/images/Savings calculator - 2.png)
+![](/images/Savings calculator - 2.png)
 
 Vi lanserte nylig en interaktiv kalkulator for å hjelpe profesjonelle innkjøpere med å estimere mulige besparelser, eller innkjøpspotensialet, for sin virksomhet.
 
