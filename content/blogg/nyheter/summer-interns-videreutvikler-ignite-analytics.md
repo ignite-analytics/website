@@ -14,7 +14,7 @@ title = "Summer interns videreutvikler Ignite Analytics "
 
 Alle våre interns studerer til vanlig på NTNU, men har i løpet av de siste ukene jobbet som programutviklere, eller Platform Engineers, hos oss i Ignite Procurement. En av målsetningene våre er å la studentene få prøve seg på nye utfordringer som både er spennende og lærerike.
 
-> Det har vært en utrolig lærerik og givende sommer, sier Morgan Heggland, som til vanlig studerer industriell økonomi. Jeg setter spesielt stor pris på at man får muligheten til å arbeide med både front- og back-end. På denne måten får man god innsikt i alle aspektene i Ignite Analytics, samtidig som man får innføring i «best practices». En flott sommer med dyktige og hyggelige kollegaer!
+> Det har vært en utrolig lærerik og givende sommer, sier Morgan Heggland, som til vanlig studerer industriell økonomi. Jeg setter spesielt stor pris på at man får muligheten til å arbeide med både front- og back-end. På denne måten får man god innsikt i alle aspektene i Ignite Analytics, samtidig som man får innføring i «best practices». En spennende sommer med dyktige og hyggelige kollegaer, oppsummerer han.
 
 ![Utviklerteamet sommeren 2019](/images/Utviklingsteamet sommeren 2019.jpg "Utviklerteamet sommeren 2019")
 
@@ -22,7 +22,7 @@ Alle våre interns studerer til vanlig på NTNU, men har i løpet av de siste uk
 
 Ignite Analytics videreutvikles kontinuerlig basert på innspill fra våre kunder og samarbeidspartnere. I sommer har internsene hatt ansvar for sine egne moduler med tett støtte fra CTO og resten av teamet.
 
-> Alle fikk ansvar for egne prosjekter som vi skulle løse på best mulig måte, sier Martin Egeli, som akkurat startet 3. året på industriell økonomi. På prosjektene har vi fått mye frihet, samt god oppfølging og veiledning.
+> Alle fikk ansvar for egne prosjekter som vi skulle løse på best mulig måte, sier Martin Egeli, som akkurat startet 3. året på industriell økonomi. På prosjektene har vi fått mye frihet, samt god oppfølging og veiledning underveis.
 
 Etter flere timer med programmering og koding, kan vi trygt si at resultatene er langt over forventning. Modulene og funksjonaliteten studentene har jobbet med inkluderer blant annet;
 
