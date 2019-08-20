@@ -22,7 +22,7 @@ Alle våre interns studerer til vanlig på NTNU, men har i løpet av de siste uk
 
 Ignite Analytics videreutvikles kontinuerlig basert på innspill fra våre kunder og samarbeidspartnere. I sommer har internsene hatt ansvar for sine egne moduler med tett støtte fra CTO og resten av teamet.
 
-> Alle fikk ansvar for egne prosjekter som vi skulle løse på best mulig måte, sier Martin Egeli, som akkurat startet 3. året på industriell økonomi. Med god sparring fra resten av teamet, har jeg blant annet fått prøvd meg på flere nye teknologier. 
+> Alle fikk ansvar for egne prosjekter som vi skulle løse på best mulig måte, sier Martin Egeli, som akkurat startet 3. året på industriell økonomi. På prosjektene har vi fått mye frihet, samt god oppfølging og veiledning.
 
 Etter flere timer med programmering og koding, kan vi trygt si at resultatene er langt over forventning. Modulene og funksjonaliteten studentene har jobbet med inkluderer blant annet;
 
