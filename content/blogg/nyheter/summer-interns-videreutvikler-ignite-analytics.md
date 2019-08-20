@@ -20,15 +20,13 @@ Internsene er samstemt om at det har vært en flott sommer med et solid lærings
 
 ![](/images/Utviklingsteamet sommeren 2019.jpg)
 
-Etter flere timer med programmering og koding, kan vi trygt si at resultatene er langt over forventning!
-
 #### **Ansvar for egne moduler**
 
 Ignite Analytics videreutvikles kontinuerlig basert på innspill fra våre kunder og samarbeidspartnere. I sommer har internsene hatt ansvar for sine egne moduler med tett støtte fra CTO og resten av teamet. 
 
 > Alle fikk ansvar for egne prosjekter som vi skulle løse på best mulig måte, sier Martin Egeli, som akkurat startet 3. året på industriell økonomi. Med god sparring fra resten av teamet, har jeg blant annet fått prøvd meg på flere nye teknologier. 
 
-Modulene og funksjonaliteten studentene har jobbet med inkluderer blant annet;
+Etter flere timer med programmering og koding, kan vi trygt si at resultatene er langt over forventning. Modulene og funksjonaliteten studentene har jobbet med inkluderer blant annet;
 
 * **Everything clickable:** Øke brukeropplevelsen for eksisterende analysemuligheter gjennom å gi brukerne mulighet til å kunne trykke på alle deler i plattformen og dykke enda dypere i detaljene.
 * **Savings tracker:** Ny funksjonalitet for å kunne registrere og følge opp besparelser som realiseres gjennom det løpende og strategiske innkjøpsarbeidet.
