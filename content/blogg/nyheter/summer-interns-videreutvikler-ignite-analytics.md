@@ -36,6 +36,6 @@ Vi er trygge på at videreutviklingen av Ignite Analytics vil skape stor verdi f
 
 ***
 
-_Ignite Analytics hjelper deg med å spare tid og realisere innkjøpspotensialet for din virksomhet. Oppdag kraften i strategisk innkjøp gjort digitalt!_
+_Ignite Analytics forenkler din hverdag og bidrar til økt lønnsomhet for din virksomhet. Oppdag kraften i strategisk innkjøp gjort digitalt!_
 
 [![](/images/Prøv Ignite Analytics - 1200 x100.png)](https://www.ignite.no/ignite-analytics/demo/ "Prøv Ignite Analytics")
