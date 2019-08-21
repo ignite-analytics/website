@@ -11,7 +11,7 @@ title = "Summer interns videreutvikler Ignite Analytics "
 +++
 Alle våre interns studerer til vanlig på NTNU, men har i løpet av de siste ukene jobbet som programutviklere, eller Platform Engineers, hos oss i Ignite Procurement. En av målsetningene våre er å la studentene få prøve seg på nye utfordringer som både er spennende og lærerike.
 
-> Det har vært en utrolig lærerik og givende sommer, sier Morgan Heggland, som til vanlig studerer industriell økonomi. Jeg setter spesielt stor pris på at man får muligheten til å arbeide med både front- og back-end. På denne måten får man god innsikt i alle aspektene i Ignite Analytics, samtidig som man får innføring i «best practices». En spennende sommer med dyktige og hyggelige kollegaer, oppsummerer han.
+> Det har vært en utrolig lærerik og givende sommer, sier Morgan Heggland, som til vanlig studerer industriell økonomi. Jeg setter spesielt stor pris på at man får muligheten til å arbeide med både front- og back-end. På denne måten får man god innsikt i alle aspektene i Ignite Analytics, samtidig som man får innføring i «best practices». En spennende sommer med dyktige og hyggelige kollegaer, oppsummerer Heggland.
 
 ![Utviklerteamet sommeren 2019](/images/Utviklingsteamet sommeren 2019.jpg "Utviklerteamet sommeren 2019")
 
