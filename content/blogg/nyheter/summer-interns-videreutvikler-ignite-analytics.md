@@ -9,8 +9,6 @@ tags = ["Summer interns", "Ignite Analytics", "Platform Engineers", "Moduler", "
 title = "Summer interns videreutvikler Ignite Analytics "
 
 +++
-#### **Et fantastisk arbeidsmiljø med solid læringsutbytte**
-
 Alle våre interns studerer til vanlig på NTNU, men har i løpet av de siste ukene jobbet som programutviklere, eller Platform Engineers, hos oss i Ignite Procurement. En av målsetningene våre er å la studentene få prøve seg på nye utfordringer som både er spennende og lærerike.
 
 > Det har vært en utrolig lærerik og givende sommer, sier Morgan Heggland, som til vanlig studerer industriell økonomi. Jeg setter spesielt stor pris på at man får muligheten til å arbeide med både front- og back-end. På denne måten får man god innsikt i alle aspektene i Ignite Analytics, samtidig som man får innføring i «best practices». En spennende sommer med dyktige og hyggelige kollegaer, oppsummerer han.
@@ -40,4 +38,4 @@ Vi er trygge på at videreutviklingen av Ignite Analytics vil skape stor verdi f
 
 _Ignite Analytics hjelper deg med å spare tid og realisere innkjøpspotensialet for din virksomhet. Oppdag kraften i strategisk innkjøp gjort digitalt!_
 
-[![](https://www.ignite.no/images/Pr%C3%B8v%20Ignite%20Analytics%20-%201200%20x100.png)](https://www.ignite.no/ignite-analytics/demo/ "Prøv Ignite Analytics")
+[![](/images/Prøv Ignite Analytics - 1200 x125.png)](https://www.ignite.no/ignite-analytics/demo/ "Prøv Ignite Analytics")
