@@ -12,7 +12,7 @@ title = "Buylogic og Ignite Procurement inngår strategisk samarbeidsavtale"
 +++
 ![](/images/Partner - BuyLogic.png)
 
-[Buylogic](https://www.buylogic.no/) tilbyr konsulenttjenester for Supply Chain Management (SCM), med kjernekompetanse innen olje- og gassindustrien. Selskapet har kontor i Stavanger og samarbeider med ulike tjenesteleverandører, eksempelvis innen logistikk og masterdata, for å bidra til digitalisering av verdikjeden.
+[Buylogic](https://www.buylogic.no/ "Buylogic") tilbyr konsulenttjenester for Supply Chain Management (SCM), med kjernekompetanse innen olje- og gassindustrien. Selskapet har kontor i Stavanger og samarbeider med ulike tjenesteleverandører, eksempelvis innen logistikk og masterdata, for å bidra til digitalisering av verdikjeden.
 
 Per Ove Stålesen, daglig leder i Buylogic, er svært positiv til det kommende samarbeidet.
 
@@ -24,7 +24,7 @@ Vi i Ignite Procurement ser frem til et spennende samarbeid i tiden fremover.
 
 #### **Frokostseminar i Stavanger**
 
-For å markere samarbeidet vil vi arrangere frokostseminaret «Digitalisering av strategisk innkjøp innen olje og gass». Det vil da bli gitt en demonstrasjon av Ignite Analytics, og vi vil svare på spørsmål knyttet til løsningen og samarbeidet. Les mer om seminaret og meld deg på [her](https://app.smartsheet.com/b/form/81f5fbb122384677952e43bd51b57aa5).
+For å markere samarbeidet vil vi arrangere frokostseminaret «Digitalisering av strategisk innkjøp innen olje og gass». Det vil da bli gitt en demonstrasjon av Ignite Analytics, og vi vil svare på spørsmål knyttet til løsningen og samarbeidet. Les mer om seminaret og meld deg på [her](https://app.smartsheet.com/b/form/81f5fbb122384677952e43bd51b57aa5 "Frokostseminar").
 
 ***
 
