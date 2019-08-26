@@ -24,7 +24,7 @@ Vi i Ignite Procurement ser frem til et spennende samarbeid i tiden fremover.
 
 #### **Frokostseminar i Stavanger**
 
-For å markere samarbeidet vil vi arrangere frokostseminaret «Digitalisering av strategisk innkjøp innen olje og gass». Det vil da bli gitt en demonstrasjon av Ignite Analytics, og vi vil svare på spørsmål knyttet til løsningen og samarbeidet. Les mer om seminaret og påmelding **her** (link til event)
+For å markere samarbeidet vil vi arrangere frokostseminaret «Digitalisering av strategisk innkjøp innen olje og gass». Det vil da bli gitt en demonstrasjon av Ignite Analytics, og vi vil svare på spørsmål knyttet til løsningen og samarbeidet. Les mer om seminaret og påmelding her.
 
 ***
 
