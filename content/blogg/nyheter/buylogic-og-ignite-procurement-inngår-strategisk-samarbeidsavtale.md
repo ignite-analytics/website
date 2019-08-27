@@ -2,11 +2,10 @@
 author = "Ignite"
 categories = ["Nyheter"]
 date = "2019-08-26T10:50:33+00:00"
-draft = true
 image = "/images/Partner - BuyLogic.png"
 ingress = "Vi er glade for å ønske Buylogic velkommen som en av våre strategiske samarbeidspartnere. Selskapet har inngått en distribusjonsavtale for salg av Ignite Analytics mot olje- og gassindustrien."
 showmainimg = false
-tags = ["Buylogic", "Samarbeidsavtale", "Ignite Analytics", "olje- og gassindustri"]
+tags = ["Buylogic", "Samarbeidsavtale", "Ignite Analytics", "O&G", "Frokostseminar"]
 title = "Buylogic og Ignite Procurement inngår strategisk samarbeidsavtale"
 
 +++
