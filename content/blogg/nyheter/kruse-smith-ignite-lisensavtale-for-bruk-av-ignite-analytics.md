@@ -10,7 +10,7 @@ tags = ["Kruse Smith", "Ignite Analytics"]
 title = "Kruse Smith + Ignite = lisensavtale for bruk av Ignite Analytics"
 
 +++
-![](/images/KruseSmith.png)
+![Kruse Smith](/images/KruseSmith.png "Kruse Smith")
 
 Kruse Smith er et solid, innovativt og framtidsrettet entreprenør- og boligkonsern med nasjonalt nedslagsfelt. Selskapets forretningsområder er bygg, byggfornyelse, anlegg samt bolig- og eiendomsutvikling.
 
