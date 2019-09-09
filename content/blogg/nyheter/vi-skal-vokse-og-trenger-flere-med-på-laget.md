@@ -10,8 +10,20 @@ tags = ["Rekruttering"]
 title = "Vi skal vokse og trenger flere med på laget!"
 
 +++
-#### DSD
+#### **Platform engineers, data scientists og summer interns**
 
-Ignite Procurement er inne i en vekstfase og ønsker å få flere med på laget fremover. Ifølge Valdemar Rolfsen, CTO i Ignite Procurement, opplever selskapet en sterk etterspørsel for sine tjenester og satser på ytterligere vekst fremover.
+Ignite Procurement er inne i en vekstfase og ønsker å få flere med på laget. 
 
-> _Teamet vårt har vokst betydelig den siste tiden, og består nå av mange dedikerte og dyktige medarbeidere. For å møte en stadig økende etterspørsel etter tjenestene våre, ønsker vi  som vi håper betyr flere ansatte og nye rekrutteringer i fremtiden, sier Nome._
+> _Vi opplever en sterk etterspørsel for våre tjenester og ønsker å tilrettelegge for ytterligere vekst fremover, sier Valdemar Rolfsen, CTO i Ignite Procurement._ 
+
+{{% figure src="/images/Valdemar Rolfsen.jpec" alt="$FIGUR__ALT"
+caption="$FIGUR_E_CAPTION"
+%}}
+
+I første omgang vil vi rekruttere flere, dyktige programutviklere - både på fast basis og interns til neste sommer.
+
+> _En stadig økende kundemasse gjør at vi trenger flere programutviklere som kan bidra i videreutviklingen av Ignite Analytics, fortsetter Rolfsen. I utgangspunktet er vi på jakt etter_ 
+>
+> _fulltidsansatte til stillinger som Platform Engineers og Data Scientists, samt interns til neste sommer. Vi er likevel alltid interesserte i komme i kontakt med personer som kan styrke teamet vårt, avslutter Rolfsen._
+
+Rolfsen, CTO i Ignite Procurement,
