@@ -1,22 +1,22 @@
 +++
 author = "Ignite"
 categories = ["Nyheter"]
-date = "2019-09-30T10:54:19+00:00"
+date = "2019-10-07T10:54:19+00:00"
 draft = true
-image = "/images/Innherred Innkjøp.png"
-ingress = "Vi er glade for å ønske Innherred Innkjøp velkommen som en av våre nyeste kunder. Det interkommunale samarbeidet har inngått en lisensavtale for bruk av Ignite Analytics."
+image = "/images/Indre Østfold kommune.png"
+ingress = "Vi er stolte over å meddele at Indre Østfold kommune har inngått en avtale for bruken av Ignite Analytics - vår unike plattform for strategisk innkjøp."
 showmainimg = false
-tags = ["Ignite Analytics", "Innherred Innkjøp"]
-title = "Indre Østfold kommune"
+tags = ["Ignite Analytics", "Indre Østfold kommune"]
+title = "Indre Østfold kommune inngår lisensavtale for bruk av Ignite Analytics"
 
 +++
-![Innherred Innkjøp](/images/Innherred Innkjøp.png "Innherred Innkjøp")
+![Indre Østfold kommune](/images/Indre Østfold kommune.png "Indre Østfold kommune")
 
-Innherred Innkjøp er et interkommunalt samarbeid mellom Snåsa, Verran, Steinkjer, Inderøy, Verdal og Levanger kommune. Formålet med samarbeidet er å gjennomføre rasjonelle, forsvarlige og effektive anskaffelser på vegne av kommunene.
+Indre Østfold kommune er en ny kommune fra 1. januar 2020 og en sammenslåing av dagens Askim, Eidsberg, Hobøl og Spydeberg kommune. Askim kommune er vertskommune for innkjøpssamarbeidet i de fem kommunene og i Indre Østfold kommune.
 
-Samarbeidet har ansvaret for felles innkjøpsstrategi, -politikk, -reglement og -betingelser for sine deltakerkommuner, som er en del av de strategiske verktøyene som blant annet skal bidra til at kommunene skal kunne nå sine mål om kostnadseffektiv tjenesteyting.
+Kommunen er opptatt av samarbeidspartnere som vil være med på å levere effektive og gode varer og tjenester, samtidig som de ønsker at samarbeidspartnere skal lykkes med sin næringsvirksomhet og utvikling. Konkurransedyktige leveranser, god dialog, gjensidig tillit, god forretningsskikk, etisk ansvarlighet og hensyn til miljøet er viktige føringer for et best mulig samarbeid.
 
-Du kan lese mer om Innherred Innkjøp på deres [hjemmeside](https://www.inderoy.kommune.no/om-oss.500205.no.html "Innherred Innkjøp").
+Du kan lese mer om Indre Østfold kommune på deres [hjemmeside](https://www.io.kommune.no/ "Indre Østfold kommune").
 
 ***
 
