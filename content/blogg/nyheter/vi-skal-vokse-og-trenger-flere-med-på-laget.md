@@ -6,7 +6,7 @@ image = "/images/Ignite Team.png"
 ingress = "På utkikk etter jobb i et spennende og ambisiøst selskap? Vi skal rekruttere flere dyktige kollegaer til Team Ignite."
 showmainimg = false
 tags = ["Rekruttering", "Programutviklere", "Platform engineers", "Data Scientists", "Interns", "Summer interns", "Vekstfase"]
-title = "Vi vokser og trenger flere med på laget!"
+title = "Vi skal vokse og trenger flere med på laget!"
 
 +++
 Ignite Procurement er inne i en vekstfase og ønsker å få flere med på laget.
