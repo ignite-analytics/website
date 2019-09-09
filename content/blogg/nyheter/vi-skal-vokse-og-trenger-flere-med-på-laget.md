@@ -5,7 +5,7 @@ date = "2019-09-09T08:22:06+00:00"
 image = "/images/Ignite Team.png"
 ingress = "På utkikk etter jobb i et spennende og ambisiøst arbeidsmiljø? Vi skal rekruttere flere, dyktige kollegaer til Team Ignite."
 showmainimg = false
-tags = ["Rekruttering", "Programutviklere", "Platform engineers", "Data Scientists", "Interns", "Summer interns", "Vekstfase"]
+tags = ["Rekruttering", "Programutviklere", "Platform engineers", "Data Scientists", "Interns"]
 title = "Vi vokser og trenger flere med på laget!"
 
 +++
