@@ -165,8 +165,133 @@
   
   <url>
     <loc>https://ignite.no/blogg/</loc>
-    <lastmod>2019-08-26T10:50:33+00:00</lastmod>
+    <lastmod>2019-09-09T08:22:06+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/categories/</loc>
+    <lastmod>2019-09-09T08:22:06+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/categories/"
+                />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/data-scientists/</loc>
+    <lastmod>2019-09-09T08:22:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/</loc>
+    <lastmod>2019-09-09T08:22:06+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/"
+                />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/interns/</loc>
+    <lastmod>2019-09-09T08:22:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/nyheter/</loc>
+    <lastmod>2019-09-09T08:22:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/platform-engineers/</loc>
+    <lastmod>2019-09-09T08:22:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/programutviklere/</loc>
+    <lastmod>2019-09-09T08:22:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/rekruttering/</loc>
+    <lastmod>2019-09-09T08:22:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/summer-interns/</loc>
+    <lastmod>2019-09-09T08:22:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/tags/</loc>
+    <lastmod>2019-09-09T08:22:06+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/tags/"
+                />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/vekstfase/</loc>
+    <lastmod>2019-09-09T08:22:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/nyheter/vi-skal-vokse-og-trenger-flere-med-p%C3%A5-laget/</loc>
+    <lastmod>2019-09-09T08:22:06+00:00</lastmod>
   </url>
   
   
@@ -187,24 +312,6 @@
   
   
   <url>
-    <loc>https://ignite.no/categories/</loc>
-    <lastmod>2019-08-26T10:50:33+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/categories/"
-                />
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/tag/frokostseminar/</loc>
     <lastmod>2019-08-26T10:50:33+00:00</lastmod>
     <priority>0</priority>
@@ -214,32 +321,6 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/ignite-analytics/</loc>
-    <lastmod>2019-08-26T10:50:33+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/</loc>
-    <lastmod>2019-08-26T10:50:33+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/"
-                />
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/nyheter/</loc>
     <lastmod>2019-08-26T10:50:33+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -263,24 +344,6 @@
   
   
   <url>
-    <loc>https://ignite.no/tags/</loc>
-    <lastmod>2019-08-26T10:50:33+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/tags/"
-                />
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/tag/integrations/</loc>
     <lastmod>2019-08-20T13:20:37+00:00</lastmod>
     <priority>0</priority>
@@ -297,23 +360,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/platform-engineers/</loc>
-    <lastmod>2019-08-20T13:20:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/tag/savings-tracker/</loc>
-    <lastmod>2019-08-20T13:20:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/summer-interns/</loc>
     <lastmod>2019-08-20T13:20:37+00:00</lastmod>
     <priority>0</priority>
   </url>
