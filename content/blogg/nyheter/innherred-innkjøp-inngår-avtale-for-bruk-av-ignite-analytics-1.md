@@ -1,13 +1,13 @@
 +++
 author = "Ignite"
 categories = ["Nyheter"]
-date = "2019-09-23T10:54:19+00:00"
+date = "2019-09-30T10:54:19+00:00"
 draft = true
 image = "/images/Innherred Innkjøp.png"
 ingress = "Vi er glade for å ønske Innherred Innkjøp velkommen som en av våre nyeste kunder. Det interkommunale samarbeidet har inngått en lisensavtale for bruk av Ignite Analytics."
 showmainimg = false
 tags = ["Ignite Analytics", "Innherred Innkjøp"]
-title = "Innherred Innkjøp inngår avtale for bruk av Ignite Analytics"
+title = "Indre Østfold kommune"
 
 +++
 ![Innherred Innkjøp](/images/Innherred Innkjøp.png "Innherred Innkjøp")
