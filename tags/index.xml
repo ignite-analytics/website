@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Ignite Analytics</title>
+      <link>https://ignite.no/blogg/tag/ignite-analytics/</link>
+      <pubDate>Mon, 26 Aug 2019 10:50:33 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/ignite-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>O&amp;G</title>
       <link>https://ignite.no/blogg/tag/og/</link>
       <pubDate>Mon, 26 Aug 2019 10:50:33 +0000</pubDate>
@@ -44,15 +53,6 @@
       <pubDate>Mon, 26 Aug 2019 10:50:33 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/samarbeidsavtale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ignite analytics</title>
-      <link>https://ignite.no/blogg/tag/ignite-analytics/</link>
-      <pubDate>Mon, 26 Aug 2019 10:50:33 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/ignite-analytics/</guid>
       <description></description>
     </item>
     
@@ -111,15 +111,6 @@
     </item>
     
     <item>
-      <title>Innkjøpspotensial</title>
-      <link>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</link>
-      <pubDate>Fri, 16 Aug 2019 12:17:11 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kalkulator</title>
       <link>https://ignite.no/blogg/tag/kalkulator/</link>
       <pubDate>Fri, 16 Aug 2019 12:17:11 +0000</pubDate>
@@ -138,20 +129,20 @@
     </item>
     
     <item>
+      <title>innkjøpspotensial</title>
+      <link>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</link>
+      <pubDate>Fri, 16 Aug 2019 12:17:11 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Forankring</title>
       <link>https://ignite.no/blogg/tag/forankring/</link>
       <pubDate>Thu, 08 Aug 2019 12:11:08 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/forankring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Innkjøpsfunksjon</title>
-      <link>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</link>
-      <pubDate>Thu, 08 Aug 2019 12:11:08 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</guid>
       <description></description>
     </item>
     
@@ -174,15 +165,6 @@
     </item>
     
     <item>
-      <title>Kompetanse</title>
-      <link>https://ignite.no/blogg/tag/kompetanse/</link>
-      <pubDate>Thu, 08 Aug 2019 12:11:08 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/kompetanse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mandat</title>
       <link>https://ignite.no/blogg/tag/mandat/</link>
       <pubDate>Thu, 08 Aug 2019 12:11:08 +0000</pubDate>
@@ -201,11 +183,29 @@
     </item>
     
     <item>
+      <title>innkjøpsfunksjon</title>
+      <link>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</link>
+      <pubDate>Thu, 08 Aug 2019 12:11:08 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>kategoristyring</title>
       <link>https://ignite.no/blogg/tag/kategoristyring/</link>
       <pubDate>Thu, 08 Aug 2019 12:11:08 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/kategoristyring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kompetanse</title>
+      <link>https://ignite.no/blogg/tag/kompetanse/</link>
+      <pubDate>Thu, 08 Aug 2019 12:11:08 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/kompetanse/</guid>
       <description></description>
     </item>
     
