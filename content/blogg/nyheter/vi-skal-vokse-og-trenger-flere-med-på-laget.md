@@ -16,7 +16,11 @@ Ignite Procurement er inne i en vekstfase og ønsker å få flere med på laget.
 
 > _Vi opplever en sterk etterspørsel for våre tjenester og ønsker å tilrettelegge for ytterligere vekst fremover, sier Valdemar Rolfsen, CTO i Ignite Procurement._
 
-{{% figure src="/images/Valdemar Rolfsen.jpg" alt="$FIGUR__ALT" caption="$FIGUR_E_CAPTI_N_"
+{{% figure src="/images/Valdemar Rolfsen.jpg" 
+
+alt="Valdemar Rolfsen, CTO i Ignite Procurement" 
+
+caption="Valdemar Rolfsen, CTO i Ignite Procurement"
 %}}
 
 I første omgang vil vi rekruttere flere, dyktige programutviklere - både på fast basis og interns til neste sommer.
