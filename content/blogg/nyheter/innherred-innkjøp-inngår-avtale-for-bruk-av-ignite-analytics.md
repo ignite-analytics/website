@@ -7,7 +7,7 @@ image = "/images/Innherred Innkjøp.png"
 ingress = "Vi er glade for å ønske Innherred Innkjøp velkommen som en av våre nyeste kunder. Det interkommunale samarbeidet har inngått en lisensavtale for bruk av Ignite Analytics."
 showmainimg = false
 tags = ["Ignite Analytics", "Innherred Innkjøp"]
-title = "Innherred Innkjøp inngår avtale for bruk av Ignite Analytics"
+title = "DC Resources"
 
 +++
 ![Innherred Innkjøp](/images/Innherred Innkjøp.png "Innherred Innkjøp")
