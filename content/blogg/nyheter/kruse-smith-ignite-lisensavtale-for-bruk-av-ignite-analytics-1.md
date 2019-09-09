@@ -14,7 +14,7 @@ title = "Innherred Innkjøp inngår avtale for bruk av Ignite Analytics"
 
 Innherred Innkjøp er et interkommunalt samarbeid mellom Snåsa, Verran, Steinkjer, Inderøy, Verdal og Levanger kommune. Formålet med samarbeidet er å gjennomføre rasjonelle, forsvarlige og effektive anskaffelser på vegne av kommunene.
 
-Samarbeidet har ansvaret for felles innkjøpsstrategi, -politikk, -reglement og -betingelser for sine deltakerkommuner, og er en del av de strategiske verktøyene som blant annet skal bidra til at kommunene skal kunne nå sine mål om kostnadseffektiv tjenesteyting.
+Samarbeidet har ansvaret for felles innkjøpsstrategi, -politikk, -reglement og -betingelser for sine deltakerkommuner, som er en del av de strategiske verktøyene som blant annet skal bidra til at kommunene skal kunne nå sine mål om kostnadseffektiv tjenesteyting.
 
 Du kan lese mer om Innherred Innkjøp på deres [hjemmeside](https://www.inderoy.kommune.no/om-oss.500205.no.html "Innherred Innkjøp").
 
