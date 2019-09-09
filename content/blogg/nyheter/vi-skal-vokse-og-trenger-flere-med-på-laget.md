@@ -10,7 +10,7 @@ tags = ["Rekruttering"]
 title = "Vi skal vokse og trenger flere med på laget!"
 
 +++
-#### **DSD**
+#### DSD
 
 Ignite Procurement er inne i en vekstfase og ønsker å få flere med på laget fremover. Ifølge Valdemar Rolfsen, CTO i Ignite Procurement, opplever selskapet en sterk etterspørsel for sine tjenester og satser på ytterligere vekst fremover.
 
