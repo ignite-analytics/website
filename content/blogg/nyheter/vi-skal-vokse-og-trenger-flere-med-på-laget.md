@@ -9,7 +9,7 @@ tags = ["Rekruttering", "Programutviklere", "Platform engineers", "Data Scientis
 title = "Vi skal vokse og trenger flere med på laget!"
 
 +++
-Ignite Procurement har ambisjoner om å bli Nordens fremste aktør på strategisk innkjøp. Vi søker derfor etter flere medarbeidere for å bli med på reisen.
+Ignite Procurement har ambisjoner om å bli Nordens fremste aktør på strategisk innkjøp. Vi søker derfor etter flere medarbeidere for å bidra på denne reisen.
 
 > _Vår visjon er å øke transparensen i B2B-markedet for å sikre at seriøse og konkurransedyktige leverandører blir prioriterte, sier Valdemar Rolfsen, CTO i Ignite Procurement. For å komme dit trenger vi skarpe, nytenkende hoder som ser muligheter der andre ser problemer._
 
