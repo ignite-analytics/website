@@ -28,7 +28,7 @@ I første omgang kommer vi til å rekruttere flere, dyktige programutviklere - b
 
 Ønsker du å få vite mer? Informasjon om alle våre ledige stillinger finner du [**her**](https://www.poption.com/companies/ignite/postings "Våre stillinger"). 
 
-Og om du er nysgjerrig på hvordan det er å jobbe i Ignite Procurement, så anbefaler vi deg å snurre i gang filmen under!
+PS. Om du er nysgjerrig på hvordan det er å jobbe i Ignite Procurement, så anbefaler vi deg å snurre i gang filmen under!
 
 {{% youtube "cudCk4PoOvw" %}}
 
