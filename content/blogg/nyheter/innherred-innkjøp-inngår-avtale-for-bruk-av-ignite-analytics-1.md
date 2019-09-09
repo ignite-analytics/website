@@ -7,7 +7,7 @@ image = "/images/Indre Østfold kommune.png"
 ingress = "Vi er stolte over å meddele at Indre Østfold kommune har inngått en avtale for bruken av Ignite Analytics - vår unike plattform for strategisk innkjøp."
 showmainimg = false
 tags = ["Ignite Analytics", "Indre Østfold kommune"]
-title = "Indre Østfold kommune inngår lisensavtale for bruk av Ignite Analytics"
+title = "Indre Østfold kommune + Ignite Analytics = Sant"
 
 +++
 ![Indre Østfold kommune](/images/Indre Østfold kommune.png "Indre Østfold kommune")
