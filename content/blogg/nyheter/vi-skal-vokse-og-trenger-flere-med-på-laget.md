@@ -24,7 +24,7 @@ caption="Valdemar Rolfsen, CTO i Ignite Procurement"
 
 I første omgang kommer vi til å rekruttere flere, dyktige medarbeidere til vår analyse- og utviklingsavdeling - både på fast basis og interns til neste sommer.
 
-> _En stadig økende kundemasse gjør at vi trenger flere programutviklere som kan bidra i videreutviklingen av Ignite Analytics, fortsetter Rolfsen. I utgangspunktet er vi på jakt etter fulltidsansatte til stillinger som Platform Engineers og Data Scientists, samt interns til neste sommer. Vi er likevel alltid interesserte i komme i kontakt med personer som kan styrke teamet vårt, avslutter Rolfsen._
+> _En stadig økende kundemasse, og store ambisjoner, gjør at vi trenger flere programutviklere som kan bidra i videreutviklingen av Ignite Analytics, fortsetter Rolfsen. I utgangspunktet er vi på jakt etter fulltidsansatte til stillinger som Platform Engineers og Data Scientists, samt interns til neste sommer. Vi er likevel alltid interesserte i komme i kontakt med personer som kan styrke teamet vårt, avslutter Rolfsen._
 
 Ønsker du å få vite mer? Informasjon om alle våre ledige stillinger finner du [**her**](https://www.poption.com/companies/ignite/postings "Våre stillinger"). 
 
