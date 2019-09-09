@@ -1,8 +1,7 @@
 +++
 author = "Ignite"
 categories = ["Nyheter"]
-date = "2019-09-10T08:22:06+00:00"
-draft = true
+date = "2019-09-09T08:22:06+00:00"
 image = "/images/Ignite Team.png"
 ingress = "På jakt etter jobb? Vi ønsker å rekruttere flere dyktige kolleger til Team Ignite."
 showmainimg = false
