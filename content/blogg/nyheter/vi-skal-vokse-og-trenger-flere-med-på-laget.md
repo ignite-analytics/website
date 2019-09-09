@@ -6,7 +6,7 @@ image = "/images/Ignite Team.png"
 ingress = "På utkikk etter jobb i et spennende og ambisiøst selskap? Vi skal rekruttere flere dyktige kollegaer til Team Ignite."
 showmainimg = false
 tags = ["Rekruttering", "Programutviklere", "Platform engineers", "Data Scientists", "Interns", "Summer interns", "Vekstfase"]
-title = "Vi skal vokse og trenger flere med på laget!"
+title = "Vi vokser og trenger flere med på laget!"
 
 +++
 Ignite Procurement har ambisjoner om å bli Nordens fremste aktør på strategisk innkjøp. Vi søker derfor etter flere medarbeidere for å bidra på denne reisen.
