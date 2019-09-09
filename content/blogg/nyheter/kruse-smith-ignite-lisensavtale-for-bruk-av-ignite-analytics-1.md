@@ -1,20 +1,22 @@
 +++
 author = "Ignite"
 categories = ["Nyheter"]
-date = "2019-09-09T10:54:19+00:00"
+date = "2019-09-23T10:54:19+00:00"
 draft = true
-image = "/images/KruseSmith.png"
-ingress = "Vi er stolte over å meddele at Kruse Smith har inngått en avtale med oss for bruken av Ignite Analytics - vår unike plattform for strategisk innkjøp."
+image = "/images/Innherred Innkjøp.png"
+ingress = "Vi er glade for å ønske Innherred Innkjøp velkommen som en av våre nyeste kunder. Det interkommunale samarbeidet har inngått en lisensavtale for bruk av Ignite Analytics."
 showmainimg = false
-tags = ["Kruse Smith", "Ignite Analytics"]
-title = "Kruse Smith + Ignite = lisensavtale for bruk av Ignite Analytics"
+tags = ["Ignite Analytics", "Innherred Innkjøp"]
+title = "Innherred Innkjøp inngår avtale for bruk av Ignite Analytics"
 
 +++
-![](/images/KruseSmith.png)
+![Innherred Innkjøp](/images/Innherred Innkjøp.png "Innherred Innkjøp")
 
-Kruse Smith er et solid, innovativt og framtidsrettet entreprenør- og boligkonsern med nasjonalt nedslagsfelt. Selskapets forretningsområder er bygg, byggfornyelse, anlegg samt bolig- og eiendomsutvikling.
+Innherred Innkjøp er et interkommunalt samarbeid mellom Snåsa, Verran, Steinkjer, Inderøy, Verdal og Levanger kommune. Formålet med samarbeidet er å gjennomføre rasjonelle, forsvarlige og effektive anskaffelser på vegne av kommunene.
 
-Du kan lese mer om Kruse Smith på deres [hjemmeside](https://www.kruse-smith.no/).
+Samarbeidet har ansvaret for felles innkjøpsstrategi, -politikk, -reglement og -betingelser for sine deltakerkommuner, og er en del av de strategiske verktøyene som blant annet skal bidra til at kommunene skal kunne nå sine mål om kostnadseffektiv tjenesteyting.
+
+Du kan lese mer om Innherred Innkjøp på deres [hjemmeside](https://www.inderoy.kommune.no/om-oss.500205.no.html "Innherred Innkjøp").
 
 ***
 
