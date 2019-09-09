@@ -6,7 +6,7 @@ draft = true
 image = "/images/Ignite Team.png"
 ingress = "På jakt etter jobb? Vi ønsker å rekruttere flere dyktige kolleger til Team Ignite."
 showmainimg = false
-tags = ["Rekruttering"]
+tags = ["Rekruttering", "Programutviklere", "Platform engineers", "Data Scientists", "Interns", "Summer interns", "Vekstfase"]
 title = "Vi skal vokse og trenger flere med på laget!"
 
 +++
@@ -16,9 +16,9 @@ Ignite Procurement er inne i en vekstfase og ønsker å få flere med på laget.
 
 > _Vi opplever en sterk etterspørsel for våre tjenester og ønsker å tilrettelegge for ytterligere vekst fremover, sier Valdemar Rolfsen, CTO i Ignite Procurement._
 
-{{% figure src="/images/Valdemar Rolfsen.jpg" 
+{{% figure src="/images/Valdemar Rolfsen.jpg"
 
-alt="Valdemar Rolfsen, CTO i Ignite Procurement" 
+alt="Valdemar Rolfsen, CTO i Ignite Procurement"
 
 caption="Valdemar Rolfsen, CTO i Ignite Procurement"
 %}}
@@ -31,6 +31,12 @@ I første omgang kommer vi til å rekruttere flere, dyktige programutviklere - b
 
 Du finner mer informasjon om alle våre ledige stillinger [her](https://www.poption.com/companies/ignite/postings "Våre stillinger").
 
-Og du lurer på hvordan det er å jobbe hos oss i Ignite Procurement, så anbefaler vi deg å snurre filmen under for å lære mer
+Og om du er nysgjerrig på hvordan det er å jobbe i Ignite Procurement, så anbefaler vi deg å snurre i gang filmen under!
 
 {{% youtube "cudCk4PoOvw" %}}
+
+***
+
+_Ignite Analytics hjelper deg med å spare tid og forbedre lønnsomheten for din virksomhet. Oppdag kraften i strategisk innkjøp gjort digitalt!_
+
+[![](https://www.ignite.no/images/Pr%C3%B8v%20Ignite%20Analytics%20-%201200%20x100.png)](https://www.ignite.no/ignite-analytics/demo/ "Prøv Ignite Analytics")
