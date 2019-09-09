@@ -3,20 +3,20 @@ author = "Ignite"
 categories = ["Nyheter"]
 date = "2019-09-23T10:54:19+00:00"
 draft = true
-image = "/images/Innherred Innkjøp.png"
-ingress = "Vi er glade for å ønske Innherred Innkjøp velkommen som en av våre nyeste kunder. Det interkommunale samarbeidet har inngått en lisensavtale for bruk av Ignite Analytics."
+image = "/images/DC Resources Norge.png"
+ingress = "Vi er stolte over å meddele at DC Resources Norge har inngått en avtale med oss for bruken av Ignite Analytics - vår unike plattform for strategisk innkjøp."
 showmainimg = false
-tags = ["Ignite Analytics", "Innherred Innkjøp"]
-title = "DC Resources"
+tags = ["Ignite Analytics", "DC Resources Norge"]
+title = "DC Resources Norge med lisensavtale for bruk av Ignite Analytics"
 
 +++
-![Innherred Innkjøp](/images/Innherred Innkjøp.png "Innherred Innkjøp")
+![DC Resources Norge](/images/DC Resources Norge.png "DC Resources Norge")
 
-Innherred Innkjøp er et interkommunalt samarbeid mellom Snåsa, Verran, Steinkjer, Inderøy, Verdal og Levanger kommune. Formålet med samarbeidet er å gjennomføre rasjonelle, forsvarlige og effektive anskaffelser på vegne av kommunene.
+DC Resources Norge består av belgiske Group de Cloedt's virksomheter i Norge, og består av selskapene Oster Pukk og Sand AS, DC Halsvik Aggregates AS og Norwegian Sandstone Export AS, som alle er lokaliserte langs Vestlandskysten.
 
-Samarbeidet har ansvaret for felles innkjøpsstrategi, -politikk, -reglement og -betingelser for sine deltakerkommuner, som er en del av de strategiske verktøyene som blant annet skal bidra til at kommunene skal kunne nå sine mål om kostnadseffektiv tjenesteyting.
+Selskapene har en total bemanning på omlag 160 årsverk og produserer årlig ca. 5 millioner tonn tilslag til asfalt, betong, jernbane, vei og offshore.
 
-Du kan lese mer om Innherred Innkjøp på deres [hjemmeside](https://www.inderoy.kommune.no/om-oss.500205.no.html "Innherred Innkjøp").
+Du kan lese mer om DC Resources Norge på deres [hjemmeside](http://www.dcresources-norway.eu/ "DC Resources Norge").
 
 ***
 
