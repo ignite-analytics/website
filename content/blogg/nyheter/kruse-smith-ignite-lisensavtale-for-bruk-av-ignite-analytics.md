@@ -1,7 +1,7 @@
 +++
 author = "Ignite"
 categories = ["Nyheter"]
-date = "2019-05-29T14:54:19+00:00"
+date = "2019-09-11T14:54:19+00:00"
 draft = true
 image = "/images/KruseSmith.png"
 ingress = "Vi er stolte over å meddele at Kruse Smith har inngått en avtale med oss for bruken av Ignite Analytics - vår unike plattform for strategisk innkjøp."
