@@ -9,8 +9,6 @@ tags = ["Rekruttering", "Programutviklere", "Platform engineers", "Data Scientis
 title = "Vi skal vokse og trenger flere med på laget!"
 
 +++
-#### **Platform engineers, data scientists og summer interns**
-
 Ignite Procurement er inne i en vekstfase og ønsker å få flere med på laget.
 
 > _Vi opplever en sterk etterspørsel for våre tjenester og ønsker å tilrettelegge for ytterligere vekst fremover, sier Valdemar Rolfsen, CTO i Ignite Procurement._
@@ -21,6 +19,8 @@ alt="Valdemar Rolfsen, CTO i Ignite Procurement"
 
 caption="Valdemar Rolfsen, CTO i Ignite Procurement"
 %}}
+
+#### **Platform engineers, data scientists og summer interns**
 
 I første omgang kommer vi til å rekruttere flere, dyktige programutviklere - både på fast basis og interns til neste sommer.
 
