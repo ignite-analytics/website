@@ -3,15 +3,15 @@ author = "Ignite"
 categories = ["Nyheter"]
 date = "2019-09-09T08:22:06+00:00"
 image = "/images/Ignite Team.png"
-ingress = "På utkikk etter jobb i et spennende og ambisiøst selskap? Vi skal rekruttere flere dyktige kollegaer til Team Ignite."
+ingress = "På utkikk etter jobb i et spennende og ambisiøst arbeids? Vi skal rekruttere flere dyktige kollegaer til Team Ignite."
 showmainimg = false
 tags = ["Rekruttering", "Programutviklere", "Platform engineers", "Data Scientists", "Interns", "Summer interns", "Vekstfase"]
 title = "Vi skal vokse og trenger flere med på laget!"
 
 +++
-Ignite Procurement er inne i en vekstfase og ønsker å få flere med på laget.
+Ignite Procurement har ambisjoner om å bli Nordens fremste aktør på strategisk innkjøp. Vi søker derfor etter flere medarbeidere for å bli med på reisen.
 
-> _Vi opplever en sterk etterspørsel for våre tjenester og ønsker å tilrettelegge for ytterligere vekst fremover, sier Valdemar Rolfsen, CTO i Ignite Procurement._
+> _Vår visjon er å øke transparensen i B2B-markedet for å sikre at seriøse og konkurransedyktige leverandører blir prioriterte, sier Valdemar Rolfsen, CTO i Ignite Procurement. For å komme dit trenger vi skarpe, nytenkende hoder som ser muligheter der andre ser problemer._
 
 {{% figure src="/images/Valdemar Rolfsen.jpg"
 
