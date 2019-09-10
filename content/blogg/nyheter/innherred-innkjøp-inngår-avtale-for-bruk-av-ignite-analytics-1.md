@@ -12,7 +12,7 @@ title = "Indre Østfold kommune + Ignite Analytics = Sant"
 +++
 ![Indre Østfold kommune](/images/Indre Østfold kommune.png "Indre Østfold kommune")
 
-Indre Østfold kommune er en ny kommune fra 1. januar 2020 og en sammenslåing av dagens Askim, Eidsberg, Hobøl og Spydeberg kommune. Askim kommune er vertskommune for innkjøpssamarbeidet i de fem kommunene og i Indre Østfold kommune.
+Indre Østfold kommune er en ny kommune fra 1. januar 2020 og en sammenslåing av dagens Askim, Eidsberg, Hobøl og Spydeberg kommune. Askim kommune er vertskommune for innkjøpssamarbeidet i de fem kommunene og i Indre Østfold kommune. Indre Østfold har allerede begynt å jobbe samlet med innkjøp for å være best mulig forberedt til den formelle sammenslåingen fra 2020.
 
 Kommunen er opptatt av samarbeidspartnere som vil være med på å levere effektive og gode varer og tjenester, samtidig som de ønsker at samarbeidspartnere skal lykkes med sin næringsvirksomhet og utvikling. Konkurransedyktige leveranser, god dialog, gjensidig tillit, god forretningsskikk, etisk ansvarlighet og hensyn til miljøet er viktige føringer for et best mulig samarbeid.
 
