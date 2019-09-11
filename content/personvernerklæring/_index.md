@@ -1,11 +1,10 @@
 ---
-title: "Personvernerklæring og vår bruk av cookies"
-description:
-date: 2018-12-18T15:31:35+01:00
-draft: false
+title: Personvernerklæring og vår bruk av cookies
+description: 
+date: 2018-12-18T14:31:35.000+00:00
 url: "/personvernerklæring"
----
 
+---
 #### Følgende personvernerklæring gjelder for bruken av Ignite Procurement sine Tjenester. Vår personvernerklæring beskriver hvordan vi samler inn og bruker personopplysninger når du benytter eller inngår avtale om bruk av Tjenestene.
 
 ### Dine personopplysninger - dine innstillinger
@@ -16,7 +15,7 @@ url: "/personvernerklæring"
 
 <hr>
 
-Sist oppdatert: 21.03.2019
+Sist oppdatert: 11.09.2019
 
 <hr>
 
@@ -32,21 +31,14 @@ Personopplysninger er opplysninger og vurderinger som kan knyttes til en enkeltp
 
 Vi bruker dine personopplysninger:
 
-- for å kunne levere Tjenestene
-
-- for å yte kundeservice, herunder svare på henvendelser fra deg
-
-- for å sende deg informasjon på e-post (eksempelvis nyhetsbrev)
-
-- for å analysere bruken av Tjenestene for analyseformål
-
-- for å hindre misbruk av Tjenestene
-
-- for å gjøre deg oppmerksom på endringer eller andre forhold av betydning for ditt kundeforhold hos oss
-
-- for overholdelse av lovpålagte forpliktelser, eksempelvis bokføringsloven
-
-- i øvrige sammenhenger der vi må vite hvem vi har kontakt med
+* for å kunne levere Tjenestene
+* for å yte kundeservice, herunder svare på henvendelser fra deg
+* for å sende deg informasjon på e-post (eksempelvis nyhetsbrev)
+* for å analysere bruken av Tjenestene for analyseformål
+* for å hindre misbruk av Tjenestene
+* for å gjøre deg oppmerksom på endringer eller andre forhold av betydning for ditt kundeforhold hos oss
+* for overholdelse av lovpålagte forpliktelser, eksempelvis bokføringsloven
+* i øvrige sammenhenger der vi må vite hvem vi har kontakt med
 
 Vi benytter personopplysningene utelukkende til formål som har et gyldig behandlingsgrunnlag. Enkelte typer bruk forutsetter at du har gitt ditt samtykke.
 
@@ -56,21 +48,17 @@ Vi er databehandler for alle kunder som inngår lisensavtale for bruk av Ignite 
 
 Vi samler inn opplysninger fra ulike kilder for å oppfylle de formålene som er beskrevet ovenfor. Kildene kan deles inn i to hovedkategorier:
 
-- Opplysninger du gir oss
-
-- Opplysninger vi registrerer om deg når du bruker Tjenestene
+* Opplysninger du gir oss
+* Opplysninger vi registrerer om deg når du bruker Tjenestene
 
 ### Opplysninger du gir oss
 
 Dersom du benytter Tjenestene, oppgir du opplysninger om:
 
-- ditt navn,
-
-- din e-postadresse,
-
-- ditt telefonnummer og
-
-- selskapsnavn
+* ditt navn,
+* din e-postadresse,
+* ditt telefonnummer og
+* selskapsnavn
 
 Du kan også oppgi ytterligere opplysninger i forbindelse med bruk av Tjenestene, som for eksempel dersom du velger å bestille en lisens på Ignite Analytics fra oss.
 
@@ -100,8 +88,8 @@ Vi benytter informasjonskapsler («cookies») og annen sporingsteknologi for å 
 
 Informasjonskapsler er tekstfiler som tjenesten du bruker lagrer på din datamaskin. Filene kan kun leses av oss og av deg selv. Vi bruker informasjonskapsler for følgende formål:
 
-- For å analysere bruken av våre Tjenester: Vi benytter ulike måleverktøy som gir oss statistikk og analyser av våre Tjenester. Verktøyene gjør at vi kan gjenkjenne din nettleser over tid og dermed vite om du har besøkt nettsiden og hvor ofte. Disse verktøyene gir oss også mulighet til å ha oversikt over hvor mange unike brukere vi har og hvordan disse bruker våre Tjenester. Informasjonen vi samler bruker vi til å analysere brukermønster, samt utvikle og forbedre Tjenestene våre.
-- For å gi tilpasset markedsføring og annonsering ved bruk av våre Tjenester: Vi benytter ulike verktøy for å gi tilpasset markedsføring og annonser til brukere av våre Tjenester.
+* For å analysere bruken av våre Tjenester: Vi benytter ulike måleverktøy som gir oss statistikk og analyser av våre Tjenester. Verktøyene gjør at vi kan gjenkjenne din nettleser over tid og dermed vite om du har besøkt nettsiden og hvor ofte. Disse verktøyene gir oss også mulighet til å ha oversikt over hvor mange unike brukere vi har og hvordan disse bruker våre Tjenester. Informasjonen vi samler bruker vi til å analysere brukermønster, samt utvikle og forbedre Tjenestene våre.
+* For å gi tilpasset markedsføring og annonsering ved bruk av våre Tjenester: Vi benytter ulike verktøy for å gi tilpasset markedsføring og annonser til brukere av våre Tjenester.
 
 Vi benytter følgende tjenester for å analysere bruken av våre Tjenester:
 
@@ -116,8 +104,6 @@ Vi benytter følgende tjenester for å analysere bruken av våre Tjenester:
 <strong>Linkedin Insight Tag:</strong> Samle og analysere data knyttet til markedsføring og annonsering gjennom LinkedIn, for eksempel spore konverteringer og følge opp besøkende på nettsiden. Les mer om dette på [LinkedIns nettside](https://www.linkedin.com/legal/privacy-policy)
 
 <strong>Google Ads Conversion Tracking:</strong> Samle og analysere data knyttet til markedsføring og annonsering gjennom Google Ads, for eksempel spore konverteringer og følge opp besøkende på nettsiden. Les mer om dette på [Googles nettside](https://policies.google.com/technologies)
-
-<strong>AdRoll Group:</strong> Tilpasset markedsføring og annonsering for besøkende på nettsiden vår. Les mer om dette på [AdRolls nettside](https://www.adrollgroup.com/privacy)
 
 Alle IP-adresser er anonymiserte i tjenestene vi benytter.
 
@@ -149,17 +135,12 @@ I noen tilfeller vil vi kunne be om ditt samtykke til å beholde opplysninger i 
 
 Personopplysningsloven gir deg flere rettigheter som du kan utøve på ulike måter. Dine rettigheter går ut på:
 
-- Å kunne trekke et samtykke tilbake
-
-- Å be om at personopplysninger om deg rettes eller slettes
-
-- Å be om innsyn i personopplysninger vi har registrert om deg
-
-- Å kunne motsette deg visse typer bruk av dine personopplysninger eller kreve at behandlingen begrenses
-
-- Kreve å få opplysninger utlevert eller overført til en ny tjenestetilbyder
-
-- Å klage til Datatilsynet
+* Å kunne trekke et samtykke tilbake
+* Å be om at personopplysninger om deg rettes eller slettes
+* Å be om innsyn i personopplysninger vi har registrert om deg
+* Å kunne motsette deg visse typer bruk av dine personopplysninger eller kreve at behandlingen begrenses
+* Kreve å få opplysninger utlevert eller overført til en ny tjenestetilbyder
+* Å klage til Datatilsynet
 
 Du kan rette henvendelser vedrørende behandling av personopplysninger [til oss.](/kontakt) For å sikre at personopplysninger utleveres til rett person, kan vi stille krav om at begjæring om innsyn skjer skriftlig eller at identitet verifiseres på annen måte.
 
