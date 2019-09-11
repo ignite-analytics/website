@@ -1,11 +1,10 @@
 ---
-title: "Privacy Policy and our use of cookies"
-description: ""
-date: 2018-12-18T15:31:35+01:00
-draft: false
+title: Privacy Policy and our use of cookies
+description: ''
+date: 2018-12-18T14:31:35.000+00:00
 url: "/en/privacy-policy"
----
 
+---
 #### The following Privacy Policy applies to Services provided by Ignite Procurement. Our privacy policy describes how we gather and use personal data when you use or enter into an agreement to use the Services.
 
 ### Your personal data - your settings
@@ -14,9 +13,7 @@ url: "/en/privacy-policy"
 
 #### You can make inquiries regarding the processing of personal data [to us.](/en/kontakt)
 
-<hr>
-Last updated: 21.03.2019 
-<hr>
+<hr> Last updated: 11.09.2019 <hr>
 
 # Privacy Policy for Ignite Procurement
 
@@ -30,21 +27,14 @@ Personal data is information and assessments that can be linked to an individual
 
 We use your personal data:
 
-- in order to provide the Services
-
-- to provide customer service, including answering inquiries from you
-
-- to send you information by e-mail (e.g. newsletter)
-
-- to analyze the use of the Services for analytical purposes
-
-- to prevent abuse of the Services
-
-- to alert you to changes or other matters of importance to your customer relationship with us
-
-- for compliance with statutory obligations, such as the Accounting Act
-
-- in other contexts where we need to know who we are in contact with
+* in order to provide the Services
+* to provide customer service, including answering inquiries from you
+* to send you information by e-mail (e.g. newsletter)
+* to analyze the use of the Services for analytical purposes
+* to prevent abuse of the Services
+* to alert you to changes or other matters of importance to your customer relationship with us
+* for compliance with statutory obligations, such as the Accounting Act
+* in other contexts where we need to know who we are in contact with
 
 We use personal data solely for processing purposes that have a valid processing basis. Selected types of data processing require your consent.
 
@@ -54,21 +44,17 @@ We are data processor for all customers who enter into a license agreement for t
 
 We gather information from different sources to fulfill the purposes described above. These sources can be divided into two main categories:
 
-- Information you provide us
-
-- Information we register about you when using the Services
+* Information you provide us
+* Information we register about you when using the Services
 
 ### Information you provide us
 
 If you use the Services, you provide information about:
 
-- your name,
-
-- your e-mail address,
-
-- your phone number and
-
-- company name
+* your name,
+* your e-mail address,
+* your phone number and
+* company name
 
 You may also provide us additional information when using the Services, e.g. if you choose to order a license for Ignite Analytics from us.
 
@@ -98,7 +84,8 @@ We use cookies and other tracking technology to analyze your user pattern. The u
 
 Cookies are text files that the Services stores on your computer. The files can only be read by us and by yourself. We use cookies for the following purposes:
 
-- To analyze the use of our Services: We use different tools that provide us with statistics and analyzes of our Services. The tools allow us to recognize your browser over time and thus know if you have visited the website and how often. These tools also provide us with an overview of how many unique users we have and how they use our Services. The information we collect is used to analyze user patterns, as well as develop and improve our Services.
+* To analyze the use of our Services: We use different tools that provide us with statistics and analyzes of our Services. The tools allow us to recognize your browser over time and thus know if you have visited the website and how often. These tools also provide us with an overview of how many unique users we have and how they use our Services. The information we collect is used to analyze user patterns, as well as develop and improve our Services.
+
 
 * To provide targeted marketing and advertising for the use of our Services: We use different tools to provide personalized marketing and advertising to the users of our Services.
 
@@ -115,8 +102,6 @@ We use the following services to analyze the use of our Services:
 <strong>Linkedin Insight Tag:</strong> Collect and analyze data related to marketing and advertising on LinkedIn, such as conversion tracking and website visitors. Read more about this on [LinkedIn's website](https://www.linkedin.com/legal/privacy-policy)
 
 <strong>Google Ads Conversion Tracking:</strong> Collect and analyze data related to marketing and advertising on Google Ads, such as conversion tracking and website visitors. Read more about this on [Google's website](https://policies.google.com/technologies)
-
-<strong>AdRoll Group:</strong> Customized and personalized marketing and advertising for visitors on our website. Read more about this on [AdRoll’s website](https://www.adrollgroup.com/privacy)
 
 All IP addresses are anonymized in the services we use.
 
@@ -148,17 +133,12 @@ In some cases, we may request your consent to retain information for a longer ti
 
 The Norwegian Personal Data Act gives you privacy rights that you may exercise in different manners. Your rights include being able to:
 
-- Withdraw a consent
-
-- Request that your personal data be corrected or deleted
-
-- Request access to personal data we have registered about you
-
-- Oppose certain types of personal data processing or require processing to be restricted
-
-- Require information provided or transferred to a new service provider
-
-- Appeal to the Norwegian Data Protection Authority
+* Withdraw a consent
+* Request that your personal data be corrected or deleted
+* Request access to personal data we have registered about you
+* Oppose certain types of personal data processing or require processing to be restricted
+* Require information provided or transferred to a new service provider
+* Appeal to the Norwegian Data Protection Authority
 
 You can make inquiries regarding the processing of personal data [to us.](/en/kontakt) To ensure that personal data is handed to the right person, we may require that a request for access be made in writing or that the identity is otherwise verified.
 
