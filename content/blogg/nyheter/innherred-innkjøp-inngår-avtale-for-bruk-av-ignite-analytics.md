@@ -2,7 +2,6 @@
 author = "Ignite"
 categories = ["Nyheter"]
 date = "2019-09-16T10:54:19+00:00"
-draft = true
 image = "/images/DC Resources Norge.png"
 ingress = "Vi er stolte over å meddele at DC Resources Norge har inngått en avtale med oss for bruken av Ignite Analytics - vår unike plattform for strategisk innkjøp."
 showmainimg = false
