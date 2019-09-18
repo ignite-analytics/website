@@ -33,6 +33,8 @@ customers:
   title: Verdal
 - logo: "/images/Indre-Ostfold-kommune.png"
   title: Indre Østfold kommune
+- logo: "/images/DC-Resources-Norway.png"
+  title: DC Resources Norway
 - logo: "/images/customers/eqt.svg"
   title: EQT
 - logo: "/images/customers/con-form.png"
