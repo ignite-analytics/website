@@ -27,7 +27,7 @@ Kategoristrukturen baserer seg på innkjøpsdata, som i realiteten er transaksjo
 
 Det finnes flere måter å fordele innkjøpet i de ulike kategoriene («kategoriseringsregler»), hvor fordelingsmulighetene vil være avhengig av detaljeringsgraden i dataen. Mest vanlig er å basere fordelingen på informasjon om tilhørende regnskapskontoer og/eller leverandør, eventuelt artikkelgrupper eller produkt- og tjenestekoder ved data på artikkelnivå.
 
-Sykehusinnkjøp HF har eksempelvis laget en kategoristruktur basert på produkt- og tjenestekoder ved å benytte UNSPSC-kodeverk. Se kategoristrukturen [her](http://hinas.sykehusinnkjop.no/index.php/nasjonale-prosjekt/nasjonal-kategoristruktur/version/1?layout=chart&tmpl=component).
+Sykehusinnkjøp HF har eksempelvis laget en kategoristruktur basert på produkt- og tjenestekoder ved å benytte UNSPSC-kodeverk. Se kategoristrukturen [her](https://sykehusinnkjop.no/om-oss/kategoristruktur "Kategoristruktur - Sykehusinnkjøp").
 
 ![Ignite Analytics - kategorisering](https://cdn-images-1.medium.com/max/800/1*yJ11zk7lzz7DJ1WQwFA_1g.png "Ignite Analytics - kategorisering")
 
