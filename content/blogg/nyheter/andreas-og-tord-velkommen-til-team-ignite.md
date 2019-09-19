@@ -16,7 +16,7 @@ Andreas Moldskred og Tord Johan Espe er de nyeste medlemmene av teamet. Fra augu
 
 #### Unge, ambisiøse og dyktige
 
-Både Andreas og Tord er akkurat ferdige med videregående skole, og drar altså ned gjennomsnittsalderen noe på kontoret. 
+Både Andreas og Tord er akkurat ferdige med videregående skole, og drar altså ned gjennomsnittsalderen noe på kontoret.
 
 > Etter videregående ville jeg ta en pause fra studiene og prøve meg på litt nye utfordringer, sier Andreas Moldskred. Valget ble derfor enkelt da Ignite tilbydde meg en fast stilling etter å ha jobbet deltid de siste månedene. Her får vi jobbe med problemstillinger vi synes er spennende i et selskap med mye action.
 
@@ -28,9 +28,9 @@ Til tross for sin unge alder har de opparbeidet seg en solid erfaring innen prog
 
 Selv om det er spennende å få prøve seg på nye teknologier og utfordringer, er begge enige om at det mest givende er å få bidra til å videreutvikle et produkt som brukes i næringslivet.
 
-> Vi lager et produkt som brukes av stadig flere personer og virksomheter. På denne måten får vi innsikt i hvilke behov næringslivet har, og hvordan vi på best mulig måte kan utvikle Ignite Analytics for å løse disse behovene. Vi jobber kontinuerlig med å forbedre produktet, og utvikle ny funksjonalitet, basert på kundenes tilbakemeldinger, oppsummerer Moldskred og Espe.
+> Vi lager et produkt som brukes av stadig flere personer og virksomheter. På denne måten får vi innsikt i hvilke behov næringslivet har, og hvordan vi på best mulig måte kan utvikle Ignite Analytics for å løse disse behovene. Vi jobber kontinuerlig med å forbedre produktet, og utvikle ny funksjonalitet, basert på kundenes tilbakemeldinger. Dette gjør at vi får utviklet oss, sammen med kundene våre, noe vi setter stor pris på, oppsummerer Moldskred og Espe.
 
-Vi i Ignite Procurement er stolte av å ha dere med på laget og gleder oss til fortsettelsen! 
+Vi i Ignite er stolte av å ha dere med på laget og gleder oss til fortsettelsen!
 
 ***
 
