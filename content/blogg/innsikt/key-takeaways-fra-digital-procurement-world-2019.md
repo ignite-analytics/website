@@ -10,7 +10,9 @@ tags = []
 title = "Seks takeaways fra Digital Procurement World 2019"
 
 +++
-For ledende, globale virksomheter er innkjøpsfunksjonen den viktigste verdidriveren. 
+Det er inspirerende å se at innkjøpsfunksjonen er den fremste verdidriveren i ledende, globale virksomheter som for eksempel Mars, Henkel og Thomas Cook. Innkjøp er en driver av bærekraftige konkurransefortrinn, og ikke den klassiske støttefunksjonen, hvor en datadrevet tilnærming gjennomsyrer organisasjonen.
+
+Så hva kan vi - og dere - lære fra disse "best-in-class" virksomhetene? 
 
 #### #1 Endring er mulig
 
