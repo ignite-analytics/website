@@ -7,7 +7,7 @@ image = ""
 ingress = "I forrige uke deltok vi på Digital Procurement World 2019 som èn av topp 20 utvalgte startups. Vi deler våre viktigste takeaways fra konferansen."
 showmainimg = false
 tags = []
-title = "- Innkjøpsfunksjonen er den viktigste verdidriveren"
+title = "Seks takeaways fra Digital Procurement World 2019"
 
 +++
 For ledende, globale virksomheter er innkjøpsfunksjonen den viktigste verdidriveren. 
