@@ -32,7 +32,7 @@ Kompetanse må bygges og utvikles for hele innkjøpsprosessen, ikke bare for utv
 
 Kompetanse må sees i sammenheng med kapasitet. En utfordring er at virksomhetens innkjøpsavdeling ikke har tilstrekkelig kapasitet til å arbeide strategisk og drive verdiskaping. Et fåtall ressurser har ofte ansvar for et bredt innkjøp (både geografisk og teknisk) og svært mange leverandører. En hensiktsmessig og tett oppfølging blir da vanskelig, noe som resulterer i at man ikke får hentet ut det fulle potensialet i samarbeidet.
 
-Ledelsen må legge til rette for at innkjøpsavdelingen har tilstrekkelige ressurser, med den nødvendige kompetansen, samt legge til rette for kompetanseutvikling innenfor strategisk innkjøp og prosjektledelse. Dette er helt nødvendige premisser for å løfte funksjonen til en strategisk verdidriver i virksomheten!
+Ledelsen må legge til rette for at innkjøpsavdelingen har tilstrekkelige ressurser, med den nødvendige kompetansen, samt legge til rette for kompetanseutvikling innenfor strategisk innkjøp og prosjektledelse. Dette er helt nødvendige premisser for å løfte funksjonen til en strategisk verdidriver for virksomheten!
 
 #### #3 Digital transformasjon er avgjørende
 
