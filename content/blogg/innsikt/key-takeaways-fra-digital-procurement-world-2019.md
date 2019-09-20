@@ -10,27 +10,39 @@ tags = []
 title = "Seks takeaways fra Digital Procurement World 2019"
 
 +++
-Det er inspirerende å se at innkjøpsfunksjonen er den fremste verdidriveren i ledende, globale virksomheter som for eksempel Mars, Henkel og Thomas Cook. Innkjøp er en driver av bærekraftige konkurransefortrinn, og ikke den klassiske støttefunksjonen, hvor en datadrevet tilnærming gjennomsyrer organisasjonen.
+Det er inspirerende å se at innkjøpsfunksjonen er den fremste verdidriveren i ledende, globale virksomheter som for eksempel Mars, Henkel og Thomas Cook. Innkjøp er en driver av bærekraftige konkurransefortrinn, og ikke den klassiske støttefunksjonen, hvor en datadrevet tilnærming gjennomsyrer hele organisasjonen.
 
-Så hva kan vi - og dere - lære fra disse "best-in-class" virksomhetene? 
+Så hvilke lærdommer bør vi - og dere - gjøre oss fra disse "best-in-class" virksomhetene? 
 
 #### #1 Endring er mulig
 
-Innkjøpsfunksjonen har en unik mulighet til å transformere seg fra en muliggjører av kostnadsreduksjon, til en driver av bærekraftige konkurransefortrinn. Mange innkjøpsavdelinger har i dag en transaksjonsrolle. Innkjøpsfunksjonen må bygge allianser på tvers avdelinger - spesielt med økonomi og IT - for å synliggjøre verdien.
+[https://home.kpmg/content/dam/kpmg/uk/pdf/2019/07/pov-procurement.PDF](https://home.kpmg/content/dam/kpmg/uk/pdf/2019/07/pov-procurement.PDF "https://home.kpmg/content/dam/kpmg/uk/pdf/2019/07/pov-procurement.PDF")
 
-#### #2 Digital transformasjon er avgjørende
+Endring er mulig og helt avgjørende for å være i forkant. Spesielt for innkjøpsfunksjonen, som preges av gamle vaner, langvarige prosesser og en mer tradisjonell transaksjonsrolle. Forhold som alle bremser verdifull fremgang.
+
+Men utfordringene er større enn å bare rulle ut de siste digitale trendene. Innkjøp må løftes frem i lyset i et mye bredere og mer strategisk perspektiv. Funksjonen må få den anerkjennelsen den fortjener, for å bidra mer i verdiskapingen, redusere risiko og gi markedsinnsikt som går utover enkle kostnadsbesparelser. Samarbeid på tvers avdelinger er kritisk - spesielt med økonomi og IT - for å synliggjøre disse verdiene.
+
+Innkjøpsfunksjonen har en unik mulighet til å transformere seg fra en muliggjører av kostnadsreduksjon, til en driver av bærekraftige konkurransefortrinn. Dette ansvaret hviler på skuldrene til styret og ledelsen, som det nå er på høy tid å ta stilling til!
+
+#### #2 Kompetanse er kritisk
+
+Riktig kompetanse er kritisk for å realisere verdier. Dette hersker det lite tvil om og er en gjentakende flaskehals i [undersøkelser](). 
+
+Kompetanse må bygges og utvikles for hele innkjøpsprosessen, ikke bare for utvalgte deler. Eksempelvis ser vi at det offentlige er dyktige på selve konkurransegjennomføringen, men [mangler kompetanse](https://www.regjeringen.no/no/dokumenter/meld.-st.-22-20182019/id2641507/ "Meld. St. 22 (2018–2019): Smartere innkjøp – effektive og profesjonelle offentlige anskaffelser") på viktige områder som analyse og behovsplanlegging, kategoristyring, kommersiell forståelse og kontrakts- og leverandøroppfølging.
+
+Kompetanse må sees i sammenheng med kapasitet. En utfordring er at virksomhetens innkjøpsavdeling ikke har tilstrekkelig kapasitet til å arbeide strategisk og drive verdiskaping. Et fåtall ressurser har ofte ansvar for et bredt innkjøp (både geografisk og teknisk) og svært mange leverandører. En hensiktsmessig og tett oppfølging blir da vanskelig, noe som resulterer i at man ikke får hentet ut det fulle potensialet i samarbeidet.
+
+Fellesnevneren for begge utfordringene er et manglende ledelsesfokus på innkjøp som en strategisk verdidriver i virksomheten. Et viktig premiss er at organisasjonen legger til rette for kompetanseutvikling innenfor strategisk innkjøp og prosjektledelse.
+
+#### #3 Digital transformasjon er avgjørende
 
 Digital leaders have superior profitability - må gjøre noe for å unngå å bli en etterslepende
 
-#### #3 Teknologien er tilgjengelig
+#### #4 Teknologien er tilgjengelig
 
-#### #4 Data er nøkkelen
+#### #5 Data er nøkkelen
 
 If you can't measure it, you can't manage it
-
-#### #5 Kompetanse er kritisk
-
-Data kan bare ta deg så langt. Tilstrekkelig kapasitet og riktig kompetanse for å iverksette tiltak og
 
 #### #6 Det starter med DEG!
 
