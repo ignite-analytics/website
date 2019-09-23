@@ -14,7 +14,7 @@ Det er inspirerende å se at innkjøpsfunksjonen er den fremste verdidriveren i 
 
 **Så hvilke lærdommer bør vi ta med oss fra disse "best-in-class" virksomhetene?**
 
-![](/images/DPW 2019 - Takeaways.png)
+![Takeaways fra best-in-class innkjøpsfunksjoner](/images/DPW 2019 - Takeaways.png "Takeaways fra best-in-class innkjøpsfunksjoner")
 
 #### #1 Data er nøkkelen
 
@@ -22,7 +22,7 @@ Data er makt. Og en datadrevet kultur er nøkkelen for suksess. Men data i seg s
 
 Det er overraskende [få virksomheter](https://spendmatters.com/2019/08/06/despite-power-of-data-many-organizations-lag-in-making-it-key-to-their-decision-making-culture-a-deloitte-survey-finds/) som benytter tilgjengelig data for å ta bedre beslutninger. Og innkjøpsfunksjonen er intet unntak. For selv om innkjøp opplever et gradvis, økende skifte mot å bli mer datadrevet, er realiteten at funksjonen fortsatt er lite moden på dette området.
 
-![](/images/Ignite Analytics - Spendanalyser.png)
+![Ignite Analytics - spendanalyse](/images/Ignite Analytics - Spendanalyser.png "Ignite Analytics - spendanalyse")
 
 Innkjøpsavdelingen må ha basisinformasjonen på plass, som for eksempel spendanalyser og avtalestyring. Alt annet enn dette vil være å styre i blinde, noe som godt eksemplifiseres av et sitat fra Peter Drucker: **_If you can't measure it, you can't manage it._**
 
@@ -40,13 +40,15 @@ Ledelsen må allokere tilstrekkelige ressurser til innkjøpsavdelingen, med den 
 
 Det samles mer data nå enn noen gang. Av all data som samles inn, så er hele [90% generert de siste to årene](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#327bdf6060ba). Med forventninger om at bedre beslutninger vil komme fra mer nøyaktige og konsistente data, så er en digital transformasjon helt avgjørende for å lykkes. Å investere i digitalisering lønner seg. Ledende digitale virksomheter oppnår betydelige bedre finansielle resultater enn sine konkurrenter. 
 
-![](/images/Digital masters - Financial performance.png)
+![Ledende digitale virksomheter oppnår bedre resultater](/images/Digital masters - Financial performance.png "Ledende digitale virksomheter oppnår bedre resultater")
 
 Innkjøpsfunksjonen er generelt en ettersleper når det kommer til digitalisering, der selvtilfredshet er en av de største fiendene. Det nytter ikke lenger å sitte på gjerdet i påvente av hva som skjer. En tankegang som "dette må vi se på om noen år" vil i verste fall resultere i at hele virksomheten på sikt må legges ned. Tiden for å sette i gang er nå! 
 
 #### #4 Teknologien er tilgjengelig
 
-Behovet for innkjøpsløsninger 
+I takt med et stadig mer fokus på innkjøp, øker også tilgjengeligheten av digital verktøy og teknologier. Digital Procurement World 2019 er et godt eksempel på at mye spennende skjer på tilbudssiden. 
+
+Teknologien er på plass for å kunne løfte innkjøpsfunksjonen til nye høyder. Problemet er heller at relativt få virksomheter har, eller bruker, verktøy som hjelpemidler i det strategiske innkjøpsarbeidet. Gode digitale verktøy kan kompensere for både begrenset kapasitet og kompetanse — og kan til og med øke kompetansen.
 
 #### #5 Endring er mulig
 
