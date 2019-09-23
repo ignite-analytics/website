@@ -38,13 +38,17 @@ Ledelsen må allokere tilstrekkelige ressurser til innkjøpsavdelingen, med den 
 
 #### #3 Digital transformasjon er avgjørende
 
-Å investere i digitalisering lønner seg. Ledende digitale virksomheter oppnår betydelige bedre finansielle resultater enn sine konkurrenter. 
-
-Tiden for å handle er nå!
-
-Digital leaders have superior profitability - må gjøre noe for å unngå å bli en etterslepende
+Det samles mer data nå enn noen gang. Av all data som samles inn, så er hele [90% generert de siste to årene](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#327bdf6060ba). Med forventninger om at bedre beslutninger vil komme fra mer nøyaktige og konsistente data, så er en digital transformasjon helt avgjørende for å lykkes. 
 
 ![](/images/Digital masters - Financial performance.png)
+
+Å investere i digitalisering lønner seg. Ledende digitale virksomheter oppnår betydelige bedre finansielle resultater enn sine konkurrenter. 
+
+En digital
+
+I tillegg er det helt avgjørende 
+
+Tiden for å handle er nå!
 
 #### #4 Teknologien er tilgjengelig
 
