@@ -10,7 +10,7 @@ tags = []
 title = "Seks takeaways fra Digital Procurement World 2019"
 
 +++
-Det er inspirerende å se at innkjøpsfunksjonen er den fremste verdidriveren i ledende, globale virksomheter som for eksempel Mars, IBM og Henkel. Innkjøp er en driver av bærekraftige konkurransefortrinn, og ikke den klassiske støttefunksjonen, hvor en datadrevet tilnærming gjennomsyrer hele organisasjonen.
+Det er inspirerende å se at innkjøpsfunksjonen er den fremste verdidriveren i ledende, globale virksomheter som for eksempel Mars, IBM og Henkel. For disse er innkjøp en driver av bærekraftige konkurransefortrinn, og ikke den klassiske støttefunksjonen, hvor en datadrevet tilnærming gjennomsyrer hele organisasjonen.
 
 Så hvilke lærdommer bør vi ta med oss fra disse "best-in-class" virksomhetene?
 
