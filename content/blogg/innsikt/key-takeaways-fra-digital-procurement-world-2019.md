@@ -12,7 +12,7 @@ title = "Seks takeaways fra Digital Procurement World 2019"
 +++
 Det er inspirerende å se at innkjøpsfunksjonen er den fremste verdidriveren i ledende, globale virksomheter som for eksempel Mars, IBM og Henkel. For disse er innkjøp en driver av bærekraftige konkurransefortrinn, og ikke den klassiske støttefunksjonen, hvor en datadrevet tilnærming gjennomsyrer hele organisasjonen.
 
-Så hvilke lærdommer bør vi ta med oss fra disse "best-in-class" virksomhetene?
+**Så hvilke lærdommer bør vi ta med oss fra disse "best-in-class" virksomhetene?**
 
 ![](/images/DPW 2019 - Takeaways.png)
 
@@ -38,19 +38,15 @@ Ledelsen må allokere tilstrekkelige ressurser til innkjøpsavdelingen, med den 
 
 #### #3 Digital transformasjon er avgjørende
 
-Det samles mer data nå enn noen gang. Av all data som samles inn, så er hele [90% generert de siste to årene](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#327bdf6060ba). Med forventninger om at bedre beslutninger vil komme fra mer nøyaktige og konsistente data, så er en digital transformasjon helt avgjørende for å lykkes. 
+Det samles mer data nå enn noen gang. Av all data som samles inn, så er hele [90% generert de siste to årene](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#327bdf6060ba). Med forventninger om at bedre beslutninger vil komme fra mer nøyaktige og konsistente data, så er en digital transformasjon helt avgjørende for å lykkes. Å investere i digitalisering lønner seg. Ledende digitale virksomheter oppnår betydelige bedre finansielle resultater enn sine konkurrenter. 
 
 ![](/images/Digital masters - Financial performance.png)
 
-Å investere i digitalisering lønner seg. Ledende digitale virksomheter oppnår betydelige bedre finansielle resultater enn sine konkurrenter. 
-
-En digital
-
-I tillegg er det helt avgjørende 
-
-Tiden for å handle er nå!
+Innkjøpsfunksjonen er generelt en ettersleper når det kommer til digitalisering, der selvtilfredshet er en av de største fiendene. Det nytter ikke lenger å sitte på gjerdet i påvente av hva som skjer. En tankegang som "dette må vi se på om noen år" vil i verste fall resultere i at hele virksomheten på sikt må legges ned. Tiden for å sette i gang er nå! 
 
 #### #4 Teknologien er tilgjengelig
+
+Behovet for innkjøpsløsninger 
 
 #### #5 Endring er mulig
 
@@ -62,16 +58,12 @@ Innkjøpsfunksjonen har en unik mulighet til å transformere seg fra en muliggj�
 
 #### #6 Det starter med DEG!
 
-Slutt å komme med unnskyldninger. Begynn å få det til å fungere.
+Slutt å komme med unnskyldninger. Kom i gang og få ting til å skje! 
 
-\#1 Endring er mulig / Change is possible
+etere for en best mulig løpende oppfølging av dine avtaler.
 
-\#2 Digital innkjøpstransformasjon er avgjørende (Digital procurement transformation is imperative)
+***
 
-\#3 Teknologien er tilgjengelig (Supporting technology is available)
+_Ignite Analytics legger til rette for en datadrevet tilnærming for hele den strategiske innkjøpsprosessen. Oppdag kraften i strategisk innkjøp gjort digitalt!_
 
-\#4 Data er nøkkelen (Data is key)
-
-\#5 Riktig kompetanse er kritisk (Talent is key)
-
-\#6 Det starter med DEG! (You - it starts with you!)
+[![](https://www.ignite.no/images/Pr%C3%B8v%20Ignite%20Analytics%20-%201200%20x100.png)](https://www.ignite.no/ignite-analytics/demo/ "Prøv Ignite Analytics")
