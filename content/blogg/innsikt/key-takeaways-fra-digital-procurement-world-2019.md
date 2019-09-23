@@ -14,15 +14,9 @@ Det er inspirerende å se at innkjøpsfunksjonen er den fremste verdidriveren i 
 
 Så hvilke lærdommer bør vi ta med oss fra disse "best-in-class" virksomhetene?
 
-#### #1 Endring er mulig
+#### #1 Data er nøkkelen
 
-[https://home.kpmg/content/dam/kpmg/uk/pdf/2019/07/pov-procurement.PDF](https://home.kpmg/content/dam/kpmg/uk/pdf/2019/07/pov-procurement.PDF "https://home.kpmg/content/dam/kpmg/uk/pdf/2019/07/pov-procurement.PDF")
-
-Endring er mulig og helt avgjørende for å være i forkant. Spesielt for innkjøpsfunksjonen, som preges av gamle vaner, langvarige prosesser og en mer tradisjonell transaksjonsrolle. Forhold som alle bremser verdifull fremgang.
-
-Men utfordringene er større enn å bare rulle ut de siste digitale trendene. Innkjøp må løftes frem i lyset i et mye bredere og mer strategisk perspektiv. Funksjonen må få den anerkjennelsen den fortjener, for å bidra mer i verdiskapingen, redusere risiko og gi markedsinnsikt som går utover enkle kostnadsbesparelser. Samarbeid på tvers avdelinger er kritisk - spesielt med økonomi og IT - for å synliggjøre disse verdiene.
-
-Innkjøpsfunksjonen har en unik mulighet til å transformere seg fra en muliggjører av kostnadsreduksjon, til en driver av bærekraftige konkurransefortrinn. Dette ansvaret hviler på skuldrene til styret og ledelsen, som det nå er på høy tid å ta stilling til!
+If you can't measure it, you can't manage it
 
 #### #2 Kompetanse er kritisk
 
@@ -40,9 +34,15 @@ Digital leaders have superior profitability - må gjøre noe for å unngå å bl
 
 #### #4 Teknologien er tilgjengelig
 
-#### #5 Data er nøkkelen
+#### #5 Endring er mulig
 
-If you can't measure it, you can't manage it
+[https://home.kpmg/content/dam/kpmg/uk/pdf/2019/07/pov-procurement.PDF](https://home.kpmg/content/dam/kpmg/uk/pdf/2019/07/pov-procurement.PDF "https://home.kpmg/content/dam/kpmg/uk/pdf/2019/07/pov-procurement.PDF")
+
+Endring er mulig og helt avgjørende for å være i forkant. Spesielt for innkjøpsfunksjonen, som preges av gamle vaner, langvarige prosesser og en mer tradisjonell transaksjonsrolle. Forhold som alle bremser verdifull fremgang.
+
+Men utfordringene er større enn å bare rulle ut de siste digitale trendene. Innkjøp må løftes frem i lyset i et mye bredere og mer strategisk perspektiv. Funksjonen må få den anerkjennelsen den fortjener, for å bidra mer i verdiskapingen, redusere risiko og gi markedsinnsikt som går utover enkle kostnadsbesparelser. Samarbeid på tvers avdelinger er kritisk - spesielt med økonomi og IT - for å synliggjøre disse verdiene.
+
+Innkjøpsfunksjonen har en unik mulighet til å transformere seg fra en muliggjører av kostnadsreduksjon, til en driver av bærekraftige konkurransefortrinn. Dette ansvaret hviler på skuldrene til styret og ledelsen, som det nå er på høy tid å ta stilling til!
 
 #### #6 Det starter med DEG!
 
