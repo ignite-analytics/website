@@ -1,8 +1,7 @@
 +++
 author = "Ignite"
 categories = ["Nyheter"]
-date = "2019-09-24T11:40:08+00:00"
-draft = true
+date = "2019-09-23T11:40:08+00:00"
 image = "/images/Andreas Moldskred og Tord Espe.png"
 ingress = "Bli bedre kjent med Andreas og Tord og hva de jobber med hos Ignite Procurement."
 showmainimg = false

@@ -76,9 +76,9 @@ fields:
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
 pages:
+- content/blogg/nyheter/andreas-og-tord-velkommen-til-team-ignite.md
 - content/blogg/innsikt/key-takeaways-fra-digital-procurement-world-2019.md
 - content/blogg/innsikt/seks-trinn-for-å-gjennomføre-digital-transformasjon.md
-- content/blogg/nyheter/andreas-og-tord-velkommen-til-team-ignite.md
 - content/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur.md
 - content/blogg/nyheter/innherred-innkjøp-inngår-avtale-for-bruk-av-ignite-analytics.md
 - content/blogg/nyheter/innherred-innkjøp-inngår-avtale-for-bruk-av-ignite-analytics-1.md
