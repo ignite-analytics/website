@@ -46,9 +46,9 @@ Innkjøpsfunksjonen er generelt en ettersleper når det kommer til digitaliserin
 
 #### #4 Teknologien er tilgjengelig
 
-I takt med et stadig mer fokus på innkjøp, øker også tilgjengeligheten av digital verktøy og teknologier. Digital Procurement World 2019 er et godt eksempel på at mye spennende skjer på tilbudssiden. 
+I takt med et stadig mer fokus på innkjøp, øker også tilgjengeligheten av digital verktøy og teknologier. [Digital Procurement World 2019](http://www.digitalprocurementworld.com/ "DPW 2019") er et godt eksempel på at mye spennende skjer på tilbudssiden. 
 
-Teknologien er på plass for å kunne løfte innkjøpsfunksjonen til nye høyder. Problemet er heller at relativt få virksomheter har, eller bruker, verktøy som hjelpemidler i det strategiske innkjøpsarbeidet. Gode digitale verktøy kan kompensere for både begrenset kapasitet og kompetanse — og kan til og med øke kompetansen.
+Teknologien er på plass for å kunne løfte innkjøpsfunksjonen til nye høyder. Problemet er heller at relativt få virksomheter har investert i, eller bruker, verktøy som hjelpemidler i det strategiske innkjøpsarbeidet. Gode verktøy kan kompensere for både begrenset kapasitet og kompetanse — og kan til og med øke kompetansen.
 
 #### #5 Endring er mulig
 
