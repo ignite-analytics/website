@@ -16,7 +16,11 @@ Så hvilke lærdommer bør vi ta med oss fra disse "best-in-class" virksomhetene
 
 #### #1 Data er nøkkelen
 
-If you can't measure it, you can't manage it
+Data er makt og en datadrevet kultur er nøkkelen for suksess. Data i seg selv er kun en tilrettelegger. Det er velfunderte beslutninger, baserte på analyser og innsikt fra datagrunnlaget, som bidrar til å skape verdier. Men det må være en vilje til å handle på denne innsikten - å initiere tiltak, endre prosesser og tilpasse atferd basert på innsikt, og ikke intuisjon.
+
+Det er overraskende [få virksomheter](https://spendmatters.com/2019/08/06/despite-power-of-data-many-organizations-lag-in-making-it-key-to-their-decision-making-culture-a-deloitte-survey-finds/) som benytter tilgjengelig data for å ta bedre beslutninger. Og innkjøpsfunksjonen er intet unntak. For selv om innkjøp opplever et gradvis, økende skifte mot å bli mer datadrevet, er realiteten at funksjonen fortsatt er lite moden på dette området. 
+
+Innkjøpsavdelingen må ha basisinformasjonen på plass, som for eksempel spendanalyser og avtalestyring. Alt annet enn dette vil være å styre i blinde, noe som godt eksemplifiseres av sitatet fra Peter Drucker: **_If you can't measure it, you can't manage it._**
 
 #### #2 Kompetanse er kritisk
 
