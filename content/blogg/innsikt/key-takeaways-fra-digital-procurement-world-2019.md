@@ -3,7 +3,7 @@ author = "Ignite"
 categories = ["Innsikt"]
 date = "2019-09-20T08:24:26+00:00"
 draft = true
-image = "/images/DPW 2019 - Takeaways.png"
+image = "/images/DPW 2019 - Ignite Procurement.png"
 ingress = "I forrige uke deltok vi på Digital Procurement World 2019 som èn av topp 20 utvalgte startups. Vi deler våre viktigste takeaways fra konferansen."
 showmainimg = false
 tags = []
@@ -58,7 +58,7 @@ Men utfordringene er større enn å bare rulle ut de siste digitale trendene. In
 
 Innkjøpsfunksjonen har en unik mulighet til å transformere seg fra en muliggjører av kostnadsreduksjon, til en driver av bærekraftige konkurransefortrinn. Dette ansvaret hviler på skuldrene til styret og ledelsen, som det nå er på høy tid å ta stilling til!
 
-#### #6 Det starter med DEG!
+#### #6 Det starter med DEG
 
 Slutt å komme med unnskyldninger. Kom i gang og få ting til å skje! 
 
