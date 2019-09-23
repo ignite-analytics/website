@@ -10,9 +10,9 @@ tags = []
 title = "Seks takeaways fra Digital Procurement World 2019"
 
 +++
-Det er inspirerende å se at innkjøpsfunksjonen er den fremste verdidriveren i ledende, globale virksomheter som for eksempel Mars, Henkel og Thomas Cook. Innkjøp er en driver av bærekraftige konkurransefortrinn, og ikke den klassiske støttefunksjonen, hvor en datadrevet tilnærming gjennomsyrer hele organisasjonen.
+Det er inspirerende å se at innkjøpsfunksjonen er den fremste verdidriveren i ledende, globale virksomheter som for eksempel Mars, Carlsberg og Henkel. Innkjøp er en driver av bærekraftige konkurransefortrinn, og ikke den klassiske støttefunksjonen, hvor en datadrevet tilnærming gjennomsyrer hele organisasjonen.
 
-Så hvilke lærdommer bør vi ta med oss fra disse "best-in-class" virksomhetene? 
+Så hvilke lærdommer bør vi ta med oss fra disse "best-in-class" virksomhetene?
 
 #### #1 Endring er mulig
 
@@ -26,13 +26,13 @@ Innkjøpsfunksjonen har en unik mulighet til å transformere seg fra en muliggj�
 
 #### #2 Kompetanse er kritisk
 
-Riktig kompetanse er kritisk for å realisere verdiene. Dette hersker det lite tvil om og er en gjentakende kommunisert flaskehals i [undersøkelser](). 
+Riktig kompetanse er kritisk for å realisere verdiene. Dette hersker det lite tvil om og er en gjentakende kommunisert flaskehals i [undersøkelser]().
 
 Kompetanse må bygges og utvikles for hele innkjøpsprosessen, ikke bare for utvalgte deler. Eksempelvis ser vi at det offentlige er dyktige på selve konkurransegjennomføringen, men [mangler kompetanse](https://www.regjeringen.no/no/dokumenter/meld.-st.-22-20182019/id2641507/ "Meld. St. 22 (2018–2019): Smartere innkjøp – effektive og profesjonelle offentlige anskaffelser") på viktige områder som analyse og behovsplanlegging, kategoristyring, kommersiell forståelse og kontrakts- og leverandøroppfølging.
 
 Kompetanse må sees i sammenheng med kapasitet. En utfordring er at virksomhetens innkjøpsavdeling ikke har tilstrekkelig kapasitet til å arbeide strategisk og drive verdiskaping. Et fåtall ressurser har ofte ansvar for et bredt innkjøp (både geografisk og teknisk) og svært mange leverandører. En hensiktsmessig og tett oppfølging blir da vanskelig, noe som resulterer i at man ikke får hentet ut det fulle potensialet i samarbeidet.
 
-Ledelsen må legge til rette for at innkjøpsavdelingen har tilstrekkelige ressurser, med den nødvendige kompetansen, samt legge til rette for kompetanseutvikling innenfor strategisk innkjøp og prosjektledelse. Dette er helt nødvendige premisser for å løfte funksjonen til en strategisk verdidriver for virksomheten!
+Ledelsen må allokere tilstrekkelige ressurser til innkjøpsavdelingen, med den nødvendige kompetansen, samt legge til rette for kompetanseutvikling innenfor strategisk innkjøp og prosjektledelse. Dette er helt nødvendige premisser for å løfte funksjonen til en verdidriver for virksomheten!
 
 #### #3 Digital transformasjon er avgjørende
 
