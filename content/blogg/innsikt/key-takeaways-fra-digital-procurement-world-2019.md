@@ -38,17 +38,19 @@ Ledelsen må allokere tilstrekkelige ressurser til innkjøpsavdelingen, med den 
 
 #### #3 Digital transformasjon er avgjørende
 
-Det samles mer data nå enn noen gang. Av all data som samles inn, så er hele [90% generert de siste to årene](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#327bdf6060ba). Med forventninger om at bedre beslutninger vil komme fra mer nøyaktige og konsistente data, så er en digital transformasjon helt avgjørende for å lykkes. Å investere i digitalisering lønner seg. Ledende digitale virksomheter oppnår betydelige bedre finansielle resultater enn sine konkurrenter. 
+Det samles mer data nå enn noen gang. Av all data som samles inn, så er hele [90% generert de siste to årene](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#327bdf6060ba). Med forventninger om at bedre beslutninger vil komme fra mer nøyaktige og konsistente data, så er en digital transformasjon helt avgjørende for å lykkes. Å investere i digitalisering lønner seg. Ledende digitale virksomheter oppnår betydelige bedre finansielle resultater enn sine konkurrenter.
 
 ![Ledende digitale virksomheter oppnår bedre resultater](/images/Digital masters - Financial performance.png "Ledende digitale virksomheter oppnår bedre resultater")
 
-Innkjøpsfunksjonen er generelt en ettersleper når det kommer til digitalisering, der selvtilfredshet er en av de største fiendene. Det nytter ikke lenger å sitte på gjerdet i påvente av hva som skjer. En tankegang som "dette må vi se på om noen år" vil i verste fall resultere i at hele virksomheten på sikt må legges ned. Tiden for å sette i gang er nå! 
+Innkjøpsfunksjonen er generelt en ettersleper når det kommer til digitalisering, der selvtilfredshet er en av de største fiendene. Det nytter ikke lenger å sitte på gjerdet i påvente av hva som skjer. En tankegang som "dette må vi se på om noen år" vil i verste fall resultere i at hele virksomheten på sikt må legges ned. Tiden for å sette i gang er nå!
 
 #### #4 Teknologien er tilgjengelig
 
-I takt med et stadig mer fokus på innkjøp, øker også tilgjengeligheten av digital verktøy og teknologier. [Digital Procurement World 2019](http://www.digitalprocurementworld.com/ "DPW 2019") er et godt eksempel på at mye spennende skjer på tilbudssiden. 
+I takt med et stadig mer fokus på innkjøp, øker også tilgjengeligheten av digital verktøy og teknologier. [Digital Procurement World 2019](http://www.digitalprocurementworld.com/ "DPW 2019") er et godt eksempel på at mye spennende skjer på tilbudssiden.
 
-Teknologien er på plass for å kunne løfte innkjøpsfunksjonen til nye høyder. Problemet er heller at relativt få virksomheter har investert i, eller bruker, verktøy som hjelpemidler i det strategiske innkjøpsarbeidet. Gode verktøy kan kompensere for både begrenset kapasitet og kompetanse — og kan til og med øke kompetansen.
+Teknologien er på plass for å kunne løfte innkjøpsfunksjonen til nye høyder. Problemet er heller at relativt få virksomheter har investert i, eller bruker, verktøy som hjelpemidler i det strategiske innkjøpsarbeidet. Gode verktøy kan kompensere for både begrenset kapasitet og kompetanse - og kan til og med øke kompetansen.
+
+Det koster mer å utvikle noe selv...
 
 #### #5 Endring er mulig
 
@@ -60,7 +62,7 @@ Innkjøpsfunksjonen har en unik mulighet til å transformere seg fra en muliggj�
 
 #### #6 Det starter med DEG
 
-Slutt å komme med unnskyldninger. Kom i gang og få ting til å skje! 
+Slutt å komme med unnskyldninger. Kom i gang og få ting til å skje!
 
 etere for en best mulig løpende oppfølging av dine avtaler.
 
