@@ -40,11 +40,7 @@ Ledelsen må allokere tilstrekkelige ressurser til innkjøpsavdelingen, med den 
 
 #### #3 Digital transformasjon er avgjørende
 
-Det samles mer data nå enn noen gang. Av all data som samles inn, så er hele [90% generert de siste to årene](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#327bdf6060ba). Med forventninger om at bedre beslutninger vil komme fra mer nøyaktige og konsistente data, så er en digital transformasjon helt avgjørende for å lykkes. 
-
-Å investere i digitalisering lønner seg. Det er derfor ikke overraskende at stadig flere europeiske virksomheter setter digitalisering av strategisk innkjøp på dagsordenen og investerer tungt i innkjøpsfunksjonen når vi ser hvilke resultater dette kan gi. Samtidig er det en klar beskjed til norske virksomheter om at vi her hjemme må henge med på digitaliseringsbølgen for å sikre et fortsatt konkurransedyktig norsk næringsliv de kommende 2-5 årene.
-
-Ledende digitale virksomheter oppnår betydelige bedre finansielle resultater enn sine konkurrenter.
+Det samles mer data nå enn noen gang. Av all data som samles inn, så er hele [90% generert de siste to årene](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#327bdf6060ba). Med forventninger om at bedre beslutninger vil komme fra mer nøyaktige og konsistente data, så er en digital transformasjon helt avgjørende for å lykkes. Å investere i digitalisering lønner seg. Ledende digitale virksomheter oppnår betydelige bedre finansielle resultater enn sine konkurrenter.
 
 Det er derfor ikke overraskende at stadig flere europeiske virksomheter setter digitalisering av strategisk innkjøp på dagsordenen og investerer tungt i innkjøpsfunksjonen når vi ser hvilke resultater dette kan gi. Samtidig er det en klar beskjed til norske virksomheter om at vi her hjemme må henge med på digitaliseringsbølgen for å sikre et fortsatt konkurransedyktig norsk næringsliv de kommende 2-5 årene. Dette vil vi på en enkel måte legge til rette for med Ignite Analytics
 
