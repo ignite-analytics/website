@@ -18,11 +18,11 @@ Det er inspirerende å se at innkjøpsfunksjonen er den fremste verdidriveren i 
 
 #### #1 Data er nøkkelen
 
-Data er makt. Og en datadrevet kultur er nøkkelen for suksess. Men data i seg selv er kun en tilrettelegger. Velfunderte beslutninger, baserte på analyser og innsikt fra datagrunnlaget, bidrar til å skape verdier. 
+Data er makt. Og en datadrevet kultur er nøkkelen for suksess. Men data i seg selv er kun en tilrettelegger. Velfunderte beslutninger, baserte på analyser og innsikt fra datagrunnlaget, bidrar til å skape verdier.
 
 Det er overraskende [få virksomheter](https://spendmatters.com/2019/08/06/despite-power-of-data-many-organizations-lag-in-making-it-key-to-their-decision-making-culture-a-deloitte-survey-finds/) som benytter tilgjengelig data for å ta bedre beslutninger. Og innkjøpsfunksjonen er intet unntak. For selv om innkjøp opplever et gradvis, økende skifte mot å bli mer datadrevet, er realiteten at funksjonen fortsatt er lite moden på dette området. Selv etter flere år med teknologiske nyvinninger, sliter fortsatt de fleste virksomhetene med å få [tilstrekkelig innsikt i sitt eget innkjøp](https://www.atkearney.com/procurement/article?/a/the-future-of-procurement-technology-mediocrity-is-no-longer-acceptable "The Future of Procurement Technology: Mediocrity Is No Longer Acceptable").
 
-Det finnes etterhvert mange eksempler på at virksomheter som har vilje til å handle på denne innsikten – å initiere tiltak, endre prosesser og tilpasse atferd basert på fakta – leverer vesentlig bedre resultater. 
+Det finnes etterhvert mange eksempler på at virksomheter som har vilje til å handle på denne innsikten – å initiere tiltak, endre prosesser og tilpasse atferd basert på fakta – leverer vesentlig bedre resultater.
 
 ![Ignite Analytics - spendanalyse](/images/Ignite Analytics - Spendanalyser.png "Ignite Analytics - spendanalyse")
 
@@ -40,7 +40,9 @@ Ledelsen må allokere tilstrekkelige ressurser til innkjøpsavdelingen, med den 
 
 #### #3 Digital transformasjon er avgjørende
 
-Det samles mer data nå enn noen gang. Av all data som samles inn, så er hele [90% generert de siste to årene](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#327bdf6060ba). Med forventninger om at bedre beslutninger vil komme fra mer nøyaktige og konsistente data, så er en digital transformasjon helt avgjørende for å lykkes. Å investere i digitalisering lønner seg. Ledende digitale virksomheter oppnår betydelige bedre finansielle resultater enn sine konkurrenter.
+Det samles mer data nå enn noen gang. Av all data som samles inn, så er hele [90% generert de siste to årene](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#327bdf6060ba). Med forventninger om at bedre beslutninger vil komme fra mer nøyaktige og konsistente data, så er en digital transformasjon helt avgjørende for å lykkes. 
+
+Å investere i digitalisering lønner seg. Ledende digitale virksomheter oppnår betydelige bedre finansielle resultater enn sine konkurrenter.
 
 Det er derfor ikke overraskende at stadig flere europeiske virksomheter setter digitalisering av strategisk innkjøp på dagsordenen og investerer tungt i innkjøpsfunksjonen når vi ser hvilke resultater dette kan gi. Samtidig er det en klar beskjed til norske virksomheter om at vi her hjemme må henge med på digitaliseringsbølgen for å sikre et fortsatt konkurransedyktig norsk næringsliv de kommende 2-5 årene. Dette vil vi på en enkel måte legge til rette for med Ignite Analytics
 
@@ -68,7 +70,7 @@ Innkjøpsfunksjonen har en unik mulighet til å transformere seg fra en muliggj�
 
 Så hvor hvor bør man starte? Det korte og enkle svaret er: **_Det starter med DEG._**
 
-Det finnes for eksempel ingen eksisterende "hyllevare-plan" for hvordan ta i bruk de nyeste teknologiene. Dette er en reise som krever visjon, lidenskap og eksperimentering fra innkjøpsfunksjonen, fordi fremgang aldri er en "rett vei". 
+Det finnes for eksempel ingen eksisterende "hyllevare-plan" for hvordan ta i bruk de nyeste teknologiene. Dette er en reise som krever visjon, lidenskap og eksperimentering fra innkjøpsfunksjonen, fordi fremgang aldri er en "rett vei".
 
 Og vi er her for å hjelpe og støtte dere på denne reisen!
 
