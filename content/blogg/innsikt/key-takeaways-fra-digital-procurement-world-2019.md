@@ -4,10 +4,10 @@ categories = ["Innsikt"]
 date = "2019-09-20T08:24:26+00:00"
 draft = true
 image = "/images/DPW 2019 - Ignite Procurement.png"
-ingress = "I forrige uke deltok vi på Digital Procurement World 2019 som èn av topp 20 utvalgte startups. Vi deler våre viktigste takeaways fra konferansen."
+ingress = "For to uker siden deltok vi på Digital Procurement World 2019 som èn av topp 20 utvalgte startups. Vi deler våre viktigste takeaways fra konferansen."
 showmainimg = false
 tags = []
-title = "Seks takeaways fra Digital Procurement World 2019"
+title = "Seks takeaways fra DPW 2019 og best-in-class innkjøpsavdelinger"
 
 +++
 Det er inspirerende å se at innkjøpsfunksjonen er den fremste verdidriveren i ledende, globale virksomheter som for eksempel Mars, IBM og Henkel. For disse er innkjøp en driver av bærekraftige konkurransefortrinn, og ikke den klassiske støttefunksjonen, hvor en datadrevet tilnærming gjennomsyrer hele organisasjonen.
