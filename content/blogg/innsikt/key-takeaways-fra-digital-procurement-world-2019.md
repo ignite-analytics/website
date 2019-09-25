@@ -64,13 +64,9 @@ Innkjøpsfunksjonen har en unik mulighet til å transformere seg fra en muliggj�
 
 Så hvor hvor bør man starte? Det korte og enkle svaret er: **_Det starter med DEG!_** 
 
-Det finnes for eksempel ingen eksisterende "standardhylle-plan" for å ta i bruk de nyeste teknologiene. Dette er en reise som krever visjon, lidenskap og eksprimenetering for å ta del i
+Det finnes for eksempel ingen eksisterende "hyllevare-plan" for hvordan ta i bruk de nyeste teknologiene. Dette er en reise som krever visjon, lidenskap og eksperimentering fra innkjøpsfunksjonen, fordi teknologisk fremgang aldri er en "rett vei". 
 
-Slutt å komme med unnskyldninger. Kom i gang og få ting til å skje! Og vi er her for å hjelpe dere med å ta det neste steget
-
-Konklusjonen er: Det er ingen tid til å vente og se.
-
-etere for en best mulig løpende oppfølging av dine avtaler.
+Og vi er her for å støtte dere på denne reisen!
 
 ***
 
