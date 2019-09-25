@@ -62,7 +62,7 @@ Innkjøpsfunksjonen har en unik mulighet til å transformere seg fra en muliggj�
 
 #### #6 Det starter med DEG
 
-Slutt å komme med unnskyldninger. Kom i gang og få ting til å skje!
+Slutt å komme med unnskyldninger. Kom i gang og få ting til å skje! Og vi er her for å hjelpe dere med å ta det neste steget
 
 etere for en best mulig løpende oppfølging av dine avtaler.
 
