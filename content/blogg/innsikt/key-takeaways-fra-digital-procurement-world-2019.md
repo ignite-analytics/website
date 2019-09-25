@@ -58,11 +58,17 @@ Endring er mulig og helt avgjørende for å være i forkant. Spesielt for innkj�
 
 Men utfordringene er større enn å bare rulle ut de siste digitale trendene. Innkjøp må løftes frem i lyset i et mye bredere og mer strategisk perspektiv. Funksjonen må få den anerkjennelsen den fortjener, for å bidra mer i verdiskapingen, redusere risiko og gi markedsinnsikt som går utover enkle kostnadsbesparelser. Samarbeid på tvers avdelinger er kritisk - spesielt med økonomi og IT - for å synliggjøre disse verdiene.
 
-Innkjøpsfunksjonen har en unik mulighet til å transformere seg fra en muliggjører av kostnadsreduksjon, til en driver av bærekraftige konkurransefortrinn. Dette ansvaret hviler på skuldrene til styret og ledelsen, som det nå er på høy tid å ta stilling til!
+Innkjøpsfunksjonen har en unik mulighet til å transformere seg fra en muliggjører av kostnadsreduksjon, til en driver av bærekraftige konkurransefortrinn. Deler av dette ansvaret hviler på skuldrene til ledelsen og styret, som det nå er på høy tid å ta stilling til!
 
 #### #6 Det starter med DEG
 
+Så hvor hvor bør man starte? Det korte og enkle svaret er: **_Det starter med DEG!_** 
+
+Det finnes for eksempel ingen eksisterende "standardhylle-plan" for å ta i bruk de nyeste teknologiene. Dette er en reise som krever visjon, lidenskap og eksprimenetering for å ta del i
+
 Slutt å komme med unnskyldninger. Kom i gang og få ting til å skje! Og vi er her for å hjelpe dere med å ta det neste steget
+
+Konklusjonen er: Det er ingen tid til å vente og se.
 
 etere for en best mulig løpende oppfølging av dine avtaler.
 
