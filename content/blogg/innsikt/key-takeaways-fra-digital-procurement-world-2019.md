@@ -48,9 +48,9 @@ Innkjøpsfunksjonen er generelt en ettersleper når det kommer til digitaliserin
 
 I takt med et stadig mer fokus på innkjøp, øker også tilgjengeligheten av digital verktøy og teknologier. [Digital Procurement World 2019](http://www.digitalprocurementworld.com/ "DPW 2019") er et godt eksempel på at mye spennende skjer på tilbudssiden.
 
-Teknologien er på plass for å kunne løfte innkjøpsfunksjonen til nye høyder. Problemet er heller at relativt få virksomheter har investert i, eller bruker, verktøy som hjelpemidler i det strategiske innkjøpsarbeidet. Gode verktøy kan kompensere for både begrenset kapasitet og kompetanse - og kan til og med øke kompetansen.
+Det finnes flere virksomheter som vurderer å utvikle egne innkjøpsløsninger. Våre objektive erfaringer tilsier at dette medfører vesentlig høyere kostnader, at implementeringstiden blir lenger og løsningen mindre optimal.
 
-Det koster mer å utvikle noe selv...
+Teknologien er allerede på plass for å kunne løfte innkjøpsfunksjonen til nye høyder. Problemet er heller at relativt få virksomheter har investert i, eller bruker, verktøy som hjelpemidler i det strategiske innkjøpsarbeidet. Gode verktøy kan kompensere for både begrenset kapasitet og kompetanse - og kan til og med øke kompetansen.
 
 #### #5 Endring er mulig
 
