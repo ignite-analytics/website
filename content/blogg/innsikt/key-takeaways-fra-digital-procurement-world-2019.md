@@ -22,11 +22,11 @@ Data er makt. Og en datadrevet kultur er nøkkelen for suksess. Men data i seg s
 
 Det er overraskende [få virksomheter](https://spendmatters.com/2019/08/06/despite-power-of-data-many-organizations-lag-in-making-it-key-to-their-decision-making-culture-a-deloitte-survey-finds/) som benytter tilgjengelig data for å ta bedre beslutninger. Og innkjøpsfunksjonen er intet unntak. For selv om innkjøp opplever et gradvis, økende skifte mot å bli mer datadrevet, er realiteten at funksjonen fortsatt er lite moden på dette området. Selv etter flere år med teknologiske nyvinninger, sliter fortsatt de fleste virksomhetene med å få [tilstrekkelig innsikt i sitt eget innkjøp](https://www.atkearney.com/procurement/article?/a/the-future-of-procurement-technology-mediocrity-is-no-longer-acceptable "The Future of Procurement Technology: Mediocrity Is No Longer Acceptable").
 
-Det finnes etterhvert mange eksempler på at virksomheter som har vilje til å handle på denne innsikten – å initiere tiltak, endre prosesser og tilpasse atferd basert på fakta – leverer vesentlig bedre resultater. Det er derfor ikke overraskende at stadig flere europeiske virksomheter setter digitalisering av strategisk innkjøp på dagsordenen og investerer tungt i innkjøpsfunksjonen når vi ser hvilke resultater dette kan gi. Samtidig er det en klar beskjed til norske virksomheter om at vi her hjemme må henge med på digitaliseringsbølgen for å sikre et fortsatt konkurransedyktig norsk næringsliv de kommende 2-5 årene. Dette vil vi på en enkel måte legge til rette for med Ignite Analytics
-
 ![Ignite Analytics - spendanalyse](/images/Ignite Analytics - Spendanalyser.png "Ignite Analytics - spendanalyse")
 
-Innkjøpsavdelingen må ha basisinformasjonen på plass, som for eksempel spendanalyser og avtalestyring. Alt annet enn dette vil være å styre i blinde, noe som godt eksemplifiseres av et sitat fra Peter Drucker: **_If you can't measure it, you can't manage it._**
+Det finnes etterhvert mange eksempler på at virksomheter som har vilje til å handle på denne innsikten – å initiere tiltak, endre prosesser og tilpasse atferd basert på fakta – leverer vesentlig bedre resultater. 
+
+Men innkjøpsavdelingen må ha basisinformasjonen på plass, som for eksempel spendanalyser og avtalestyring. Alt annet enn dette vil være å styre i blinde, noe som godt eksemplifiseres av et sitat fra Peter Drucker: **_If you can't measure it, you can't manage it._**
 
 #### #2 Kompetanse er kritisk
 
