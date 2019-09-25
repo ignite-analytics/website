@@ -205,14 +205,6 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/ignite-analytics/</loc>
-    <lastmod>2019-09-23T11:40:08+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/</loc>
     <lastmod>2019-09-23T11:40:08+00:00</lastmod>
     <priority>0</priority>
@@ -260,6 +252,14 @@
                 hreflang="no"
                 href="https://ignite.no/tags/"
                 />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/ignite-analytics/</loc>
+    <lastmod>2019-09-23T11:40:08+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   
