@@ -70,7 +70,7 @@ Så hvor hvor bør man starte? Det korte og enkle svaret er: **_Det starter med 
 
 Det finnes for eksempel ingen eksisterende "hyllevare-plan" for hvordan ta i bruk de nyeste teknologiene. Dette er en reise som krever visjon, lidenskap og eksperimentering fra innkjøpsfunksjonen, fordi fremgang aldri er en "rett vei". Tiden for å sette i gang er nå
 
-Vi er her for å hjelpe og støtte dere på denne reisen!
+Vi er her for å støtte dere på denne reisen!
 
 ***
 
