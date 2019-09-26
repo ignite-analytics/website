@@ -40,13 +40,11 @@ Ledelsen må allokere tilstrekkelige ressurser til innkjøpsavdelingen, med den 
 
 #### #3 Digital transformasjon er avgjørende
 
-Det samles mer data nå enn noen gang. Av all data som samles inn, så er hele [90% generert de siste to årene](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#327bdf6060ba). Med forventninger om at bedre beslutninger vil komme fra mer nøyaktige og konsistente data, så er en digital transformasjon helt avgjørende for å lykkes. 
+Det samles mer data nå enn noen gang. Av all data som samles inn, så er hele [90% generert de siste to årene](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#327bdf6060ba). Med forventninger om at bedre beslutninger vil komme fra mer nøyaktige og konsistente data, så er en digital transformasjon helt avgjørende for å lykkes.
 
-Å investere i digitalisering lønner seg! Det er derfor ikke overraskende at stadig flere europeiske virksomheter setter digitalisering av strategisk innkjøp på dagsordenen og investerer tungt i innkjøpsfunksjonen når vi ser hvilke resultater dette kan gi. Samtidig er det en klar beskjed til norske virksomheter om at vi her hjemme må henge med på digitaliseringsbølgen for å sikre et fortsatt konkurransedyktig norsk næringsliv fremover. 
+Å investere i digitalisering lønner seg! Det er derfor ikke overraskende at stadig flere europeiske virksomheter setter digitalisering av strategisk innkjøp på dagsordenen og investerer tungt i innkjøpsfunksjonen når vi ser hvilke resultater dette kan gi. Samtidig er det en klar beskjed til norske virksomheter om at vi her hjemme må henge med på digitaliseringsbølgen for å sikre et fortsatt konkurransedyktig norsk næringsliv fremover.
 
 ![Ledende digitale virksomheter oppnår bedre resultater](/images/Digital masters - Financial performance.png "Ledende digitale virksomheter oppnår bedre resultater")
-
-Innkjøpsfunksjonen er generelt en ettersleper når det kommer til digitalisering, der selvtilfredshet er en av de største fiendene. Det nytter ikke lenger å sitte på gjerdet i påvente av hva som skjer. En tankegang som "dette må vi se på om noen år" vil i verste fall resultere i at hele virksomheten på sikt må legges ned. Tiden for å sette i gang er nå!
 
 #### #4 Teknologien er tilgjengelig
 
@@ -68,7 +66,7 @@ Innkjøpsfunksjonen har en unik mulighet til å transformere seg fra en muliggj�
 
 Så hvor hvor bør man starte? Det korte og enkle svaret er: **_Det starter med DEG._** Og tiden for å sette i gang er nå - det nytter ikke lenger å sitte på gjerdet i påvente av hva som skjer.
 
-Det finnes for eksempel ingen eksisterende "hyllevare-plan" for hvordan ta i bruk de nyeste teknologiene. Dette er en reise som krever visjon, lidenskap og eksperimentering fra innkjøpsfunksjonen, fordi fremgang aldri er en "rett vei". 
+Det finnes for eksempel ingen eksisterende "hyllevare-plan" for hvordan ta i bruk de nyeste teknologiene. Dette er en reise som krever visjon, lidenskap og eksperimentering fra innkjøpsfunksjonen, fordi fremgang aldri er en "rett vei".
 
 Og vi er her for å støtte dere på denne reisen!
 
