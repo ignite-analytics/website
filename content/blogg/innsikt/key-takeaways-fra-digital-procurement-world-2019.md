@@ -34,7 +34,7 @@ Riktig kompetanse er kritisk for å realisere verdiene. Dette hersker det lite t
 
 Kompetanse må bygges og utvikles for hele innkjøpsprosessen, ikke bare for utvalgte deler. Eksempelvis ser vi at det offentlige er dyktige på selve konkurransegjennomføringen, men [mangler kompetanse](https://www.regjeringen.no/no/dokumenter/meld.-st.-22-20182019/id2641507/ "Meld. St. 22 (2018–2019): Smartere innkjøp – effektive og profesjonelle offentlige anskaffelser") på viktige områder som analyse og behovsplanlegging, kategoristyring, kommersiell forståelse og kontrakts- og leverandøroppfølging.
 
-Kompetanse må sees i sammenheng med kapasitet. En utfordring er at virksomhetens innkjøpsavdeling ikke har tilstrekkelig kapasitet til å arbeide strategisk og drive verdiskaping. Et fåtall ressurser har ofte ansvar for et bredt innkjøp (både geografisk og teknisk) og svært mange leverandører. En hensiktsmessig og tett oppfølging blir da vanskelig, noe som resulterer i at man ikke får hentet ut det fulle potensialet i samarbeidet.
+Men kompetanse må også sees i sammenheng med kapasitet. En utfordring er at virksomhetens innkjøpsavdeling ikke har tilstrekkelig kapasitet til å arbeide strategisk og drive verdiskaping. Et fåtall ressurser har ofte ansvar for et bredt innkjøp (både geografisk og teknisk) og svært mange leverandører. En hensiktsmessig og tett oppfølging blir da vanskelig, noe som resulterer i at man ikke får hentet ut det fulle potensialet i samarbeidet.
 
 Ledelsen må allokere tilstrekkelige ressurser til innkjøpsavdelingen, med den nødvendige kompetansen, samt legge til rette for kompetanseutvikling innenfor strategisk innkjøp og prosjektledelse. Dette er helt nødvendige premisser for å løfte funksjonen til en verdidriver for virksomheten!
 
