@@ -30,7 +30,7 @@ Men innkjøpsavdelingen må ha basisinformasjonen på plass, som for eksempel sp
 
 #### #2 Kompetanse er kritisk
 
-Riktig kompetanse er kritisk for å realisere verdiene. Dette hersker det lite tvil om og er en gjentakende kommunisert flaskehals i [undersøkelser]().
+Riktig kompetanse er kritisk for å realisere verdiene. Dette hersker det lite tvil om og er en gjentakende kommunisert flaskehals i undersøkelser.
 
 Kompetanse må bygges og utvikles for hele innkjøpsprosessen, ikke bare for utvalgte deler. Eksempelvis ser vi at det offentlige er dyktige på selve konkurransegjennomføringen, men [mangler kompetanse](https://www.regjeringen.no/no/dokumenter/meld.-st.-22-20182019/id2641507/ "Meld. St. 22 (2018–2019): Smartere innkjøp – effektive og profesjonelle offentlige anskaffelser") på viktige områder som analyse og behovsplanlegging, kategoristyring, kommersiell forståelse og kontrakts- og leverandøroppfølging.
 
