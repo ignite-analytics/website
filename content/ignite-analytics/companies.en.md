@@ -32,8 +32,6 @@ customers:
   title: Verran
 - logo: "/images/customers/snåsa.png"
   title: Snåsa
-- logo: "/images/Indre-Ostfold-kommune.png"
-  title: Indre Østfold kommune
 - logo: "/images/DC-Resources-Norway.png"
   title: DC Resources Norway
 
