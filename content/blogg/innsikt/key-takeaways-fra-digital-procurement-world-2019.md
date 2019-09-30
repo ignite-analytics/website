@@ -41,7 +41,7 @@ Ledelsen må allokere tilstrekkelige ressurser til innkjøpsavdelingen, med den 
 
 Det samles mer data nå enn noen gang. Av all data som samles inn, så er hele [90% generert de siste to årene](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#327bdf6060ba). Med forventninger om at bedre beslutninger vil komme fra mer nøyaktige og konsistente data, så er en digital transformasjon helt avgjørende for å lykkes.
 
-Å investere i digitalisering lønner seg! Det er derfor ikke overraskende at stadig flere europeiske virksomheter setter digitalisering av strategisk innkjøp på dagsordenen og investerer tungt i innkjøpsfunksjonen når vi ser hvilke resultater dette kan gi. Samtidig er det en klar beskjed til norske virksomheter om at vi her hjemme må henge med på digitaliseringsbølgen for å sikre et konkurransedyktig norsk næringsliv fremover.
+Å investere i digitalisering lønner seg! Det er derfor ikke overraskende at stadig flere europeiske virksomheter setter digitalisering av strategisk innkjøp på dagsordenen, og investerer tungt i innkjøpsfunksjonen, når vi ser hvilke resultater dette kan gi. Samtidig er det en klar beskjed til norske virksomheter om at vi her hjemme må henge med på digitaliseringsbølgen for å sikre et konkurransedyktig norsk næringsliv fremover.
 
 ![Ledende digitale virksomheter oppnår bedre resultater](/images/Digital masters - Financial performance.png "Ledende digitale virksomheter oppnår bedre resultater")
 
