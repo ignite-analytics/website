@@ -164,23 +164,8 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/nyheter/andreas-og-tord-velkommen-til-team-ignite/</loc>
-    <lastmod>2019-09-23T11:40:08+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/ansatte/</loc>
-    <lastmod>2019-09-23T11:40:08+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/</loc>
-    <lastmod>2019-09-23T11:40:08+00:00</lastmod>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -188,7 +173,7 @@
   
   <url>
     <loc>https://ignite.no/categories/</loc>
-    <lastmod>2019-09-23T11:40:08+00:00</lastmod>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -206,7 +191,7 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/ignite-analytics/</loc>
-    <lastmod>2019-09-23T11:40:08+00:00</lastmod>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -214,7 +199,7 @@
   
   <url>
     <loc>https://ignite.no/</loc>
-    <lastmod>2019-09-23T11:40:08+00:00</lastmod>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -231,24 +216,23 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/nyheter/</loc>
-    <lastmod>2019-09-23T11:40:08+00:00</lastmod>
+    <loc>https://ignite.no/blogg/innsikt/</loc>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/platform-engineers/</loc>
-    <lastmod>2019-09-23T11:40:08+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://ignite.no/blogg/innsikt/key-takeaways-fra-digital-procurement-world-2019/</loc>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>https://ignite.no/tags/</loc>
-    <lastmod>2019-09-23T11:40:08+00:00</lastmod>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -265,39 +249,8 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</loc>
-    <lastmod>2019-09-23T07:24:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/innsikt/</loc>
-    <lastmod>2019-09-23T07:24:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/kompetanse/</loc>
-    <lastmod>2019-09-23T07:24:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/innsikt/key-takeaways-fra-digital-procurement-world-2019/</loc>
-    <lastmod>2019-09-23T07:24:26+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/tag/best-in-class/</loc>
-    <lastmod>2019-09-23T07:24:26+00:00</lastmod>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -305,7 +258,7 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/data/</loc>
-    <lastmod>2019-09-23T07:24:26+00:00</lastmod>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -313,7 +266,23 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/digitalisering/</loc>
-    <lastmod>2019-09-23T07:24:26+00:00</lastmod>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</loc>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/kompetanse/</loc>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -321,7 +290,7 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/teknologi/</loc>
-    <lastmod>2019-09-23T07:24:26+00:00</lastmod>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -329,7 +298,38 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/transformasjon/</loc>
-    <lastmod>2019-09-23T07:24:26+00:00</lastmod>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/nyheter/andreas-og-tord-velkommen-til-team-ignite/</loc>
+    <lastmod>2019-09-23T11:40:08+00:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/ansatte/</loc>
+    <lastmod>2019-09-23T11:40:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/nyheter/</loc>
+    <lastmod>2019-09-23T11:40:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/platform-engineers/</loc>
+    <lastmod>2019-09-23T11:40:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -621,14 +621,6 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/avtalestyring/</loc>
-    <lastmod>2019-08-07T12:03:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/tag/kontraktsoppf%C3%B8lging/</loc>
     <lastmod>2019-08-07T12:03:41+00:00</lastmod>
     <priority>0</priority>
@@ -639,6 +631,14 @@
   <url>
     <loc>https://ignite.no/blogg/innsikt/kontraktsoppf%C3%B8lging-er-kritisk-for-%C3%A5-realisere-gevinster/</loc>
     <lastmod>2019-08-07T12:03:41+00:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/avtalestyring/</loc>
+    <lastmod>2019-08-07T12:03:41+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   
