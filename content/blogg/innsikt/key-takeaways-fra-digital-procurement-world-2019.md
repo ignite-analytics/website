@@ -13,7 +13,7 @@ Det er inspirerende å se at innkjøpsfunksjonen er den fremste verdidriveren i 
 
 **Så hvilke lærdommer bør vi ta med oss fra disse best-i-klassen innkjøpsfunksjonene?**
 
-![Takeaways fra best-in-class innkjøpsfunksjoner](/images/DPW 2019 - Takeaways.png "Takeaways fra best-in-class innkjøpsfunksjoner")
+![Best-i-klassen innkjøpsfunksjoner - seks erfaringer](/images/Innkjøpsfunksjon - Best-i-klassen.png "Best-i-klassen innkjøpsfunksjoner")
 
 #### #1 Data er nøkkelen
 
