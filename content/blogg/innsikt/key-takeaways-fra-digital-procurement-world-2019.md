@@ -2,7 +2,6 @@
 author = "Ignite"
 categories = ["Innsikt"]
 date = "2019-09-23T07:24:26+00:00"
-draft = true
 image = "/images/DPW 2019 - Ignite Procurement.png"
 ingress = "For to uker siden deltok vi på Digital Procurement World 2019 som èn av topp 20 utvalgte startups. Vi deler våre viktigste erfaringer fra konferansen."
 showmainimg = false
