@@ -5,7 +5,7 @@ date = "2019-09-30T07:24:26+00:00"
 image = "/images/DPW 2019 - Ignite Procurement.png"
 ingress = "For to uker siden deltok vi på Digital Procurement World 2019 som èn av topp 20 utvalgte startups. Vi deler våre viktigste erfaringer fra konferansen."
 showmainimg = false
-tags = ["innkjøpsfunksjon", "data", "kompetanse", "digitalisering", "transformasjon", "teknologi", "best-in-class", "Ignite Analytics"]
+tags = ["Ignite Analytics", "Innkjøpsfunksjon", "Best-i-klassen", "Data", "Kompetanse", "Digital transformasjon", "Innkjøpsverktøy", "Teknologi", "Endring"]
 title = "Seks erfaringer fra DPW 2019 - hva kan vi lære fra best-i-klassen innkjøpsfunksjoner? "
 
 +++
