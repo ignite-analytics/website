@@ -9,9 +9,9 @@ tags = ["innkjøpsfunksjon", "data", "kompetanse", "digitalisering", "transforma
 title = "Seks erfaringer fra DPW 2019 - hva kan vi lære fra best-i-klassen innkjøpsfunksjoner? "
 
 +++
-Det er inspirerende å se at innkjøpsfunksjonen er den fremste verdidriveren i ledende, globale virksomheter som for eksempel Mars, IBM og Henkel. For disse er innkjøp en driver av bærekraftige konkurransefortrinn, og ikke den klassiske støttefunksjonen, hvor en datadrevet tilnærming gjennomsyrer hele organisasjonen.
+Det er inspirerende å se at innkjøpsfunksjonen er den fremste verdidriveren i ledende, globale virksomheter som for eksempel Mars, IBM og Henkel. For disse er innkjøpsavdelingen en driver av bærekraftige konkurransefortrinn, og ikke den klassiske støttefunksjonen, hvor en datadrevet tilnærming gjennomsyrer hele avdelingen.
 
-**Så hvilke lærdommer bør vi ta med oss fra disse best-i-klassen virksomhetene?**
+**Så hvilke lærdommer bør vi ta med oss fra disse best-i-klassen innkjøpsfunksjonene?**
 
 ![Takeaways fra best-in-class innkjøpsfunksjoner](/images/DPW 2019 - Takeaways.png "Takeaways fra best-in-class innkjøpsfunksjoner")
 
