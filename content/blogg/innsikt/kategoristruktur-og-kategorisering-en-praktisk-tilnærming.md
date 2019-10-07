@@ -10,3 +10,14 @@ tags = []
 title = "Kategoristruktur og kategorisering - en praktisk tilnærming"
 
 +++
+DSDS
+
+1 Struktur - hva kjøper vi
+
+2 Hvilke data har vi til fordelingen
+
+En kategori bør reflektere et lev marked - men vær pragmatiske
+
+3 Kategoriser
+
+4 Levende dokument - gjør justeringer underveis
