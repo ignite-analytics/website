@@ -20,7 +20,7 @@ Det første du bør ta stilling til er **hva er det dere faktisk kjøper inn**. 
 
 Ikke stup rett ned i detaljene. Start med et overordnet perspektiv og benytt en top-down-tilnærming i utarbeidelsen av kategoristrukturen. Det er enklere å bygge underkategorier, eller mer spesifikke kategorier, når de overordnede kategoriene er på plass. I tillegg kan innkjøpsdataen gi verdifull innsikt i fordelingen av mer findetaljerte underkategorier.
 
-#### 2. Hvilke innkjøpsdata har dere?
+#### 2. Finn ut hvilke innkjøpsdata dere har
 
 Kategoristrukturen baserer seg på innkjøpsdata. På et generelt grunnlag gir mer detaljerte data større mulighetsrom for en bedre kategorisering. Under har vi gjengitt noen av de mest vanlige datakildene:
 
