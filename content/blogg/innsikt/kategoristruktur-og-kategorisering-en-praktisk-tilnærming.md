@@ -10,13 +10,30 @@ tags = []
 title = "Kategoristruktur og kategorisering - en praktisk tilnærming"
 
 +++
-La oss starte med litt teori om hva innkjøpskategorier er:
+La oss innlede med litt teori om hva innkjøpskategorier er:
 
 > En innkjøpskategori, eller kategori, inneholder beslektede typer innkjøp knyttet til kjøp av produkter og/eller tjenester. Hver kategori skal med andre ord understøtte markedets inndeling og dermed fortelle noe om innkjøpet og leverandørmarkedet. En kategori på det laveste nivået bør altså tilsvare et unikt leverandørmarked.
 
-#### 1 Struktur - hva kjøper vi
+#### 1. Begynn med kategoristrukturen - hva kjøper vi?
 
-2 Hvilke data har vi til fordelingen
+Det første du bør ta stilling til er **hva er det vi faktisk kjøper inn**. Et viktig moment er å vurdere innkjøpet på tvers av hele virksomheten - det vil si alle deres avdelinger, lokasjoner og funksjoner. En kategori skal i utgangspunktet si noe om hva vi kjøper, uavhengig av hvem som kjøper eller hvilket koststed som belastes.
+
+Ikke stup rett ned i detaljene. Start med et overordnet perspektiv og benytt en top-down-tilnærming i utarbeidelsen av kategoristrukturen. Det er enklere å bygge underkategorier, eller mer spesifikke kategorier, når de overordnede kategoriene er på plass. I tillegg kan innkjøpsdataen vår gi oss verdifull innsikt i fordelingen av mer detaljerte underkategorier.
+
+#### 2. Hvilke innkjøpsdata har vi?
+
+Kategoristrukturen baserer seg på innkjøpsdata. På et generelt grunnlag gir mer detaljerte data større mulighetsrom for en bedre kategorisering. Under har vi gjengitt noen av de mest vanlige kildene for denne dataen:
+
+* **Fakturasystemet:** Alt kjøp - og inngående fakturaer - finnes i fakturasystemet (fullstendighet), og alle virksomheter har data på fakturanivå! For virksomheter som benytter seg av EHF-formatet, bør det også være mulig å hente ut informasjon helt ned på fakturalinjenivå (artikler, enhetspriser og volum).
+* **Regnskapssystemet:** De fleste virksomheter har mulighet til å hente ut innkjøpsdata fra regnskapssystemet. Fordelene er her mange, der eksempelvis informasjon om kontering/regnskapskonto kan komme til nytte i kategoriseringen.
+* **Ordresystemet:** Stadig flere virksomheter har detaljerte data tilgjengelige i sine ordresystem (PO-informasjon). Fordelen er her detaljgraden av dataen, som typisk vil være helt ned på fakturalinjenivå (artikler, enhetspriser og volum). Utfordringen er fullstendigheten av innkjøpsdataen, siden ikke alle kjøp gjøres gjennom systemet.
+* **Leverandørregisteret:** Inneholder typisk kun masterinformasjon om leverandørene, som for eksempel navn og organisasjonsnummer. Ofte ser vi at èn leverandør har flere unike navn i datagrunnlaget. Denne informasjonen kan altså hjelpe deg med å få «samlet kjøpet» hos en reell leverandør, som er ønskelig for de fleste.
+
+Merk at selv «begrenset» data på fakturanivå kan gi dyp innsikt i innkjøpet.
+
+Alle selskap har data på fakturanivå
+
+#### 3. Forstå dataen Bruk dataparametrene til å kategorisere kjøpet
 
 En kategori bør reflektere et lev marked - men vær pragmatiske
 
