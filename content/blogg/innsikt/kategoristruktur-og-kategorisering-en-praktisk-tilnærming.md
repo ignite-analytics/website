@@ -6,7 +6,7 @@ draft = true
 image = "/images/Kategorisering - en praktisk tilnærming.png"
 ingress = "En hensiktsmessig kategoristruktur er grunnmuren for god kategoristyring. Vi deler noen praktisk tips for hvordan du bør tilnærme deg kategoriseringen."
 showmainimg = false
-tags = []
+tags = ["Kategorisering", "Kategoristruktur", "Innkjøpskategori", "Kategoristyring", "Ignite Analytics"]
 title = "Kategoristruktur og kategorisering - en praktisk tilnærming"
 
 +++
@@ -35,7 +35,7 @@ Datakildene, og detaljgraden i dataen, vil variere fra virksomhet til virksomhet
 
 Og husk: **Selv data på fakturanivå gir dyp innsikt i innkjøpet ditt!**
 
-![](/images/Innkjøpsdata - eksempel.png)
+![Eksempel på innkjøpsdata og dataparametre](/images/Innkjøpsdata - eksempel.png "Eksempel på innkjøpsdata og dataparametre")
 
 #### 3. Forstå dataen og kategoriser
 
