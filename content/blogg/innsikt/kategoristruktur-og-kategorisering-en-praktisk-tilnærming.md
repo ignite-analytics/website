@@ -33,7 +33,7 @@ Datakildene, og detaljgraden i dataen, vil variere fra virksomhet til virksomhet
 
 **Og husk:** Selv data på fakturanivå gir dyp innsikt i innkjøpet ditt!
 
-#### 3. Forstå dataen din og kategoriser
+#### 3. Forstå dataen og kategoriser
 
 Det finnes flere måter å fordele innkjøpet i de ulike kategoriene («kategoriseringsregler»), hvor fordelingsmulighetene vil være avhengig av detaljeringsgraden og dataparametrene. Vi har listet opp noen parametre som vi typisk benytter til selve kategoriseringen:
 
