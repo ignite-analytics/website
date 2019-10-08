@@ -33,7 +33,7 @@ Datakildene, og detaljgrad i dataen, vil variere fra virksomhet til virksomhet. 
 
 **Men husk:** Selv «begrenset» data på fakturanivå kan gi dyp innsikt i innkjøpet ditt!
 
-#### 3. Forstå dataen Bruk dataparametrene til å kategorisere kjøpet
+#### 3. Forstå dataen din og bruk informasjonen i kategoriseringen
 
 En kategori bør reflektere et lev marked - men vær pragmatiske
 
