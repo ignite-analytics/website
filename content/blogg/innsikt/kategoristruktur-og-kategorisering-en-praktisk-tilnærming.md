@@ -61,7 +61,7 @@ Det er ellers viktig å huske på at kategoristrukturen er et «levende dokument
 
 Det er fremdeles mange som bruker excel eller BI-løsninger som grunnplattformer i både kategoriseringen og analysearbeidet. Vårt råd: **Styr unna!** Dette er tidstyver som stjeler kapasitet, og gir unødvendige hodepiner, i en ellers så hektisk hverdag. Løsningene er heller ikke dynamiske eller fleksible nok til å kunne håndtere en levende kategoristruktur.
 
-**Lykke til!** Og ikke glem at kategoristrukturen er en forutsetning for [kategoristyringen](https://www.ignite.no/blogg/innsikt/en-praktisk-tiln%C3%A6rming-til-kategoristyring/ "En praktisk tilnærming til kategoristyring").
+**Lykke til!** Og ikke glem at kategoristrukturen er en forutsetning for [god kategoristyring](https://www.ignite.no/blogg/innsikt/en-praktisk-tiln%C3%A6rming-til-kategoristyring/ "Kategoristyring").
 
 #### Ignite Analytics - fleksibelt, dynamisk og enkelt
 
