@@ -29,9 +29,9 @@ Kategoristrukturen baserer seg på innkjøpsdata. På et generelt grunnlag gir m
 * **Ordresystemet:** Stadig flere virksomheter har detaljerte data tilgjengelige i sine ordresystem (PO-informasjon). Fordelen er her detaljgraden av dataen, som typisk vil være helt ned på fakturalinjenivå (artikler, enhetspriser og volum). Utfordringen er fullstendigheten av innkjøpsdataen, siden ikke alle kjøp gjøres gjennom systemet.
 * **Leverandørregisteret:** Inneholder typisk kun masterinformasjon om leverandørene, som for eksempel navn og organisasjonsnummer. Ofte ser vi at èn leverandør har flere unike navn i datagrunnlaget. Denne informasjonen kan altså hjelpe deg med å få «samlet kjøpet» hos en reell leverandør, som er ønskelig for de fleste.
 
-Datakildene, og detaljgrad i dataen, vil variere fra virksomhet til virksomhet. Mange kombinerer også to eller flere kilder for å få mer innsikt i datagrunnlaget sitt, hvor det eneste som kreves er unike datapunkter mellom kildene.
+Datakildene, og detaljgrad i dataen, vil variere fra virksomhet til virksomhet. Mange kombinerer gjerne to eller flere kilder for å få mest mulig ut av datagrunnlaget sitt, hvor det eneste som kreves er unike datapunkter mellom kildene.
 
-Og husk: Selv «begrenset» data på fakturanivå kan gi dyp innsikt i innkjøpet.
+**Men husk:** Selv «begrenset» data på fakturanivå kan gi dyp innsikt i innkjøpet ditt!
 
 #### 3. Forstå dataen Bruk dataparametrene til å kategorisere kjøpet
 
