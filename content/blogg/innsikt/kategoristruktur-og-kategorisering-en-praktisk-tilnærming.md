@@ -54,7 +54,7 @@ I en perfekt verden skal en kategori på det laveste nivået tilsvare et unikt l
 
 Det er ellers viktig å huske på at kategoristrukturen er et «levende dokument», som vil utvikle seg i takt med virksomheten din. En mer datadrevet tilnærming vil også gi ny innsikt som kan brukes inn i kategoriseringsarbeidet. Løpende justeringer og tilpasninger er viktig for å opprettholde en oppdatert struktur.
 
-![](/images/Ignite Analytics - Kategorisering_2.png)
+![Ignite Analytics - kategoristruktur og kategorisering](/images/Ignite Analytics - Kategorisering_2.png "Ignite Analytics - kategoristyring")
 
 #### 5. Bruk dynamiske verktøy - styr unna excel og BI
 
