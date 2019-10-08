@@ -63,3 +63,5 @@ Lykke til!
 Ignite Analytics er basert på en kategoristyrt tilnærming til innkjøpet. Brukerne har full fleksibilitet til å utarbeide egne kategoristrukturer. Kategoriseringen kan gjøres basert på alle tilgjengelige dataparametre ved hjelp av «drag and drop»-funksjonalitet. Kategoriseringsreglene som benyttes (og opprettes) i forbindelse med fordelingen av innkjøpet, sørger for at fremtidige kjøp automatisk kategoriseres til valgte kategorier.
 
 Oppdag kraften i strategisk innkjøp gjort digitalt!
+
+[![](https://www.ignite.no/images/Pr%C3%B8v%20Ignite%20Analytics%20-%201200%20x100.png)](https://www.ignite.no/ignite-analytics/demo/ "Prøv Ignite Analytics")
