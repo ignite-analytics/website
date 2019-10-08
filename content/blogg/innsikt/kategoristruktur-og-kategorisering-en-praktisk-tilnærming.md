@@ -2,7 +2,6 @@
 author = "Ignite"
 categories = ["Innsikt"]
 date = "2019-10-08T08:03:11+00:00"
-draft = true
 image = "/images/Kategorisering - en praktisk tilnærming.png"
 ingress = "En hensiktsmessig kategoristruktur er grunnmuren for god kategoristyring. Vi deler noen praktisk tips for hvordan du bør tilnærme deg kategoriseringen."
 showmainimg = false
