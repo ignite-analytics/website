@@ -51,3 +51,5 @@ Det handler altså om å forstå dataen din, og hvordan du kan benytte denne inf
 I en perfekt verden skal en kategori på det laveste nivået tilsvare et unikt leverandørmarked. En kategoristruktur vil heldigvis aldri være 100% perfekt. For de fleste virksomheter vil derfor **80/20-regelen** være en veldig god og pragmatisk rettesnor. Og kanskje spesielt dersom du skal bygge strukturen fra bunnen av.
 
 Det er ellers viktig å huske på at kategoristrukturen er et «levende dokument», som vil utvikle seg i takt med virksomheten din. En mer datadrevet tilnærming vil også gi ny innsikt som kan brukes inn i kategoriseringsarbeidet. Løpende justeringer og tilpasninger er viktig for å opprettholde en oppdatert struktur.
+
+Lykke til!
