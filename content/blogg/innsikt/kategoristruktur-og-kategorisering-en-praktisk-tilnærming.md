@@ -3,7 +3,7 @@ author = "Ignite"
 categories = ["Innsikt"]
 date = "2019-10-08T08:03:11+00:00"
 draft = true
-image = ""
+image = "/images/Kategorisering - en praktisk tilnærming.png"
 ingress = "En hensiktsmessig kategoristruktur er grunnmuren for god kategoristyring. Vi deler noen praktisk tips for hvordan du bør tilnærme deg kategoriseringen."
 showmainimg = false
 tags = []
@@ -46,7 +46,7 @@ Det finnes flere måter å fordele innkjøpet i de ulike kategoriene («kategori
 
 Det handler altså om å forstå dataen din, og hvordan du kan benytte denne informasjonen til å fordele og kategorisere innkjøpstransaksjonene. I mange tilfeller kan det også være nødvendig å kombinere flere parametre for å få en mest hensiktsmessig kategoristruktur og kategorier.
 
-#### 4. Vær pragmatisk og gjør tilpasninger underveis
+#### 4. Vær pragmatisk og gjør løpende tilpasninger
 
 I en perfekt verden skal en kategori på det laveste nivået tilsvare et unikt leverandørmarked. En kategoristruktur vil heldigvis aldri være 100% perfekt. For de fleste virksomheter vil derfor **80/20-regelen** være en veldig god og pragmatisk rettesnor. Og kanskje spesielt dersom du skal bygge strukturen fra bunnen av.
 
