@@ -53,3 +53,9 @@ I en perfekt verden skal en kategori på det laveste nivået tilsvare et unikt l
 Det er ellers viktig å huske på at kategoristrukturen er et «levende dokument», som vil utvikle seg i takt med virksomheten din. En mer datadrevet tilnærming vil også gi ny innsikt som kan brukes inn i kategoriseringsarbeidet. Løpende justeringer og tilpasninger er viktig for å opprettholde en oppdatert struktur.
 
 Lykke til!
+
+***
+
+_Ignite Analytics bygger på en kategoristyrt tilnærming til innkjøp. Brukerne har full fleksibilitet til å utarbeide egne kategoristrukturer. Kategoriseringen baseres på egendefinerte parametre ved hjelp av «drag and drop»-funksjonalitet. Kategoriseringsreglene som benyttes (og opprettes) i forbindelse med fordelingen av innkjøpet, sørger for at fremtidige kjøp automatisk kategoriseres til valgte kategorier._
+
+_Interessert i å få vite mer om hvordan Ignite Analytics kan hjelpe deg og din virksomhet? Last ned produktinformasjonen via linken under for å lære mer._
