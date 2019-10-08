@@ -14,15 +14,15 @@ La oss innlede med litt teori om hva innkjøpskategorier er:
 
 > En innkjøpskategori, eller kategori, inneholder beslektede typer innkjøp knyttet til kjøp av produkter og/eller tjenester. Hver kategori skal med andre ord understøtte markedets inndeling og dermed fortelle noe om innkjøpet og leverandørmarkedet. En kategori på det laveste nivået bør altså tilsvare et unikt leverandørmarked.
 
-#### 1. Begynn med kategoristrukturen - hva kjøper vi?
+#### 1. Begynn med kategoristrukturen - hva kjøper dere?
 
 Det første du bør ta stilling til er **hva er det vi faktisk kjøper inn**. Et viktig moment er å vurdere innkjøpet på tvers av hele virksomheten - det vil si alle deres avdelinger, lokasjoner og funksjoner. En kategori skal i utgangspunktet si noe om hva vi kjøper, uavhengig av hvem som kjøper eller hvilket koststed som belastes.
 
-Ikke stup rett ned i detaljene. Start med et overordnet perspektiv og benytt en top-down-tilnærming i utarbeidelsen av kategoristrukturen. Det er enklere å bygge underkategorier, eller mer spesifikke kategorier, når de overordnede kategoriene er på plass. I tillegg kan innkjøpsdataen vår gi oss verdifull innsikt i fordelingen av mer detaljerte underkategorier.
+Ikke stup rett ned i detaljene. Start med et overordnet perspektiv og benytt en top-down-tilnærming i utarbeidelsen av kategoristrukturen. Det er enklere å bygge underkategorier, eller mer spesifikke kategorier, når de overordnede kategoriene er på plass. I tillegg kan innkjøpsdataen gi verdifull innsikt i fordelingen av mer detaljerte underkategorier.
 
-#### 2. Hvilke innkjøpsdata har vi?
+#### 2. Hvilke innkjøpsdata har du?
 
-Kategoristrukturen baserer seg på innkjøpsdata. På et generelt grunnlag gir mer detaljerte data større mulighetsrom for en bedre kategorisering. Under har vi gjengitt noen av de mest vanlige kildene for denne dataen:
+Kategoristrukturen baserer seg på innkjøpsdata. På et generelt grunnlag gir mer detaljerte data større mulighetsrom for en bedre kategorisering. Under har vi gjengitt noen av de mest vanlige datakildene:
 
 * **Fakturasystemet:** Alt kjøp - og inngående fakturaer - finnes i fakturasystemet (fullstendighet), og alle virksomheter har data på fakturanivå! For virksomheter som benytter seg av EHF-formatet, bør det også være mulig å hente ut informasjon helt ned på fakturalinjenivå (artikler, enhetspriser og volum).
 * **Regnskapssystemet:** De fleste virksomheter har mulighet til å hente ut innkjøpsdata fra regnskapssystemet. Fordelene er her mange, der eksempelvis informasjon om kontering/regnskapskonto kan komme til nytte i kategoriseringen.
@@ -44,7 +44,7 @@ Det finnes flere måter å fordele innkjøpet i de ulike kategoriene («kategori
 * **Produkt- og tjenestekoder (f.eks. UNSPSC)**
 * **Tekstparameter / tekstsøk**
 
-Det handler altså om å forstå dataen din, og hvordan du kan benytte denne informasjonen til å fordele og kategorisere innkjøpet. I mange tilfeller kan det også være nødvendig å kombinere flere parametre for å få en mest hensiktsmessig kategoristruktur.
+Det handler altså om å forstå dataen din, og hvordan du kan benytte denne informasjonen til å fordele og kategorisere innkjøpstransaksjonene. I mange tilfeller kan det også være nødvendig å kombinere flere parametre for å få en mest hensiktsmessig kategoristruktur.
 
 #### 4. Vær pragmatisk og gjør tilpasninger underveis
 
