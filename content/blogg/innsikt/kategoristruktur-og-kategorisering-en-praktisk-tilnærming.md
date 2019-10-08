@@ -48,7 +48,7 @@ Det handler altså om å forstå dataen din, og hvordan du kan benytte denne inf
 
 #### 4. Vær pragmatiske og gjør løpende tilpasninger
 
-I en perfekt verden skal en kategori på det laveste nivået tilsvare et unikt leverandørmarked. En kategoristruktur vil heldigvis aldri kunne være 100% perfekt. For de fleste virksomheter vil **80/20-regelen** være en god rettesnor, og en pragmatisk, men absolutt god nok, tilnærming til kategoristrukturen.
+I en perfekt verden skal en kategori på det laveste nivået tilsvare et unikt leverandørmarked. En kategoristruktur vil heldigvis aldri kunne være 100% perfekt. For de fleste virksomheter vil **80/20-regelen** være en god og pragmatisk rettesnor.
 
 En kategori bør reflektere et lev marked - men vær pragmatiske
 
