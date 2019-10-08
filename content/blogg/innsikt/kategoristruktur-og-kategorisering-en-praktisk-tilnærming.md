@@ -12,7 +12,7 @@ title = "Kategoristruktur og kategorisering - en praktisk tilnærming"
 +++
 La oss innlede med litt teori om hva innkjøpskategorier er:
 
-> En innkjøpskategori, eller kategori, inneholder beslektede typer innkjøp knyttet til kjøp av produkter og/eller tjenester. Hver kategori skal med andre ord understøtte markedets inndeling og dermed fortelle noe om innkjøpet og leverandørmarkedet. En kategori på det laveste nivået bør altså tilsvare et unikt leverandørmarked.
+> En innkjøpskategori, eller kategori, inneholder beslektede typer innkjøp knyttet til kjøp av produkter og/eller tjenester. Hver kategori skal med andre ord understøtte markedets inndeling og dermed fortelle noe om innkjøpet og leverandørmarkedet. 
 
 #### 1. Begynn med kategoristrukturen - hva kjøper dere?
 
@@ -29,9 +29,9 @@ Kategoristrukturen baserer seg på innkjøpsdata. På et generelt grunnlag gir m
 * **Ordresystemet:** Stadig flere virksomheter har detaljerte data tilgjengelige i sine ordresystem (PO-informasjon). Fordelen er her detaljgraden av dataen, som typisk vil være helt ned på fakturalinjenivå (artikler, enhetspriser og volum). Utfordringen er fullstendigheten av innkjøpsdataen, siden ikke alle kjøp gjøres gjennom systemet.
 * **Leverandørregisteret:** Inneholder typisk kun masterinformasjon om leverandørene, som for eksempel navn og organisasjonsnummer. Ofte ser vi at èn leverandør har flere unike navn i datagrunnlaget. Denne informasjonen kan altså hjelpe deg med å få «samlet kjøpet» hos en reell leverandør, som er ønskelig for de fleste.
 
-Datakildene, og detaljgrad i dataen, vil variere fra virksomhet til virksomhet. Mange kombinerer gjerne to eller flere kilder for å få mest mulig ut av datagrunnlaget sitt, hvor det eneste som kreves er unike datapunkter mellom kildene.
+Datakildene, og detaljgraden i dataen, vil variere fra virksomhet til virksomhet. Mange kombinerer også gjerne to eller flere kilder for å få mest mulig ut av datagrunnlaget sitt, hvor det eneste som kreves er unike datapunkter mellom kildene.
 
-**Og husk:** Selv data på fakturanivå kan gi dyp innsikt i innkjøpet!
+**Og husk:** Selv data på fakturanivå gir dyp innsikt i innkjøpet ditt!
 
 #### 3. Forstå dataen din og kategoriser
 
@@ -44,16 +44,10 @@ Det finnes flere måter å fordele innkjøpet i de ulike kategoriene («kategori
 * **Produkt- og tjenestekoder (f.eks. UNSPSC)**
 * **Tekstparameter / tekstsøk**
 
-Det handler altså om å forstå dataen din, og hvordan du kan benytte denne informasjonen til å fordele og kategorisere innkjøpstransaksjonene. I mange tilfeller kan det også være nødvendig å kombinere flere parametre for å få en mest hensiktsmessig kategoristruktur.
+Det handler altså om å forstå dataen din, og hvordan du kan benytte denne informasjonen til å fordele og kategorisere innkjøpstransaksjonene. I mange tilfeller kan det også være nødvendig å kombinere flere parametre for å få en mest hensiktsmessig kategoristruktur og kategorier.
 
 #### 4. Vær pragmatisk og gjør tilpasninger underveis
 
-I en perfekt verden skal en kategori på det laveste nivået tilsvare et unikt leverandørmarked. En kategoristruktur vil heldigvis aldri være 100% perfekt. For de fleste virksomheter vil derfor **80/20-regelen** være en veldig god og pragmatisk rettesnor. Og kanskje spesielt dersom du skal bygge strukturen fra 
+I en perfekt verden skal en kategori på det laveste nivået tilsvare et unikt leverandørmarked. En kategoristruktur vil heldigvis aldri være 100% perfekt. For de fleste virksomheter vil derfor **80/20-regelen** være en veldig god og pragmatisk rettesnor. Og kanskje spesielt dersom du skal bygge strukturen fra bunnen av.
 
-Det er ellers viktig å huske på at kategoristrukturen er et levende dokument
-
-En kategori bør reflektere et lev marked - men vær pragmatiske
-
-3 Kategoriser
-
-4 Levende dokument - gjør justeringer underveis
+Det er ellers viktig å huske på at kategoristrukturen er et «levende dokument», som vil utvikle seg i takt med virksomheten din. Løpende justeringer og tilpasninger er derfor viktig for å vedlikeholde strukturen. 
