@@ -57,29 +57,11 @@
     </item>
     
     <item>
-      <title>Innkjøpsfunksjon</title>
-      <link>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</link>
-      <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Innkjøpsverktøy</title>
       <link>https://ignite.no/blogg/tag/innkj%C3%B8psverkt%C3%B8y/</link>
       <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/innkj%C3%B8psverkt%C3%B8y/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kompetanse</title>
-      <link>https://ignite.no/blogg/tag/kompetanse/</link>
-      <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/kompetanse/</guid>
       <description></description>
     </item>
     
@@ -93,6 +75,24 @@
     </item>
     
     <item>
+      <title>innkjøpsfunksjon</title>
+      <link>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</link>
+      <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kompetanse</title>
+      <link>https://ignite.no/blogg/tag/kompetanse/</link>
+      <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/kompetanse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ansatte</title>
       <link>https://ignite.no/blogg/tag/ansatte/</link>
       <pubDate>Mon, 23 Sep 2019 11:40:08 +0000</pubDate>
@@ -102,7 +102,7 @@
     </item>
     
     <item>
-      <title>Platform Engineers</title>
+      <title>Platform engineers</title>
       <link>https://ignite.no/blogg/tag/platform-engineers/</link>
       <pubDate>Mon, 23 Sep 2019 11:40:08 +0000</pubDate>
       
