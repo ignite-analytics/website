@@ -35,7 +35,7 @@ Datakildene, og detaljgrad i dataen, vil variere fra virksomhet til virksomhet. 
 
 #### 3. Forstå dataen din og bruk informasjonen i kategoriseringen
 
-Det finnes flere måter å fordele innkjøpet i de ulike kategoriene («kategoriseringsregler»), hvor fordelingsmulighetene vil være avhengig av detaljeringsgraden i dataen.
+Det finnes flere måter å fordele innkjøpet i de ulike kategoriene («kategoriseringsregler»), hvor fordelingsmulighetene vil være avhengig av detaljeringsgraden og dataparametrene. Til syvende og sist
 
 ds
 
