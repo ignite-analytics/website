@@ -9,7 +9,7 @@ tags = ["Kategorisering", "Kategoristruktur", "Innkjøpskategori", "Kategoristyr
 title = "Kategoristruktur og kategorisering - en praktisk tilnærming"
 
 +++
-La oss innlede med litt teori om hva innkjøpskategorier er og hva de skal representere:
+La oss innlede med litt teori om hva innkjøpskategorier er og hva de skal reflektere:
 
 > En innkjøpskategori, eller kategori, inneholder beslektede typer innkjøp knyttet til kjøp av produkter og/eller tjenester. Hver kategori skal med andre ord understøtte markedets inndeling og dermed fortelle noe om innkjøpet og leverandørmarkedet. 
 
