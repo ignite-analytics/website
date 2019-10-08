@@ -14,6 +14,8 @@ La oss innlede med litt teori om hva innkjøpskategorier er:
 
 > En innkjøpskategori, eller kategori, inneholder beslektede typer innkjøp knyttet til kjøp av produkter og/eller tjenester. Hver kategori skal med andre ord understøtte markedets inndeling og dermed fortelle noe om innkjøpet og leverandørmarkedet. 
 
+![Kategoristruktur og kategorisering - en praktisk tilnærming](/images/Kategorisering - en praktisk tilnærming.png "Kategoristruktur og kategorisering - en praktisk tilnærming")
+
 #### 1. Begynn med kategoristrukturen - hva kjøper dere?
 
 Det første du bør ta stilling til er **hva er det dere faktisk kjøper inn**. Her må dere vurdere innkjøpet på tvers av hele virksomheten - det vil si alle deres avdelinger, lokasjoner og funksjoner. En kategori skal i utgangspunktet si noe om hva dere kjøper, uavhengig av hvem som kjøper eller hvilket koststed som belastes.
