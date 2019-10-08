@@ -190,6 +190,14 @@
   
   
   <url>
+    <loc>https://ignite.no/blogg/tag/ignite-analytics/</loc>
+    <lastmod>2019-10-08T08:03:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/</loc>
     <lastmod>2019-10-08T08:03:11+00:00</lastmod>
     <priority>0</priority>
@@ -208,6 +216,14 @@
   
   
   <url>
+    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</loc>
+    <lastmod>2019-10-08T08:03:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/blogg/innsikt/</loc>
     <lastmod>2019-10-08T08:03:11+00:00</lastmod>
     <priority>0</priority>
@@ -217,6 +233,14 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/kategorisering/</loc>
+    <lastmod>2019-10-08T08:03:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/kategoristruktur/</loc>
     <lastmod>2019-10-08T08:03:11+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -244,30 +268,6 @@
                 hreflang="no"
                 href="https://ignite.no/tags/"
                 />
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/ignite-analytics/</loc>
-    <lastmod>2019-10-08T08:03:11+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</loc>
-    <lastmod>2019-10-08T08:03:11+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/kategoristruktur/</loc>
-    <lastmod>2019-10-08T08:03:11+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   
@@ -313,14 +313,6 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</loc>
-    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/tag/innkj%C3%B8psverkt%C3%B8y/</loc>
     <lastmod>2019-09-30T07:24:26+00:00</lastmod>
     <priority>0</priority>
@@ -337,6 +329,14 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/teknologi/</loc>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</loc>
     <lastmod>2019-09-30T07:24:26+00:00</lastmod>
     <priority>0</priority>
   </url>
