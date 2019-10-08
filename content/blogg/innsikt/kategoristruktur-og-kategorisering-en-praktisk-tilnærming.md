@@ -33,7 +33,7 @@ Kategoristrukturen baserer seg på innkjøpsdata. På et generelt grunnlag gir m
 
 Datakildene, og detaljgraden i dataen, vil variere fra virksomhet til virksomhet. Mange kombinerer også gjerne to eller flere kilder for å få mest mulig ut av datagrunnlaget sitt, hvor det eneste som kreves er unike datapunkter mellom kildene.
 
-**Og husk:** Selv data på fakturanivå gir dyp innsikt i innkjøpet ditt!
+Og husk: **Selv data på fakturanivå gir dyp innsikt i innkjøpet ditt!**
 
 #### 3. Forstå dataen og kategoriser
 
