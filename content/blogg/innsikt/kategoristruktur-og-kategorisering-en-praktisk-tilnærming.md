@@ -48,7 +48,7 @@ Det finnes flere måter å fordele innkjøpet i de ulike kategoriene («kategori
 * **Produkt- og tjenestekoder (f.eks. UNSPSC)**
 * **Tekstparameter / tekstsøk**
 
-Det handler altså om å forstå dataen din, og hvordan du kan benytte denne informasjonen til å fordele og kategorisere innkjøpstransaksjonene. I mange tilfeller kan det også være nødvendig å kombinere flere parametre for å få en mest hensiktsmessig kategoristruktur og kategorier.
+Det handler altså om å forstå dataen din, og hvordan du kan benytte denne informasjonen til å fordele og kategorisere innkjøpstransaksjonene. I mange tilfeller kan det også være nødvendig å kombinere flere parametre for å fordele kjøpet til en eller flere kategorier.
 
 #### 4. Vær pragmatisk og gjør løpende tilpasninger
 
