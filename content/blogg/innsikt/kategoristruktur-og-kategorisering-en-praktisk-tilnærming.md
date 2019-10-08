@@ -40,7 +40,7 @@ Det finnes flere måter å fordele innkjøpet i de ulike kategoriene («kategori
 * **Regnskapskontoer**
 * **Leverandørnavn**
 * **Næringsinformasjon (NACE-koder)**
-* **Artikkelgrupper**
+* **Artikkelgrupper og artikkelinformasjon**
 * **Produkt- og tjenestekoder (f.eks. UNSPSC)**
 * **Tekstparameter / tekstsøk**
 
