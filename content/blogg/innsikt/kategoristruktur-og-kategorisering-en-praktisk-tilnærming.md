@@ -60,7 +60,7 @@ Lykke til!
 
 #### Ignite Analytics - fleksibelt, dynamisk og enkelt
 
-Ignite Analytics er basert på en kategoristyrt tilnærming til innkjøpet. Brukerne har full fleksibilitet til å utarbeide egne kategoristrukturer. Kategoriseringen kan gjøres basert på alle tilgjengelige dataparametre ved hjelp av «drag and drop»-funksjonalitet. Kategoriseringsreglene som benyttes (og opprettes) i forbindelse med fordelingen av innkjøpet, sørger for at fremtidige kjøp automatisk kategoriseres til valgte kategorier.
+Ignite Analytics er basert på en kategoristyrt tilnærming til innkjøpet, hvor brukerne har full fleksibilitet til å utarbeide egne kategoristrukturer. Kategoriseringen kan gjøres basert på alle tilgjengelige dataparametre ved hjelp av «drag and drop»-funksjonalitet. Kategoriseringsreglene som benyttes (og opprettes) i forbindelse med fordelingen av innkjøpet, sørger for at fremtidige kjøp automatisk kategoriseres til valgte kategorier.
 
 Oppdag kraften i strategisk innkjøp gjort digitalt!
 
