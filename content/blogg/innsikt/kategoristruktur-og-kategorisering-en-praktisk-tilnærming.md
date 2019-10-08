@@ -35,13 +35,16 @@ Datakildene, og detaljgrad i dataen, vil variere fra virksomhet til virksomhet. 
 
 #### 3. Forstå dataen din og kategoriser
 
-Det finnes flere måter å fordele innkjøpet i de ulike kategoriene («kategoriseringsregler»), hvor fordelingsmulighetene vil være avhengig av detaljeringsgraden og dataparametrene. Vi har listet opp noen parametre som vi typisk benytter i kategoriseringen:
+Det finnes flere måter å fordele innkjøpet i de ulike kategoriene («kategoriseringsregler»), hvor fordelingsmulighetene vil være avhengig av detaljeringsgraden og dataparametrene. Vi har listet opp noen parametre som vi typisk benytter i selve kategoriseringen:
 
-Kombinasjon
+* **Regnskapskontoer**
+* **Leverandørnavn**
+* **Næringsinformasjon (NACE-koder)**
+* **Artikkelgrupper**
+* **Produkt- og tjenestekoder (f.eks. UNSPSC)**
+* **Tekstparameter / tekstsøk**
 
-Til syvende og sist
-
-ds
+Det handler altså om å forstå dataen din, og hvordan du kan benytte denne informasjonen til å fordele og kategorisere innkjøpet. I mange tilfeller kan det også være nødvendig å kombinere flere parametre for å få en mest hensiktsmessig kategoristruktur.
 
 En kategori bør reflektere et lev marked - men vær pragmatiske
 
