@@ -34,9 +34,7 @@ Du kan lese mer om relevante kilder for innkjøpsdata her.
 
 Det neste du bør ta stilling til er **hva dere faktisk kjøper inn**. Her må dere vurdere innkjøpet på tvers av hele virksomheten - det vil si alle deres avdelinger, lokasjoner og funksjoner. En kategori skal i utgangspunktet si noe om hva dere kjøper, uavhengig av hvem som kjøper eller hvilket koststed som belastes.
 
-Ikke stup rett ned i detaljene. Vår erfaring er at kategoriseristrukturen blir mer helhetlig om man starter overordnet, og selve kategoriseringsjobben blir mer effektiv og presis
-
-Start med et overordnet perspektiv og benytt en top-down-tilnærming i utarbeidelsen av kategoristrukturen. Det er enklere å bygge underkategorier, eller mer spesifikke kategorier, når de overordnede kategoriene er på plass. I tillegg kan innkjøpsdataen gi verdifull innsikt i fordelingen av mer findetaljerte kategorier.
+Ikke stup rett ned i detaljene. Vår erfaring er at kategoriseristrukturen blir mer helhetlig om man starter overordnet, og selve kategoriseringsjobben blir mer effektiv og presis. Det er enklere å bygge underkategorier, eller mer spesifikke kategorier, når de overordnede kategoriene er på plass. I tillegg kan innkjøpsdataen gi verdifull innsikt i fordelingen av mer findetaljerte kategorier.
 
 #### 3. Forstå dataen og kategoriser
 
