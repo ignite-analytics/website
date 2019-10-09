@@ -25,7 +25,7 @@ Innkjøpsanalyser og [kategoristrukturen](https://www.ignite.no/blogg/innsikt/ka
 
 Datakildene, og detaljgraden i dataen, vil variere fra virksomhet til virksomhet. Mange kombinerer også gjerne to eller flere kilder for å få mest mulig ut av datagrunnlaget sitt, hvor det eneste som kreves er unike datapunkter mellom kildene.
 
-**Et lite tips på tampen:** D
+Og et lite tips til de som tviler på datakvaliteten sin: ...
 
 ***
 
