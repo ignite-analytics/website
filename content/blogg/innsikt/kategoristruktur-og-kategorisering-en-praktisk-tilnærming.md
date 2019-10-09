@@ -63,6 +63,8 @@ Det er ellers viktig å huske på at kategoristrukturen er et «levende dokument
 
 #### 5. Bruk dynamiske verktøy - styr unna excel
 
+Gode verktøy 
+
 Det er fremdeles mange som bruker excel som grunnplattform i både kategoriseringen og analysearbeidet. Vårt råd: **Styr unna!** Dette er en tidstyv som stjeler kapasitet, og gir unødvendige hodepiner, i en ellers så hektisk hverdag. Løsningen er heller ikke dynamisk eller fleksibel nok til å kunne håndtere en levende kategoristruktur.
 
 **Lykke til!** Og ikke glem at kategoristrukturen er en forutsetning for [god kategoristyring](https://www.ignite.no/blogg/innsikt/en-praktisk-tiln%C3%A6rming-til-kategoristyring/ "Kategoristyring").
