@@ -15,13 +15,7 @@ La oss innlede med litt teori om hva innkjøpskategorier er og hva de skal refle
 
 ![Kategoristruktur og kategorisering - en praktisk tilnærming](/images/Kategorisering - en praktisk tilnærming.png "Kategoristruktur og kategorisering - en praktisk tilnærming")
 
-#### 1. Begynn med kategoristrukturen - hva kjøper dere?
-
-Det første du bør ta stilling til er **hva dere faktisk kjøper inn**. Her må dere vurdere innkjøpet på tvers av hele virksomheten - det vil si alle deres avdelinger, lokasjoner og funksjoner. En kategori skal i utgangspunktet si noe om hva dere kjøper, uavhengig av hvem som kjøper eller hvilket koststed som belastes.
-
-Ikke stup rett ned i detaljene. Start med et overordnet perspektiv og benytt en top-down-tilnærming i utarbeidelsen av kategoristrukturen. Det er enklere å bygge underkategorier, eller mer spesifikke kategorier, når de overordnede kategoriene er på plass. I tillegg kan innkjøpsdataen gi verdifull innsikt i fordelingen av mer findetaljerte underkategorier.
-
-#### 2. Finn ut hvilke innkjøpsdata dere har
+#### 1. Finn ut hvilke innkjøpsdata dere har
 
 Kategoristrukturen baserer seg på innkjøpsdata. På et generelt grunnlag gir mer detaljerte data større mulighetsrom for en bedre kategorisering. Under har vi gjengitt noen av de mest vanlige datakildene:
 
@@ -35,6 +29,12 @@ Datakildene, og detaljgraden i dataen, vil variere fra virksomhet til virksomhet
 Og husk: **Selv data på fakturanivå gir dyp innsikt i innkjøpet ditt!**
 
 ![Eksempel på innkjøpsdata og dataparametre](/images/Innkjøpsdata - eksempel.png "Eksempel på innkjøpsdata og dataparametre")
+
+#### 2. Fortsett med kategoristrukturen - hva kjøper dere?
+
+Det første du bør ta stilling til er **hva dere faktisk kjøper inn**. Her må dere vurdere innkjøpet på tvers av hele virksomheten - det vil si alle deres avdelinger, lokasjoner og funksjoner. En kategori skal i utgangspunktet si noe om hva dere kjøper, uavhengig av hvem som kjøper eller hvilket koststed som belastes.
+
+Ikke stup rett ned i detaljene. Start med et overordnet perspektiv og benytt en top-down-tilnærming i utarbeidelsen av kategoristrukturen. Det er enklere å bygge underkategorier, eller mer spesifikke kategorier, når de overordnede kategoriene er på plass. I tillegg kan innkjøpsdataen gi verdifull innsikt i fordelingen av mer findetaljerte underkategorier.
 
 #### 3. Forstå dataen og kategoriser
 
