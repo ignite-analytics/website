@@ -67,7 +67,7 @@ Gode, digitale og dynamiske verktøy er et «must have» for alle innkjøpsavdel
 
 * Bedre transparens for virksomheten din
 * Automatisk kategorisering av nye data
-* Unngå komplekse formler
+* Økt fleksibilitet og brukervennlighet
 
 Det er fremdeles mange som bruker excel som grunnplattform i både kategoriseringen og analysearbeidet. Vårt råd: **Styr unna!** Excel er et uegnet verktøy over tid, spesielt dersom man har innkjøp av en viss kompleksitet og størrelse. Typiske kjennetegn er komplekse formler og lite transparens, samt at det stiller krav til kompetanse hos brukerne. Alt dette går på bekostning av kapasiteten i en ellers så hektisk hverdag. Løsningen er heller ikke dynamisk eller fleksibel nok til å kunne håndtere en levende kategoristruktur.
 
