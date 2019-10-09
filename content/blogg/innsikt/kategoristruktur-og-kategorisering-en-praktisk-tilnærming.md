@@ -14,7 +14,7 @@ La oss innlede med litt teori om hva innkjøpskategorier er og hva de skal refle
 
 > En innkjøpskategori, eller kategori, inneholder beslektede typer innkjøp knyttet til kjøp av produkter og/eller tjenester. Hver kategori skal med andre ord understøtte markedets inndeling og dermed fortelle noe om innkjøpet og leverandørmarkedet.
 
-![](/images/Kategorisering - Fem praktiske tips_.png)
+![Kategoristruktur og kategorisering - fem praktiske tips](/images/Kategorisering - Fem praktiske tips_.png "Kategoristruktur og kategorisering - fem praktiske tips")
 
 #### 1. Finn ut hvilke innkjøpsdata dere har
 
@@ -36,7 +36,7 @@ Det neste du bør ta stilling til er **hva dere faktisk kjøper inn**. Her må d
 
 Ikke stup rett ned i detaljene. Vår erfaring er at kategoriseristrukturen blir mer helhetlig om man starter overordnet, og selve kategoriseringsjobben blir mer effektiv og presis. Det er enklere å bygge underkategorier, eller mer spesifikke kategorier, når de overordnede kategoriene er på plass. I tillegg kan innkjøpsdataen gi verdifull innsikt i fordelingen av mer findetaljerte kategorier.
 
-![](/images/Kategoristruktur - eksempel-1.png)
+![Eksempel på en kategoristruktur](/images/Kategoristruktur - eksempel-1.png "Eksempel på en kategoristruktur")
 
 #### 3. Forstå dataen og kategoriser
 
@@ -51,7 +51,7 @@ Det finnes flere måter å fordele innkjøpet i de ulike kategoriene («kategori
 
 Det handler altså om å forstå dataen din, og hvordan du kan benytte denne informasjonen til å fordele og kategorisere innkjøpstransaksjonene. I mange tilfeller kan det også være nødvendig å kombinere flere parametre for å fordele kjøpet til en eller flere kategorier.
 
-La oss ta et konkret og forenklet eksempel: 
+La oss ta et konkret og forenklet eksempel:
 
 > Selskapet Facility Services AS kjøper inn varer og tjenester. Alt innkjøp, dvs. alle inngående fakturaer, konteres i regnskapet på to ulike regnskapskontoer; «Cleaning» og «Kantine». Med en forutsetning om at konteringen er tilnærmet riktig/standardisert, kan denne informasjonen brukes til å kategorisere kjøpet. Eksempelvis kan alle Cleaning-transaksjoner fordeles til kategorien «Rengjøringstjenester», og Kantine-transaksjoner fordeles til kategorien «Kantinedrift».
 
