@@ -216,6 +216,22 @@
   
   
   <url>
+    <loc>https://ignite.no/blogg/tag/innkj%C3%B8psdata/</loc>
+    <lastmod>2019-10-08T08:03:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</loc>
+    <lastmod>2019-10-08T08:03:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/blogg/innsikt/</loc>
     <lastmod>2019-10-08T08:03:11+00:00</lastmod>
     <priority>0</priority>
@@ -225,6 +241,14 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/kategorisering/</loc>
+    <lastmod>2019-10-08T08:03:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/kategoristruktur/</loc>
     <lastmod>2019-10-08T08:03:11+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -252,22 +276,6 @@
                 hreflang="no"
                 href="https://ignite.no/tags/"
                 />
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</loc>
-    <lastmod>2019-10-08T08:03:11+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/kategoristruktur/</loc>
-    <lastmod>2019-10-08T08:03:11+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   
