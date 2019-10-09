@@ -2,6 +2,7 @@
 author = "Ignite"
 categories = ["Innsikt"]
 date = "2019-10-08T08:03:11+00:00"
+draft = true
 image = "/images/Kategorisering - Fem praktiske tips.png"
 ingress = "En hensiktsmessig kategoristruktur er grunnmuren for en faktabasert tilnærming til innkjøp. Vi deler noen praktiske tips for hvordan du bør tilnærme deg kategoriseringen."
 showmainimg = false
@@ -19,16 +20,14 @@ La oss innlede med litt teori om hva innkjøpskategorier er og hva de skal refle
 
 Kategoristrukturen baserer seg på innkjøpsdata. På et generelt grunnlag gir mer detaljerte data større mulighetsrom for en bedre kategorisering. Under har vi gjengitt noen av de mest vanlige datakildene:
 
-* **Fakturasystemet:** Alt kjøp - og inngående fakturaer - finnes i fakturasystemet (fullstendighet), og alle virksomheter har data på fakturanivå! For virksomheter som benytter seg av EHF-formatet, bør det også være mulig å hente ut informasjon helt ned på fakturalinjenivå (artikler, enhetspriser og volum).
-* **Regnskapssystemet:** De fleste virksomheter har mulighet til å hente ut innkjøpsdata fra regnskapssystemet. Fordelene er her mange, der eksempelvis informasjon om kontering/regnskapskonto kan komme til nytte i kategoriseringen.
-* **Ordresystemet:** Stadig flere virksomheter har detaljerte data tilgjengelige i sine ordresystem (PO-informasjon). Fordelen her er detaljgraden av dataen, som typisk vil være helt ned på fakturalinjenivå. Utfordringen er fullstendigheten av innkjøpsdataen, siden ikke alle kjøp gjøres gjennom systemet.
-* **Leverandørregisteret:** Inneholder typisk kun masterinformasjon om leverandørene, som for eksempel navn og organisasjonsnummer. Ofte ser vi at èn leverandør har flere unike navn i datagrunnlaget. Denne informasjonen kan altså hjelpe deg med å få «samlet kjøpet» hos en reell leverandør, som er ønskelig for de fleste.
+* **Fakturasystemet**
+* **Regnskapssystemet**
+* **Ordresystemet**
+* **Leverandørregisteret**
 
 Datakildene, og detaljgraden i dataen, vil variere fra virksomhet til virksomhet. Mange kombinerer også gjerne to eller flere kilder for å få mest mulig ut av datagrunnlaget sitt, hvor det eneste som kreves er unike datapunkter mellom kildene.
 
-**Og husk:** Selv data på fakturanivå gir dyp innsikt i innkjøpet ditt!
-
-![Eksempel på innkjøpsdata og dataparametre](/images/Innkjøpsdata - eksempel.png "Eksempel på innkjøpsdata og dataparametre")
+Du kan lese mer om hvordan
 
 #### 2. Fortsett med kategoristrukturen - hva kjøper dere?
 
