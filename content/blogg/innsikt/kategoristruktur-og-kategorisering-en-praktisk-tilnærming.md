@@ -5,7 +5,7 @@ date = "2019-10-08T08:03:11+00:00"
 image = "/images/Kategorisering - Fem praktiske tips.png"
 ingress = "En hensiktsmessig kategoristruktur er grunnmuren for god kategoristyring. Vi deler noen praktisk tips for hvordan du bør tilnærme deg kategoriseringen."
 showmainimg = false
-tags = ["Kategorisering", "Kategoristruktur", "Innkjøpskategori", "Kategoristyring", "Ignite Analytics"]
+tags = ["Kategorisering", "Kategoristruktur", "Innkjøpskategori", "Kategoristyring", "Ignite Analytics", "Innkjøpsdata"]
 title = "Kategoristruktur og kategorisering - fem praktiske tips"
 
 +++
