@@ -10,7 +10,9 @@ tags = ["Innkjøpsdata", "Datakilder", "Dataparametre"]
 title = "Bruk dataen din til å ta gode, faktabaserte beslutninger"
 
 +++
-####  Finn ut hvilke innkjøpsdata dere har
+Vi møter ofte virksomheter som gjerne ønsker mer innsikt i dataen de har, men stopper opp fordi de ikke tror de har tilstrekkelig datakvalitet. 
+
+#### Typiske kilder for innkjøpsdata
 
 Kategoristrukturen baserer seg på innkjøpsdata. På et generelt grunnlag gir mer detaljerte data større mulighetsrom for en bedre kategorisering. Under har vi gjengitt noen av de mest vanlige datakildene:
 
