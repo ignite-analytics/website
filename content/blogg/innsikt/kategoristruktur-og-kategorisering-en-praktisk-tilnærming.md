@@ -61,7 +61,7 @@ Det er ellers viktig å huske på at kategoristrukturen er et «levende dokument
 
 ![Ignite Analytics - kategoristruktur og kategorisering](/images/Ignite Analytics - Kategorisering_2.png "Ignite Analytics - kategoristyring")
 
-#### 5. Bruk dynamiske verktøy - styr unna excel
+#### 5. Bruk digitale verktøy - styr unna excel
 
 Gode, digitale og dynamiske verktøy er et «must have» for alle innkjøpsavdelinger og innkjøpere. Det er flere grunner til at dette lønner seg i forbindelse med kategoriseringen, for eksempel:
 
