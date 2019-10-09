@@ -1,7 +1,7 @@
 +++
 author = "Ignite"
 categories = ["Innsikt"]
-date = "2019-10-08T08:03:11+00:00"
+date = "2019-10-09T08:03:11+00:00"
 draft = true
 image = "/images/Kategorisering - Fem praktiske tips_.png"
 ingress = "En hensiktsmessig kategoristruktur er grunnmuren for en faktabasert tilnærming til innkjøp. Vi deler noen praktiske tips for hvordan du bør tilnærme deg kategoriseringen."
