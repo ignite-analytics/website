@@ -51,7 +51,7 @@ Det handler altså om å forstå dataen din, og hvordan du kan benytte denne inf
 
 La oss ta et konkret eksempel: 
 
-> DSD
+> Selskapet Facility Services AS kjøper inn varer og tjenester
 
 #### 4. Vær pragmatisk og gjør løpende tilpasninger
 
