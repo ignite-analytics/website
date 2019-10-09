@@ -25,8 +25,6 @@ Kategoristrukturen baserer seg på innkjøpsdata. På et generelt grunnlag gir m
 * **Leverandørregisteret**
 * **Andre kilder (f.eks. driftsrelaterte data)**
 
-Datakildene, og detaljgraden i dataen, vil variere fra virksomhet til virksomhet. Mange kombinerer også gjerne to eller flere kilder for å få mest mulig ut av datagrunnlaget sitt, hvor det eneste som kreves er unike datapunkter mellom kildene.
-
 Du kan lese mer om typiske kilder for innkjøpsdata [her](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Typiske kilder for innkjøpsdata").
 
 #### 2. Fortsett med kategoristrukturen - hva kjøper dere?
