@@ -21,11 +21,11 @@ Innkjøpsanalyser og [kategoristrukturen](https://www.ignite.no/blogg/innsikt/ka
 * **Regnskapssystemet:** De fleste virksomheter har mulighet til å hente ut, eller berike, innkjøpsdata fra regnskapssystemet. Fordelene er her mange, der eksempelvis informasjon om kontering/regnskapskonto kan komme til nytte i [kategoriseringen](https://www.ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/ "Kategoristruktur og kategorisering").
 * **Ordresystemet:** Stadig flere virksomheter har data tilgjengelige i sine ordresystem (PO-informasjon). Fordelen her er detaljgraden av dataen, som typisk vil være helt ned på fakturalinjenivå. Utfordringen er fullstendigheten av innkjøpsdataen, siden ikke alt kjøp gjøres gjennom systemet.
 * **Leverandørregisteret:** Inneholder typisk kun masterinformasjon om leverandørene, som for eksempel navn og organisasjonsnummer. Ofte ser vi at èn leverandør har flere unike navn i datagrunnlaget. Denne informasjonen kan altså hjelpe deg med å få «samlet kjøpet» hos en reell leverandør, som er ønskelig for de fleste.
-* **Andre kilder:** Det samles stadig mer data i takt med et økende fokus på digitalisering. Dette betyr at det finnes flere andre datakilder som kan berike verdien av innkjøpsdataen fra kildene nevnt over. Eksempel på dette kan være salgsdata og driftsrelaterte data, der eksempelvis kvadratmeter per bygning kan gi nyttig informasjon til benchmarking.
+* **Andre kilder:** Det samles stadig mer data i takt med et økende fokus på digitalisering. Dette betyr at det finnes flere andre datakilder som kan berike verdien av innkjøpsdataen fra kildene nevnt over. Eksempel på dette kan være salgsdata og driftsrelaterte data, der eksempelvis kvadratmeter per bygning kan gi nyttig informasjon til benchmarkingsformål.
 
 Datakildene, og detaljgraden i dataen, vil variere fra virksomhet til virksomhet. Mange kombinerer også gjerne to eller flere kilder for å få mest mulig ut av datagrunnlaget sitt, hvor det eneste som kreves er unike datapunkter mellom kildene.
 
-Et lite tips til de som tviler på sin egen datakvalitet: Det er bedre å bruke den informasjonen man har, enn å ikke bruke noe i det hele tatt! I tillegg vil denne innsikten kunne belyse eventuelle datamangler for å initiere systematiske tiltak for å forbedre kvaliteten.
+**Et lite tips på tampen**: Det er bedre å bruke den informasjonen man har, enn å ikke bruke noe i det hele tatt! I tillegg vil denne innsikten kunne belyse eventuelle datamangler for å initiere systematiske tiltak for å forbedre kvaliteten.
 
 ***
 
