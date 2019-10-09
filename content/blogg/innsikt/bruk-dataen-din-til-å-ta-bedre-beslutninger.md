@@ -1,8 +1,7 @@
 +++
 author = "Ignite"
 categories = ["Innsikt"]
-date = "2019-10-09T09:05:03+00:00"
-draft = true
+date = "2019-10-08T09:05:03+00:00"
 image = "/images/Innkjøpsdata - eksempel.png"
 ingress = "Du kan få mer ut av dataen din enn du tror! I dette innlegget ser vi nærmere på de mest vanlige kildene for innkjøpsdata."
 showmainimg = false
@@ -11,6 +10,8 @@ title = "Bruk dataen din til å ta gode, faktabaserte beslutninger"
 
 +++
 Vi møter ofte virksomheter som gjerne ønsker mer innsikt i dataen de har, men stopper opp fordi de ikke tror de har tilstrekkelig datakvalitet. Våre erfaringer tilsier at selv begrenset data gir dyp innsikt i innkjøpet ditt!
+
+![Eksempel på innkjøpsdata og dataparametre](/images/Innkjøpsdata - eksempel.png "Eksempel på innkjøpsdata og dataparametre")
 
 #### Typiske kilder for innkjøpsdata
 
