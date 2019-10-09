@@ -49,6 +49,8 @@ Det finnes flere måter å fordele innkjøpet i de ulike kategoriene («kategori
 
 Det handler altså om å forstå dataen din, og hvordan du kan benytte denne informasjonen til å fordele og kategorisere innkjøpstransaksjonene. I mange tilfeller kan det også være nødvendig å kombinere flere parametre for å fordele kjøpet til en eller flere kategorier.
 
+La oss ta et konkret eksempel: 
+
 #### 4. Vær pragmatisk og gjør løpende tilpasninger
 
 I en perfekt verden skal en kategori på det laveste nivået tilsvare et unikt leverandørmarked. En kategoristruktur vil heldigvis aldri være 100% perfekt. For de fleste virksomheter vil derfor **80/20-regelen** være en veldig god og pragmatisk rettesnor. Og kanskje spesielt dersom du skal bygge strukturen fra bunnen av.
