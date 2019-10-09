@@ -10,7 +10,7 @@ tags = ["Innkjøpsdata", "Datakilder", "Dataparametre"]
 title = "Bruk dataen din til å ta gode, faktabaserte beslutninger"
 
 +++
-Vi møter ofte virksomheter som gjerne ønsker mer innsikt i dataen de har, men stopper opp fordi de ikke tror de har tilstrekkelig datakvalitet. 
+Vi møter ofte virksomheter som gjerne ønsker mer innsikt i dataen de har, men stopper opp fordi de ikke tror de har tilstrekkelig datakvalitet. Våre erfaringer tilsier at selv begrenset data gir dyp innsikt i innkjøpet ditt!
 
 #### Typiske kilder for innkjøpsdata
 
