@@ -3,11 +3,11 @@ author = "Ignite"
 categories = ["Innsikt"]
 date = "2019-10-09T09:05:03+00:00"
 draft = true
-image = ""
-ingress = "Du kan få mer ut av dataen din en du tror"
+image = "/images/Innkjøpsdata - eksempel.png"
+ingress = "Du kan få mer ut av dataen din enn du tror! I dette innlegget ser vi nærmere på de mest vanlige kildene for innkjøpsdata."
 showmainimg = false
-tags = []
-title = "Bruk dataen din til å ta gode, faktabaserte beslutninger!"
+tags = ["Innkjøpsdata", "Datakilder", "Dataparametre"]
+title = "Bruk dataen din til å ta gode, faktabaserte beslutninger"
 
 +++
 ####  Finn ut hvilke innkjøpsdata dere har
