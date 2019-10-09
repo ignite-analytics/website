@@ -63,7 +63,11 @@ Det er ellers viktig å huske på at kategoristrukturen er et «levende dokument
 
 #### 5. Bruk dynamiske verktøy - styr unna excel
 
-Gode verktøy 
+Gode, digitale og dynamiske verktøy er et «must have» for alle innkjøpsavdelinger og innkjøpere. Det er flere grunner til at dette lønner seg i forbindelse med kategoriseringen, for eksempel:
+
+* Bedre transparens for virksomheten din
+* Automatisk kategorisering av nye data
+* Unngå komplekse formler
 
 Det er fremdeles mange som bruker excel som grunnplattform i både kategoriseringen og analysearbeidet. Vårt råd: **Styr unna!** Dette er en tidstyv som stjeler kapasitet, og gir unødvendige hodepiner, i en ellers så hektisk hverdag. Løsningen er heller ikke dynamisk eller fleksibel nok til å kunne håndtere en levende kategoristruktur.
 
