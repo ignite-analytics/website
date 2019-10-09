@@ -11,7 +11,7 @@ title = "Kategoristruktur og kategorisering - noen praktiske tips"
 +++
 La oss innlede med litt teori om hva innkjøpskategorier er og hva de skal reflektere:
 
-> En innkjøpskategori, eller kategori, inneholder beslektede typer innkjøp knyttet til kjøp av produkter og/eller tjenester. Hver kategori skal med andre ord understøtte markedets inndeling og dermed fortelle noe om innkjøpet og leverandørmarkedet. 
+> En innkjøpskategori, eller kategori, inneholder beslektede typer innkjøp knyttet til kjøp av produkter og/eller tjenester. Hver kategori skal med andre ord understøtte markedets inndeling og dermed fortelle noe om innkjøpet og leverandørmarkedet.
 
 ![Kategoristruktur og kategorisering - en praktisk tilnærming](/images/Kategorisering - en praktisk tilnærming.png "Kategoristruktur og kategorisering - en praktisk tilnærming")
 
@@ -57,9 +57,9 @@ Det er ellers viktig å huske på at kategoristrukturen er et «levende dokument
 
 ![Ignite Analytics - kategoristruktur og kategorisering](/images/Ignite Analytics - Kategorisering_2.png "Ignite Analytics - kategoristyring")
 
-#### 5. Bruk dynamiske verktøy - styr unna excel og BI
+#### 5. Bruk dynamiske verktøy - styr unna excel
 
-Det er fremdeles mange som bruker excel eller BI-løsninger som grunnplattformer i både kategoriseringen og analysearbeidet. Vårt råd: **Styr unna!** Dette er tidstyver som stjeler kapasitet, og gir unødvendige hodepiner, i en ellers så hektisk hverdag. Løsningene er heller ikke dynamiske eller fleksible nok til å kunne håndtere en levende kategoristruktur.
+Det er fremdeles mange som bruker excel som grunnplattform i både kategoriseringen og analysearbeidet. Vårt råd: **Styr unna!** Dette er en tidstyv som stjeler kapasitet, og gir unødvendige hodepiner, i en ellers så hektisk hverdag. Løsningen er heller ikke dynamisk eller fleksibel nok til å kunne håndtere en levende kategoristruktur.
 
 **Lykke til!** Og ikke glem at kategoristrukturen er en forutsetning for [god kategoristyring](https://www.ignite.no/blogg/innsikt/en-praktisk-tiln%C3%A6rming-til-kategoristyring/ "Kategoristyring").
 
