@@ -9,7 +9,7 @@ tags = ["Innkjøpsdata", "Datakilder", "Dataparametre"]
 title = "Bruk dataen din til å ta gode, faktabaserte beslutninger"
 
 +++
-Vi møter ofte virksomheter som gjerne ønsker mer innsikt i dataen de har, men stopper opp fordi de ikke tror de har tilstrekkelig datakvalitet. Våre erfaringer tilsier at selv begrenset data gir dyp innsikt i innkjøpet ditt!
+Vi møter ofte virksomheter som gjerne ønsker mer innsikt i dataen de har, men stopper opp fordi de ikke tror de har tilstrekkelig datakvalitet. Våre erfaringer tilsier at selv begrenset data gir dyp innsikt i innkjøpet ditt! 
 
 ![Eksempel på innkjøpsdata og dataparametre](/images/Innkjøpsdata - eksempel.png "Eksempel på innkjøpsdata og dataparametre")
 
@@ -25,5 +25,3 @@ Kategoristrukturen baserer seg på innkjøpsdata. På et generelt grunnlag gir m
 Datakildene, og detaljgraden i dataen, vil variere fra virksomhet til virksomhet. Mange kombinerer også gjerne to eller flere kilder for å få mest mulig ut av datagrunnlaget sitt, hvor det eneste som kreves er unike datapunkter mellom kildene.
 
 **Og husk:** Selv data på fakturanivå gir dyp innsikt i innkjøpet ditt!
-
-![Eksempel på innkjøpsdata og dataparametre](/images/Innkjøpsdata - eksempel.png "Eksempel på innkjøpsdata og dataparametre")
