@@ -6,7 +6,7 @@ image = "/images/Kategorisering - en praktisk tilnærming.png"
 ingress = "En hensiktsmessig kategoristruktur er grunnmuren for god kategoristyring. Vi deler noen praktisk tips for hvordan du bør tilnærme deg kategoriseringen."
 showmainimg = false
 tags = ["Kategorisering", "Kategoristruktur", "Innkjøpskategori", "Kategoristyring", "Ignite Analytics"]
-title = "Kategoristruktur og kategorisering - noen praktiske tips"
+title = "Kategoristruktur og kategorisering - fem praktiske tips"
 
 +++
 La oss innlede med litt teori om hva innkjøpskategorier er og hva de skal reflektere:
