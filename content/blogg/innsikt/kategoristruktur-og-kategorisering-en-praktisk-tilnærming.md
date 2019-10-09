@@ -51,7 +51,9 @@ Det handler altså om å forstå dataen din, og hvordan du kan benytte denne inf
 
 La oss ta et konkret eksempel: 
 
-> Selskapet Facility Services AS kjøper inn varer og tjenester
+> Selskapet Facility Services AS kjøper inn varer og tjenester. Alt innkjøp, dvs. alle inngående fakturaer, konteres i regnskapet på to ulike regnskapskontoer; Cleaning og Kantine. Under forutsetning av at kontobruken er tilnærmet
+>
+> «kategoriseringsregler»
 
 #### 4. Vær pragmatisk og gjør løpende tilpasninger
 
