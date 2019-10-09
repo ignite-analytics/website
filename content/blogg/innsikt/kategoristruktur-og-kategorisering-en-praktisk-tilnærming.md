@@ -49,7 +49,7 @@ Det finnes flere måter å fordele innkjøpet i de ulike kategoriene («kategori
 
 Det handler altså om å forstå dataen din, og hvordan du kan benytte denne informasjonen til å fordele og kategorisere innkjøpstransaksjonene. I mange tilfeller kan det også være nødvendig å kombinere flere parametre for å fordele kjøpet til en eller flere kategorier.
 
-La oss ta et konkret eksempel: 
+La oss ta et konkret og forenklet eksempel: 
 
 > Selskapet Facility Services AS kjøper inn varer og tjenester. Alt innkjøp, dvs. alle inngående fakturaer, konteres i regnskapet på to ulike regnskapskontoer; «Cleaning» og «Kantine». Med en forutsetning om at konteringen er tilnærmet riktig/standardisert, kan denne informasjonen brukes til å kategorisere kjøpet. Eksempelvis kan alle Cleaning-transaksjoner fordeles til kategorien «Rengjøringstjenester», og Kantine-transaksjoner til kategori «Kantinedrift».
 
