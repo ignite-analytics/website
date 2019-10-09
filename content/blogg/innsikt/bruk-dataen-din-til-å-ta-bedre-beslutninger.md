@@ -15,7 +15,7 @@ Vi møter ofte virksomheter som gjerne ønsker mer innsikt i dataen de har, men 
 
 #### Typiske kilder for innkjøpsdata
 
-Innkjøpsanalyser og [kategoristrukturen](https://www.ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/ "Kategoristruktur og kategorisering") baserer seg på data. På et generelt grunnlag gir mer detaljerte data større mulighetsrom for bedre innsikt. Under har vi gjengitt noen av de mest vanlige datakildene:
+Innkjøpsanalyser og [kategoristrukturen](https://www.ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/ "Kategoristruktur og kategorisering") baserer seg på data. På et generelt grunnlag gir mer detaljerte data større mulighetsrom for bedre innsikt. Nedenfor har vi gjengitt noen av de mest vanlige datakildene:
 
 * **Fakturasystemet:** Alt kjøp - og inngående fakturaer - finnes i fakturasystemet (fullstendighet). Og alle virksomheter har data på fakturanivå! For virksomheter som benytter seg av EHF-formatet, bør det også være mulig å hente ut informasjon helt ned på fakturalinjenivå (artikler, enhetspriser og volum).
 * **Regnskapssystemet:** De fleste virksomheter har mulighet til å hente ut, eller berike, innkjøpsdata fra regnskapssystemet. Fordelene er her mange, der eksempelvis informasjon om kontering/regnskapskonto kan komme til nytte i [kategoriseringen](https://www.ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/ "Kategoristruktur og kategorisering").
