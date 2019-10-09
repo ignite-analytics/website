@@ -9,7 +9,7 @@ tags = ["Innkjøpsdata", "Datakilder", "Dataparametre"]
 title = "Bruk dataen din til å ta gode, faktabaserte beslutninger"
 
 +++
-Vi møter ofte virksomheter som gjerne ønsker mer innsikt i dataen de har, men stopper opp fordi de ikke tror de har tilstrekkelig datakvalitet. Men alle virksomheter har som minimum data på fakturanivå. Våre erfaringer tilsier at selv begrenset data gir dyp innsikt i innkjøpet ditt! 
+Vi møter ofte virksomheter som gjerne ønsker mer innsikt i dataen de har, men stopper opp fordi de ikke tror de har tilstrekkelig datakvalitet. Men alle virksomheter har som minimum data på fakturanivå. Og våre erfaringer tilsier at selv «begrenset» data gir dyp innsikt i innkjøpet ditt!
 
 ![Eksempel på innkjøpsdata og dataparametre](/images/Innkjøpsdata - eksempel.png "Eksempel på innkjøpsdata og dataparametre")
 
