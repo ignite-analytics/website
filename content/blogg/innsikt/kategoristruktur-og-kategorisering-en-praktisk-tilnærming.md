@@ -2,7 +2,7 @@
 author = "Ignite"
 categories = ["Innsikt"]
 date = "2019-10-08T08:03:11+00:00"
-image = "/images/Kategorisering - en praktisk tilnærming.png"
+image = "/images/Kategorisering - Fem praktiske tips.png"
 ingress = "En hensiktsmessig kategoristruktur er grunnmuren for god kategoristyring. Vi deler noen praktisk tips for hvordan du bør tilnærme deg kategoriseringen."
 showmainimg = false
 tags = ["Kategorisering", "Kategoristruktur", "Innkjøpskategori", "Kategoristyring", "Ignite Analytics"]
@@ -13,7 +13,7 @@ La oss innlede med litt teori om hva innkjøpskategorier er og hva de skal refle
 
 > En innkjøpskategori, eller kategori, inneholder beslektede typer innkjøp knyttet til kjøp av produkter og/eller tjenester. Hver kategori skal med andre ord understøtte markedets inndeling og dermed fortelle noe om innkjøpet og leverandørmarkedet.
 
-![Kategoristruktur og kategorisering - en praktisk tilnærming](/images/Kategorisering - en praktisk tilnærming.png "Kategoristruktur og kategorisering - en praktisk tilnærming")
+![](/images/Kategorisering - Fem praktiske tips.png)
 
 #### 1. Finn ut hvilke innkjøpsdata dere har
 
