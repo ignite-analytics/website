@@ -7,7 +7,7 @@ image = ""
 ingress = ""
 showmainimg = false
 tags = []
-title = "Bruk dataen din til å ta bedre beslutninger!"
+title = "Bruk dataen din til å ta bedre, faktabaserte beslutninger!"
 
 +++
 ####  Finn ut hvilke innkjøpsdata dere har
