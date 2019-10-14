@@ -3,16 +3,14 @@ title: Selected Customers
 date: 2019-02-20T09:56:46.000+00:00
 hidden: true
 customers:
-- logo: "/images/Felleskjøpet.png"
-  title: Felleskjøpet
-- logo: ''
-  title: ''
 - logo: "/images/customers/obos.png"
   title: Obos
 - logo: "/images/customers/af-gruppen.svg"
   title: AF Gruppen
 - logo: "/images/customers/autostore.png"
   title: Autostore
+- logo: "/images/Felleskjøpet.png"
+  title: Felleskjøpet
 - logo: "/images/customers/OPTIMAR.png"
   title: Optimar
 - logo: "/images/customers/Implenia_logo.png"
@@ -23,6 +21,8 @@ customers:
   title: Kruse Smith
 - logo: "/images/customers/bergene-holm.png"
   title: Bergene Holm
+- logo: "/images/Miljødirektoratet.png"
+  title: Miljødirektoratet
 - logo: "/images/customers/levanger.png"
   title: Levanger
 - logo: "/images/customers/inderøy.png"
