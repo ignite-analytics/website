@@ -4,8 +4,6 @@ date: 2019-02-20T09:56:46.000+00:00
 hidden: true
 key: trust
 customers:
-- logo: "/images/Miljødirektoratet.png"
-  title: Miljødirektoratet
 - logo: "/images/customers/obos.png"
   title: Obos
 - logo: "/images/customers/af-gruppen.svg"
@@ -28,6 +26,8 @@ customers:
   title: Levanger
 - logo: "/images/customers/verdal.png"
   title: Verdal
+- logo: "/images/Miljødirektoratet.png"
+  title: Miljødirektoratet
 - logo: "/images/customers/inderøy.png"
   title: Inderøy
 - logo: "/images/customers/steinkjer.png"
