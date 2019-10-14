@@ -8,6 +8,10 @@ customers:
   title: Obos
 - logo: "/images/customers/af-gruppen.svg"
   title: AF Gruppen
+- logo: "/images/Felleskjøpet.png"
+  title: Felleskjøpet
+- logo: "/images/Miljødirektoratet.png"
+  title: Miljødirektoratet
 - logo: "/images/customers/autostore.png"
   title: Autostore
 - logo: "/images/customers/OPTIMAR.png"
