@@ -29,6 +29,6 @@ Datakildene, og detaljgraden i dataen, vil variere fra virksomhet til virksomhet
 
 ***
 
-_Ignite Analytics legger til rette for en datadrevet tilnærming for hele den strategiske innkjøpsprosessen. Oppdag kraften i strategisk innkjøp gjort digitalt!_
+_Ignite Analytics legger til rette for en datadrevet tilnærming for hele den strategiske innkjøpsprosessen, og håndterer alle typer innkjøpsdata og dataparametre. Oppdag kraften i strategisk innkjøp gjort digitalt!_
 
 [![](https://www.ignite.no/images/Pr%C3%B8v%20Ignite%20Analytics%20-%201200%20x100.png)](https://www.ignite.no/ignite-analytics/demo/ "Prøv Ignite Analytics")
