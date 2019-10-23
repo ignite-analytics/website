@@ -3,8 +3,6 @@ title: Selected Customers
 date: 2019-02-20T09:56:46.000+00:00
 hidden: true
 customers:
-- logo: "/images/Gumpen-Gruppen.png"
-  title: Gumpen Gruppen
 - logo: "/images/customers/obos.png"
   title: Obos
 - logo: "/images/customers/af-gruppen.svg"
@@ -39,6 +37,8 @@ customers:
   title: Verdal
 - logo: "/images/DC-Resources-Norway.png"
   title: DC Resources Norway
+- logo: "/images/Gumpen-Gruppen.png"
+  title: Gumpen Gruppen
 - logo: "/images/customers/eqt.svg"
   title: EQT
 - logo: "/images/customers/con-form.png"
