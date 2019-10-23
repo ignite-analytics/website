@@ -37,7 +37,7 @@ customers:
   title: Verdal
 - logo: "/images/DC-Resources-Norway.png"
   title: DC Resources Norway
-- logo: "/images/Gumpen-Gruppen.png"
+- logo: "/images/Gumpen-Gruppen.PNG"
   title: Gumpen Gruppen
 - logo: "/images/customers/eqt.svg"
   title: EQT
