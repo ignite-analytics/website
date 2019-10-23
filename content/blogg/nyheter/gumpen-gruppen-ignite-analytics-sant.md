@@ -2,7 +2,6 @@
 author = "Ignite"
 categories = ["Nyheter"]
 date = "2019-10-23T07:17:53+00:00"
-draft = true
 image = "/images/Gumpen Gruppen.png"
 ingress = "Vi er stolte over å meddele at Gumpen Gruppen har inngått en avtale for bruken av Ignite Analytics - vår unike løsning for strategisk innkjøp."
 showmainimg = false
