@@ -45,7 +45,6 @@ Du kan lese mer om reforhandling som et strategisk virkemiddel [her](https://www
 * Kravspesifisering sammen med brukerne
 * Introdusere nye leverandører og utvide leverandørbase geografisk
 * Vurdere større bestillingsvolum, ulike leveringsbetingelser og kontraktslengde
-* Et mye brukt virkemiddel i offentlige virksomheter som følge av lovbestemt krav
 
 ##### Bundling
 
