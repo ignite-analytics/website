@@ -21,7 +21,7 @@ For å kunne implementere gode virkemidler, er det viktig å forstå hva som fak
 
 ![Kartlegging av kostnadsdriverne](/images/Kostnadsdrivere_.png "Kartlegging av kostnadsdriverne")
 
-Merk at virkemidlene, eller tiltakene, vil kunne påvirke flere kostnadsdrivere, da det ikke er et naturlig skille mellom virkemidlene og driverne. Eksempelvis kan en forespørselsprosess kunne bidra til lavere enhetspriser og standardisering av produkter på tvers av virksomheten etter innspill/dialog med leverandørene.
+Merk at virkemidlene, eller tiltakene, vil kunne påvirke flere kostnadsdrivere, da det ikke er et naturlig skille mellom virkemidlene og driverne. Eksempelvis kan en forespørselsprosess kunne bidra til lavere enhetspriser og standardisering av produkter på tvers av virksomheten etter innspill fra leverandørmarkedet.
 
 ### Virkemidler for å redusere innkjøpskostnadene
 
