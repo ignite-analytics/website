@@ -42,6 +42,7 @@ Du kan lese mer om reforhandling som et strategisk virkemiddel [her](https://www
 ##### Forespørselsprosess (konkurransegjennomføring)
 
 * Konkurranseutsette nåværende og/eller fremtidig volum (RFx)
+* Kravspesifisering sammen med brukerne
 * Introdusere nye leverandører og utvide leverandørbase geografisk
 * Vurdere større bestillingsvolum, ulike leveringsbetingelser og kontraktslengde
 * Et mye brukt virkemiddel i offentlige virksomheter som følge av lovbestemt krav
@@ -53,9 +54,9 @@ Du kan lese mer om reforhandling som et strategisk virkemiddel [her](https://www
 
 Du kan lese mer om hvordan bruke bundling til å redusere innkjøpskostnadene [her]().
 
-##### Bundling
+##### Forbedre spesifikasjoner
 
-* Bundle kontrakter: Sikre standardiserte avtalevilkår med samme leverandør på tvers av virksomheten
+* Standardisering av kravspesifikasjonerBundle kontrakter: Sikre standardiserte avtalevilkår med samme leverandør på tvers av virksomheten
 
 ***
 
