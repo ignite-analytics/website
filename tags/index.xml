@@ -39,15 +39,6 @@
     </item>
     
     <item>
-      <title>Innkjøpskategori</title>
-      <link>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</link>
-      <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kategorisering</title>
       <link>https://ignite.no/blogg/tag/kategorisering/</link>
       <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
@@ -57,7 +48,16 @@
     </item>
     
     <item>
-      <title>Kategoristruktur</title>
+      <title>innkjøpskategori</title>
+      <link>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</link>
+      <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kategoristruktur</title>
       <link>https://ignite.no/blogg/tag/kategoristruktur/</link>
       <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
       
@@ -183,20 +183,20 @@
     </item>
     
     <item>
-      <title>Kompetanse</title>
-      <link>https://ignite.no/blogg/tag/kompetanse/</link>
-      <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/kompetanse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Teknologi</title>
       <link>https://ignite.no/blogg/tag/teknologi/</link>
       <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/teknologi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kompetanse</title>
+      <link>https://ignite.no/blogg/tag/kompetanse/</link>
+      <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/kompetanse/</guid>
       <description></description>
     </item>
     
@@ -210,7 +210,7 @@
     </item>
     
     <item>
-      <title>Platform engineers</title>
+      <title>Platform Engineers</title>
       <link>https://ignite.no/blogg/tag/platform-engineers/</link>
       <pubDate>Mon, 23 Sep 2019 11:40:08 +0000</pubDate>
       
@@ -417,20 +417,20 @@
     </item>
     
     <item>
+      <title>Avtalestyring</title>
+      <link>https://ignite.no/blogg/tag/avtalestyring/</link>
+      <pubDate>Wed, 07 Aug 2019 12:03:41 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/avtalestyring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kontraktsoppfølging</title>
       <link>https://ignite.no/blogg/tag/kontraktsoppf%C3%B8lging/</link>
       <pubDate>Wed, 07 Aug 2019 12:03:41 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/kontraktsoppf%C3%B8lging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>avtalestyring</title>
-      <link>https://ignite.no/blogg/tag/avtalestyring/</link>
-      <pubDate>Wed, 07 Aug 2019 12:03:41 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/avtalestyring/</guid>
       <description></description>
     </item>
     
