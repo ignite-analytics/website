@@ -22,7 +22,7 @@ For å kunne implementere gode virkemidler, er det viktig å forstå hva som fak
 
 ![Kartlegging av kostnadsdrivere](/images/Kostnadsdrivere.png "Kartlegging av kostnadsdrivere")
 
-D
+Virk
 
 ![8 virkemidler for å redusere innkjøpskostnadene](/images/Innkjøpsvirkemidler_.png "Innkjøpsvirkemidler")
 
