@@ -26,7 +26,7 @@ I dette innlegget har vi fokusert på virkemidler som i hovedsak adresserer enhe
 
 #### Virkemidler for å redusere innkjøpskostnadene
 
-Valg av innkjøpsvirkemidler er en sentral del av en helhetlig tilnærming til strategisk innkjøp, hvor det basert på kunnskap om markedet og egen innkjøpsdata tas faktabaserte beslutninger om hvordan best tilnærme seg en kategori.
+Valg av innkjøpsvirkemidler er en sentral del av en helhetlig tilnærming til strategisk innkjøp, hvor det basert på kunnskap om markedet og egen innkjøpsdata tas faktabaserte beslutninger om hvordan [best tilnærme seg en kategori](https://www.ignite.no/blogg/innsikt/en-praktisk-tiln%C3%A6rming-til-kategoristyring/ "En praktisk tilnærming til kategoristyring").
 
 De 8 virkemidlene deles typisk inn i to overordnede grupper; **kommersielle** og **prosessuelle**. Nedenfor har vi listet opp noen typiske kjennetegn, samt sentrale vurderingsmomenter, for de ulike virkemidlene.
 
