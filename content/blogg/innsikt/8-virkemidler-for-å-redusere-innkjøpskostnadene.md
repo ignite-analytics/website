@@ -19,7 +19,7 @@ For å kunne implementere gode virkemidler, er det viktig å forstå hva som fak
 * **Produktivitet**: Er den optimalisert?
 * **Enhetskostnader**: Betaler vi riktig pris?
 
-![Kartlegging av kostnadsdrivere](/images/Kostnadsdrivere.png "Kartlegging av kostnadsdrivere")
+![Kartlegging av kostnadsdriverne](/images/Kostnadsdrivere_.png "Kartlegging av kostnadsdriverne")
 
 Merk at virkemidlene, eller tiltakene, vil kunne påvirke flere kostnadsdrivere, da det ikke er et naturlig skille mellom virkemidlene og driverne. 
 
