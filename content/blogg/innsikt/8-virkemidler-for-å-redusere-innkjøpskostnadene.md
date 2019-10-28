@@ -39,7 +39,7 @@ De 8 virkemidlene deles typisk inn i to overordnede grupper; **kommersielle** og
 
 Du kan lese mer om reforhandling som et strategisk virkemiddel [her](https://www.ignite.no/blogg/cases/reforhandling-et-undervurdert-strategisk-virkemiddel/ "Reforhandling - et undervurdert strategisk virkemiddel?").
 
-##### Forespørselsprosess (Konkurransegjennomføring)
+##### Forespørselsprosess (konkurransegjennomføring)
 
 * Konkurranseutsette nåværende og/eller fremtidig volum (RFx)
 * Introdusere nye leverandører og utvide leverandørbase geografisk
