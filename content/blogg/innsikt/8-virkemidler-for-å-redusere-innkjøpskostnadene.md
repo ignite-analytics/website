@@ -23,7 +23,7 @@ Merk at virkemidlene, eller tiltakene, vil kunne påvirke flere av kostnadsdrive
 
 ### Virkemidler for å redusere innkjøpskostnadene
 
-De 8 virkemidlene deles typisk inn i to overordnede grupper; **kommersielle** og **prosessuelle**. Nedenfor har vi listet opp noen typiske kjennetegn, samt sentrale vurderingsmomenter, for de ulike virkemidlene.
+De åtte virkemidlene deles typisk inn i to overordnede grupper; **kommersielle** og **prosessuelle**. Nedenfor har vi listet opp noen typiske kjennetegn, samt sentrale vurderingsmomenter, for de ulike virkemidlene.
 
 #### 1. Reforhandling
 
