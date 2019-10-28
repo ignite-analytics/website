@@ -13,11 +13,9 @@ title = "8 virkemidler for å redusere innkjøpskostnadene"
 
 ### Kartlegging av kostnadsdriverne
 
-For å kunne implementere gode virkemidler, er det viktig å forstå hva som faktisk driver kostnadene. Vi benytter ofte følgende tilnærming for å analysere kostnadsdriverne, der kostnadene er en tenkt funksjon av:
+For å kunne implementere gode virkemidler, er det viktig å forstå hva som faktisk driver kostnadene. Følgende tilnærming kan være hensiktsmessig for å analysere kostnadsdriverne, der kostnadene er en tenkt funksjon av:
 
-* **Aktivitet**: Er aktiviteten nødvendig?
-* **Produktivitet**: Er den optimalisert?
-* **Enhetskostnader**: Betaler vi riktig pris?
+> **Aktivitetene** vi gjør, **produktiviteten** vi utfører disse med, samt **enhetskostnadene** på varene og tjenestene som inngår i disse aktivitetene.
 
 ![Kartlegging av kostnadsdriverne](/images/Kostnadsdrivere_.png "Kartlegging av kostnadsdriverne")
 
