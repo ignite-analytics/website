@@ -76,6 +76,11 @@ Du kan lese mer om hvordan bruke bundling til å redusere innkjøpskostnadene [h
 * Vurdere e-handelsløsninger og automatisering av innkjøp for å effektivisere prosessen
 * Effektivisere lagerstyringen
 
+##### Redefinere verdikjeden
+
+* Fjerne unødvendige mellomledd i verdikjeden som ikke skaper merverdi
+* Vurdere e-handelsløsninger og a
+
 ***
 
 _Ignite Analytics hjelper deg med å spare tid og forbedre lønnsomheten for din virksomhet. Oppdag kraften i strategisk innkjøp gjort digitalt!_
