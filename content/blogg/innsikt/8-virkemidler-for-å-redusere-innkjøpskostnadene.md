@@ -37,7 +37,12 @@ De 8 virkemidlene deles typisk inn i to overordnede grupper; **kommersielle** og
 * Fremforhandle bedre betingelser enn dagens avtalevilkår hos nåværende leverandører, med fokus på lavere priser
 * Vurdere avtaleforlengelse mot bedre prisbetingelser
 
-Du kan lese mer om reforhandling i dette innlegget.
+Du kan lese mer om reforhandling som et strategisk virkemiddel [her](https://www.ignite.no/blogg/cases/reforhandling-et-undervurdert-strategisk-virkemiddel/ "Reforhandling - et undervurdert strategisk virkemiddel?").
+
+##### Forespørselsprosess (Konkurransegjennomføring)
+
+* Et mye brukt virkemiddel i offentlige virksomheter, som følge av lovbestemt
+* Fremforhandle bedre betingelser enn dagens avtalevilkår hos nåværende leverandører, med fokus på lavere priser
 
 ***
 
