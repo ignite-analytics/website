@@ -71,9 +71,9 @@ Du kan lese mer om hvordan bruke bundling til å redusere innkjøpskostnadene [h
 * Vurdere e-handelsløsninger og automatisering av innkjøp for å effektivisere prosessen
 * Effektivisere lagerstyringen
 
-##### Redefinere verdikjeden
+##### Insourcing / outsourcing (Make or buy)
 
-* Fjerne unødvendige mellomledd i verdikjeden som ikke skaper merverdi
+* Analysere kostnadene ved insourcing 
 * Vurdere e-handelsløsninger og a
 
 ***
