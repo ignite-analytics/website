@@ -28,7 +28,7 @@ I dette innlegget har vi fokusert på virkemidler som i hovedsak adresserer enhe
 
 Valg av innkjøpsvirkemidler er en sentral del av en helhetlig tilnærming til strategisk innkjøp, hvor det basert på kunnskap om markedet og egen innkjøpsdata tas faktabaserte beslutninger om hvordan best tilnærme seg en kategori.
 
-De 8 virkemidlene deles typisk inn i to overordnede grupper; **kommersielle** og **prosessuelle**. Nedenfor har vi listet opp noen sentrale momenter som typisk kjennetegner de ulike virkemidlene.
+De 8 virkemidlene deles typisk inn i to overordnede grupper; **kommersielle** og **prosessuelle**. Nedenfor har vi listet opp noen typiske kjennetegn, samt sentrale vurderingsmomenter, for de ulike virkemidlene.
 
 ![8 virkemidler for å redusere innkjøpskostnadene](/images/Innkjøpsvirkemidler_.png "Innkjøpsvirkemidler")
 
@@ -41,9 +41,10 @@ Du kan lese mer om reforhandling som et strategisk virkemiddel [her](https://www
 
 ##### Forespørselsprosess (Konkurransegjennomføring)
 
-* 
+* Konkurranseutsette nåværende og/eller fremtidig volum (RFx)
+* Introdusere nye leverandører og utvide leverandørbase geografisk
+* Vurdere større bestillingsvolum, ulike leveringsbetingelser og kontraktslengde
 * Et mye brukt virkemiddel i offentlige virksomheter som følge av lovbestemt
-* Fremforhandle bedre betingelser enn dagens avtalevilkår hos nåværende leverandører, med fokus på lavere priser
 
 ***
 
