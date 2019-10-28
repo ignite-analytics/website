@@ -71,13 +71,18 @@ Du kan lese mer om hvordan bruke bundling til å redusere innkjøpskostnadene [h
 * Vurdere e-handelsløsninger og automatisering av innkjøp for å effektivisere prosessen
 * Effektivisere lagerstyringen
 
-##### Insourcing / outsourcing (Make or buy)
+##### Insourcing / outsourcing (make or buy)
 
-* Analysere kostnadene ved insourcing 
-* Vurdere e-handelsløsninger og a
+* Analysere kostnadene ved insourcing mot eksternt kjøp
+* Analysere kostnadene ved outsourcing mot å gjøre dette internt
+
+##### Insourcing / outsourcing (make or buy)
+
+* Analysere kostnadene ved insourcing mot eksternt kjøp
+* Analysere kostnadene ved outsourcing mot å gjøre dette internt
 
 ***
 
-_Ignite Analytics hjelper deg med å spare tid og forbedre lønnsomheten for din virksomhet. Oppdag kraften i strategisk innkjøp gjort digitalt!_
+_Ignite Analytics hjelper deg med å identifisere og realisere besparelser for din virksomhet. Oppdag kraften i strategisk innkjøp gjort digitalt!_
 
 [![](/images/Last ned produktinfo - 1200 x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
