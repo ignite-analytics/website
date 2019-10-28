@@ -265,6 +265,14 @@
   
   
   <url>
+    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</loc>
+    <lastmod>2019-10-09T08:03:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/blogg/innsikt/</loc>
     <lastmod>2019-10-09T08:03:11+00:00</lastmod>
     <priority>0</priority>
@@ -281,24 +289,16 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/</loc>
-    <lastmod>2019-10-09T08:03:11+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</loc>
-    <lastmod>2019-10-09T08:03:11+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/tag/kategoristruktur/</loc>
     <lastmod>2019-10-09T08:03:11+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/</loc>
+    <lastmod>2019-10-09T08:03:11+00:00</lastmod>
   </url>
   
   
@@ -399,14 +399,6 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</loc>
-    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/tag/innkj%C3%B8psverkt%C3%B8y/</loc>
     <lastmod>2019-09-30T07:24:26+00:00</lastmod>
     <priority>0</priority>
@@ -423,6 +415,14 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/teknologi/</loc>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</loc>
     <lastmod>2019-09-30T07:24:26+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -608,14 +608,6 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</loc>
-    <lastmod>2019-08-16T12:17:11+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/tag/kalkulator/</loc>
     <lastmod>2019-08-16T12:17:11+00:00</lastmod>
     <priority>0</priority>
@@ -625,6 +617,14 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/sparekalkulator/</loc>
+    <lastmod>2019-08-16T12:17:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</loc>
     <lastmod>2019-08-16T12:17:11+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -730,6 +730,14 @@
   
   
   <url>
+    <loc>https://ignite.no/blogg/tag/avtalestyring/</loc>
+    <lastmod>2019-08-07T12:03:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/blogg/tag/kontraktsoppf%C3%B8lging/</loc>
     <lastmod>2019-08-07T12:03:41+00:00</lastmod>
     <priority>0</priority>
@@ -740,14 +748,6 @@
   <url>
     <loc>https://ignite.no/blogg/innsikt/kontraktsoppf%C3%B8lging-er-kritisk-for-%C3%A5-realisere-gevinster/</loc>
     <lastmod>2019-08-07T12:03:41+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/avtalestyring/</loc>
-    <lastmod>2019-08-07T12:03:41+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   

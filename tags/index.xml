@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>Innkjøpskategori</title>
+      <link>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</link>
+      <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kategorisering</title>
       <link>https://ignite.no/blogg/tag/kategorisering/</link>
       <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
@@ -48,16 +57,7 @@
     </item>
     
     <item>
-      <title>innkjøpskategori</title>
-      <link>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</link>
-      <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kategoristruktur</title>
+      <title>Kategoristruktur</title>
       <link>https://ignite.no/blogg/tag/kategoristruktur/</link>
       <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
       
@@ -165,15 +165,6 @@
     </item>
     
     <item>
-      <title>Innkjøpsfunksjon</title>
-      <link>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</link>
-      <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Innkjøpsverktøy</title>
       <link>https://ignite.no/blogg/tag/innkj%C3%B8psverkt%C3%B8y/</link>
       <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
@@ -188,6 +179,15 @@
       <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/teknologi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>innkjøpsfunksjon</title>
+      <link>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</link>
+      <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</guid>
       <description></description>
     </item>
     
@@ -345,15 +345,6 @@
     </item>
     
     <item>
-      <title>Innkjøpspotensial</title>
-      <link>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</link>
-      <pubDate>Fri, 16 Aug 2019 12:17:11 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kalkulator</title>
       <link>https://ignite.no/blogg/tag/kalkulator/</link>
       <pubDate>Fri, 16 Aug 2019 12:17:11 +0000</pubDate>
@@ -368,6 +359,15 @@
       <pubDate>Fri, 16 Aug 2019 12:17:11 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/sparekalkulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>innkjøpspotensial</title>
+      <link>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</link>
+      <pubDate>Fri, 16 Aug 2019 12:17:11 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</guid>
       <description></description>
     </item>
     
@@ -417,20 +417,20 @@
     </item>
     
     <item>
+      <title>Avtalestyring</title>
+      <link>https://ignite.no/blogg/tag/avtalestyring/</link>
+      <pubDate>Wed, 07 Aug 2019 12:03:41 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/avtalestyring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kontraktsoppfølging</title>
       <link>https://ignite.no/blogg/tag/kontraktsoppf%C3%B8lging/</link>
       <pubDate>Wed, 07 Aug 2019 12:03:41 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/kontraktsoppf%C3%B8lging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>avtalestyring</title>
-      <link>https://ignite.no/blogg/tag/avtalestyring/</link>
-      <pubDate>Wed, 07 Aug 2019 12:03:41 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/avtalestyring/</guid>
       <description></description>
     </item>
     
