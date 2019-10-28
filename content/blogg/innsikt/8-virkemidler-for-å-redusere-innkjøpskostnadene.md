@@ -62,8 +62,8 @@ Du kan lese mer om hvordan bruke bundling til å redusere innkjøpskostnadene [h
 
 ##### Redusere forbruk
 
-* Standardisering av spesifikasjoner, artikler/enheter eller tilpasning til industristandard
-* Skifte av materialer, råvarer og komponenter
+* Evaluere om alle innkjøpene til virksomheten er nødvendige
+* Etablering og oppfølging av policyer / retningslinjer for å minimere overforbruk
 
 ***
 
