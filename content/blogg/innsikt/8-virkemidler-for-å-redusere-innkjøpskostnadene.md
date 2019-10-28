@@ -11,9 +11,7 @@ title = "8 virkemidler for å redusere innkjøpskostnadene"
 
 +++
 
-![](/images/Innkjøpsvirkemidler_.png)
-
-på deres [hjemmeside](https://www.gumpen.no/ "Gumpen Gruppen").
+![8 virkemidler for å redusere innkjøpskostnadene](/images/Innkjøpsvirkemidler_.png "Innkjøpsvirkemidler")
 
 ***
 
