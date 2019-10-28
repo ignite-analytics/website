@@ -2,7 +2,6 @@
 author = "Ignite"
 categories = ["Innsikt"]
 date = "2019-10-28T12:47:37+00:00"
-draft = true
 image = "/images/Innkjøpsvirkemidler_-2.png"
 ingress = "Valg av innkjøpsvirkemidler er en sentral del av en helhetlig tilnærming til strategisk innkjøp, hvor det basert på kunnskap om markedet og egen innkjøpsdata tas faktabaserte beslutninger om hvordan best tilnærme seg en kategori."
 showmainimg = false
