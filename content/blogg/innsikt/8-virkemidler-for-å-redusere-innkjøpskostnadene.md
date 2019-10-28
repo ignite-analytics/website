@@ -6,7 +6,7 @@ draft = true
 image = "/images/Innkjøpsvirkemidler_-2.png"
 ingress = "Valg av innkjøpsvirkemidler er en sentral del av en helhetlig tilnærming til strategisk innkjøp, hvor det basert på kunnskap om markedet og egen innkjøpsdata tas faktabaserte beslutninger om hvordan best tilnærme seg en kategori."
 showmainimg = false
-tags = ["Innkjøpskostnader", "Virkemidler"]
+tags = ["Innkjøpskostnader", "Virkemidler", "Kostnadsdrivere", "Reforhandling", "Forespørselsprosess", "Bundling", "Forbedre spesifikasjoner", "Redusere forbruk", "Redefinere verdikjeden", "Insourcing / outsourcing", "Strategiske partnere"]
 title = "8 virkemidler for å redusere innkjøpskostnadene"
 
 +++
