@@ -27,6 +27,8 @@ I dette innlegget har vi fokusert på virkemidler som i hovedsak adresserer enhe
 
 De 8 virkemidlene deles typisk inn i to overordnede grupper; **kommersielle** og **prosessuelle**. Nedenfor har vi listet opp noen typiske kjennetegn, samt sentrale vurderingsmomenter, for de ulike virkemidlene.
 
+![8 virkemidler for å redusere innkjøpskostnadene](/images/Innkjøpsvirkemidler_.png "Innkjøpsvirkemidler")
+
 ##### 1. Reforhandling
 
 * Fremforhandle bedre betingelser enn dagens avtalevilkår hos nåværende leverandører, med fokus på lavere priser
@@ -47,8 +49,6 @@ Du kan lese mer om reforhandling som et strategisk virkemiddel [her](https://www
 * Bundle volum: Samle innkjøpsvolum hos én eller færre leverandører enn status quo, for eksempel innad i en innkjøpskategori
 
 Du kan lese mer om hvordan bruke bundling til å redusere innkjøpskostnadene [her](https://www.ignite.no/blogg/cases/hvordan-bruke-bundling-til-%C3%A5-redusere-innkj%C3%B8pskostnadene/ "Hvordan bruke bundling til å redusere innkjøpskostnadene").
-
-![8 virkemidler for å redusere innkjøpskostnadene](/images/Innkjøpsvirkemidler_.png "Innkjøpsvirkemidler")
 
 ##### 4. Forbedre spesifikasjoner
 
