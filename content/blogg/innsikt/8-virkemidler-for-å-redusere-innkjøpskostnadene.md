@@ -32,54 +32,55 @@ De 8 virkemidlene deles typisk inn i to overordnede grupper; **kommersielle** og
 
 ![8 virkemidler for å redusere innkjøpskostnadene](/images/Innkjøpsvirkemidler_.png "Innkjøpsvirkemidler")
 
-##### Reforhandling
+##### 1. Reforhandling
 
 * Fremforhandle bedre betingelser enn dagens avtalevilkår hos nåværende leverandører, med fokus på lavere priser
 * Vurdere avtaleforlengelse mot bedre prisbetingelser
 
 Du kan lese mer om reforhandling som et strategisk virkemiddel [her](https://www.ignite.no/blogg/cases/reforhandling-et-undervurdert-strategisk-virkemiddel/ "Reforhandling - et undervurdert strategisk virkemiddel?").
 
-##### Forespørselsprosess (konkurransegjennomføring)
+##### 2. Forespørselsprosess (konkurransegjennomføring)
 
 * Konkurranseutsette nåværende og/eller fremtidig volum (RFx)
 * Kravspesifisering sammen med brukerne
 * Introdusere nye leverandører og utvide leverandørbase geografisk
 * Vurdere større bestillingsvolum, ulike leveringsbetingelser og kontraktslengde
 
-##### Bundling
+##### 3. Bundling
 
 * Bundle kontrakter: Sikre standardiserte avtalevilkår med samme leverandør på tvers av virksomheten
 * Bundle volum: Samle innkjøpsvolum hos én eller færre leverandører enn status quo, for eksempel innad i en innkjøpskategori
 
 Du kan lese mer om hvordan bruke bundling til å redusere innkjøpskostnadene [her]().
 
-##### Forbedre spesifikasjoner
+##### 4. Forbedre spesifikasjoner
 
 * Standardisering av spesifikasjoner, artikler/enheter eller tilpasning til industristandard
 * Skifte av materialer, råvarer og komponenter
 * Benytte leverandører aktivt i denne prosessen både med tanke på kompetanse og innspill
 * Vil ofte ha stor effekt på prisene, men er ikke alltid mulig å gjennomføre
 
-##### Redusere forbruk
+##### 5. Redusere forbruk
 
 * Evaluere om alt kjøp i virksomheten er nødvendig
 * Etablering og oppfølging av policyer / retningslinjer for å minimere overforbruk
 
-##### Redefinere verdikjeden
+##### 6. Redefinere verdikjeden
 
 * Fjerne unødvendige mellomledd i verdikjeden som ikke skaper merverdi
 * Vurdere e-handelsløsninger og automatisering av innkjøp for å effektivisere prosessen
 * Effektivisere lagerstyringen
 
-##### Insourcing / outsourcing (make or buy)
+##### 7. Insourcing / outsourcing (make or buy)
 
 * Analysere kostnadene ved insourcing mot eksternt kjøp
 * Analysere kostnadene ved outsourcing mot å gjøre dette internt
 
-##### Insourcing / outsourcing (make or buy)
+##### 8. Etablere strategiske partnere
 
-* Analysere kostnadene ved insourcing mot eksternt kjøp
-* Analysere kostnadene ved outsourcing mot å gjøre dette internt
+* Integrering av verdikjeden med viktige leverandører for å effektivisere og redusere totalkostnadene
+* Inngå samarbeidsprosjekter med leverandørene for å identifisere vinn-vinn-situasjoner
+* Bundle volum med andre aktører
 
 ***
 
