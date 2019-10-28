@@ -56,7 +56,10 @@ Du kan lese mer om hvordan bruke bundling til å redusere innkjøpskostnadene [h
 
 ##### Forbedre spesifikasjoner
 
-* Standardisering av kravspesifikasjonerBundle kontrakter: Sikre standardiserte avtalevilkår med samme leverandør på tvers av virksomheten
+* Standardisering av spesifikasjoner, artikler/enheter eller tilpasning til industristandard
+* Skifte av materialer, råvarer og komponenter
+* Benytte leverandører aktivt i denne prosessen både med tanke på kompetanse og innspill
+* Vil ofte ha stor effekt på prisene, men er ikke alltid mulig å gjennomføre
 
 ***
 
