@@ -78,9 +78,11 @@ Du kan lese mer om hvordan bruke bundling til å redusere innkjøpskostnadene [h
 
 ##### 8. Etablere strategiske partnere
 
-* Integrering av verdikjeden med viktige leverandører for å effektivisere og redusere totalkostnadene
+* Integrering av verdikjeden med kritiske leverandører for å effektivisere og redusere innkjøpskostnadene
 * Inngå samarbeidsprosjekter med leverandørene for å identifisere vinn-vinn-situasjoner
 * Bundle volum med andre aktører
+
+Du kan lese mer om strategiske partnere [her](https://www.ignite.no/blogg/innsikt/hvordan-adressere-strategiske-innkj%C3%B8pskategorier/ "Hvordan adressere strategiske innkjøpskategorier")
 
 ***
 
