@@ -62,7 +62,7 @@ Du kan lese mer om hvordan bruke bundling til å redusere innkjøpskostnadene [h
 
 ##### Redusere forbruk
 
-* Evaluere om alle innkjøpene til virksomheten er nødvendige
+* Evaluere om alt kjøp i virksomheten er nødvendig
 * Etablering og oppfølging av policyer / retningslinjer for å minimere overforbruk
 
 ***
