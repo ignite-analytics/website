@@ -61,6 +61,11 @@ Du kan lese mer om hvordan bruke bundling til å redusere innkjøpskostnadene [h
 * Benytte leverandører aktivt i denne prosessen både med tanke på kompetanse og innspill
 * Vil ofte ha stor effekt på prisene, men er ikke alltid mulig å gjennomføre
 
+##### Redusere forbruk
+
+* Standardisering av spesifikasjoner, artikler/enheter eller tilpasning til industristandard
+* Skifte av materialer, råvarer og komponenter
+
 ***
 
 _Ignite Analytics hjelper deg med å spare tid og forbedre lønnsomheten for din virksomhet. Oppdag kraften i strategisk innkjøp gjort digitalt!_
