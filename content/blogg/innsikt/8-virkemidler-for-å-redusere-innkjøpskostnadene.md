@@ -52,7 +52,7 @@ Du kan lese mer om hvordan bruke bundling til å redusere innkjøpskostnadene [h
 
 #### 4. Forbedre spesifikasjoner
 
-* Standardisering av spesifikasjoner, artikler/produkter eller tilpasning til industristandard
+* Standardisering av spesifikasjoner og artikler/produkter, eller tilpasning til industristandard
 * Skifte av materialer, råvarer og komponenter
 * Benytte leverandører aktivt i denne prosessen både med tanke på kompetanse og innspill
 * Vil ofte ha stor effekt på prisene, men er ikke alltid mulig å gjennomføre
