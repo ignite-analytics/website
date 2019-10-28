@@ -26,13 +26,13 @@ I dette innlegget har vi fokusert på virkemidler som i hovedsak adresserer enhe
 
 #### Virkemidler for å redusere innkjøpskostnadene
 
-De 8 virkemidlene deles typisk inn i to overordnede grupper; kommersielle og prosessuelle. Nedenfor har vi listet opp noen sentrale momenter som typisk kjennetegner de ulike virkemidlene.
+De 8 virkemidlene deles typisk inn i to overordnede grupper; **kommersielle** og **prosessuelle**. Nedenfor har vi listet opp noen sentrale momenter som typisk kjennetegner de ulike virkemidlene.
 
 ![8 virkemidler for å redusere innkjøpskostnadene](/images/Innkjøpsvirkemidler_.png "Innkjøpsvirkemidler")
 
 ##### Reforhandling
 
-DS
+* DS
 
 ***
 
