@@ -10,6 +10,19 @@ tags = ["Innkjøpskostnader", "Virkemidler"]
 title = "8 virkemidler for å redusere innkjøpskostnadene"
 
 +++
+Å jobbe kontinuerlig, systematisk og faktabasert med innkjøpskostnadene er avgjørende for en god - og forbedret - lønnsomhet. 
+
+#### Kartlegging av kostnadsdriverne
+
+For å kunne implementere gode virkemidler, er det viktig å forstå hva som faktisk driver kostnadene. Vi benytter ofte følgende tilnærming for å analysere kostnadsdriverne, der kostnadene er en tenkt funksjon av:
+
+* **Aktivitet**: Er aktiviteten nødvendig?
+* **Produktivitet**: Er den optimalisert?
+* **Enhetskostnader**: Betaler vi riktig pris?
+
+![Kartlegging av kostnadsdrivere](/images/Kostnadsdrivere.png "Kartlegging av kostnadsdrivere")
+
+D
 
 ![8 virkemidler for å redusere innkjøpskostnadene](/images/Innkjøpsvirkemidler_.png "Innkjøpsvirkemidler")
 
