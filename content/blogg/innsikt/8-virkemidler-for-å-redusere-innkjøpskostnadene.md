@@ -11,7 +11,7 @@ title = "8 virkemidler for å redusere innkjøpskostnadene"
 +++
 Å jobbe kontinuerlig, systematisk og faktabasert med innkjøpskostnadene er avgjørende for en god - og forbedret - lønnsomhet. 
 
-#### Kartlegging av kostnadsdriverne
+### Kartlegging av kostnadsdriverne
 
 For å kunne implementere gode virkemidler, er det viktig å forstå hva som faktisk driver kostnadene. Vi benytter ofte følgende tilnærming for å analysere kostnadsdriverne, der kostnadene er en tenkt funksjon av:
 
@@ -23,7 +23,7 @@ For å kunne implementere gode virkemidler, er det viktig å forstå hva som fak
 
 I dette innlegget har vi fokusert på virkemidler som i hovedsak adresserer enhetskostnadene. Merk at virkemidlene også vil kunne påvirke både aktivitet og produktivitet, da det ikke alltid er et naturlig skille mellom kostnadsdriverne.
 
-#### Virkemidler for å redusere innkjøpskostnadene
+### Virkemidler for å redusere innkjøpskostnadene
 
 De 8 virkemidlene deles typisk inn i to overordnede grupper; **kommersielle** og **prosessuelle**. Nedenfor har vi listet opp noen typiske kjennetegn, samt sentrale vurderingsmomenter, for de ulike virkemidlene.
 
