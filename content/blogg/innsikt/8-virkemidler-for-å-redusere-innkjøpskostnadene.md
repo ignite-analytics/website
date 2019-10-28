@@ -65,6 +65,17 @@ Du kan lese mer om hvordan bruke bundling til å redusere innkjøpskostnadene [h
 * Evaluere om alt kjøp i virksomheten er nødvendig
 * Etablering og oppfølging av policyer / retningslinjer for å minimere overforbruk
 
+##### Redusere forbruk
+
+* Evaluere om alt kjøp i virksomheten er nødvendig
+* Etablering og oppfølging av policyer / retningslinjer for å minimere overforbruk
+
+##### Redefinere verdikjeden
+
+* Fjerne unødvendige mellomledd i verdikjeden som ikke skaper merverdi
+* Vurdere e-handelsløsninger og automatisering av innkjøp for å effektivisere prosessen
+* Effektivisere lagerstyringen
+
 ***
 
 _Ignite Analytics hjelper deg med å spare tid og forbedre lønnsomheten for din virksomhet. Oppdag kraften i strategisk innkjøp gjort digitalt!_
