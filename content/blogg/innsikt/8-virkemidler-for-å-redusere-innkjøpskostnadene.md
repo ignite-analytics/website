@@ -41,7 +41,8 @@ Du kan lese mer om reforhandling som et strategisk virkemiddel [her](https://www
 
 ##### Forespørselsprosess (Konkurransegjennomføring)
 
-* Et mye brukt virkemiddel i offentlige virksomheter, som følge av lovbestemt
+* 
+* Et mye brukt virkemiddel i offentlige virksomheter som følge av lovbestemt
 * Fremforhandle bedre betingelser enn dagens avtalevilkår hos nåværende leverandører, med fokus på lavere priser
 
 ***
