@@ -21,7 +21,7 @@ For å kunne implementere gode virkemidler, er det viktig å forstå hva som fak
 
 ![Kartlegging av kostnadsdrivere](/images/Kostnadsdrivere.png "Kartlegging av kostnadsdrivere")
 
-Merk at virkemidlene, eller tiltakene, vil kunne påvirke flere kostnadsdrivere, da det ikke alltid er et naturlig skille mellom virkemidlene og driverne.
+Merk at virkemidlene, eller tiltakene, vil kunne påvirke flere kostnadsdrivere, da det ikke er et naturlig skille mellom virkemidlene og driverne. 
 
 ### Virkemidler for å redusere innkjøpskostnadene
 
