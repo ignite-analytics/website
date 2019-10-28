@@ -79,7 +79,7 @@ Du kan lese mer om hvordan bruke bundling til å redusere innkjøpskostnadene [h
 * Inngå samarbeidsprosjekter med leverandørene for å identifisere vinn-vinn-situasjoner
 * Bundle volum med andre aktører
 
-Du kan lese mer om strategiske partnere [her](https://www.ignite.no/blogg/innsikt/hvordan-adressere-strategiske-innkj%C3%B8pskategorier/ "Hvordan adressere strategiske innkjøpskategorier")
+Du kan lese mer om etablering av strategiske partnere [her](https://www.ignite.no/blogg/innsikt/hvordan-adressere-strategiske-innkj%C3%B8pskategorier/ "Hvordan adressere strategiske innkjøpskategorier").
 
 ***
 
