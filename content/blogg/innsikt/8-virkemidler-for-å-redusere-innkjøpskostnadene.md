@@ -34,7 +34,10 @@ De 8 virkemidlene deles typisk inn i to overordnede grupper; **kommersielle** og
 
 ##### Reforhandling
 
-* DS
+* Fremforhandle bedre betingelser enn dagens avtalevilkår hos nåværende leverandører, med fokus på lavere priser
+* Vurdere avtaleforlengelse mot bedre prisbetingelser
+
+Du kan lese mer om reforhandling i dette innlegget.
 
 ***
 
