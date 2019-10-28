@@ -46,7 +46,7 @@ Du kan lese mer om reforhandling som et strategisk virkemiddel [her](https://www
 * Bundle kontrakter: Sikre standardiserte avtalevilkår med samme leverandør på tvers av virksomheten
 * Bundle volum: Samle innkjøpsvolum hos én eller færre leverandører enn status quo, for eksempel innad i en innkjøpskategori
 
-Du kan lese mer om hvordan bruke bundling til å redusere innkjøpskostnadene [her]().
+Du kan lese mer om hvordan bruke bundling til å redusere innkjøpskostnadene [her](https://www.ignite.no/blogg/cases/hvordan-bruke-bundling-til-%C3%A5-redusere-innkj%C3%B8pskostnadene/ "Hvordan bruke bundling til å redusere innkjøpskostnadene").
 
 ![8 virkemidler for å redusere innkjøpskostnadene](/images/Innkjøpsvirkemidler_.png "Innkjøpsvirkemidler")
 
