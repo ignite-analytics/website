@@ -22,7 +22,14 @@ For å kunne implementere gode virkemidler, er det viktig å forstå hva som fak
 
 ![Kartlegging av kostnadsdrivere](/images/Kostnadsdrivere.png "Kartlegging av kostnadsdrivere")
 
-Virk
+I dette innlegget har vi fokusert på virkemidler som i hovedsak benyttes til å redusere enhetskostnadene. Merk at virkemidlene også vil kunne påvirke både aktivitet og produktivitet, da det ikke alltid er et naturlig skille mellom kostnadsdriverne.
+
+#### Virkemidler for å redusere innkjøpskostnadene
+
+De 8 virkemidlene deles typisk inn i to overordnede grupper;
+
+* Kommersielle virkemidler
+* Prosessuelle virkemidler
 
 ![8 virkemidler for å redusere innkjøpskostnadene](/images/Innkjøpsvirkemidler_.png "Innkjøpsvirkemidler")
 
