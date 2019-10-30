@@ -6,7 +6,7 @@ image = "/images/Innkjøpsvirkemidler_-2.png"
 ingress = "Valg av innkjøpsvirkemidler er en sentral del av en helhetlig tilnærming til strategisk innkjøp, hvor det basert på kunnskap om markedet og egen innkjøpsdata tas faktabaserte beslutninger om hvordan best tilnærme seg en kategori."
 showmainimg = false
 tags = ["Innkjøpskostnader", "Virkemidler", "Kostnadsdrivere", "Reforhandling", "Forespørselsprosess", "Bundling", "Forbedre spesifikasjoner", "Redusere forbruk", "Redefinere verdikjeden", "Insourcing / outsourcing", "Strategiske partnere"]
-title = "Åtte virkemidler for å redusere innkjøpskostnadene"
+title = "8 virkemidler for å redusere innkjøpskostnadene"
 
 +++
 Å jobbe kontinuerlig, systematisk og faktabasert med innkjøpskostnadene er avgjørende for en god - og forbedret - lønnsomhet.
@@ -15,7 +15,7 @@ title = "Åtte virkemidler for å redusere innkjøpskostnadene"
 
 For å kunne implementere gode virkemidler, er det viktig å forstå hva som faktisk driver kostnadene. Følgende tilnærming kan være hensiktsmessig for å analysere kostnadsdriverne, der kostnadene er en tenkt funksjon av:
 
-> **Aktivitetene** vi gjør, **produktiviteten** vi utfører disse med, samt **enhetskostnadene** på varene og tjenestene som inngår i disse aktivitetene.
+**Aktivitetene** vi gjør, **produktiviteten** vi utfører disse med, samt **enhetskostnadene** på varene og tjenestene som inngår i disse aktivitetene.
 
 ![Kartlegging av kostnadsdriverne](/images/Kostnadsdrivere_.png "Kartlegging av kostnadsdriverne")
 
