@@ -76,47 +76,47 @@ fields:
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
 pages:
+- content/blogg/innsikt/8-virkemidler-for-å-redusere-innkjøpskostnadene.md
+- content/blogg/nyheter/gumpen-gruppen-ignite-analytics-sant.md
+- content/blogg/innsikt/bruk-dataen-din-til-å-ta-bedre-beslutninger.md
+- content/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tilnærming.md
+- content/blogg/nyheter/investorer.md
+- content/blogg/innsikt/key-takeaways-fra-digital-procurement-world-2019.md
+- content/blogg/nyheter/andreas-og-tord-velkommen-til-team-ignite.md
 - content/blogg/innsikt/seks-trinn-for-å-gjennomføre-digital-transformasjon.md
-- content/blogg/innsikt/dette-trenger-du-til-en-aksjonsbasert-kategoristrategi.md
+- content/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur.md
+- content/blogg/nyheter/innherred-innkjøp-inngår-avtale-for-bruk-av-ignite-analytics.md
+- content/blogg/nyheter/innherred-innkjøp-inngår-avtale-for-bruk-av-ignite-analytics-1.md
+- content/blogg/nyheter/vi-skal-vokse-og-trenger-flere-med-på-laget.md
+- content/blogg/nyheter/kruse-smith-ignite-lisensavtale-for-bruk-av-ignite-analytics-1.md
+- content/blogg/nyheter/kruse-smith-ignite-lisensavtale-for-bruk-av-ignite-analytics.md
+- content/blogg/nyheter/buylogic-og-ignite-procurement-inngår-strategisk-samarbeidsavtale.md
+- content/blogg/nyheter/summer-interns-videreutvikler-ignite-analytics.md
+- content/blogg/nyheter/estimer-ditt-innkjøpspotensial-med-vår-besparelseskalkulator.md
+- content/blogg/innsikt/tips-til-organisering-av-en-innkjøpsfunksjon.md
+- content/blogg/innsikt/kontraktsoppfølging-er-kritisk-for-å-realisere-gevinster.md
+- content/blogg/nyheter/øystein-nygård-blir-senior-advisor-i-ignite-procurement.md
 - content/blogg/nyheter/stortingsmelding-om-offentlige-anskaffelser - digitalisering-og-profesjonalisering.md
+- content/blogg/nyheter/optimar-ignite-lisensavtale-for-bruk-av-ignite-analytics.md
+- content/blogg/nyheter/nye-moduler-i-ignite-analytics.md
+- content/blogg/nyheter/leverandørmodul-basert-på-ignite-analytics-lansert-for-obos-forvaltede-boligselskaper.md
+- content/blogg/nyheter/ignite-procurement-kvalifisert-i-achilles-utilities-nce.md
+- content/blogg/nyheter/ignite-lanserer-ny-versjon-av-plattform-for-strategisk-innkjøp.md
+- content/blogg/nyheter/ehf-konferansen-2019 - dagens-teknologi-muliggjør-digitale-anskaffelser.md
+- content/blogg/nyheter/effektivare-offentlig-upphandling-mer-nytta-för-pengarna.md
+- content/blogg/nyheter/bundebygg-inngår-avtale-for-bruk-av-ignite-analytics.md
+- content/blogg/nyheter/autostore-enters-into-an-agreement-for-the-use-of-ignite-analytics.md
+- content/blogg/innsikt/seks-tips-til-gode-forhandlinger.md
+- content/blogg/innsikt/innkjøp - et-uforløst-potensial-i-ditt-selskap.md
+- content/blogg/innsikt/hvordan-skape-verdier-gjennom-strategisk-innkjøp.md
+- content/blogg/innsikt/hvordan-adressere-strategiske-innkjøpskategorier.md
+- content/blogg/innsikt/en-praktisk-tilnærming-til-kategoristyring.md
+- content/blogg/innsikt/dette-trenger-du-til-en-aksjonsbasert-kategoristrategi.md
+- content/blogg/innsikt/det-investeres-for-lite-i-innkjøpsfunksjonen.md
+- content/blogg/cases/reforhandling - et-undervurdert-strategisk-virkemiddel.md
+- content/blogg/cases/hvordan-bruke-bundling-til-å-redusere-innkjøpskostnadene.md
+- content/blogg/cases/30-mnok-i-årlige-besparelser-for-obos-forvaltede-boligselskaper.md
+- content/blogg/nyheter/bergene-holm-inngår-avtale-for-bruk-av-ignite-analytics.md
 - content/blogg/nyheter/henrik-høiness.md
 - content/blogg/nyheter/lars-lien.md
 - content/blogg/innsikt/bruk-data-til-å-ta-gode-faktabaserte-beslutninger.md
-- content/blogg/nyheter/nye-moduler-i-ignite-analytics.md
-- content/blogg/nyheter/ignite-lanserer-ny-versjon-av-plattform-for-strategisk-innkjøp.md
-- content/blogg/innsikt/hvordan-adressere-strategiske-innkjøpskategorier.md
-- content/blogg/nyheter/bergene-holm-inngår-avtale-for-bruk-av-ignite-analytics.md
-- content/blogg/cases/reforhandling - et-undervurdert-strategisk-virkemiddel.md
-- content/blogg/innsikt/seks-tips-til-gode-forhandlinger.md
-- content/blogg/nyheter/effektivare-offentlig-upphandling-mer-nytta-för-pengarna.md
-- content/blogg/innsikt/det-investeres-for-lite-i-innkjøpsfunksjonen.md
-- content/blogg/innsikt/kontraktsoppfølging-er-kritisk-for-å-realisere-gevinster.md
-- content/blogg/nyheter/ehf-konferansen-2019 - dagens-teknologi-muliggjør-digitale-anskaffelser.md
-- content/blogg/cases/30-mnok-i-årlige-besparelser-for-obos-forvaltede-boligselskaper.md
-- content/blogg/nyheter/optimar-ignite-lisensavtale-for-bruk-av-ignite-analytics.md
-- content/blogg/cases/hvordan-bruke-bundling-til-å-redusere-innkjøpskostnadene.md
-- content/blogg/nyheter/autostore-enters-into-an-agreement-for-the-use-of-ignite-analytics.md
-- content/blogg/innsikt/hvordan-bygge-en-hensiktsmessig-kategoristruktur.md
-- content/blogg/nyheter/ignite-procurement-kvalifisert-i-achilles-utilities-nce.md
-- content/blogg/nyheter/leverandørmodul-basert-på-ignite-analytics-lansert-for-obos-forvaltede-boligselskaper.md
-- content/blogg/nyheter/øystein-nygård-blir-senior-advisor-i-ignite-procurement.md
-- content/blogg/innsikt/tips-til-organisering-av-en-innkjøpsfunksjon.md
-- content/blogg/nyheter/summer-interns-videreutvikler-ignite-analytics.md
-- content/blogg/nyheter/buylogic-og-ignite-procurement-inngår-strategisk-samarbeidsavtale.md
-- content/blogg/nyheter/estimer-ditt-innkjøpspotensial-med-vår-besparelseskalkulator.md
-- content/blogg/nyheter/innherred-innkjøp-inngår-avtale-for-bruk-av-ignite-analytics-1.md
-- content/blogg/nyheter/kruse-smith-ignite-lisensavtale-for-bruk-av-ignite-analytics-1.md
-- content/blogg/nyheter/kruse-smith-ignite-lisensavtale-for-bruk-av-ignite-analytics.md
-- content/blogg/nyheter/vi-skal-vokse-og-trenger-flere-med-på-laget.md
-- content/blogg/nyheter/innherred-innkjøp-inngår-avtale-for-bruk-av-ignite-analytics.md
-- content/blogg/innsikt/8-virkemidler-for-å-redusere-innkjøpskostnadene.md
-- content/blogg/innsikt/key-takeaways-fra-digital-procurement-world-2019.md
-- content/blogg/nyheter/gumpen-gruppen-ignite-analytics-sant.md
-- content/blogg/nyheter/andreas-og-tord-velkommen-til-team-ignite.md
-- content/blogg/nyheter/investorer.md
-- content/blogg/innsikt/bruk-dataen-din-til-å-ta-bedre-beslutninger.md
-- content/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tilnærming.md
-- content/blogg/innsikt/en-praktisk-tilnærming-til-kategoristyring.md
-- content/blogg/nyheter/bundebygg-inngår-avtale-for-bruk-av-ignite-analytics.md
-- content/blogg/innsikt/innkjøp - et-uforløst-potensial-i-ditt-selskap.md
-- content/blogg/innsikt/hvordan-skape-verdier-gjennom-strategisk-innkjøp.md
