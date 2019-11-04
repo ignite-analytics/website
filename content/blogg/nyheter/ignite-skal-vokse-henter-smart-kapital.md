@@ -10,30 +10,25 @@ tags = ["Arkwright X", "Investinor", "SNÖ", "Emisjon", "Smart kapital"]
 title = "Vi henter smart kapital for å vokse videre"
 
 +++
-![](/images/Investorer - Snö - Arkwright-X - Investinor.png)
-
 #### Smart kapital for å skalere Ignite Analytics
 
-Vi posisjonerer oss for videre vekst og henter 8 millioner kroner i smart kapital. Kapitalen skal bidra til å skalere Ignite Analytics - vår unike løsning for strategisk innkjøp. 
+Vi posisjonerer oss for videre vekst og henter 8 millioner kroner i smart kapital. Kapitalen skal bidra til å skalere Ignite Analytics - vårt unike verktøy for strategisk innkjøp. 
 
-> Ignite Analytics legger til rette for at selskaper effektivt skal kunne jobbe strategisk og faktabasert med innkjøpskostnadene sine. Dermed kan de både forbedre lønnsomheten og spare tid i hverdagen, sier Sigbjørn Nome, daglig leder i Ignite Procurement.
+> Ignite Analytics legger til rette for at virksomheter effektivt skal kunne jobbe strategisk og faktabasert med innkjøpskostnadene sine. Dermed kan de både forbedre lønnsomheten og spare tid i hverdagen, sier Sigbjørn Nome, CEO i Ignite Procurement.
 
-Dette betyr blant annet utvikling av ny funksjonalitet og rekruttering av flere ansatte.
+Programvareutviklingen er så langt blitt finansiert gjennom konsulentoppdrag på innkjøpsområdet. I disse prosjektene har vi selv brukt verktøyet, i tillegg til støtte fra Innovasjon Norge og Skattefunn. 
 
-Ignite Analytics støtter den strategiske innkjøpsprosessen. 
+> I dag er kjerneproduktet vårt Ignite Analytics, som selges på lisensbasis. Vi opplever en stadig økende etterspørsel etter produktet, der eksempelvis OBOS, AF Gruppen, Implenia, Felleskjøpet og Miljødirektoratet er blant kundene, fortsetter Nome. 
 
-, som brukes til å analysere selskapers innkjøp.  
-Som konsulenter i BCG jaget gründerne kostnader for norske bedrifter, og de ble eksperter på å analysere kostnader forbundet med innkjøp.  
-– Ideen med Ignite Analytics er å legge til rette for at selskaper effektivt skal kunne jobbe strategisk og faktabasert med innkjøpskostnadene sine. Dermed kan de både forbedre lønnsomheten og spare tid i hverdagen, sier Nome.  
-Programvareutviklingen er blitt finansiert ved at gründerne har jobbet som konsulenter på innkjøpsområdet. Der har de selv brukt verktøyet, i tillegg til at de har fått støtte fra Innovasjon Norge og Skattefunn.  
-Selskapet omsatte for 2,9 millioner kroner i fjor, og forventer å ha 4,5 millioner kroner i omsetning i år.  
-OBOS, AF Gruppen, Implenia, Felleskjøpet og Miljødirektoratet er blant kundene.
+#### ![](/images/Investorer - Snö - Arkwright-X - Investinor.png)
 
-“Vi vurderer å hente penger nå. Men vi har ikke noe stort kapitalbehov. Så om vi tar inn investorer så skal det være fordi de tilbyr oss noe mer enn penger”, uttalte Langedal skråsikkert i et intervju med Finansavisen i juni 2018.  
-Nå har gründerne fått med seg det de betegner som smart kapital.  
-– Vi er strålende fornøyd med dem vi har fått med. , Pengene vil gå til å ansette flere, og slik at vi kan videreutvikle produktet, sikre kundesuksess og ekspandere i og utenfor Norge, sier Langedal.  
-Han oppgir at emisjonsrunden ble overtegnet, og gründerne sa nei til flere investorer med svært sterk track-record  
-– Det viktigste for oss var å få med de som best kan utfordre og utfylle vår kompetanse for å lykkes med vår vekststrategi. Vi er trygge på at vi har fått med de rette investorene, sier Nome.
+SNÖ, Arkwright X og Investinor blir nå med oss på reisen videre.
+
+> Vi er strålende fornøyd med investorene vi har fått med. Pengene vil gå til å ansette flere, slik at vi kan videreutvikle produktet, sikre kundesuksess og ekspandere i og utenfor Norge, sier Børge Langedal, Sales & Customer Success Director i Ignite Procurement.
+
+Selve emisjonsrunden ble overtegnet, noe som medførte at vi måtte si nei til flere investorer med svært sterk track-record.
+
+> Det viktigste for oss var å få med de som best kan utfordre og utfylle vår kompetanse for å lykkes med vår vekststrategi. Vi er trygge på at vi har fått med de rette investorene, utdyper Nome.
 
 Selskapet var nylig i Amsterdam på «Digital Procurement World», og har etter konferansen fått forespørsler fra virksomheter i Australia, Sør-Amerika og hele Europa – hvor flere nå tester verktøyet.  
 – Lykkes vi med å skaleringen er mulighetene enorme. Vi får ukentlige henvendelser fra internasjonale VC og PE-fond, og planlegger en betydelig større runde i løpet av 12-18 måneder, sier Nome.  
