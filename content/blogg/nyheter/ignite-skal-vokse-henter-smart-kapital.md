@@ -30,8 +30,13 @@ Selve emisjonsrunden ble overtegnet, noe som medførte at vi måtte si nei til f
 
 > Det viktigste for oss var å få med de som best kan utfordre og utfylle vår kompetanse for å lykkes med vår vekststrategi. Vi er trygge på at vi har fått med de rette investorene, utdyper Nome.
 
-Selskapet var nylig i Amsterdam på «Digital Procurement World», og har etter konferansen fått forespørsler fra virksomheter i Australia, Sør-Amerika og hele Europa – hvor flere nå tester verktøyet.  
-– Lykkes vi med å skaleringen er mulighetene enorme. Vi får ukentlige henvendelser fra internasjonale VC og PE-fond, og planlegger en betydelig større runde i løpet av 12-18 måneder, sier Nome.  
+Vi var nylig i Amsterdam på «[Digital Procurement World](https://www.ignite.no/blogg/innsikt/key-takeaways-fra-digital-procurement-world-2019/ "Seks erfaringer fra DPW 2019")», og har etter konferansen fått forespørsler fra virksomheter i Australia, Sør-Amerika og hele Europa – hvor flere nå tester verktøyet.
+
+> Lykkes vi med skaleringen er mulighetene enorme. Vi får ukentlige henvendelser fra internasjonale VC og PE-fond, og planlegger en betydelig større runde i løpet av 12-18 måneder, avslutter Nome.
+
+#### Gode skussmål fra investorene gir gode skussmål.
+
+  
 De nye investorene gir gode skussmål.  
 – Ignite klarer å koke kompleksiteten ved innkjøp ned til en simpel og brukervennlig  
 løsning som gir enorme besparelser for kundene, sier Esben Poulsen, daglig leder i Arkwright X.  
