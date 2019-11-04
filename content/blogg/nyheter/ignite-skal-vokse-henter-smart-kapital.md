@@ -12,7 +12,7 @@ title = "Vi henter smart kapital for å vokse videre"
 +++
 #### Smart kapital for å skalere Ignite Analytics
 
-Vi posisjonerer oss for videre vekst og henter 8 millioner kroner i smart kapital. Kapitalen skal bidra til å skalere Ignite Analytics - vårt unike verktøy for strategisk innkjøp.
+Vi posisjonerer oss for videre vekst og henter 8 millioner kroner i smart kapital. Kapitalen skal bidra til å skalere [Ignite Analytics](https://www.ignite.no/ignite-analytics/ "Ignite Analytics") - vårt unike verktøy for strategisk innkjøp.
 
 > Ignite Analytics legger til rette for at virksomheter effektivt skal kunne jobbe strategisk og faktabasert med innkjøpskostnadene sine. Dermed kan de både forbedre lønnsomheten og spare tid i hverdagen, sier Sigbjørn Nome, CEO i Ignite Procurement.
 
