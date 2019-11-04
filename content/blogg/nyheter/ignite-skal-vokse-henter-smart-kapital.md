@@ -6,7 +6,7 @@ draft = true
 image = "/images/Investorer - Snö - Arkwright-X - Investinor.png"
 ingress = "I en fersk emisjon får vi med oss SNÔ, Arkwright X og Investinor på reisen videre."
 showmainimg = false
-tags = ["Arkwright X", "Investinor", "SNÖ", "Emisjon", "Smart kapital"]
+tags = ["Arkwright X", "Investinor", "SNÖ", "Emisjon", "Smart kapital", "Ignite Analytics", "Skalering"]
 title = "Vi henter smart kapital for å vokse videre"
 
 +++
@@ -20,7 +20,7 @@ Programvareutviklingen er så langt blitt finansiert gjennom konsulentoppdrag p�
 
 > I dag er kjerneproduktet vårt Ignite Analytics, som selges på lisensbasis. Vi opplever en stadig økende etterspørsel etter produktet, der eksempelvis OBOS, AF Gruppen, Implenia, Felleskjøpet og Miljødirektoratet er blant kundene, fortsetter Nome. 
 
-#### ![](/images/Investorer - Snö - Arkwright-X - Investinor.png)
+#### ![SNÖ, Arkwright X og Investinor blir investorer i Ignite Procurement](/images/Investorer - Snö - Arkwright-X - Investinor.png "SNÖ, Arkwright X og Investinor")
 
 SNÖ, Arkwright X og Investinor blir nå med oss på reisen videre.
 
@@ -36,10 +36,19 @@ Vi var nylig i Amsterdam på «[Digital Procurement World](https://www.ignite.no
 
 #### De nye investorene gir gode skussmål 
 
-Alle investorene har stor tro på at løsningen vår kan bidra til å realisere s
+Alle investorene har stor tro på løsningen og Ignite-teamet.
 
 > Ignite klarer å koke kompleksiteten ved innkjøp ned til en simpel og brukervennlig  
 > løsning som gir enorme besparelser for kundene, sier Esben Poulsen, daglig leder i Arkwright X.
 
-Denne oppfatningen deler også   
-– Vi bestemte oss raskt for å investere i Ignite etter å ha møtt gründerne. De har stor sjanse for å lykkes i et internasjonalt attraktivt marked. Vi håper å kunne bidra til stor suksess for Ignite, sier Magne Uppman i SNÖ.
+Sammen ønsker de å bidra til at vi lykkes i Norge og internasjonalt.
+
+> Vi bestemte oss raskt for å investere i Ignite etter å ha møtt gründerne. De har stor sjanse for å lykkes i et internasjonalt attraktivt marked. Vi håper å kunne bidra til stor suksess for Ignite, sier Magne Uppman i SNÖ.
+
+**Vi ønsker å takke SNÖ, Arkwright X og Investinor for tilliten - og gleder oss til reisen videre!**
+
+***
+
+_Gjør din innkjøpsdata om til innsikt og resultater med Ignite Analytics. Oppdag kraften i strategisk innkjøp gjort digitalt!_
+
+[![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
