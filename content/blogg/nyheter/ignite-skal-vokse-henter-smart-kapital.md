@@ -34,10 +34,12 @@ Vi var nylig i Amsterdam på «[Digital Procurement World](https://www.ignite.no
 
 > Lykkes vi med skaleringen er mulighetene enorme. Vi får ukentlige henvendelser fra internasjonale VC og PE-fond, og planlegger en betydelig større runde i løpet av 12-18 måneder, avslutter Nome.
 
-#### Gode skussmål fra investorene gir gode skussmål.
+#### De nye investorene gir gode skussmål 
 
-  
-De nye investorene gir gode skussmål.  
-– Ignite klarer å koke kompleksiteten ved innkjøp ned til en simpel og brukervennlig  
-løsning som gir enorme besparelser for kundene, sier Esben Poulsen, daglig leder i Arkwright X.  
+Alle investorene har stor tro på at løsningen vår kan bidra til å realisere s
+
+> Ignite klarer å koke kompleksiteten ved innkjøp ned til en simpel og brukervennlig  
+> løsning som gir enorme besparelser for kundene, sier Esben Poulsen, daglig leder i Arkwright X.
+
+Denne oppfatningen deler også   
 – Vi bestemte oss raskt for å investere i Ignite etter å ha møtt gründerne. De har stor sjanse for å lykkes i et internasjonalt attraktivt marked. Vi håper å kunne bidra til stor suksess for Ignite, sier Magne Uppman i SNÖ.
