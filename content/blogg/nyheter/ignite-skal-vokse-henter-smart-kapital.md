@@ -45,7 +45,7 @@ Sammen ønsker de å bidra til at vi lykkes i Norge og internasjonalt.
 
 > Vi bestemte oss raskt for å investere i Ignite etter å ha møtt gründerne. De har stor sjanse for å lykkes i et internasjonalt attraktivt marked. Vi håper å kunne bidra til stor suksess for Ignite, sier Magne Uppman i SNÖ.
 
-Vi ønsker å takke SNÖ, Arkwright X og Investinor for tilliten - og gleder oss til reisen videre!
+Vi ønsker å takke SNÖ, Arkwright X og Investinor for tilliten - og gleder oss til fortsettelsen!
 
 ***
 
