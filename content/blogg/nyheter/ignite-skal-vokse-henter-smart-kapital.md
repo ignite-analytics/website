@@ -12,9 +12,7 @@ title = "Vi henter smart kapital for å vokse videre"
 +++
 ![](/images/Investorer - Snö - Arkwright-X - Investinor.png)
 
-Vi posisjonerer oss for videre vekst og henter 8 millioner kroner i smart kapital. Transaksjonen verdsetter selskapet til 56 millioner kroner.
-
-Selskapet henter 8 millioner kroner, og transaksjonen verdsetter selskapet til 56 millioner kroner.
+Vi posisjonerer oss for videre vekst og henter 8 millioner kroner i smart kapital.
 
 Selskapet ble etablert våren 2016 av Sigbjørn Nome og Børge Langedal.  
 Det innebærer at gründerselskapet har hatt en verdiutvikling fra null til 56 millioner kroner på tre og et halvt år.
