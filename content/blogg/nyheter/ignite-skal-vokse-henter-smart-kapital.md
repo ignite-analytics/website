@@ -12,13 +12,13 @@ title = "Vi henter smart kapital for å vokse videre"
 +++
 #### Smart kapital for å skalere Ignite Analytics
 
-Vi posisjonerer oss for videre vekst og henter 8 millioner kroner i smart kapital. Kapitalen skal bidra til å skalere Ignite Analytics - vårt unike verktøy for strategisk innkjøp. 
+Vi posisjonerer oss for videre vekst og henter 8 millioner kroner i smart kapital. Kapitalen skal bidra til å skalere Ignite Analytics - vårt unike verktøy for strategisk innkjøp.
 
 > Ignite Analytics legger til rette for at virksomheter effektivt skal kunne jobbe strategisk og faktabasert med innkjøpskostnadene sine. Dermed kan de både forbedre lønnsomheten og spare tid i hverdagen, sier Sigbjørn Nome, CEO i Ignite Procurement.
 
-Programvareutviklingen er så langt blitt finansiert gjennom konsulentoppdrag på innkjøpsområdet. I disse prosjektene har vi selv brukt verktøyet, i tillegg til støtte fra Innovasjon Norge og Skattefunn. 
+Programvareutviklingen er så langt blitt finansiert gjennom konsulentoppdrag på innkjøpsområdet. I disse prosjektene har vi selv brukt verktøyet, i tillegg til støtte fra Innovasjon Norge og Skattefunn.
 
-> I dag er kjerneproduktet vårt Ignite Analytics, som selges på lisensbasis. Vi opplever en stadig økende etterspørsel etter produktet, der eksempelvis OBOS, AF Gruppen, Implenia, Felleskjøpet og Miljødirektoratet er blant kundene, fortsetter Nome. 
+> I dag er kjerneproduktet vårt Ignite Analytics, som selges på lisensbasis. Vi opplever en stadig økende etterspørsel etter produktet, der eksempelvis OBOS, AF Gruppen, Implenia, Felleskjøpet og Miljødirektoratet er blant kundene, fortsetter Nome.
 
 #### ![SNÖ, Arkwright X og Investinor blir investorer i Ignite Procurement](/images/Investorer - Snö - Arkwright-X - Investinor.png "SNÖ, Arkwright X og Investinor")
 
@@ -34,16 +34,16 @@ Vi var nylig i Amsterdam på «[Digital Procurement World](https://www.ignite.no
 
 > Lykkes vi med skaleringen er mulighetene enorme. Vi får ukentlige henvendelser fra internasjonale VC og PE-fond, og planlegger en betydelig større runde i løpet av 12-18 måneder, avslutter Nome.
 
-#### De nye investorene gir gode skussmål 
+#### De nye investorene gir gode skussmål
 
-Alle investorene har stor tro på løsningen og Ignite-teamet.
+Alle investorene ønsker å bidra til at vi lykkes i Norge og internasjonalt.
+
+> Vi bestemte oss raskt for å investere i Ignite etter å ha møtt gründerne. De har stor sjanse for å lykkes i et internasjonalt attraktivt marked. Vi håper å kunne bidra til stor suksess for Ignite, sier Magne Uppman i SNÖ.
+
+De har også stor tro på løsningen og Ignite-teamet.
 
 > Ignite klarer å koke kompleksiteten ved innkjøp ned til en simpel og brukervennlig  
 > løsning som gir enorme besparelser for kundene, sier Esben Poulsen, daglig leder i Arkwright X.
-
-Sammen ønsker de å bidra til at vi lykkes i Norge og internasjonalt.
-
-> Vi bestemte oss raskt for å investere i Ignite etter å ha møtt gründerne. De har stor sjanse for å lykkes i et internasjonalt attraktivt marked. Vi håper å kunne bidra til stor suksess for Ignite, sier Magne Uppman i SNÖ.
 
 Vi ønsker å takke SNÖ, Arkwright X og Investinor for tilliten - og gleder oss til fortsettelsen!
 
