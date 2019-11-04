@@ -4,13 +4,15 @@ categories = ["Nyheter"]
 date = 2019-11-04T17:49:01Z
 draft = true
 image = "/images/Investorer - Snö - Arkwright-X - Investinor.png"
-ingress = "I en fersk emisjon får vi nå med oss SNÔ, Arkwright X og Investinor på reisen videre."
+ingress = "I en fersk emisjon får vi med oss SNÔ, Arkwright X og Investinor på reisen videre."
 showmainimg = false
 tags = ["Arkwright X", "Investinor", "SNÖ", "Emisjon", "Smart kapital"]
 title = "Vi henter smart kapital for å vokse videre"
 
 +++
 ![](/images/Investorer - Snö - Arkwright-X - Investinor.png)
+
+#### Smart kapital for å skalere Ignite Analytics
 
 Vi posisjonerer oss for videre vekst og henter 8 millioner kroner i smart kapital. Kapitalen skal bidra til å skalere Ignite Analytics.
 
