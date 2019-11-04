@@ -76,6 +76,7 @@ fields:
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
 pages:
+- content/blogg/nyheter/anskaffelseskonferansen-2019.md
 - content/blogg/innsikt/8-virkemidler-for-å-redusere-innkjøpskostnadene.md
 - content/blogg/nyheter/gumpen-gruppen-ignite-analytics-sant.md
 - content/blogg/innsikt/bruk-dataen-din-til-å-ta-bedre-beslutninger.md
