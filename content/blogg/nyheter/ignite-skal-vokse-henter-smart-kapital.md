@@ -10,9 +10,9 @@ tags = ["Arkwright X", "Investinor", "SNÖ", "Emisjon", "Smart kapital"]
 title = "Vi henter smart kapital for å vokse videre"
 
 +++
-henter 8 millioner kroner, og transaksjonen verdsetter selskapet til 56 millioner kroner.
-
 ![](/images/Investorer - Snö - Arkwright-X - Investinor.png)
+
+Vi posisjonerer oss for videre vekst og henter 8 millioner kroner i smart kapital. Transaksjonen verdsetter selskapet til 56 millioner kroner.
 
 Selskapet henter 8 millioner kroner, og transaksjonen verdsetter selskapet til 56 millioner kroner.
 
