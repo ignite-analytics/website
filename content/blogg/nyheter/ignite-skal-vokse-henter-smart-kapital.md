@@ -14,12 +14,15 @@ title = "Vi henter smart kapital for å vokse videre"
 
 #### Smart kapital for å skalere Ignite Analytics
 
-Vi posisjonerer oss for videre vekst og henter 8 millioner kroner i smart kapital. Kapitalen skal bidra til å skalere Ignite Analytics.
+Vi posisjonerer oss for videre vekst og henter 8 millioner kroner i smart kapital. Kapitalen skal bidra til å skalere Ignite Analytics - vår unike løsning for strategisk innkjøp. 
 
-Selskapet ble etablert våren 2016 av Sigbjørn Nome og Børge Langedal.  
-Det innebærer at gründerselskapet har hatt en verdiutvikling fra null til 56 millioner kroner på tre og et halvt år.
+> Ignite Analytics legger til rette for at selskaper effektivt skal kunne jobbe strategisk og faktabasert med innkjøpskostnadene sine. Dermed kan de både forbedre lønnsomheten og spare tid i hverdagen, sier Sigbjørn Nome, daglig leder i Ignite Procurement.
 
-Ignite utvikler og selger Ignite Analytics, som brukes til å analysere selskapers innkjøp.  
+Dette betyr blant annet utvikling av ny funksjonalitet og rekruttering av flere ansatte.
+
+Ignite Analytics støtter den strategiske innkjøpsprosessen. 
+
+, som brukes til å analysere selskapers innkjøp.  
 Som konsulenter i BCG jaget gründerne kostnader for norske bedrifter, og de ble eksperter på å analysere kostnader forbundet med innkjøp.  
 – Ideen med Ignite Analytics er å legge til rette for at selskaper effektivt skal kunne jobbe strategisk og faktabasert med innkjøpskostnadene sine. Dermed kan de både forbedre lønnsomheten og spare tid i hverdagen, sier Nome.  
 Programvareutviklingen er blitt finansiert ved at gründerne har jobbet som konsulenter på innkjøpsområdet. Der har de selv brukt verktøyet, i tillegg til at de har fått støtte fra Innovasjon Norge og Skattefunn.  
