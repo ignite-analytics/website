@@ -1,9 +1,8 @@
 +++
 author = "Ignite"
 categories = ["Nyheter"]
-date = 2019-11-04T17:49:01Z
-draft = true
-image = "/images/Investorer - Snö - Arkwright-X - Investinor.png"
+date = 2019-11-07T17:49:01Z
+image = "/images/Ignite henter kapital - SNÖ, Arkwright X og Investinor.jpg"
 ingress = "I en fersk emisjon får vi med oss SNÖ, Arkwright X og Investinor på reisen videre."
 showmainimg = false
 tags = ["Arkwright X", "Investinor", "SNÖ", "Emisjon", "Smart kapital", "Ignite Analytics", "Skalering"]
@@ -20,9 +19,9 @@ Programvareutviklingen er så langt blitt finansiert gjennom konsulentoppdrag p�
 
 > I dag er kjerneproduktet vårt Ignite Analytics, som selges på lisensbasis. Vi opplever en stadig økende etterspørsel etter produktet, der eksempelvis OBOS, AF Gruppen, Implenia, Felleskjøpet og Miljødirektoratet er blant kundene, fortsetter Nome.
 
-#### ![SNÖ, Arkwright X og Investinor blir investorer i Ignite Procurement](/images/Investorer - Snö - Arkwright-X - Investinor.png "SNÖ, Arkwright X og Investinor")
+![Artikkel fra Finansavisen: Ignite Procurement henter smart kapital](/images/Ignite henter kapital - SNÖ, Arkwright X og Investinor.jpg "Ignite Procurement henter smart kapital")
 
-SNÖ, Arkwright X og Investinor blir nå med oss på reisen videre.
+[SNÖ](https://sno.vc/ "SNÖ"), [Arkwright X](https://arkwrightx.no/ "Arkwright X") og [Investinor](https://www.investinor.no/ "Investinor") blir nå med oss på reisen videre.
 
 > Vi er strålende fornøyd med investorene vi har fått med. Pengene vil gå til å ansette flere, slik at vi kan videreutvikle produktet, sikre kundesuksess og ekspandere i og utenfor Norge, sier Børge Langedal, Sales & Customer Success Director i Ignite Procurement.
 
@@ -33,6 +32,8 @@ Selve emisjonsrunden ble overtegnet, noe som medførte at vi måtte si nei til f
 Vi var nylig i Amsterdam på «[Digital Procurement World](https://www.ignite.no/blogg/innsikt/key-takeaways-fra-digital-procurement-world-2019/ "Seks erfaringer fra DPW 2019")», og har etter konferansen fått forespørsler fra virksomheter i Australia, Sør-Amerika og hele Europa – hvor flere nå tester verktøyet.
 
 > Lykkes vi med skaleringen er mulighetene enorme. Vi får ukentlige henvendelser fra internasjonale VC og PE-fond, og planlegger en betydelig større runde i løpet av 12-18 måneder, avslutter Nome.
+
+![SNÖ, Arkwright X og Investinor investerer i Ignite Procurement](/images/Investorer - Snö - Arkwright-X - Investinor.png "SNÖ, Arkwright X og Investinor investerer i Ignite Procurement")
 
 #### De nye investorene gir gode skussmål
 
