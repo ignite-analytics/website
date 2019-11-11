@@ -2,11 +2,10 @@
 author = "Ignite"
 categories = ["Innsikt"]
 date = 2019-11-11T15:34:13Z
-draft = true
 image = "/images/Ignite Analytics - utvalgte kunder-1.png"
 ingress = "Forrige uke annonserte vi at vi får flere investorer med på laget. Disse investorene, og de andre vi har vært i dialog med, har alle sett hvilket enormt potensial som ligger i en moderne innkjøpsfunksjon, og hvilken rolle Ignite Analytics kan spille."
 showmainimg = false
-tags = []
+tags = ["Innkjøpsfunksjon", "Ignite Analytics", "Innkjøpsdata", "Automatisering", "Økt transparens"]
 title = "Fremtidens innkjøpsfunksjon – hvor er vi på vei?"
 
 +++
