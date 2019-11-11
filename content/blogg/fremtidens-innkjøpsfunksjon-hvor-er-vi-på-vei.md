@@ -1,6 +1,6 @@
 +++
 author = "Ignite"
-categories = ["Innsikt"]
+categories = ["Nyheter"]
 date = 2019-11-11T13:25:03Z
 draft = true
 image = "/images/Ignite Analytics - utvalgte kunder.png"
