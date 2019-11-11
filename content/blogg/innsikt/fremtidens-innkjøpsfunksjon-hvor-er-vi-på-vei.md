@@ -18,7 +18,7 @@ Nå ønsker vi å få med flere fremoverlente selskaper på denne reisen. En rei
 
 #### 1. Bruk av data gjennom hele innkjøpsprosessen
 
-Data sies å være den nye oljen, og det er dessverre altfor få som i dag utnytter gullstandarden på datafronten, nemlig transaksjonsdataen. Med økt standardisering innenfor området gjennom elektroniske fakturaer er mulighetene til stede for å gå enda dypere og hente ut mer verdi. Vi i Ignite skal bidra til at din transaksjonsdata på en sikker måte gir verdifull innsikt, og at denne på en enkel måte kan brukes gjennom hele den strategiske innkjøpsprosessen.
+Data sies å være den nye oljen, og det er dessverre altfor få som i dag utnytter gullstandarden på datafronten, nemlig [innkjøpsdataen](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Du kan få mer ut av dataen din enn du tror! I dette innlegget ser vi nærmere på de mest vanlige kildene for innkjøpsdata."). Med økt standardisering på området, for eksempel bruk av elektroniske fakturaer, er mulighetene til stede for å gå dypere og hente ut mer verdi. Vi skal bidra til at du får verdifull innsikt fra dataene dine - på en sikker måte. Samtidig vil vi legge til rette for at dataen på en enkel måte kan brukes gjennom hele den strategiske innkjøpsprosessen.
 
 #### 2. Automatisering av rutinearbeid – fokus på verdiskapende aktiviteter
 
