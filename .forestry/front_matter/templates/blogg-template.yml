@@ -76,6 +76,7 @@ fields:
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
 pages:
+- content/blogg/innsikt/fremtidens-innkjøpsfunksjon-hvor-er-vi-på-vei.md
 - content/blogg/fremtidens-innkjøpsfunksjon-hvor-er-vi-på-vei.md
 - content/blogg/nyheter/ignite-skal-vokse-henter-smart-kapital.md
 - content/blogg/nyheter/anskaffelseskonferansen-2019.md
