@@ -14,7 +14,7 @@ Som man kunne lese i Finansavisen og Shifter forrige uke, har vi fått med oss [
 
 Mye av grunnen til at investorene har vist oss tillit, skyldes at fremoverlente selskaper, som eksempelvis OBOS og AF Gruppen, turte å ta sjansen på oss før vi hadde et ferdigutviklet produkt. Vårt tette samarbeid med disse aktørene har vært helt kritisk for at vi har kommet dit vi er i dag. Samarbeidet med OBOS ble presentert av Eiliv Liljevik, avdelingsdirektør for strategi og IT, på [Anskaffelseskonferansen 2019](https://vimeo.com/369514581 "Anskaffelseskonferansen 2019 - Vi drukner i data - vi må lære å svømme!"), og du kan lese mer om samarbeidet med AF Gruppen i [Shifter-artikkelen](https://shifter.no/selvfinansiert-innkjopsplattform-ble-investoryndling-hentet-storkundene-for-de-hentet-kapitalen/168642 "«Selvfinansiert» innkjøpsplattform ble investoryndling: Hentet storkundene før de hentet kapitalen").
 
-Nå ønsker vi å få med flere fremoverlente selskaper på denne reisen. En reise hvor vi sammen arbeider for å digitalisere innkjøpsfunksjonen og bidrar til at innkjøp blir en av de største verdiskaperne i virksomheten. Vi tror denne reisen kommer til å dreie seg rundt tre viktige områder, der Ignite Analytics kan være en katalysator å drive frem endringene på alle områdene.
+Nå ønsker vi å få med flere fremoverlente selskaper på denne reisen. En reise hvor vi sammen arbeider for å digitalisere innkjøpsfunksjonen og bidrar til at innkjøp blir en av de største verdiskaperne i virksomheten. Vi tror denne reisen kommer til å dreie seg rundt tre  områder, der Ignite Analytics kan være en katalysator for å drive frem endringene på alle områdene.
 
 #### 1. Bruk av data gjennom hele innkjøpsprosessen
 
