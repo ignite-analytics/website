@@ -30,4 +30,10 @@ Med bruk av teknologien som er tilgjengelig kan mye av rutinearbeidet på innkj�
 
 #### 3. Økt transparens i B2B-markedet
 
-I B2C-markedet ser du tjenester som prisjakt.no, Trivago og Tripadvisor som gir realtidsinformasjon om pris og kvalitet fra ulike tilbydere. Vi tror B2B-markedet vil bevege seg i samme retning som B2C med at informasjon blir mer transparent. Vi i Ignite skal bidra på dette området, og med dette bidra til å oppnå vår visjon om å sikre at seriøse og konkurransedyktige samarbeidspartnere blir prioritert.
+I B2C-markedet finner man tjenester som Prisjakt.no, Trivago og Tripadvisor. Alle gir verdifull realtidsinformasjon om pris og kvalitet fra ulike tilbydere. Vi tror B2B-markedet vil bevege seg i tilsvarende retning, der denne typen informasjon blir enda mer transparent for brukerne. Sammen med dere skal Ignite være en aktiv bidragsyter for å sikre at seriøse og konkurransedyktige samarbeidspartnere blir prioriterte!
+
+***
+
+_Få mer informasjon om funksjonaliteten i Ignite Analytics og hvordan plattformen kan hjelpe deg og din virksomhet!_
+
+[![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
