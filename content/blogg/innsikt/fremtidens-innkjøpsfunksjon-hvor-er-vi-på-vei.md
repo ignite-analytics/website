@@ -16,7 +16,7 @@ En viktig grunn til at investorene har vist oss tillit, skyldes at fremoverlente
 
 ![Utvalgte Ignite Analytics-kunder](/images/Ignite Analytics - utvalgte kunder.png "Utvalgte Ignite Analytics-kunder")
 
-Nå ønsker vi å få med flere fremoverlente selskaper på denne reisen. En reise hvor vi sammen arbeider for å digitalisere innkjøpsfunksjonen og bidrar til at innkjøp blir en av de største verdiskaperne i virksomheten. Vi tror denne reisen kommer til å dreie seg rundt tre  områder, der [Ignite Analytics](https://www.ignite.no/ignite-analytics/ "Ignite Analytics") kan være en katalysator for å drive frem endringene på alle områdene.
+Nå ønsker vi å få med flere fremoverlente virksomheter på denne reisen. En reise hvor vi sammen arbeider for å digitalisere innkjøpsfunksjonen og bidrar til at innkjøp blir en av de største verdiskaperne i virksomheten. Vi tror denne reisen kommer til å dreie seg rundt tre  områder, der [Ignite Analytics](https://www.ignite.no/ignite-analytics/ "Ignite Analytics") kan være en katalysator for å drive frem endringene på alle områdene.
 
 #### 1. Bruk av data gjennom hele innkjøpsprosessen
 
@@ -30,7 +30,9 @@ Med bruk av teknologien som er tilgjengelig kan mye av rutinearbeidet på innkj�
 
 #### 3. Økt transparens i B2B-markedet
 
-I B2C-markedet finner man tjenester som Prisjakt.no, Trivago og Tripadvisor. Alle gir verdifull realtidsinformasjon om pris og kvalitet fra ulike tilbydere. Vi tror B2B-markedet vil bevege seg i tilsvarende retning, der denne typen informasjon blir enda mer transparent for brukerne. Sammen med dere skal Ignite være en aktiv bidragsyter for å sikre at seriøse og konkurransedyktige samarbeidspartnere blir prioriterte!
+I B2C-markedet finner man tjenester som Prisjakt.no, Trivago og Tripadvisor. Alle gir verdifull realtidsinformasjon om pris og kvalitet fra ulike tilbydere. Vi tror B2B-markedet vil bevege seg i tilsvarende retning, der denne typen informasjon blir enda mer transparent for brukerne. 
+
+Sammen med dere skal vi være en aktiv bidragsyter for å sikre at seriøse og konkurransedyktige samarbeidspartnere blir prioriterte.
 
 ***
 
