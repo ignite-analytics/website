@@ -22,11 +22,11 @@ Nå ønsker vi å få med flere fremoverlente selskaper på denne reisen. En rei
 
 Data sies å være den nye oljen, og det er dessverre altfor få som i dag utnytter gullstandarden på datafronten, nemlig [innkjøpsdataen](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Du kan få mer ut av dataen din enn du tror! I dette innlegget ser vi nærmere på de mest vanlige kildene for innkjøpsdata."). Med økt standardisering på området, for eksempel bruk av elektroniske fakturaer, er mulighetene til stede for å gå dypere og hente ut mer verdi. Vi skal bidra til at du får verdifull innsikt fra dataene dine - på en sikker måte. 
 
-Èn av utfordringene i dag er at datainformasjonen ofte ligger spredt og usystematisert. Gjerne i flere ulike løsninger og systemer som ikke «snakker sammen». Vi vil legge til rette for at dataen din på en enkel måte kan brukes gjennom hele den strategiske innkjøpsprosessen.
+Èn av utfordringene i dag er at datainformasjonen ofte ligger spredt og usystematisert. Gjerne i flere ulike løsninger og systemer som ikke «snakker sammen». Vi vil legge til rette for at alle dataene dine på en enkel måte kan brukes gjennom hele den strategiske innkjøpsprosessen.
 
 #### 2. Automatisering av rutinearbeid – fokus på verdiskapende aktiviteter
 
-Med bruk av teknologien som er tilgjengelig kan mye av rutinearbeidet innenfor innkjøpsområdet automatiseres. Historisk har dette først og fremst omfattet det operasjonelle innkjøpsarbeidet fra bestilling, fakturering til betaling. Vi ønsker å ta en ledende rolle globalt i automatiseringen innen det strategiske arbeidet, både med tanke på analyse, forespørsler, forhandling, kontraktshåndtering og prosjektoppfølging. Det vil føre til at innkjøpsfunksjonen kan gjøre mer av det som skaper mest verdi, nemlig utnytte tverrfaglig kompetanse i selskapet i tett dialog med leverandørmarkedet.
+Med bruk av teknologien som er tilgjengelig kan mye av rutinearbeidet på innkjøpsområdet automatiseres. Historisk har dette først og fremst omfattet det operasjonelle innkjøpsarbeidet - fra bestilling, fakturering og til betaling. Vi ønsker å ta en ledende rolle globalt i automatiseringen innen det strategiske arbeidet, og spesielt med tanke på analyse, forespørsler, forhandlinger, avtalestyring og prosjektoppfølging. Dette vil resultere i at innkjøpsfunksjonen kan fokusere mer på det som faktisk skaper verdi; å utnytte tverrfaglig kompetanse i virksomheten i tett dialog med leverandørmarkedet.
 
 #### 3. Økt transparens i B2B-markedet
 
