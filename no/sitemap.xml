@@ -423,7 +423,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/kategorisering/</loc>
+    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</loc>
     <lastmod>2019-10-09T08:03:11+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -431,14 +431,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/</loc>
-    <lastmod>2019-10-09T08:03:11+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</loc>
+    <loc>https://ignite.no/blogg/tag/kategorisering/</loc>
     <lastmod>2019-10-09T08:03:11+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -449,6 +442,13 @@
     <loc>https://ignite.no/blogg/tag/kategoristruktur/</loc>
     <lastmod>2019-10-09T08:03:11+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/</loc>
+    <lastmod>2019-10-09T08:03:11+00:00</lastmod>
   </url>
   
   
