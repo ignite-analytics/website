@@ -11,7 +11,7 @@ title = "Fremtidens innkjøpsfunksjon – hvor er vi på vei?"
 +++
 Som man kunne lese i Finansavisen og Shifter forrige uke, har vi fått med oss [SNÖ, Arkwright X og Investinor på eiersiden](https://www.ignite.no/blogg/nyheter/ignite-skal-vokse-henter-smart-kapital/ "Vi henter smart kapital for å vokse videre").
 
-En viktig grunn til at investorene har vist oss tillit, skyldes at fremoverlente selskaper, som eksempelvis OBOS og AF Gruppen, turte å ta sjansen på oss før vi hadde et ferdigutviklet produkt. Vårt tette samarbeid med disse aktørene har vært helt kritisk for at vi har kommet dit vi er i dag. Samarbeidet med OBOS ble presentert av Eiliv Liljevik, avdelingsdirektør for strategi og IT, på [Anskaffelseskonferansen 2019](https://vimeo.com/369514581 "Anskaffelseskonferansen 2019 - Vi drukner i data - vi må lære å svømme!"), og du kan lese mer om samarbeidet med AF Gruppen i [Shifter-artikkelen](https://shifter.no/selvfinansiert-innkjopsplattform-ble-investoryndling-hentet-storkundene-for-de-hentet-kapitalen/168642 "«Selvfinansiert» innkjøpsplattform ble investoryndling: Hentet storkundene før de hentet kapitalen").
+En viktig grunn til at investorene har vist oss tillit, skyldes at fremoverlente selskaper, som eksempelvis OBOS og AF Gruppen, turte å ta sjansen med et ungt startup-selskap. Vårt tette samarbeid med disse aktørene har vært helt kritisk for at vi har kommet dit vi er i dag. Samarbeidet med OBOS ble presentert av Eiliv Liljevik, avdelingsdirektør for strategi og IT, på [Anskaffelseskonferansen 2019](https://vimeo.com/369514581 "Anskaffelseskonferansen 2019 - Vi drukner i data - vi må lære å svømme!"), og du kan lese mer om samarbeidet med AF Gruppen i [Shifter-artikkelen](https://shifter.no/selvfinansiert-innkjopsplattform-ble-investoryndling-hentet-storkundene-for-de-hentet-kapitalen/168642 "«Selvfinansiert» innkjøpsplattform ble investoryndling: Hentet storkundene før de hentet kapitalen").
 
 ![Utvalgte Ignite Analytics-kunder](/images/Ignite Analytics - utvalgte kunder.png "Utvalgte Ignite Analytics-kunder")
 
@@ -19,7 +19,7 @@ Nå ønsker vi å få med flere fremoverlente virksomheter på denne reisen. En 
 
 #### 1. Bruk av data gjennom hele innkjøpsprosessen
 
-Data sies å være den nye oljen, og det er dessverre altfor få som i dag utnytter gullstandarden på datafronten, nemlig [innkjøpsdataen](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Du kan få mer ut av dataen din enn du tror! I dette innlegget ser vi nærmere på de mest vanlige kildene for innkjøpsdata."). Med økt standardisering på området, for eksempel bruk av elektroniske fakturaer, er mulighetene til stede for å gå dypere og hente ut mer verdi. Vi skal bidra til at du får verdifull innsikt fra dataene dine - på en sikker måte. 
+Data sies å være den nye oljen, og det er dessverre altfor få som i dag utnytter gullstandarden på datafronten, nemlig [innkjøpsdataen](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Du kan få mer ut av dataen din enn du tror! I dette innlegget ser vi nærmere på de mest vanlige kildene for innkjøpsdata."). Med økt standardisering på området, for eksempel bruk av elektroniske fakturaer, er mulighetene til stede for å gå dypere og hente ut mer verdi. Vi skal bidra til at du får verdifull innsikt fra dataene dine - på en sikker måte.
 
 Èn av utfordringene i dag er at datainformasjonen ofte ligger spredt og usystematisert. Gjerne i flere ulike løsninger og systemer som ikke «snakker sammen». Vi vil legge til rette for at alle dataene dine på en enkel måte kan brukes gjennom hele den strategiske innkjøpsprosessen.
 
@@ -29,7 +29,7 @@ Med bruk av teknologien som er tilgjengelig kan mye av rutinearbeidet på innkj�
 
 #### 3. Økt transparens i B2B-markedet
 
-I B2C-markedet finner man tjenester som Prisjakt.no, Trivago og Tripadvisor. Alle gir verdifull realtidsinformasjon om pris og kvalitet fra ulike tilbydere. Vi tror B2B-markedet vil bevege seg i tilsvarende retning, der denne typen informasjon blir enda mer transparent for brukerne. 
+I B2C-markedet finner man tjenester som Prisjakt.no, Trivago og Tripadvisor. Alle gir verdifull realtidsinformasjon om pris og kvalitet fra ulike tilbydere. Vi tror B2B-markedet vil bevege seg i tilsvarende retning, der denne typen informasjon blir enda mer transparent for brukerne.
 
 Sammen med dere skal vi være en aktiv bidragsyter for å sikre at seriøse og konkurransedyktige samarbeidspartnere blir prioriterte.
 
