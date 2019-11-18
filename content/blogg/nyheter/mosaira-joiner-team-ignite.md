@@ -24,9 +24,17 @@ I Telenor hadde hun blant annet en ledende rolle i gjennomføringen og implement
 
 > Et av de store prosjektene jeg jobbet med i Telenor, var implementeringen av et spendanalyse verktøy, fortsetter hun. Løsningen ble implementert på tvers av Telenors virksomheter globalt, der jeg blant annet var med på å bygge opp en egen analyseavdeling i Singapore.
 
-#### Ønsker å bidra til at flere virksomheter 
+#### Ønsker å bidra til at flere virksomheter lykkes på innkjøpsområdet
 
-Med sin 
+Mosaira har en master i matematikk og statistikk fra University of Leeds. Med sin sterke analytiske bakgrunn, i tillegg til erfaring fra implementering av innkjøpsløsninger, ønsker hun å bidra til at flere virksomheter lykkes på innkjøpsområdet.
+
+> Et av de viktigste kriteriene for å begynne i Ignite, er at jeg nå får muligheten til å hjelpe flere med å jobbe bedre og smartere med innkjøp, forklarer Mosaira. Ignite Analytics er en unik løsning for strategisk innkjøp som jeg tror mange virksomheter har et behov for - både bevisst og ubevisst - og som de vil dra stor nytte av. Kort fortalt legger løsningen til rette for innkjøp som en verdiskapende, strategisk funksjon i virksomheten.
+
+Hun legger heller ikke skjul på at å bli en del av et ungt, dyktig og ambisiøst team var en viktig vurderingsfaktor.
+
+> Det er en relativt stor forandring å gå fra et globalt selskap som Hydro, til et mindre startup-selskap som Ignite, utdyper Mosaira. Heldigvis var det god match og kjemi mellom meg og resten av teamet fra første stund. 
+
+Hun legger heller ikke skjul på at det også er spennende og utrolig lærerikt 
 
 D
 
