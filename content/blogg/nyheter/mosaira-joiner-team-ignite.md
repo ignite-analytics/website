@@ -34,6 +34,8 @@ Hun legger heller ikke skjul på at å bli en del av et ungt, dyktig og ambisiø
 
 > Det er en relativt stor forandring å gå fra et globalt selskap som Hydro, til et mindre startup-selskap som Ignite, utdyper Mosaira. Heldigvis var det god match og kjemi mellom meg og resten av teamet fra første stund. Jeg har stor tro på at vi skal lykkes, og gleder meg til å få være med å forme veien videre sammen med resten av teamet, avslutter hun.
 
+![](/images/Sigbjørn Nome.jpeg)
+
 Vi i Ignite er veldig stolte av at Mosaira nå er en del av teamet - og gleder oss til reisen videre sammen med henne.
 
 > Vi er veldig fornøyd med å ha fått med Mosaira på laget, sier Sigbjørn Nome, CEO i Ignite Procurement. Hun bringer med seg relevant erfaring fra innkjøp i store konsern, samt implementering av tilsvarende løsninger. Dette vil være gull verdt for oss i arbeidet med å strukturere prosessen rundt kundesuksess og skalere Ignite Analytics.
