@@ -111,15 +111,6 @@
     </item>
     
     <item>
-      <title>Bundling</title>
-      <link>https://ignite.no/blogg/tag/bundling/</link>
-      <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/bundling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Forbedre spesifikasjoner</title>
       <link>https://ignite.no/blogg/tag/forbedre-spesifikasjoner/</link>
       <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
@@ -174,20 +165,20 @@
     </item>
     
     <item>
-      <title>Strategiske partnere</title>
-      <link>https://ignite.no/blogg/tag/strategiske-partnere/</link>
-      <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/strategiske-partnere/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Virkemidler</title>
       <link>https://ignite.no/blogg/tag/virkemidler/</link>
       <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/virkemidler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bundling</title>
+      <link>https://ignite.no/blogg/tag/bundling/</link>
+      <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/bundling/</guid>
       <description></description>
     </item>
     
@@ -210,20 +201,20 @@
     </item>
     
     <item>
+      <title>strategiske partnere</title>
+      <link>https://ignite.no/blogg/tag/strategiske-partnere/</link>
+      <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/strategiske-partnere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gumpen Gruppen</title>
       <link>https://ignite.no/blogg/tag/gumpen-gruppen/</link>
       <pubDate>Wed, 23 Oct 2019 07:17:53 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/gumpen-gruppen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Innkjøpskategori</title>
-      <link>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</link>
-      <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</guid>
       <description></description>
     </item>
     
@@ -237,7 +228,16 @@
     </item>
     
     <item>
-      <title>Kategoristruktur</title>
+      <title>innkjøpskategori</title>
+      <link>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</link>
+      <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kategoristruktur</title>
       <link>https://ignite.no/blogg/tag/kategoristruktur/</link>
       <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
       
@@ -354,20 +354,20 @@
     </item>
     
     <item>
-      <title>Kompetanse</title>
-      <link>https://ignite.no/blogg/tag/kompetanse/</link>
-      <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/kompetanse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Teknologi</title>
       <link>https://ignite.no/blogg/tag/teknologi/</link>
       <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/teknologi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kompetanse</title>
+      <link>https://ignite.no/blogg/tag/kompetanse/</link>
+      <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/kompetanse/</guid>
       <description></description>
     </item>
     
@@ -381,7 +381,7 @@
     </item>
     
     <item>
-      <title>Platform engineers</title>
+      <title>Platform Engineers</title>
       <link>https://ignite.no/blogg/tag/platform-engineers/</link>
       <pubDate>Mon, 23 Sep 2019 11:40:08 +0000</pubDate>
       
