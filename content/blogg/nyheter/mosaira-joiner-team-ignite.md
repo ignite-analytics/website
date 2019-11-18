@@ -40,6 +40,6 @@ Vi i Ignite er veldig stolte av at Mosaira nå er en del av teamet - og gleder o
 
 ***
 
-_Ignite Analytics hjelper deg med å spare tid og forbedre lønnsomheten for din virksomhet. Oppdag kraften i strategisk innkjøp gjort digitalt!_
+_Få mer informasjon om funksjonaliteten i Ignite Analytics og hvordan plattformen kan hjelpe deg og din virksomhet!_
 
-[![](https://www.ignite.no/images/Pr%C3%B8v%20Ignite%20Analytics%20-%201200%20x100.png)](https://www.ignite.no/ignite-analytics/demo/ "Prøv Ignite Analytics")
+[![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
