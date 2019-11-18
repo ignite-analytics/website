@@ -30,9 +30,9 @@ Mosaira har en master i matematikk og statistikk fra University of Leeds. Med si
 
 > Et av de viktigste kriteriene for å begynne i Ignite, er at jeg nå får muligheten til å hjelpe flere med å jobbe bedre og smartere med innkjøp, forklarer Mosaira. Ignite Analytics er en unik løsning for strategisk innkjøp som jeg tror mange virksomheter har et behov for - både bevisst og ubevisst - og som de vil dra stor nytte av. Kort fortalt legger løsningen til rette for innkjøp som en verdiskapende, strategisk funksjon i virksomheten.
 
-Hun legger heller ikke skjul på at å bli en del av et ungt, dyktig og ambisiøst team var en viktig vurderingsfaktor.
+Hun legger heller ikke skjul på at å bli en del av et ungt, dyktig og ambisiøst miljø var en viktig vurderingsfaktor.
 
-> Det er en relativt stor forandring å gå fra et globalt selskap som Hydro, til et mindre startup-selskap som Ignite, utdyper Mosaira. Heldigvis var det god match og kjemi mellom meg og resten av teamet fra første stund. Jeg har stor tro på at vi skal lykkes og gleder meg til å få være med å forme veien videre sammen med resten av teamet, avslutter hun.
+> Det er en relativt stor forandring å gå fra et globalt selskap som Hydro, til et mindre startup-selskap som Ignite, utdyper Mosaira. Heldigvis var det god match og kjemi mellom meg og resten av teamet fra første stund. Jeg har stor tro på at vi skal lykkes, og gleder meg til å få være med å forme veien videre sammen med resten av teamet, avslutter hun.
 
 Vi i Ignite er veldig stolte av at Mosaira nå er en del av teamet - og gleder oss til reisen videre sammen med henne.
 
