@@ -18,7 +18,7 @@ Mosaira er det nyeste medlemmet av teamet. Fra november i år startet hun som Cu
 
 Mosaira har solid erfaring med innkjøpsrelaterte problemstillinger fra store, globale selskaper som Hydro og Telenor. Hun begynner hos oss etter å ha jobbet som Procurement Business Analyst hos Hydro på selskapets hovedkontor i Oslo.
 
-> I Hydro og Telenor jobbet jeg hovedsaklig med innkjøp, og spesielt hvordan man kan utnytte innkjøpsdataen til å drive gode, faktabaserte beslutninger i hele virksomheten, sier Mosaira. Selv store selskaper som Hydro og Telenor har, i likhet med mange andre virksomheter, et forbedringspotensial til å benytte data bedre i innkjøpsprosessene.
+> I Hydro og Telenor jobbet jeg hovedsakelig med innkjøp, og spesielt hvordan man kan utnytte innkjøpsdataen til å drive gode, faktabaserte beslutninger i hele virksomheten, sier Mosaira. De fleste virksomheter - både store og små - har et betydelig forbedringspotensial til å benytte data bedre i innkjøpsprosessene.
 
 I Telenor hadde hun blant annet en ledende rolle i gjennomføringen og implementeringen av et digitalt innkjøpsverktøy for hele konsernet.
 
