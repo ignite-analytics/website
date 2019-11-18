@@ -76,6 +76,7 @@ fields:
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
 pages:
+- content/blogg/nyheter/mosaira-joiner-team-ignite.md
 - content/blogg/innsikt/fremtidens-innkjøpsfunksjon-hvor-er-vi-på-vei.md
 - content/blogg/nyheter/kruse-smith-ignite-lisensavtale-for-bruk-av-ignite-analytics-1.md
 - content/blogg/nyheter/vi-skal-vokse-og-trenger-flere-med-på-laget.md
