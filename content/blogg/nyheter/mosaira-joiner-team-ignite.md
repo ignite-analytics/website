@@ -22,7 +22,7 @@ Mosaira har solid erfaring med innkjøpsrelaterte problemstillinger fra store, g
 
 I Telenor hadde hun blant annet en ledende rolle i gjennomføringen og implementeringen av et digitalt innkjøpsverktøy for hele konsernet.
 
-> Et av de store prosjektene jeg jobbet med i Telenor, var implementeringen av et spendanalyse- og besparelsesverktøy, fortsetter hun. Løsningen ble implementert på tvers av Telenors virksomheter globalt, der jeg blant annet var med på å bygge opp en analyseavdeling i Singapore.
+> Et av de store prosjektene jeg jobbet med i Telenor, var implementeringen av et spendanalyse- og besparelsesverktøy, fortsetter hun. Løsningen ble implementert på tvers av Telenors virksomheter globalt, der jeg blant annet var med på å bygge opp et innkjøpsselskap og analyseteam i Singapore.
 
 #### Ønsker å bidra til at flere virksomheter lykkes på innkjøpsområdet
 
