@@ -10,4 +10,8 @@ tags = ["Mosaira Rhodes", "Ansatte", "Customer Success", "Ignite Analytics"]
 title = "Mosaira joiner team Ignite!"
 
 +++
-Mosaira er det nyeste medlemmet av teamet. Fra november i år startet hun som Customer Success Manager hos oss.
+Mosaira er det nyeste medlemmet av teamet. Fra begynnelsen av november i år startet hun som Customer Success Manager hos Ignite.
+
+**BILDE**
+
+#### Erfaring fra Telenor og Hydro
