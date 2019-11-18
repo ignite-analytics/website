@@ -14,7 +14,7 @@ Mosaira er det nyeste medlemmet av teamet. Fra begynnelsen av november i år sta
 
 **BILDE**
 
-#### Innkjøpskompetanse med erfaring fra Telenor og Hydro
+#### Innkjøpskompetanse med erfaring fra Hydro og Telenor
 
 Mosaira har solid erfaring med innkjøpsrelaterte problemstillinger fra store, globale selskaper som Hydro og Telenor. Hun begynner hos oss etter å ha jobbet som Procurement Business Analyst hos Hydro på selskapets hovedkontor i Oslo.
 
@@ -32,7 +32,11 @@ Mosaira har en master i matematikk og statistikk fra University of Leeds. Med si
 
 Hun legger heller ikke skjul på at å bli en del av et ungt, dyktig og ambisiøst team var en viktig vurderingsfaktor.
 
-> Det er en relativt stor forandring å gå fra et globalt selskap som Hydro, til et mindre startup-selskap som Ignite, utdyper Mosaira. Heldigvis var det god match og kjemi mellom meg og resten av teamet fra første stund. 
+> Det er en relativt stor forandring å gå fra et globalt selskap som Hydro, til et mindre startup-selskap som Ignite, utdyper Mosaira. Heldigvis var det god match og kjemi mellom meg og resten av teamet fra første stund. Jeg har stor tro på at vi skal lykkes og gleder meg til å få være med å forme veien videre sammen med resten av teamet, avslutter hun.
+
+Vi i Ignite er veldig stolte av å få med oss Mosira på laget - og gleder oss til reisen videre sammen med henne.
+
+> Vi er veldig fornøyd med å ha fått med Mosaira på laget. Hun bringer med seg nyttig erfaring fra innkjøp i store konsern som Telenor og Hydro, og implementering av tilsvarende løsninger. Det vil være gull verdt for oss fremover i vårt arbeid med å strukturere prosessen rundt kundesuksess og skalere løsningen.
 
 Hun legger heller ikke skjul på at det også er spennende og utrolig lærerikt 
 
