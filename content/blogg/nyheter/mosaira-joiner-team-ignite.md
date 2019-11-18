@@ -36,7 +36,7 @@ Hun legger heller ikke skjul på at å bli en del av et ungt, dyktig og ambisiø
 
 ![](/images/Sigbjørn Nome.jpeg)
 
-Vi i Ignite er veldig stolte av at Mosaira nå er en del av teamet - og gleder oss til reisen videre sammen med henne.
+Vi i Ignite er veldig stolte av at Mosaira nå er en del av teamet - og gleder oss til å ha henne med på reisen videre.
 
 > Vi er veldig fornøyd med å ha fått med Mosaira på laget, sier Sigbjørn Nome, CEO i Ignite Procurement. Hun bringer med seg relevant erfaring fra innkjøp i store konsern, samt implementering av tilsvarende løsninger. Dette vil være gull verdt for oss i arbeidet med å strukturere prosessen rundt kundesuksess og skalere Ignite Analytics.
 
