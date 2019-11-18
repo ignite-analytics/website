@@ -26,7 +26,7 @@ I Telenor hadde hun blant annet en ledende rolle i gjennomføringen og implement
 
 #### Ønsker å bidra til at flere virksomheter lykkes på innkjøpsområdet
 
-Mosaira har en master i matematikk og statistikk fra University of Leeds. Med sin sterke analytiske bakgrunn, i tillegg til erfaring fra implementering av innkjøpsløsninger, ønsker hun å bidra til at flere virksomheter lykkes på innkjøpsområdet.
+Mosaira har en master i matematikk fra University of Leeds. Med sin sterke analytiske bakgrunn, i tillegg til erfaring fra implementering av innkjøpsløsninger, ønsker hun å bidra til at flere virksomheter lykkes på innkjøpsområdet.
 
 > Et av de viktigste kriteriene for å begynne i Ignite, er at jeg nå får muligheten til å hjelpe flere med å jobbe bedre og smartere med innkjøp, forklarer Mosaira. Ignite Analytics er en unik løsning for strategisk innkjøp som jeg tror mange virksomheter har et behov for - både bevisst og ubevisst - og som de vil dra stor nytte av. Kort fortalt legger løsningen til rette for innkjøp som en verdiskapende, strategisk funksjon i virksomheten.
 
