@@ -3,7 +3,7 @@ author = "Ignite"
 categories = ["Nyheter"]
 date = 2019-11-18T13:35:21Z
 draft = true
-image = ""
+image = "/images/Mosaira Rhodes-1.jpg"
 ingress = "Bli bedre kjent med det nyeste tilskuddet til Ignite Procurement, Mosaira Rhodes, og hva hun jobber med hos oss."
 showmainimg = false
 tags = ["Mosaira Rhodes", "Ansatte", "Customer Success", "Ignite Analytics"]
@@ -11,6 +11,8 @@ title = "Mosaira joiner team Ignite!"
 
 +++
 Mosaira er det nyeste medlemmet av teamet. Fra november i år startet hun som Customer Success Manager hos Ignite.
+
+![](/images/Mosaira Rhodes.jpg)
 
 #### Innkjøpskompetanse med erfaring fra Hydro og Telenor
 
