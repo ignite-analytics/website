@@ -2,7 +2,7 @@
 date = 2018-12-16T13:24:18Z
 description = ""
 hidden = true
-image = "/images/Mosaira Rhodes.jpg"
+image = "/images/Mosaira Rhodes-2.jpg"
 position = "Customer Success Manager"
 title = "Mosaira Rhodes"
 weight = "5"
