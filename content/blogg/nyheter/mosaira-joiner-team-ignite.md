@@ -12,8 +12,6 @@ title = "Mosaira joiner team Ignite!"
 +++
 Mosaira er det nyeste medlemmet av teamet. Fra november i år startet hun som Customer Success Manager hos Ignite.
 
-**BILDE**
-
 #### Innkjøpskompetanse med erfaring fra Hydro og Telenor
 
 Mosaira har solid erfaring med innkjøpsrelaterte problemstillinger fra store, globale selskaper som Hydro og Telenor. Hun begynner hos oss etter å ha jobbet som Procurement Business Analyst hos Hydro på selskapets hovedkontor i Oslo.
