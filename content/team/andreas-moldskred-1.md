@@ -1,11 +1,10 @@
 +++
 date = 2018-12-16T13:24:18Z
 description = ""
-draft = true
 hidden = true
 image = "/images/Mosaira Rhodes.jpg"
 position = "Customer Success Manager"
-title = "Andreas Moldskred"
+title = "Mosaira Rhodes"
 weight = "5"
 
 +++
