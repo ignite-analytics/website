@@ -2,7 +2,6 @@
 author = "Ignite"
 categories = ["Nyheter"]
 date = 2019-11-18T13:35:21Z
-draft = true
 image = "/images/Mosaira Rhodes-1.jpg"
 ingress = "Bli bedre kjent med det nyeste tilskuddet til Ignite Procurement, Mosaira Rhodes, og hva hun jobber med hos oss."
 showmainimg = false
