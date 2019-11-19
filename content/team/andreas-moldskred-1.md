@@ -3,10 +3,10 @@ date = 2018-12-16T13:24:18Z
 description = ""
 draft = true
 hidden = true
-image = "/images/team/Andreas Moldskred.jpg"
-position = "Platform Engineer"
+image = "/images/Mosaira Rhodes.jpg"
+position = "Customer Success Manager"
 title = "Andreas Moldskred"
-weight = "16"
+weight = "5"
 
 +++
 <a class="phoneto" href="tel:+47 993 89 920"><i class="fas fa-phone"></i>+47 993 89 920</a>
