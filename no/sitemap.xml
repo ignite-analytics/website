@@ -164,8 +164,8 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/automatisering/</loc>
-    <lastmod>2019-11-11T15:34:13+00:00</lastmod>
+    <loc>https://ignite.no/blogg/tag/ansatte/</loc>
+    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -173,7 +173,7 @@
   
   <url>
     <loc>https://ignite.no/blogg/</loc>
-    <lastmod>2019-11-11T15:34:13+00:00</lastmod>
+    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -181,7 +181,7 @@
   
   <url>
     <loc>https://ignite.no/categories/</loc>
-    <lastmod>2019-11-11T15:34:13+00:00</lastmod>
+    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -198,15 +198,16 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/innsikt/fremtidens-innkj%C3%B8psfunksjon-hvor-er-vi-p%C3%A5-vei/</loc>
-    <lastmod>2019-11-11T15:34:13+00:00</lastmod>
+    <loc>https://ignite.no/blogg/tag/customer-success/</loc>
+    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   
   
   <url>
     <loc>https://ignite.no/blogg/tag/ignite-analytics/</loc>
-    <lastmod>2019-11-11T15:34:13+00:00</lastmod>
+    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -214,7 +215,7 @@
   
   <url>
     <loc>https://ignite.no/</loc>
-    <lastmod>2019-11-11T15:34:13+00:00</lastmod>
+    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -231,16 +232,23 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8psdata/</loc>
-    <lastmod>2019-11-11T15:34:13+00:00</lastmod>
+    <loc>https://ignite.no/blogg/tag/mosaira-rhodes/</loc>
+    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   
   
   <url>
-    <loc>https://ignite.no/blogg/innsikt/</loc>
-    <lastmod>2019-11-11T15:34:13+00:00</lastmod>
+    <loc>https://ignite.no/blogg/nyheter/mosaira-joiner-team-ignite/</loc>
+    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/nyheter/</loc>
+    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -248,7 +256,7 @@
   
   <url>
     <loc>https://ignite.no/tags/</loc>
-    <lastmod>2019-11-11T15:34:13+00:00</lastmod>
+    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -260,6 +268,37 @@
                 hreflang="no"
                 href="https://ignite.no/tags/"
                 />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/automatisering/</loc>
+    <lastmod>2019-11-11T15:34:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/innsikt/fremtidens-innkj%C3%B8psfunksjon-hvor-er-vi-p%C3%A5-vei/</loc>
+    <lastmod>2019-11-11T15:34:13+00:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/innkj%C3%B8psdata/</loc>
+    <lastmod>2019-11-11T15:34:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/innsikt/</loc>
+    <lastmod>2019-11-11T15:34:13+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   
@@ -298,14 +337,6 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/investinor/</loc>
-    <lastmod>2019-11-07T17:49:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/nyheter/</loc>
     <lastmod>2019-11-07T17:49:01+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -613,14 +644,6 @@
   <url>
     <loc>https://ignite.no/blogg/nyheter/andreas-og-tord-velkommen-til-team-ignite/</loc>
     <lastmod>2019-09-23T11:40:08+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/ansatte/</loc>
-    <lastmod>2019-09-23T11:40:08+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   
