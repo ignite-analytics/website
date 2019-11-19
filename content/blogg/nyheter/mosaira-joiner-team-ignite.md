@@ -41,6 +41,6 @@ Vi i Ignite er veldig stolte av at Mosaira nå er en del av teamet - og gleder o
 
 ***
 
-_Få mer informasjon om funksjonaliteten i Ignite Analytics og hvordan plattformen kan hjelpe deg og din virksomhet!_
+Få mer informasjon om funksjonaliteten i Ignite Analytics og hvordan plattformen kan hjelpe deg og din virksomhet!
 
 [![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
