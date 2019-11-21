@@ -22,10 +22,10 @@ subcontent:
       mulighetene og risikoene i din leverandørbase
   item3:
     image: "/images/infographics/setup.svg"
-    keyword: Implement.
+    keyword: Implementer.
     heading: Gjennomfør forbedringstiltak
-    text: Reforhandlinger og forespørselsprosesser basert på en velprøvd tilnærming
-      er klare til å implementeres - enkelt og effektivt
+    text: Hold oversikten over pågående innkjøpsaktiviteter, gjennomfør forespørsler
+      og reforhandlinger - enkelt og effektivt
   item4:
     image: "/images/infographics/spend.svg"
     keyword: Follow-up.
