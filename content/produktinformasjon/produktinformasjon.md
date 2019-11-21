@@ -28,10 +28,10 @@ subcontent:
       og reforhandlinger - enkelt og effektivt
   item4:
     image: "/images/infographics/spend.svg"
-    keyword: Follow-up.
+    keyword: Følg opp.
     heading: Følg opp utviklingen i innkjøpet
-    text: KPIer og avtalestyring gir deg alt du trenger for å systematisk følge opp
-      kjøpet, leverandører og avtaler over tid
+    text: Avtalestyring, KPIer og måling av besparelser gir deg alt du trenger for
+      å systematisk følge opp innkjøpet over tid
 hidden: true
 
 ---
