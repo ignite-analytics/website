@@ -29,9 +29,9 @@ subcontent:
   item4:
     image: "/images/infographics/spend.svg"
     keyword: Follow-up.
-    heading: Track spend development
-    text: KPIs and contract management provides you with all you need to systematically
-      track spend, suppliers and contracts
+    heading: Track your procurement progress
+    text: Contract management, KPIs and savings tracker provides you with all you
+      need to systematically track procurement progress
 hidden: true
 
 ---
