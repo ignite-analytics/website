@@ -24,8 +24,8 @@ subcontent:
     image: "/images/infographics/setup.svg"
     keyword: Implement.
     heading: Execute improvement measures
-    text: Renegotiations and tender processes based on a battle-proven approach are
-      ready for efficient implementation
+    text: Keep track of ongoing procurement activities, manage tenders and renegotiate
+      - easily and efficiently
   item4:
     image: "/images/infographics/spend.svg"
     keyword: Follow-up.
