@@ -1,7 +1,7 @@
 ---
 title: Ignite Analytics – Transform your spend data into insights and results
 mainheading: Transform your spend data into insights and results with Ignite
-description: Spend analysis and implementation of strategic procurement decisions
+description: Spend analytics and implementation of strategic procurement decisions
   has never been easier and more accessible
 date: 2018-12-16T14:31:35.000+00:00
 image: "/images/infographics/dashboard2.svg"
