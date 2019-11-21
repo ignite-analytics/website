@@ -10,10 +10,10 @@ image: "/images/infographics/oversikt.svg"
 ---
 <ul>
 
-<li> Fleksibel kategorisering</li>
+<li> Innkjøps- og spendanalyser</li>
 
-<li> Automatiserte innkjøpsanalyser</li>
+<li> Widgets og dashboards</li>
 
-<li> Egne analyser og dashboards</li>
+<li> Full fleksibilitet</li>
 
 </ul>
