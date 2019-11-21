@@ -16,7 +16,7 @@ subcontent:
       og utvikling
   item2:
     image: "/images/infographics/risiko.svg"
-    keyword: Prioritize.
+    keyword: Prioriter.
     heading: Identifiser muligheter og risikoer
     text: Med intelligent databerikelse kan du umiddelbart identifisere de største
       mulighetene og risikoene i din leverandørbase
