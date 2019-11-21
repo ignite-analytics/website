@@ -27,7 +27,7 @@ sections:
   path: content/produktinformasjon
   label: Produktinformasjon
   create: all
-  match: "**/*"
+  match: "*"
 - type: directory
   path: content/ty
   label: Thank you page
