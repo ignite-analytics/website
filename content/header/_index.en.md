@@ -7,4 +7,4 @@ image: "/images/infographics/dashboard2.svg"
 hidden: true
 
 ---
-{{< button href="/en/ignite-analytics/produktinformasjon" class="btn btn-primary btn-lg" >}}Download product info{{< /button >}} {{< button href="/en/ignite-analytics" class="btn btn-outline-primary blue btn-lg" >}}Find out more{{< /button >}}
+{{< button href="/en/ignite-analytics/demo" class="btn btn-primary btn-lg" >}}Try Ignite Analytics{{< /button >}} {{< button href="/en/ignite-analytics" class="btn btn-outline-primary blue btn-lg" >}}Find out more{{< /button >}}
