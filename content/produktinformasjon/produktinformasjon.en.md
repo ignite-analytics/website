@@ -6,12 +6,12 @@ description: Learn more about the functionality in Ignite Analytics and how the 
   can help you and your business
 image: "/images/IA Dashboard in Frame - v2.png"
 url: "/en/ignite-analytics/produktinformasjon"
-type: "demo"
+type: demo
 subcontent:
   item1:
     image: "/images/infographics/oversikt.svg"
     keyword: Analyze.
-    heading: Get deep insight into your spend
+    heading: Get deeper insight into your spend
     text: Within minutes, Ignite Analytics provides you full overview of spend composition
       and development
   item2:
