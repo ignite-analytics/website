@@ -9,4 +9,4 @@ thumbnail: "/images/ignite-services.jpg/"
 hidden: true
 
 ---
-{{< button href="/ignite-analytics/produktinformasjon" class="btn btn-primary btn-lg" >}}Last ned produktinfo{{< /button >}} {{< button href="/ignite-analytics" class="btn btn-outline-primary blue btn-lg" >}}Finn ut mer{{< /button >}}
+{{< button href="/ignite-analytics/demo" class="btn btn-primary btn-lg" >}}Prøv Ignite Analytics{{< /button >}} {{< button href="/ignite-analytics" class="btn btn-outline-primary blue btn-lg" >}}Finn ut mer{{< /button >}}
