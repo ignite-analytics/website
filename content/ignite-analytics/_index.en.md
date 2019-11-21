@@ -19,4 +19,4 @@ image: "/images/infographics/dashboard2.svg"
 
 </ul>
 
-<a class="btn btn-primary action-btn" style="margin-top:1em !important;" href="/en/ignite-analytics/demo">Try Ignite Analytics</a>
+<a class="btn btn-primary action-btn" style="margin-top:1em !important;" href="/en/ignite-analytics/produktinformasjon">Download product info</a>
