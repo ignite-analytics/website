@@ -6,11 +6,11 @@ description: Få mer informasjon om funksjonaliteten i Ignite Analytics og hvord
   plattformen kan hjelpe deg og din virksomhet
 image: "/images/IA Dashboard in Frame - v2.png"
 url: "/ignite-analytics/produktinformasjon/"
-type: "demo"
+type: demo
 subcontent:
   item1:
     image: "/images/infographics/oversikt.svg"
-    keyword: Analyze.
+    keyword: Analyser.
     heading: Få dyp innsikt i innkjøpet ditt
     text: På få minutter gir Ignite Analytics deg full oversikt over innkjøpets sammensetning
       og utvikling
