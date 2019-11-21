@@ -24,6 +24,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: content/produktinformasjon
+  label: Produktinformasjon
+  create: all
+  match: "**/*"
+- type: directory
   path: content/ty
   label: Thank you page
   create: all
