@@ -10,7 +10,7 @@ image: "/images/infographics/spend.svg"
 ---
 <ul>
 
-<li> Contract management</li>
+<li> Contract management (CLM)</li>
 
 <li> KPIs</li>
 
