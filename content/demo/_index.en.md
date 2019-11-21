@@ -3,7 +3,7 @@ title: Try Ignite Analytics
 date: 2019-02-20T12:09:05.000+00:00
 header: Unlock the power of strategic procurement made digital
 description: You’re one step closer to simplifying your procurement work and improving
-  the profitability of your business!
+  the profitability for your business!
 image: "/images/IA Dashboard in Frame - v2.png"
 url: "/en/ignite-analytics/demo"
 subcontent:
