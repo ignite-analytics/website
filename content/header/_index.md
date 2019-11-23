@@ -1,5 +1,5 @@
 ---
-title: Strategisk innkjøp. Datadrevet. Smartere. Digitalt.
+title: 'Strategisk innkjøp. Digitalt. Datadrevet. Smartere. '
 heading: Ignite Procurement – reduser dine innkjøpskostnader
 description: Det er utfordrende å realisere det fulle potensialet innen innkjøp. Ignite
   Analytics forenkler innkjøpsarbeidet ditt og bidrar til forbedret lønnsomhet!
