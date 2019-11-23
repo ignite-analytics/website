@@ -1,5 +1,5 @@
 ---
-title: Strategic procurement. Data-driven. Smarter. Digital.
+title: Strategic procurement. Digital. Data-driven. Smarter.
 description: Realizing the full potential within procurement is challenging. Ignite
   Analytics simplifies your procurement work and helps drive profitability!
 date: 2018-12-16T14:31:35.000+00:00
