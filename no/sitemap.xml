@@ -166,16 +166,15 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/ansatte/</loc>
-    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://ignite.no/blogg/innsikt/8-fordeler-med-spendanalyser/</loc>
+    <lastmod>2019-12-02T13:06:29+00:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>https://ignite.no/blogg/</loc>
-    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
+    <lastmod>2019-12-02T13:06:29+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -183,7 +182,7 @@
   
   <url>
     <loc>https://ignite.no/categories/</loc>
-    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
+    <lastmod>2019-12-02T13:06:29+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -200,16 +199,8 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/customer-success/</loc>
-    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/tag/ignite-analytics/</loc>
-    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
+    <lastmod>2019-12-02T13:06:29+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -217,7 +208,7 @@
   
   <url>
     <loc>https://ignite.no/</loc>
-    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
+    <lastmod>2019-12-02T13:06:29+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -229,6 +220,64 @@
                 hreflang="no"
                 href="https://ignite.no/"
                 />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/innkj%C3%B8psanalyser/</loc>
+    <lastmod>2019-12-02T13:06:29+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/innsikt/</loc>
+    <lastmod>2019-12-02T13:06:29+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/spendanalyser/</loc>
+    <lastmod>2019-12-02T13:06:29+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/tags/</loc>
+    <lastmod>2019-12-02T13:06:29+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/tags/"
+                />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/ansatte/</loc>
+    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/customer-success/</loc>
+    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   
@@ -252,24 +301,6 @@
     <loc>https://ignite.no/blogg/nyheter/</loc>
     <lastmod>2019-11-18T13:35:21+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/tags/</loc>
-    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/tags/"
-                />
   </url>
   
   
@@ -299,14 +330,6 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</loc>
-    <lastmod>2019-11-11T15:34:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/innsikt/</loc>
     <lastmod>2019-11-11T15:34:13+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -621,14 +644,6 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/kompetanse/</loc>
-    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/innsikt/key-takeaways-fra-digital-procurement-world-2019/</loc>
     <lastmod>2019-09-30T07:24:26+00:00</lastmod>
   </url>
@@ -637,6 +652,14 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/teknologi/</loc>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/kompetanse/</loc>
     <lastmod>2019-09-30T07:24:26+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -975,14 +998,6 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/offentlige-anskaffelser/</loc>
-    <lastmod>2019-06-25T09:21:25+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/spendanalyser/</loc>
     <lastmod>2019-06-25T09:21:25+00:00</lastmod>
     <priority>0</priority>
   </url>
