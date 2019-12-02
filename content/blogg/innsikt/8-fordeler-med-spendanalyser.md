@@ -55,9 +55,15 @@ Hvorfor er for eksempel avtalelojaliteten i avdeling X mye høyere enn i avdelin
 
 #### 6. Identifisere besparelser
 
-Supplier base, 
+Spendanalyser er kritiske for å identifisere muligheter for konkrete besparelser. Eksemplene på relevante analyser kan her være mange, der følgende kan indikere mulige besparelser;
 
-arbeidskapital
+* Antall leverandører som benyttes i kategoriene
+* Leverandørens lønnsomhet og vår viktighet som kunde
+* Pris på varer og tjenester på tvers av virksomheten (prisarbitrasje)
+* Lav avtalelojalitet eller store lekkasjer til ikke-godkjente leverandører
+* Prisvekst på varer / tjenester med høye innkjøpsvolum
+* Transaksjonskostnader som for eksempel antall fakturaer, kjøp per faktura, kjøp og volum gjennom løsning for e-handel
+* Betalingsbetingelser og binding av arbeidskapital
 
 #### 7. Gjennomføre tiltak
 
