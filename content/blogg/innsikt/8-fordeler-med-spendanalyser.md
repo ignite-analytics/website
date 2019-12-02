@@ -20,7 +20,7 @@ For de aller fleste virksomheter, både private og offentlige, utgjør innkjøp 
 * Hvordan fordeler kjøpet seg på tvers av virksomheten?
 * Hvordan er utviklingen i avtalelojalitet og -lekkasjer?
 
-Å ha et robust spendanalyseverktøy på plass har blitt en forutsetning for alle som ønsker å jobbe profesjonelt med innkjøp og anskaffelser. I Ignite Procurement jobber vi med flere ledende virksomheter på tvers av mange ulike bransjer, der løsningen vår i dag håndterer godt over 200 mrd. NOK i innkjøp!
+Å ha et robust spendanalyseverktøy på plass har blitt en forutsetning for alle som ønsker å jobbe profesjonelt med innkjøp og anskaffelser. I Ignite Procurement jobber vi med flere ledende virksomheter på tvers av mange ulike bransjer, der løsningen vår i dag håndterer over 200 mrd. NOK i innkjøp!
 
 Her kommer 8 av de viktigste fordelene som spendanalyser kan bidra med for din virksomhet. Utnytter du alle disse mulighetene i dag?
 
