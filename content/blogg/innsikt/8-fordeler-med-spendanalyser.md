@@ -2,7 +2,6 @@
 author = "Ignite"
 categories = ["Innsikt"]
 date = 2019-12-02T13:06:29Z
-draft = true
 image = "/images/Spendanalyse fordeler.png"
 ingress = "Å jobbe faktabasert med innkjøpskostnadene er avgjørende for en god - og forbedret - lønnsomhet."
 showmainimg = false
