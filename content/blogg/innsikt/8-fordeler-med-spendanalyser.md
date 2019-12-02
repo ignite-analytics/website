@@ -12,6 +12,8 @@ title = "8 fordeler med spendanalyser / innkjøpsanalyser"
 +++
 For de aller fleste virksomheter - både private og offentlige - utgjør innkjøp av varer og tjenester en vesentlig del av de totale kostnadene. Likevel har flere virksomheter ikke tilstrekkelig oversikt eller kontroll på innkjøpet sitt. En grunn til dette kan være at virksomhetene mangler gode, digitale verktøy for å enkelt samle, strukturere og visualisere innkjøpsdataen. 
 
+![Spendanalyser er kjernefunksjonalitet i Ignite Analytics](/images/Ignite Analytics - Spendanalyser.png "Spendanalyser i Ignite Analytics")
+
 **Spendanalyser**, eller innkjøpsanalyser på godt norsk, er (eller bør være) fundamentet for arbeidet i alle innkjøpsfunksjoner. Til syvende og sist handler det om nødvendig innsikt for å kunne ta smartere beslutninger, noe som eksempelvis kan omfatte analyser rundt;
 
 * Hvor mye kjøper vi for og hvordan er utviklingen i kjøpet?
@@ -19,11 +21,11 @@ For de aller fleste virksomheter - både private og offentlige - utgjør innkjø
 * Hvordan fordeler kjøpet seg på tvers av virksomheten?
 * Hvordan er utviklingen i avtalelojalitet og -lekkasjer?
 
-![Spendanalyser er kjernefunksjonalitet i Ignite Analytics](/images/Ignite Analytics - Spendanalyser.png "Spendanalyser i Ignite Analytics")
-
 Å ha et robust spendanalyseverktøy på plass har blitt en forutsetning for alle som ønsker å jobbe profesjonelt med innkjøp og anskaffelser. I Ignite Procurement jobber vi med flere ledende virksomheter på tvers av mange ulike bransjer, der løsningen vår i dag håndterer godt over 200 mrd. NOK i innkjøp! 
 
 Her kommer 8 av de viktigste fordelene som spendanalyser kan bidra med for din virksomhet. Utnytter du alle disse mulighetene i dag?
+
+BILDE
 
 #### 1. Få full transparens
 
@@ -31,9 +33,13 @@ Et kontinuerlig oppdatert faktagrunnlag sikrer fullstendig oversikt i kjøpet p�
 
 #### 2. Øke effektiviteten
 
-DS
+Forskning viser at en forholdsvis stor andel av arbeidsdagen - opp mot 80% - går med til [oppgaver som ikke er verdiskapende]() som å samle inn, filtrere og formatere data til rapporter. Automatiserte og innsiktsfulle spendanalyser bidrar til å øke effektiviteten for innkjøpsfunksjonen. Dette vil gi funksjonen mer tid å fokusere på verdiskapende aktiviteter, altså strategiske aktiviteter.
 
 #### 3. Støtter kategoristyring
+
+En innkjøpskategori inneholder beslektede typer innkjøp knyttet til kjøp av produkter og/eller tjenester. Spendanalysene gir grunnlaget for å bygge en [hensiktsmessig kategoristruktur](https://www.ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/ "Kategoristruktur og kategorisering - fem praktiske tips"), hvor man klassifiserer og kategoriserer kjøpet basert på innkjøpsdataen. 
+
+Kategoristrukturen er en forutsetning for [god kategoristyring](https://www.ignite.no/blogg/innsikt/en-praktisk-tiln%C3%A6rming-til-kategoristyring/ "En praktisk tilnærming til kategoristyring") som ofte blir sett på som beste-praksis metodikk på innkjøpsområdet. Kategoristyring innebærer at virksomheten benytter en strukturert metodikk med tilhørende dedikert ansvar for de ulike kategoriene.
 
 #### 4. Prioritere ressurser
 
