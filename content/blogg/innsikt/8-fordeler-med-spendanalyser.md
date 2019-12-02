@@ -12,6 +12,8 @@ title = "8 fordeler med spendanalyser / innkjøpsanalyser"
 +++
 For de aller fleste virksomheter - både private og offentlige - utgjør innkjøp av varer og tjenester en vesentlig del av de totale kostnadene. Likevel har flere virksomheter ikke tilstrekkelig oversikt eller kontroll på innkjøpet sitt. En grunn til dette kan være at virksomhetene mangler gode, digitale verktøy for å enkelt samle, strukturere og visualisere innkjøpsdataen. 
 
+![](/images/Ignite Analytics - Spendanalyser.png)
+
 **Spendanalyser**, eller innkjøpsanalyser på godt norsk, er (eller bør være) fundamentet for arbeidet i alle innkjøpsfunksjoner. Til syvende og sist handler det om nødvendig innsikt for å kunne ta smartere beslutninger, noe som eksempelvis kan omfatte analyser på;
 
 * Hvor mye kjøper vi for og hvordan er utviklingen i kjøpet?
@@ -19,7 +21,7 @@ For de aller fleste virksomheter - både private og offentlige - utgjør innkjø
 * Hvordan fordeler kjøpet seg på tvers av virksomheten?
 * Hvordan er utviklingen i avtalelojalitet og -lekkasjer?
 
-Å ha en robust 
+Å ha et robust spendanalyseverktøy på plass har blitt en forutsetning for alle som ønsker å jobbe profesjonelt med innkjøp og anskaffelser. 
 
 Dataen og informasjonen er tilgjengelig, men mangel på gode verktøy 
 
