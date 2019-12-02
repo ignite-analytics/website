@@ -27,9 +27,11 @@ Her kommer 8 av de viktigste fordelene som spendanalyser kan bidra med for din v
 
 #### 1. Få full transparens
 
-D
+Et kontinuerlig oppdatert faktagrunnlag sikrer fullstendig oversikt i kjøpet på tvers av hele virksomheten. Denne innsikten er helt avgjørende for innkjøpsarbeidet, men vil også være viktig for andre deler av virksomheten. Innkjøp jobber ofte med, og på tvers av, ulike funksjoner som eksempelvis økonomi, produksjon og IT. Deling og kommunikasjon av innsikt er kritisk for at innkjøp skal kunne være en god strategisk sparringspartner internt.
 
 #### 2. Øke effektiviteten
+
+DS
 
 #### 3. Støtter kategoristyring
 
@@ -40,5 +42,7 @@ D
 #### 6. Identifisere besparelser
 
 #### 7. Gjennomføre tiltak
+
+Faktabaserte beslutninger
 
 #### 8. Forbedrer datakvaliteten
