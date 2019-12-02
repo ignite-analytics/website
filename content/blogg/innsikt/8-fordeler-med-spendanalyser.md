@@ -41,7 +41,7 @@ En innkjøpskategori inneholder beslektede typer innkjøp knyttet til kjøp av p
 
 Kategoristrukturen er en forutsetning for [god kategoristyring](https://www.ignite.no/blogg/innsikt/en-praktisk-tiln%C3%A6rming-til-kategoristyring/ "En praktisk tilnærming til kategoristyring") som ofte blir sett på som beste-praksis metodikk på innkjøpsområdet. Kategoristyring innebærer at virksomheten benytter en strukturert metodikk med tilhørende dedikert ansvar for de ulike kategoriene.
 
-#### 4. Prioritere ressurser
+#### 4. Ressursprioritering
 
 Innsikt i kjøpet gir deg informasjon om hvordan du bør allokere og prioritere ressursene. Et eksempel kan være å iverksette nødvendige tiltak dersom utviklingen i kjøpet ikke står i tråd med forventningene, eller at ikke-prioriterte / ikke-godkjente leverandører blir benyttet av brukerne (maverick spend).
 
@@ -53,7 +53,7 @@ Kritiske (ofte de største) kategorier i virksomheten må ellers prioriteres. Sa
 
 Hvorfor er for eksempel avtalelojaliteten i avdeling X mye høyere enn i avdeling Y, og hvordan kan innkjøp tilrettelegge for å forbedre dette? Hvorfor er leiekostnadene per kvm. høyere for skolelokaler i kommune A sammenlignet med kommune B?
 
-#### 6. Identifisere besparelser
+#### 6. Identifiserer besparelser
 
 Spendanalyser er kritiske for å identifisere muligheter for konkrete besparelser. Eksemplene på relevante analyser kan her være mange, der følgende kan indikere mulige besparelser;
 
@@ -65,7 +65,7 @@ Spendanalyser er kritiske for å identifisere muligheter for konkrete besparelse
 * Transaksjonskostnader som for eksempel antall fakturaer, kjøp per faktura, kjøp og volum gjennom løsning for e-handel
 * Betalingsbetingelser og binding av arbeidskapital
 
-#### 7. Gjennomføre tiltak
+#### 7. Gjennomføring av tiltak
 
 Innkjøpsanalyser er et fantastisk hjelpemiddel for å drive faktabaserte beslutninger. Det handler om hvordan man kan bruke data og informasjon til å gjennomføre smartere beslutninger og tiltak.
 
