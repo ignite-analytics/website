@@ -18,7 +18,7 @@ For de aller fleste virksomheter, både private og offentlige, utgjør innkjøp 
 * Hvor mye kjøper vi for og hvordan er utviklingen i kjøpet?
 * Hva kjøper vi og fra hvilke leverandører?
 * Hvordan fordeler kjøpet seg på tvers av virksomheten?
-* Hvordan er utviklingen i avtalelojalitet og -lekkasjer?
+* Hvordan er utviklingen i avtalelojaliteten?
 
 Å ha et robust spendanalyseverktøy på plass har blitt en forutsetning for alle som ønsker å jobbe profesjonelt med innkjøp og anskaffelser. I Ignite Procurement jobber vi med flere ledende virksomheter på tvers av mange ulike bransjer, der løsningen vår i dag håndterer over 200 mrd. NOK i innkjøp!
 
@@ -50,7 +50,7 @@ Kritiske (ofte de største) kategorier i virksomheten må ellers prioriteres. Sa
 
 Å kunne analysere kjøpet på tvers av eksempelvis selskaper, avdelinger, funksjoner og prosjekter gir deg aksjonsbasert innsikt. Denne informasjonen kan blant annet brukes til å gjøre intern benchmarking på tvers av hele organisasjonen.
 
-Hvorfor er for eksempel avtalelojaliteten i avdeling X mye høyere enn i avdeling Y, og hvordan kan innkjøp tilrettelegge for å forbedre dette? Hvorfor er leiekostnadene per kvm. høyere for skolelokaler i kommune A sammenlignet med kommune B?
+Hvorfor er for eksempel avtalelojaliteten i avdeling X mye høyere enn i avdeling Y, og hvordan kan innkjøp tilrettelegge for å forbedre dette?
 
 #### 6. Identifiserer besparelser
 
@@ -60,7 +60,7 @@ Spendanalyser er kritiske for å identifisere muligheter for konkrete besparelse
 * Leverandørens lønnsomhet og vår viktighet som kunde
 * Pris på varer og tjenester på tvers av virksomheten (prisarbitrasje)
 * Lav avtalelojalitet eller store lekkasjer til ikke-godkjente leverandører
-* Prisvekst på varer / tjenester med høye innkjøpsvolum
+* Prisvekst på varer/tjenester med høye innkjøpsvolum
 * Transaksjonskostnader som for eksempel antall fakturaer, kjøp per faktura, kjøp og volum gjennom løsning for e-handel
 * Betalingsbetingelser og binding av arbeidskapital
 
