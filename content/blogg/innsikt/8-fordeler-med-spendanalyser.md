@@ -27,6 +27,8 @@ Her kommer 8 av de viktigste fordelene som spendanalyser kan bidra med for din v
 
 #### 1. Få full transparens
 
+D
+
 #### 2. Øke effektiviteten
 
 #### 3. Støtter kategoristyring
