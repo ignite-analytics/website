@@ -192,15 +192,6 @@
     </item>
     
     <item>
-      <title>Reforhandling</title>
-      <link>https://ignite.no/blogg/tag/reforhandling/</link>
-      <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/reforhandling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Strategiske partnere</title>
       <link>https://ignite.no/blogg/tag/strategiske-partnere/</link>
       <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
@@ -233,6 +224,15 @@
       <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/foresp%C3%B8rselsprosess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reforhandling</title>
+      <link>https://ignite.no/blogg/tag/reforhandling/</link>
+      <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/reforhandling/</guid>
       <description></description>
     </item>
     
@@ -399,7 +399,7 @@
     </item>
     
     <item>
-      <title>Platform Engineers</title>
+      <title>Platform engineers</title>
       <link>https://ignite.no/blogg/tag/platform-engineers/</link>
       <pubDate>Mon, 23 Sep 2019 11:40:08 +0000</pubDate>
       
