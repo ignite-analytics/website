@@ -27,11 +27,11 @@ Her kommer 8 av de viktigste fordelene som spendanalyser kan bidra med for din v
 
 BILDE
 
-#### 1. Få full transparens
+#### 1. Gir full transparens
 
 Et kontinuerlig oppdatert faktagrunnlag sikrer fullstendig oversikt i kjøpet på tvers av hele virksomheten. Denne innsikten er helt avgjørende for innkjøpsarbeidet, men vil også være viktig for andre deler av virksomheten. Innkjøp jobber ofte med, og på tvers av, ulike funksjoner som eksempelvis økonomi, produksjon og IT. Deling og kommunikasjon av innsikt er kritisk for at innkjøp skal kunne være en god strategisk sparringspartner internt.
 
-#### 2. Øke effektiviteten
+#### 2. Øker effektiviteten
 
 Forskning viser at en forholdsvis stor andel av arbeidsdagen - opp mot 80% - går med til [oppgaver som ikke er verdiskapende]() som å samle inn, filtrere og formatere data til rapporter. Automatiserte og innsiktsfulle spendanalyser bidrar til å øke effektiviteten for innkjøpsfunksjonen. Dette vil gi funksjonen mer tid å fokusere på verdiskapende aktiviteter, altså strategiske aktiviteter.
 
@@ -42,6 +42,10 @@ En innkjøpskategori inneholder beslektede typer innkjøp knyttet til kjøp av p
 Kategoristrukturen er en forutsetning for [god kategoristyring](https://www.ignite.no/blogg/innsikt/en-praktisk-tiln%C3%A6rming-til-kategoristyring/ "En praktisk tilnærming til kategoristyring") som ofte blir sett på som beste-praksis metodikk på innkjøpsområdet. Kategoristyring innebærer at virksomheten benytter en strukturert metodikk med tilhørende dedikert ansvar for de ulike kategoriene.
 
 #### 4. Prioritere ressurser
+
+Innsikt i kjøpet gir deg informasjon om hvordan du bør allokere og prioritere ressursene. Et eksempel kan være å iverksette nødvendige tiltak dersom utviklingen i kjøpet ikke står i tråd med forventningene, eller at ikke-prioriterte leverandører blir benyttet av brukerne.
+
+Kritiske (ofte de største) kategorier i virksomheten må prioriteres. Samtidig er det viktig at mindre kategorier får nødvendig oppmerksomhet fordi det ofte kan ligge et betydelig potensial her. Antall leverandører og kompleksitet i kjøpet er også viktige faktorer i vurderingen av ressurspådraget.
 
 #### 5. Intern benchmarking
 
