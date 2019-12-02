@@ -12,7 +12,7 @@ title = "8 fordeler med spendanalyser / innkjøpsanalyser"
 +++
 For de aller fleste virksomheter - både private og offentlige - utgjør innkjøp av varer og tjenester en vesentlig del av de totale kostnadene. Likevel har flere virksomheter ikke tilstrekkelig oversikt eller kontroll på innkjøpet sitt. En grunn til dette kan være at virksomhetene mangler gode, digitale verktøy for å enkelt samle, strukturere og visualisere innkjøpsdataen. 
 
-Spendanalyser, eller innkjøpsanalyser på godt norsk, er (eller bør være) fundamentet for arbeidet i alle innkjøpsfunksjoner. Til syvende og sist handler det om nødvendig innsikt for å kunne ta smartere beslutninger, noe som eksempelvis kan omfatte analyser på;
+**Spendanalyser**, eller innkjøpsanalyser på godt norsk, er (eller bør være) fundamentet for arbeidet i alle innkjøpsfunksjoner. Til syvende og sist handler det om nødvendig innsikt for å kunne ta smartere beslutninger, noe som eksempelvis kan omfatte analyser på;
 
 * Hvor mye kjøper vi for og hvordan er utviklingen i kjøpet?
 * Hva kjøper vi og fra hvilke leverandører?
@@ -24,7 +24,3 @@ Spendanalyser, eller innkjøpsanalyser på godt norsk, er (eller bør være) fun
 Dataen og informasjonen er tilgjengelig, men mangel på gode verktøy 
 
 Dette betyr 
-
-Om du jobber med innkjøp, så blir dette 
-
-som jobber med innkjøp er oversikt og innsikt
