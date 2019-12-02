@@ -44,7 +44,7 @@ Kategoristrukturen er en forutsetning for [god kategoristyring](https://www.igni
 
 Innsikt i kjøpet gir deg informasjon om hvordan du bør allokere og prioritere ressursene. Et eksempel kan være å iverksette nødvendige tiltak dersom utviklingen i kjøpet ikke står i tråd med forventningene, eller at ikke-godkjente leverandører blir benyttet av brukerne (maverick spend).
 
-Kritiske (ofte de største) kategorier i virksomheten må ellers prioriteres. Samtidig er det viktig at mindre kategorier får nødvendig oppmerksomhet fordi det ofte kan ligge et betydelig potensial her. Antall leverandører og kompleksitet i kjøpet er også viktige faktorer i vurderingen av ressurspådraget.
+Kritiske kategorier i virksomheten må ellers prioriteres. Samtidig er det viktig at mindre kategorier får nødvendig oppmerksomhet fordi det ofte kan ligge et betydelig potensial her. Antall leverandører og kompleksitet i kjøpet er også viktige faktorer i vurderingen av ressurspådraget.
 
 #### 5. Intern benchmarking
 
