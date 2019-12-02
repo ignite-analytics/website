@@ -32,7 +32,7 @@ Et kontinuerlig oppdatert faktagrunnlag sikrer fullstendig oversikt i kjøpet p�
 
 #### 2. Øker effektiviteten
 
-Forskning viser at en forholdsvis stor andel av arbeidsdagen - opp mot 80% - går med til [oppgaver som ikke er verdiskapende]() som å samle inn, filtrere og formatere data til rapporter. Automatiserte og innsiktsfulle spendanalyser bidrar til å øke effektiviteten for innkjøpsfunksjonen. Dette vil gi funksjonen mer tid å fokusere på verdiskapende aktiviteter, altså strategiske aktiviteter.
+Forskning viser at en forholdsvis stor andel av arbeidsdagen - opp mot 80% - går med til [oppgaver som ikke er verdiskapende](https://www.mckinsey.com/business-functions/operations/our-insights/maximizing-the-value-of-ga "Maximizing the value of G&A") som å samle inn, filtrere og formatere data til rapporter. Automatiserte og innsiktsfulle spendanalyser bidrar til å øke effektiviteten for innkjøpsfunksjonen. Dette vil gi funksjonen mer tid å fokusere på verdiskapende aktiviteter, altså strategiske aktiviteter.
 
 #### 3. Støtter kategoristyring
 
