@@ -7,7 +7,7 @@ image = ""
 ingress = "Å jobbe faktabasert med innkjøpskostnadene er avgjørende for en god - og forbedret - lønnsomhet."
 showmainimg = false
 tags = ["Spendanalyse", "Innkjøpsanalyse"]
-title = "8 fordeler med spendanalyser / innkjøpsanalyser"
+title = "8 fordeler med innkjøps- og spendanalyser"
 
 +++
 For de aller fleste virksomheter - både private og offentlige - utgjør innkjøp av varer og tjenester en vesentlig del av de totale kostnadene. Likevel har flere virksomheter ikke tilstrekkelig oversikt eller kontroll på innkjøpet sitt. En grunn til dette kan være at virksomhetene mangler gode, digitale verktøy for å enkelt samle, strukturere og visualisere innkjøpsdataen. 
@@ -73,7 +73,7 @@ Les mer om [8 virkemidler for å redusere innkjøpskostnadene](https://www.ignit
 
 #### 8. Forbedrer datakvaliteten
 
-Et av de vanligste diskusjonspunktene vi møter rundt spendanalyser, og en faktabasert tilnærming til innkjøp, er «mangelen på tilstrekkelig datakvalitet». Selv om datakvaliteten kan variere noe, så er den eneste måten å forbedre datakvaliteten på å bruke den!
+Et av de vanligste diskusjonspunktene vi møter rundt spendanalyser, og en faktabasert tilnærming til innkjøp, er «mangelen på tilstrekkelig datakvalitet». Selv om datakvaliteten kan variere noe, så er den eneste måten å forbedre datakvaliteten på å [bruke den dataen du har](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger")!
 
 Spendanalyser belyser eventuelle datamangler for deg, noe som igjen kan initiere systematiske tiltak for hvordan forbedre datakvaliteten i din virksomhet. Det følgende sitatet summerer problemstillingen på en god måte;
 
