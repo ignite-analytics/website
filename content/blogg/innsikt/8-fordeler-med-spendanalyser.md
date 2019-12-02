@@ -43,7 +43,7 @@ Kategoristrukturen er en forutsetning for [god kategoristyring](https://www.igni
 
 #### 4. Prioritere ressurser
 
-Innsikt i kjøpet gir deg informasjon om hvordan du bør allokere og prioritere ressursene. Et eksempel kan være å iverksette nødvendige tiltak dersom utviklingen i kjøpet ikke står i tråd med forventningene, eller at ikke-prioriterte leverandører blir benyttet av brukerne.
+Innsikt i kjøpet gir deg informasjon om hvordan du bør allokere og prioritere ressursene. Et eksempel kan være å iverksette nødvendige tiltak dersom utviklingen i kjøpet ikke står i tråd med forventningene, eller at ikke-prioriterte / ikke-godkjente leverandører blir benyttet av brukerne.
 
 Kritiske (ofte de største) kategorier i virksomheten må prioriteres. Samtidig er det viktig at mindre kategorier får nødvendig oppmerksomhet fordi det ofte kan ligge et betydelig potensial her. Antall leverandører og kompleksitet i kjøpet er også viktige faktorer i vurderingen av ressurspådraget.
 
