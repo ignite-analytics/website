@@ -66,7 +66,7 @@ Spendanalyser er kritiske for å identifisere muligheter for konkrete besparelse
 
 #### 7. Gjennomføring av tiltak
 
-Innkjøpsanalyser er et fantastisk hjelpemiddel for å drive faktabaserte beslutninger. Det handler om hvordan man kan bruke data og informasjon til å gjennomføre smartere beslutninger og tiltak.
+Innkjøpsanalyser er et fantastisk hjelpemiddel for å drive faktabaserte beslutninger. Det handler om hvordan man kan bruke informasjonen til å gjennomføre smartere beslutninger og tiltak.
 
 Les mer om [8 virkemidler for å redusere innkjøpskostnadene](https://www.ignite.no/blogg/innsikt/8-virkemidler-for-%C3%A5-redusere-innkj%C3%B8pskostnadene/ "8 virkemidler for å redusere innkjøpskostnadene").
 
