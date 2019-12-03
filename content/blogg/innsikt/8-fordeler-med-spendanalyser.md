@@ -61,7 +61,7 @@ Spendanalyser er kritiske for å identifisere muligheter for konkrete besparelse
 * Pris på varer og tjenester på tvers av virksomheten (prisarbitrasje)
 * Lav avtalelojalitet eller store lekkasjer til ikke-godkjente leverandører
 * Prisvekst på varer/tjenester med høye innkjøpsvolum
-* Transaksjonskostnader som for eksempel antall fakturaer, kjøp per faktura, kjøp og volum gjennom løsning for e-handel
+* Transaksjonskostnader som for eksempel antall fakturaer og bruk av e-handelsløsning
 * Betalingsbetingelser og binding av arbeidskapital
 
 #### 7. Gjennomføring av tiltak
