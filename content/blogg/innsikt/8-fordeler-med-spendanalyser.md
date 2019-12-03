@@ -72,7 +72,7 @@ Les mer om [8 virkemidler for å redusere innkjøpskostnadene](https://www.ignit
 
 #### 8. Forbedrer datakvaliteten
 
-Et av de vanligste diskusjonspunktene vi møter rundt spendanalyser er «mangelen på tilstrekkelig datakvalitet». Selv om datakvaliteten kan variere noe, så er den eneste måten å forbedre datakvaliteten på å [bruke den dataen du har](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger").
+Et av de vanligste diskusjonspunktene vi møter rundt spendanalyser er «mangelen på tilstrekkelig datakvalitet». Selv om datakvaliteten kan variere noe, så kan du kun forbedre datakvaliteten ved å [bruke den dataen du har](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger").
 
 Spendanalyser belyser eventuelle datamangler for deg, noe som igjen kan initiere systematiske tiltak for hvordan forbedre datakvaliteten i din virksomhet. Følgende sitat oppsummerer dette på en god måte;
 
