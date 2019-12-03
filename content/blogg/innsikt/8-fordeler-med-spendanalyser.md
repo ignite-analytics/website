@@ -13,7 +13,7 @@ For de aller fleste virksomheter, både private og offentlige, utgjør innkjøp 
 
 ![Spendanalyser er kjernefunksjonalitet i Ignite Analytics](/images/Ignite Analytics - Spendanalyser.png "Spendanalyser i Ignite Analytics")
 
-**Spendanalyser**, eller innkjøpsanalyser på godt norsk, bør være fundamentet for arbeidet i alle innkjøpsfunksjoner. Til syvende og sist handler det om nødvendig innsikt for å kunne ta smartere beslutninger. Dette kan eksempelvis omfatte analyser som;
+**Spendanalyser**, eller innkjøpsanalyser på godt norsk, er (eller bør være) fundamentet for arbeidet i alle innkjøpsfunksjoner. Til syvende og sist handler det om nødvendig innsikt for å kunne ta smartere beslutninger. Dette kan eksempelvis omfatte analyser som;
 
 * Hvor mye kjøper vi for og hvordan er utviklingen i kjøpet?
 * Hva kjøper vi og fra hvilke leverandører?
@@ -44,7 +44,7 @@ Kategoristrukturen er en forutsetning for [god kategoristyring](https://www.igni
 
 Innsikt i kjøpet gir deg informasjon om hvordan du bør allokere og prioritere ressursene. Et eksempel kan være å iverksette nødvendige tiltak dersom utviklingen i kjøpet ikke står i tråd med forventningene, eller at ikke-godkjente leverandører blir benyttet av brukerne (maverick spend).
 
-Kritiske kategorier i virksomheten må ellers prioriteres. Samtidig er det viktig at mindre kategorier får nødvendig oppmerksomhet fordi det ofte kan ligge et betydelig potensial her. Antall leverandører og kompleksitet i kjøpet er også viktige faktorer i vurderingen av ressurspådraget.
+Kritiske kategorier i virksomheten (ofte de største) må ellers prioriteres. Samtidig er det viktig at mindre kategorier får nødvendig oppmerksomhet fordi det ofte kan ligge et betydelig potensial her. Et typisk eksempel er indirekte kategorier som ofte blir neglisjerte. Antall leverandører og kompleksitet i kjøpet er også viktige faktorer i vurderingen av ressurspådraget.
 
 #### 5. Intern benchmarking
 
@@ -54,7 +54,7 @@ Hvorfor er for eksempel avtalelojaliteten i avdeling X mye høyere enn i avdelin
 
 #### 6. Identifiserer besparelser
 
-Spendanalyser er kritiske for å identifisere muligheter for konkrete besparelser. Eksemplene på relevante analyser kan her være mange, der følgende kan indikere mulige besparelser;
+Spendanalyser er kritiske for å identifisere muligheter for konkrete besparelser. Relevante analyser kan her være mange, der følgende eksempler belyser dette;
 
 * Antall leverandører som benyttes i kategoriene
 * Leverandørens lønnsomhet og vår viktighet som kunde
@@ -72,7 +72,7 @@ Les mer om [8 virkemidler for å redusere innkjøpskostnadene](https://www.ignit
 
 #### 8. Forbedrer datakvaliteten
 
-Et av de vanligste diskusjonspunktene vi møter rundt spendanalyser, og en faktabasert tilnærming til innkjøp, er «mangelen på tilstrekkelig datakvalitet». Selv om datakvaliteten kan variere noe, så er den eneste måten å forbedre datakvaliteten på å [bruke den dataen du har](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger").
+Et av de vanligste diskusjonspunktene vi møter rundt spendanalyser er «mangelen på tilstrekkelig datakvalitet». Selv om datakvaliteten kan variere noe, så er den eneste måten å forbedre datakvaliteten på å [bruke den dataen du har](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger").
 
 Spendanalyser belyser eventuelle datamangler for deg, noe som igjen kan initiere systematiske tiltak for hvordan forbedre datakvaliteten i din virksomhet. Følgende sitat oppsummerer dette på en god måte;
 
