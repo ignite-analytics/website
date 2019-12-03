@@ -13,7 +13,7 @@ For de aller fleste virksomheter, både private og offentlige, utgjør innkjøp 
 
 ![Spendanalyser er kjernefunksjonalitet i Ignite Analytics](/images/Ignite Analytics - Spendanalyser.png "Spendanalyser i Ignite Analytics")
 
-**Spendanalyser**, eller innkjøpsanalyser på godt norsk, er (eller bør være) fundamentet for arbeidet i alle innkjøpsfunksjoner. Til syvende og sist handler det om nødvendig innsikt for å kunne ta smartere beslutninger. Dette kan eksempelvis omfatte analyser som;
+**Spendanalyser**, eller innkjøpsanalyser, er (eller bør være) fundamentet for arbeidet i alle innkjøpsfunksjoner. Til syvende og sist handler det om nødvendig innsikt for å kunne ta smartere beslutninger. Dette kan eksempelvis omfatte analyser som;
 
 * Hvor mye kjøper vi for og hvordan er utviklingen i kjøpet?
 * Hva kjøper vi og fra hvilke leverandører?
