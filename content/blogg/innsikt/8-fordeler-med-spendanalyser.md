@@ -2,7 +2,7 @@
 author = "Ignite"
 categories = ["Innsikt"]
 date = 2019-12-02T13:06:29Z
-image = "/images/Spendanalyse fordeler.png"
+image = "/images/Spendanalyser - fordeler.png"
 ingress = "Å jobbe faktabasert med innkjøpskostnadene er avgjørende for en god - og forbedret - lønnsomhet."
 showmainimg = false
 tags = ["Spendanalyser", "Innkjøpsanalyser", "Ignite Analytics"]
@@ -24,7 +24,7 @@ For de aller fleste virksomheter, både private og offentlige, utgjør innkjøp 
 
 Her kommer 8 av de viktigste fordelene som spendanalyser kan bidra med for din virksomhet. Utnytter du alle disse mulighetene i dag?
 
-![8 fordeler med innkjøps- og spendanalyser](/images/Spendanalyse fordeler.png "8 fordeler med innkjøps- og spendanalyser")
+![8 fordeler med spendanalyser](/images/Spendanalyser - fordeler.png "8 fordeler med spendanalyser")
 
 #### 1. Gir full transparens
 
