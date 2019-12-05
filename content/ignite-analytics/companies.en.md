@@ -4,8 +4,6 @@ date: 2019-02-20T09:56:46.000+00:00
 hidden: true
 key: trust
 customers:
-- logo: "/images/Øyer_kommune.png"
-  title: Øyer kommune
 - logo: "/images/customers/obos.png"
   title: Obos
 - logo: "/images/customers/af-gruppen.svg"
@@ -44,5 +42,7 @@ customers:
   title: Lillehammer kommune
 - logo: "/images/Gausdal_kommune.png"
   title: Gausdal kommune
+- logo: "/images/Øyer_kommune.png"
+  title: Øyer kommune
 
 ---
