@@ -83,15 +83,15 @@ Målene må være målbare, tidssensitive og realistiske. Planen må inkludere t
 
 #### 8. Gjennomfør og følg opp
 
-Det siste - men viktigste - trinnet er å faktisk gjennomføre strategien. En vellykket implementering krever løpende oppfølging av måloppnåelse og måling av fremdriften, for å sikre at prioriterte tiltak blir gjennomførte og med ønsket effekt. Interne statusmøter og rapporteringer anbefales for å sikre fokus og dele erfaringer på tvers av virksomheten.
+Det siste, men viktigste, trinnet er å faktisk gjennomføre strategien. En vellykket implementering krever løpende oppfølging av måloppnåelse og måling av fremdriften, for å sikre at prioriterte tiltak blir gjennomførte med ønsket effekt. Interne statusmøter og rapporteringer anbefales for å sikre fokus og dele erfaringer på tvers av virksomheten.
 
 ### Rammeverk for innkjøpsstrategier
 
-Innkjøpsstrategien bør omfatte og inneholde følgende rammeverk:
+Innkjøpsstrategien kan omfatte og inneholde følgende rammeverk**:**
 
-* Strategiuttalelse: grunnlaget og begrunnelsen
-* Ønskede resultater: leveranser
-* Tidsramme: frister
-* Taktisk plan: hvordan en strategi skal implementeres
-* Tiltak: beregninger som brukes for å evaluere prosessen
-* Verktøy som brukes: TCO, SWOT-analyse, Porters Five Forces, Category Positioning Matrix, SCOPE-analyse, Fishbone-analyse, etc.
+* **Strategidokument:** Grunnlag og begrunnelsen
+* **Ønskede resultater:** Leveranser
+* **Tidsramme:** Frister
+* **Taktisk plan:** Hvordan strategien skal implementeres
+* **Mål/KPIer:** Måltall for å evaluere prosessen
+* **Verktøy og analyser benyttet:**  For eksempel spendanalyser, TCO, SWOT-analyse etc.
