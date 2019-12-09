@@ -87,11 +87,11 @@ Det siste, men viktigste, trinnet er å faktisk gjennomføre strategien. En vell
 
 ### Rammeverk for innkjøpsstrategier
 
-Innkjøpsstrategien kan omfatte og inneholde følgende rammeverk**:**
+Innkjøpsstrategien kan oppsummeres med å inneholde følgende momenter;
 
-* **Strategidokument:** Grunnlag og begrunnelsen
+* **Strategidokument:** Grunnlag og begrunnelse
 * **Ønskede resultater:** Leveranser
 * **Tidsramme:** Frister
-* **Taktisk plan:** Hvordan strategien skal implementeres
+* **Taktisk plan:** Hvordan strategien skal implementeres med tiltak og ansvarsfordeling
 * **Mål/KPIer:** Måltall for å evaluere prosessen
-* **Verktøy og analyser benyttet:**  For eksempel spendanalyser, TCO, SWOT-analyse etc.
+* **Verktøy og analyser:** Spendanalyser, TCO, SWOT-analyse etc.
