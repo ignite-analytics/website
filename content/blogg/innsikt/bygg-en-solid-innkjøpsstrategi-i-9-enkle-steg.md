@@ -45,7 +45,7 @@ Spendanalyser er fundamentet for arbeidet i alle innkjøpsfunksjoner og vil vær
 
 For å bygge en innkjøpsstrategi som gir best mulige resultater, er det viktig å forstå virksomhetens behov - og gjerne opp mot virksomhetens overordnede forretningsstrategi. Denne innsikten vil hjelpe deg med å tilpasse og prioritere strategien på tvers av andre funksjoner og mål.
 
-Diskusjoner som utfordrer status quo og stiller spørsmålstegn ved det åpenbare, vil kunne avdekke nye besparelsesmuligheter. Verktøy som [Kraljic-matrisen](https://www.ignite.no/blogg/innsikt/hvordan-adressere-strategiske-innkj%C3%B8pskategorier/ "Hvordan adressere strategiske innkjøpskategorier") kan hjelpe deg med å identifisere de viktigste forretningskravene som bør inngå i utviklingen av innkjøpsstrategien.
+Diskusjoner som utfordrer status quo vil kunne avdekke nye besparelsesmuligheter. Verktøy som [Kraljic-matrisen](https://www.ignite.no/blogg/innsikt/hvordan-adressere-strategiske-innkj%C3%B8pskategorier/ "Hvordan adressere strategiske innkjøpskategorier") kan hjelpe deg med å identifisere de viktigste forretningskravene som bør inngå i utviklingen av innkjøpsstrategien.
 
 #### 3. Vurder markedsforholdene
 
