@@ -11,11 +11,11 @@ title = "Utarbeid en vellykket innkjøpsstrategi gjennom 8 steg"
 +++
 ### Hva er en innkjøpsstrategi?
 
-Begrepet innkjøpsstrategi refererer til en langsiktig plan for å sikre kostnadseffektive kjøp av varer og tjenester fra konkurransedyktige leverandører, til avtalt kvalitet, tid og betingelser. Strategien skal videre bidra til å realisere virksomhetens overordnede strategier, målsetninger og visjoner. Vanligvis er innkjøpsstrategien avhengig av en rekke faktorer som tidslinje, tilgjengelig budsjett, totale eierkostnader (TCO), potensielle risikoer og mer.
+Begrepet innkjøpsstrategi refererer til en langsiktig plan for å sikre kostnadseffektive kjøp av varer og tjenester fra konkurransedyktige leverandører, til avtalt kvalitet, tid og betingelser. Strategien skal ellers bidra til å realisere virksomhetens overordnede strategier, målsetninger og visjoner. Vanligvis er innkjøpsstrategien avhengig av en rekke faktorer som tidsaspektet, tilgjengelig budsjett, potensielle risikoer og mer.
 
 ![](/images/Innkjøpsstrategi - sammenheng.png)
 
-Innkjøpsstrategien fokuserer ofte på alternativer for å redusere kostnadene, minimere risiko, øke samfunnsansvaret og utvide organisk. I følge en [fersk undersøkelse fra Deloitte](https://www2.deloitte.com/content/dam/insights/us/articles/2019_CPO-Survey/6267_CPO-Survey-Collection-Page/DI_CPO-Survey.pdf "The Deloitte Global CPO Survey 2019") er kostnadsbesparelser det viktigste prioriteringsområdet for innkjøpssjefene fra et strategisk perspektiv. Virksomhetene kan velge å prioritere ett eller flere områder, avhengig av deres behov.
+Innkjøpsstrategien fokuserer ofte på alternativer for å redusere kostnadene, minimere risiko, øke samfunnsansvaret og utvide organisk. I følge en [fersk undersøkelse fra Deloitte](https://www2.deloitte.com/content/dam/insights/us/articles/2019_CPO-Survey/6267_CPO-Survey-Collection-Page/DI_CPO-Survey.pdf "The Deloitte Global CPO Survey 2019") er kostnadsbesparelser det viktigste prioriteringsområdet for innkjøpssjefene fra et strategisk perspektiv. Virksomhetene kan selv velge å prioritere ett eller flere områder, avhengig av deres behov.
 
 ### Eksempler på innkjøpsstrategier
 
