@@ -2,7 +2,6 @@
 author = "Ignite"
 categories = ["Innsikt"]
 date = 2019-12-09T12:02:33Z
-draft = true
 image = "/images/Innkjøpsstrategi - 8 steg.png"
 ingress = "Å ha en god innkjøpsstrategi er svært viktig for både virksomheten og innkjøpsfunksjonen. Prosessen med å lage en robust og relevant innkjøpsstrategi er imidlertid alt annet enn enkelt."
 showmainimg = false
