@@ -76,7 +76,7 @@ Dersom behovene for verktøystøtte er omfattende, kan det være hensiktsmessig 
 
 #### 7. Utarbeid strategien
 
-Ved hjelp av dataene og informasjonen du har fått, kan nå utarbeide en innkjøpsstrategi. Strategien bør liste opp dagens situasjon, ønskede mål og en plan for å nå disse målene.
+Ved hjelp av informasjonen som er innhentet og analysert i de foregående stegene, kan du nå utarbeide en innkjøpsstrategi. Strategien bør liste opp dagens situasjon, ønskede mål og en plan for å nå disse målene.
 
 Målene må være målbare, tidssensitive og realistiske. Planen må inkludere tiltak og [virkemidler](https://www.ignite.no/blogg/innsikt/8-virkemidler-for-%C3%A5-redusere-innkj%C3%B8pskostnadene/ "8 virkemidler for å redusere innkjøpskostnadene") for hvordan nå de ulike målene, samt en fordeling av ansvar og roller.
 
