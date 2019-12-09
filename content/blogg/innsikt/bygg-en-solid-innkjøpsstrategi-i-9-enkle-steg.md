@@ -7,7 +7,7 @@ image = ""
 ingress = "Å ha en god innkjøpsstrategi er svært viktig for både virksomheten og innkjøpsfunksjonen. Prosessen med å lage en robust og relevant innkjøpsstrategi er imidlertid alt annet enn enkelt."
 showmainimg = false
 tags = []
-title = "Bygg en vellykket innkjøpsstrategi i 9 enkle steg"
+title = "Bygg en vellykket innkjøpsstrategi i 8 enkle steg"
 
 +++
 ### Hva er en innkjøpsstrategi?
@@ -31,7 +31,7 @@ Uavhengig av virksomhetens størrelse, så finnes det noen vanlige typer innkjø
 
 ### Steg for å utarbeide en vellykket innkjøpsstrategi
 
-En god innkjøpsstrategi vil identifisere innsparingsmuligheter, minimere feil, redusere kjøp utenfor avtaler (maverick spend) samt sikre overholdelse av rutiner og policyer. Nedenfor har vi listet opp ni viktige steg for å bygge en vellykket innkjøpsstrategi.
+En god innkjøpsstrategi vil identifisere innsparingsmuligheter, minimere feil, redusere kjøp utenfor avtaler (maverick spend) samt sikre overholdelse av rutiner og policyer. Nedenfor har vi listet opp åtte viktige steg for å bygge en vellykket innkjøpsstrategi.
 
 BILDE:
 
