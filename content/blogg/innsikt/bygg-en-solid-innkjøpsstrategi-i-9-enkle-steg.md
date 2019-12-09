@@ -31,23 +31,25 @@ Uavhengig av virksomhetens størrelse, så finnes det noen vanlige typer innkjø
 
 ### Steg for å utarbeide en vellykket innkjøpsstrategi
 
-En god innkjøpsstrategi vil identifisere innsparingsmuligheter, minimere feil, redusere kjøp utenfor kontrakt (maverick spend) samt sikre overholdelse av rutiner og policyer. Nedenfor har vi listet opp ni viktige steg for å bygge en vellykket innkjøpsstrategi:
+En god innkjøpsstrategi vil identifisere innsparingsmuligheter, minimere feil, redusere kjøp utenfor kontrakt (maverick spend) samt sikre overholdelse av rutiner og policyer. Nedenfor har vi listet opp ni viktige steg for å bygge en vellykket innkjøpsstrategi.
 
-#### 1. Analyser og forstå innkjøpet
+BILDE:
 
-Start med å forstå hva dere kjøper inn og hvordan kjøpet fordeler seg ved å gjennomføre [innkjøps- og spendanalyser](https://www.ignite.no/blogg/innsikt/8-fordeler-med-spendanalyser/ "8 fordeler med innkjøps- og spendanalyser"). Til dette må du innhente relevant [innkjøpsdata som finnes internt](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger") og direkte fra utvalgte leverandører dersom dette er nødvendig.
+#### 1. Analyser innkjøpet
 
-For å gjøre dette, må du skaffe data fra interne interessenter, leverandører og alle andre parter som er involvert i anskaffelsesprosessen.
+Start med å forstå hva dere kjøper inn og hvordan kjøpet fordeler seg ved å gjennomføre [innkjøps- og spendanalyser](https://www.ignite.no/blogg/innsikt/8-fordeler-med-spendanalyser/ "8 fordeler med innkjøps- og spendanalyser"). Til dette trenger du relevant [innkjøpsdata som finnes internt](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger"), samt eventuelt innhente data direkte fra utvalgte leverandører.
 
-Dataene som er innhentet på dette trinnet, vil ikke bare tjene som et kunnskapsgrunnlag i organisasjonen din, men også fungere som grunnlaget for anskaffelsesstrategien. Verktøy som totale eierkostnader (TCO) kan brukes til å identifisere og analysere de ofte oversett eller ukjente kostnadene en vare / tjeneste har i tillegg til den opprinnelige kjøpesummen.
+Spendanalyser er fundamentet for arbeidet i alle innkjøpsfunksjoner og vil være grunnlaget for å utarbeide en god - og faktabasert - innkjøpsstrategi. Analyser rundt totale eierkostnader (TCO) kan også brukes til å identifisere kostnader forbundet med varene/tjenestene utover selve kjøpsprisen.
 
-2\. Bestem forretningsbehov
+![Spendanalyser er kjernefunksjonalitet i Ignite Analytics](https://www.ignite.no/images/Ignite%20Analytics%20-%20Spendanalyser.png "Spendanalyser i Ignite Analytics")
 
-For å utforme en robust anskaffelsesstrategi som gir best resultat, er det viktig å forstå organisasjonens behov tydelig. Denne faktabaserte analysen vil hjelpe deg med å justere og prioritere anskaffelsesstrategien på tvers av andre funksjoner og forretningsmessige mål.
+#### 2. Forstå behovet
+
+For å bygge en strategi som gir best mulige resultater, er det viktig å forstå virksomhetens behov - og gjerne opp mot virksomhetens overordnede forretningsstrategi. Denne innsikten vil hjelpe deg med å tilpasse og prioritere innkjøpsstrategien på tvers av andre funksjoner og mål.
 
 En enkel ‘hva om’ diskusjon som utfordrer status quo og stiller spørsmål ved det åpenbare, vil avdekke mye flere besparelsesmuligheter. Verktøy som en matriser for kategoriposisjonering kan hjelpe organisasjoner med å identifisere de viktigste forretningskravene som vil inngå i utviklingen av anskaffelsesstrategien.
 
-3\. Vurdere markedsforhold
+#### 3. Vurdere markedsforhold
 
 Når den interne analysen for å bestemme forretningsbehov er fullført, er det neste åpenbare trinnet å se på den ytre siden av ting: forsyningsmarkeder og deres forhold. Her må nødvendige data samles inn fra leverandører og potensielle leverandører.
 
