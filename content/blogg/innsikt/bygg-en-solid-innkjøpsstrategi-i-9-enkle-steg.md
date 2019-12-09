@@ -48,7 +48,7 @@ Diskusjoner som utfordrer status quo vil kunne avdekke nye besparelsesmuligheter
 
 #### 3. Vurder markedsforholdene
 
-Etter å ha sett nærmere på de interne behovene, er det neste åpenbare trinnet å se på eksterne forhold; leverandørmarkedet og markedsforholdene. Relevant data vil her typisk omfatte leverandør- og markedsinformasjon. En rekke verktøy kan være hensiktsmessige for å utarbeide denne typen analyser som for eksempel [Porter's Five Forces](https://www.mindtools.com/pages/article/newTMC_08.htm "Porter's Five Forces") og [PESTEL-metodikken](https://www.mindtools.com/pages/article/newTMC_09.htm "PESTEL-analyse"). 
+Etter å ha sett nærmere på de interne behovene, er det neste åpenbare trinnet å se på eksterne forhold; leverandørmarkedet og markedsforholdene. Relevant data vil her typisk omfatte leverandør- og markedsinformasjon. En rekke modeller kan være hensiktsmessige for å utarbeide denne typen analyser som for eksempel [Porter's Five Forces](https://www.mindtools.com/pages/article/newTMC_08.htm "Porter's Five Forces") og [PESTEL-metodikken](https://www.mindtools.com/pages/article/newTMC_09.htm "PESTEL-analyse"). 
 
 Om virksomheten din allerede har god kjennskap til leverandørmarkedene, noe alle innkjøpsfunksjoner bør ha løpende fokus på, så vil denne kunnskapen komme godt til rette i denne delen.
 
@@ -56,7 +56,7 @@ Om virksomheten din allerede har god kjennskap til leverandørmarkedene, noe all
 
 Alle gode innkjøpsstrategier har tydelige mål om hva man ønsker å oppnå og hvordan disse kan/bør måles. Dataen og analysene fra de foregående trinnene bidrar typisk med verdifulle innspill her.
 
-Målene bør rangeres og prioriteres basert på virkningen disse har på "bunnlinjen". Bruk gjerne en SWOT-analyse, eller andre verktøy, for å forstå styrker og svakheter med dagens innkjøpsfunksjon. Benytter for eksempel virksomheten din [digitale verktøy](https://www.ignite.no/ignite-analytics/ "Ignite Analytics") i det strategiske innkjøpsarbeidet?
+Målene bør rangeres og prioriteres basert på virkningen, eller viktigheten, disse har på "bunnlinjen". Bruk gjerne en [SWOT-analyse](https://www.mindtools.com/pages/article/newTMC_05.htm "SWOT-analyse"), eller andre modeller, for å forstå styrker og svakheter med dagens innkjøpsfunksjon. 
 
 #### 5. Definer policyer
 
