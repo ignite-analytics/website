@@ -41,8 +41,6 @@ Start med å forstå hva dere kjøper inn og hvordan kjøpet fordeler seg ved å
 
 Spendanalyser er fundamentet for arbeidet i alle innkjøpsfunksjoner og vil være grunnlaget for å utarbeide en god - og faktabasert - innkjøpsstrategi. Analyser rundt totale eierkostnader (TCO) kan også brukes til å identifisere kostnader forbundet med varene/tjenestene utover selve kjøpsprisen.
 
-![Spendanalyser er kjernefunksjonalitet i Ignite Analytics](https://www.ignite.no/images/Ignite%20Analytics%20-%20Spendanalyser.png "Spendanalyser i Ignite Analytics")
-
 #### 2. Forstå behovet
 
 For å bygge en innkjøpsstrategi som gir best mulige resultater, er det viktig å forstå virksomhetens behov - og gjerne opp mot virksomhetens overordnede forretningsstrategi. Denne innsikten vil hjelpe deg med å tilpasse og prioritere strategien på tvers av andre funksjoner og mål.
@@ -59,12 +57,62 @@ Om virksomheten din allerede har god kjennskap til leverandørmarkedene, som oft
 
 Alle gode innkjøpsstrategier har tydelige mål om hva man ønsker å oppnå og hvordan disse kan/bør måles. Dataen og analysene fra de foregående trinnene bidrar typisk med verdifull input her.
 
-Målene bør rangeres og prioriteres basert på virkningen disse har på "bunnlinjen". Bruk gjerne en SWOT-analyse, eller andre verktøy, for å forstå styrker og svakheter med dagens innkjøpsfunksjon. Benytter for eksempel virksomheten din gode, [digitale verktøy](https://www.ignite.no/ignite-analytics/ "Ignite Analytics") i det strategiske innkjøpsarbeidet?
+Målene bør rangeres og prioriteres basert på virkningen disse har på "bunnlinjen". Bruk gjerne en SWOT-analyse, eller andre verktøy, for å forstå styrker og svakheter med dagens innkjøpsfunksjon. Benytter for eksempel virksomheten din [digitale verktøy](https://www.ignite.no/ignite-analytics/ "Ignite Analytics") i det strategiske innkjøpsarbeidet?
 
 #### 5. Definer policyer
 
-Basert på informasjonen om hva som må adresseres, så bør du lage en liste over beste-praksis metodikk for å forbedre prosessene og øke effektiviteten. For eksempel kan du starte med å tilpasse nåværende innkjøpspolicyer og rutiner for å adressere risikoene identifisert i trinn 4.
+Basert på informasjonen om hva som må adresseres, så bør du lage en liste over initiativ og tiltak for å forbedre prosessene og øke effektiviteten. For eksempel kan du starte med å tilpasse nåværende innkjøpspolicyer og rutiner for å adressere identifiserte risikoer i trinn 4.
 
-Når du er i ferd med å skissere en anskaffelsespolitikk for virksomheten din, er det best å unngå å starte fra bunnen av. I stedet kan du tilpasse eksisterende anskaffelsespolitiske maler slik at de passer til organisasjonens forretningsbehov. Ideelt sett må anskaffelsespolitikk tilby veiledning om rettferdig praksis for alle som er involvert i prosessen, samt tiltak for mulige brudd.
+Merk at det kan være hensiktsmessig å justere eksisterende policyer i stedet for å begynne helt fra bunnen av. Ideelt sett bør disse policyene dekke behovet og gi veiledning for alle relevante brukere i organisasjonen.
 
-Trinn for å lage en effektiv anskaffelsesstrategi:
+#### 6. Invester i digitale verktøy
+
+For å kunne hente ut det fulle potensialet er innkjøpsfunksjonen avhengige av verktøy for å støtte det strategiske arbeidet. Gode, digitale verktøy bidrar til å øke effektiviteten for innkjøpsfunksjonen. Dette vil gi dere mer tid til å fokusere på verdiskapende aktiviteter, altså de strategiske aktivitetene.
+
+Eksempelvis er et spendanalyseverktøy en forutsetning for å jobbe profesjonelt med innkjøp og anskaffelser.
+
+![Spendanalyser er kjernefunksjonalitet i Ignite Analytics](https://www.ignite.no/images/Ignite%20Analytics%20-%20Spendanalyser.png "Spendanalyser i Ignite Analytics")
+
+Organisasjoner som håndterer anskaffelsesprosessen manuelt, vil sannsynligvis bruke mer på grunn av menneskelige feil, forsinkelser og sene betalinger. Et anskaffelsessystem forbedrer ansattes produktivitet og reduserer feil ved å eliminere manuell dataregistrering og tilhørende ineffektivitet.
+
+Et anskaffelsesstyringssystem vil spore anskaffelser til betaling løpende til ende. Hvert trinn i anskaffelsesprosessen, fra å identifisere sourcingbehov til å fullføre betaling, vil bli strømlinjeformet. De beste funksjonene i en anskaffelsesprogramvare vil oppdage og adressere prosessgap og håndheve innkjøpsregler uten manuell inngripen.
+
+Effektiviser anskaffelsesprosessen din med Kissflow
+
+Gratis 14 dagers gratis prøveperiode
+
+Start gratis prøveperiode
+
+#### 7. Skissere en anskaffelsesstrategi
+
+Ved hjelp av dataene og informasjonen du har fått, utarbeider du en anskaffelsesstrategi. Dette må liste opp de ønskede målene, og taktikken som skal brukes for å oppnå dem.
+
+Målene må være målbare, tidssensitive og realistiske. Den taktiske planen vil liste opp metodene som skal brukes for å oppnå de forhåndsdefinerte målene. En anskaffelsesstrategi kan også inneholde en ‘stor idé’ som til slutt vil skyve mulighetens grenser.
+
+#### 8. Utvikle en digital anskaffelsesstrategi
+
+Ved hjelp av data og informasjon hentet fra de foregående trinnene, må du utarbeide en digital anskaffelsesstrategi. I dette trinnet må organisasjonene forny din anskaffelsesteknologi, strategi, prosess, talent, ferdighetssett og støttesystemer.
+
+Implementering av en digital anskaffelsesstrategi bør anses som en prioritet, siden det gjør det mulig for organisasjoner å tilbringe mer tid med leverandører og den strategiske delen av anskaffelser, snarere på administrative oppgaver og transaksjoner. En digital anskaffelsesstrategi vil hjelpe virksomheter å distribuere ressursene de trenger for å oppnå store fordeler og gjøre anskaffelsesprosessen smidig.
+
+#### 9. Utfør, administrer og avgrens strategien
+
+Når en digital strategi er opprettet, er neste trinn å utføre den. Når strategien blir utført, vil den kreve involvering fra andre forretningsfunksjoner (HR, admin, salg, finans). Etter å ha utført den digitale anskaffelsesstrategien, må du spore og måle fremdriften og suksessen med implementeringen.
+
+Kissflows anskaffelsessky for å presentere et verktøy og en forenklet tilnærming til anskaffelser, og det er enkelt å finne dette som en smertefri måte å bli digital på.
+
+Ramme for anskaffelser
+
+Et ideelt rammeverk for innkjøpsstrategi vil omfatte følgende:
+
+Strategiuttalelse: grunnlaget og begrunnelsen
+
+Ønskede resultater: leveranser
+
+Tidsramme: frister
+
+Taktisk plan: hvordan en strategi skal implementeres
+
+Tiltak: beregninger som brukes for å evaluere prosessen
+
+Verktøy som brukes: TCO, SWOT-analyse, Porters Five Forces, Category Positioning Matrix, SCOPE-analyse, Fishbone-analyse, etc.
