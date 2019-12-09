@@ -84,7 +84,7 @@
     </item>
     
     <item>
-      <title>Innkjøpsfunksjon</title>
+      <title>innkjøpsfunksjon</title>
       <link>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</link>
       <pubDate>Mon, 11 Nov 2019 15:34:13 +0000</pubDate>
       
@@ -165,15 +165,6 @@
     </item>
     
     <item>
-      <title>Forespørselsprosess</title>
-      <link>https://ignite.no/blogg/tag/foresp%C3%B8rselsprosess/</link>
-      <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/foresp%C3%B8rselsprosess/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Innkjøpskostnader</title>
       <link>https://ignite.no/blogg/tag/innkj%C3%B8pskostnader/</link>
       <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
@@ -242,6 +233,15 @@
       <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/bundling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forespørselsprosess</title>
+      <link>https://ignite.no/blogg/tag/foresp%C3%B8rselsprosess/</link>
+      <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/foresp%C3%B8rselsprosess/</guid>
       <description></description>
     </item>
     
@@ -417,7 +417,7 @@
     </item>
     
     <item>
-      <title>Platform engineers</title>
+      <title>Platform Engineers</title>
       <link>https://ignite.no/blogg/tag/platform-engineers/</link>
       <pubDate>Mon, 23 Sep 2019 11:40:08 +0000</pubDate>
       
