@@ -87,7 +87,7 @@ Det siste, men viktigste, trinnet er å faktisk gjennomføre strategien. En vell
 
 ### Rammeverk for innkjøpsstrategier
 
-Innkjøpsstrategien kan oppsummeres med å inneholde følgende momenter;
+Innkjøpsstrategien kan oppsummeres med og inneholde følgende momenter;
 
 * **Strategidokument:** Grunnlag og begrunnelse
 * **Ønskede resultater:** Leveranser
@@ -95,3 +95,9 @@ Innkjøpsstrategien kan oppsummeres med å inneholde følgende momenter;
 * **Taktisk plan:** Hvordan strategien skal implementeres med tiltak og ansvarsfordeling
 * **Mål/KPIer:** Måltall for å evaluere prosessen
 * **Verktøy og analyser:** Spendanalyser, TCO, SWOT-analyse etc.
+
+***
+
+Spendanalyser er en del av kjernefunksjonaliteten i Ignite Analytics. Få mer informasjon om hvordan løsningen kan hjelpe deg og din virksomhet!
+
+[![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
