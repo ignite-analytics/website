@@ -91,7 +91,7 @@ Innkjøpsstrategien bør alltid dokumenteres, der følgende momenter kan inklude
 * **Strategidokument:** Grunnlag og begrunnelse
 * **Ønskede resultater:** Leveranser
 * **Tidsramme:** Frister
-* **Taktisk plan:** Hvordan strategien skal implementeres med tiltak og ansvarsfordeling
+* **Plan:** Hvordan strategien skal implementeres med tiltak og ansvarsfordeling
 * **Mål/KPIer:** Måltall for å evaluere prosessen
 * **Analyser:** Spendanalyser, TCO, SWOT-analyse etc.
 
