@@ -82,7 +82,7 @@ Målene må være målbare, tidssensitive og realistiske. Planen må inkludere t
 
 #### 8. Gjennomfør og følg opp
 
-Det siste, men viktigste, trinnet er å faktisk gjennomføre strategien. En vellykket implementering krever løpende oppfølging av måloppnåelse og måling av fremdriften, for å sikre at prioriterte tiltak blir gjennomførte med ønsket effekt. Interne statusmøter og rapporteringer anbefales for å sikre fokus og dele erfaringer på tvers av virksomheten.
+Det siste, og viktigste, trinnet er å starte gjennomføringen av strategien. En vellykket implementering krever løpende oppfølging av måloppnåelse og måling av fremdriften, for å sikre at prioriterte tiltak blir gjennomførte med ønsket effekt. Interne statusmøter og rapporteringer anbefales for å sikre fokus og dele erfaringer på tvers av virksomheten.
 
 ### Rammeverk for innkjøpsstrategier
 
