@@ -51,7 +51,9 @@ Diskusjoner som utfordrer status quo og stiller spørsmålstegn ved det åpenbar
 
 #### 3. Vurder markedsforholdene
 
-Når den interne analysen for å bestemme forretningsbehov er fullført, er det neste åpenbare trinnet å se på den ytre siden av ting: forsyningsmarkeder og deres forhold. Her må nødvendige data samles inn fra leverandører og potensielle leverandører.
+Etter å ha sett nærmere på de interne behovene, er det neste åpenbare trinnet å se på eksterne forhold; leverandørmarkedet og markedsforholdene. Relevant data vil her typisk omfatte leverandør- og markedsinformasjon.
+
+En rekke verktøy kan være hensiktsmessige for å utarbeide denne typen analyser som for eksempel Porter's Five Forces og PESTEL-metodikken.
 
 For å sikre relevans, må organisasjoner sørge for at innsamlet data holder seg oppdatert over tid. En rekke metodologier som Porters fem styrker og SCOPE-analyse vil være nyttige under denne analysen.
 
