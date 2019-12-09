@@ -31,7 +31,7 @@ Uavhengig av virksomhetens størrelse, så finnes det noen vanlige typer innkjø
 
 ### Steg for å utarbeide en vellykket innkjøpsstrategi
 
-En god innkjøpsstrategi vil identifisere innsparingsmuligheter, minimere feil, redusere kjøp utenfor kontrakt (maverick spend) samt sikre overholdelse av rutiner og policyer. Nedenfor har vi listet opp ni viktige steg for å bygge en vellykket innkjøpsstrategi.
+En god innkjøpsstrategi vil identifisere innsparingsmuligheter, minimere feil, redusere kjøp utenfor avtaler (maverick spend) samt sikre overholdelse av rutiner og policyer. Nedenfor har vi listet opp ni viktige steg for å bygge en vellykket innkjøpsstrategi.
 
 BILDE:
 
@@ -73,11 +73,11 @@ Dere bør identifisere hvilke deler av innkjøpsprosessen hvor behovet for verkt
 
 ![Spendanalyser er kjernefunksjonalitet i Ignite Analytics](https://www.ignite.no/images/Ignite%20Analytics%20-%20Spendanalyser.png "Spendanalyser i Ignite Analytics")
 
-#### 7. Skissere en anskaffelsesstrategi
+#### 7. Skissere en strategi
 
-Ved hjelp av dataene og informasjonen du har fått, utarbeider du en anskaffelsesstrategi. Dette må liste opp de ønskede målene, og taktikken som skal brukes for å oppnå dem.
+Ved hjelp av dataene og informasjonen du har fått, kan nå utarbeide en innkjøpsstrategi. Strategien bør liste opp dagens situasjon, ønskede mål og en plan for å nå disse målene.
 
-Målene må være målbare, tidssensitive og realistiske. Den taktiske planen vil liste opp metodene som skal brukes for å oppnå de forhåndsdefinerte målene. En anskaffelsesstrategi kan også inneholde en ‘stor idé’ som til slutt vil skyve mulighetens grenser.
+Målene må være målbare, tidssensitive og realistiske. Planen bør inkludere tiltak og [virkemidler](https://www.ignite.no/blogg/innsikt/8-virkemidler-for-%C3%A5-redusere-innkj%C3%B8pskostnadene/ "8 virkemidler for å redusere innkjøpskostnadene") som skal gjennomføres for å nå de forhåndsdefinerte målene.
 
 #### 8. Utvikle en digital anskaffelsesstrategi
 
