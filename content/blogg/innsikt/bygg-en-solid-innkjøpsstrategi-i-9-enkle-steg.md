@@ -86,7 +86,7 @@ Det siste, men viktigste, trinnet er å faktisk gjennomføre strategien. En vell
 
 ### Rammeverk for innkjøpsstrategier
 
-Innkjøpsstrategien bør alltid oppsummeres og detaljeres, der følgende momenter bør inkluderes;
+Innkjøpsstrategien bør alltid dokumenteres, der følgende momenter kan inkluderes;
 
 * **Strategidokument:** Grunnlag og begrunnelse
 * **Ønskede resultater:** Leveranser
