@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>spendanalyser</title>
+      <title>Spendanalyser</title>
       <link>https://ignite.no/blogg/tag/spendanalyser/</link>
       <pubDate>Mon, 02 Dec 2019 13:06:29 +0000</pubDate>
       
@@ -84,7 +84,7 @@
     </item>
     
     <item>
-      <title>Innkjøpsfunksjon</title>
+      <title>innkjøpsfunksjon</title>
       <link>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</link>
       <pubDate>Mon, 11 Nov 2019 15:34:13 +0000</pubDate>
       
@@ -156,11 +156,29 @@
     </item>
     
     <item>
+      <title>Bundling</title>
+      <link>https://ignite.no/blogg/tag/bundling/</link>
+      <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/bundling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Forbedre spesifikasjoner</title>
       <link>https://ignite.no/blogg/tag/forbedre-spesifikasjoner/</link>
       <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/forbedre-spesifikasjoner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forespørselsprosess</title>
+      <link>https://ignite.no/blogg/tag/foresp%C3%B8rselsprosess/</link>
+      <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/foresp%C3%B8rselsprosess/</guid>
       <description></description>
     </item>
     
@@ -210,6 +228,15 @@
     </item>
     
     <item>
+      <title>Reforhandling</title>
+      <link>https://ignite.no/blogg/tag/reforhandling/</link>
+      <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/reforhandling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Strategiske partnere</title>
       <link>https://ignite.no/blogg/tag/strategiske-partnere/</link>
       <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
@@ -228,38 +255,20 @@
     </item>
     
     <item>
-      <title>bundling</title>
-      <link>https://ignite.no/blogg/tag/bundling/</link>
-      <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/bundling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>forespørselsprosess</title>
-      <link>https://ignite.no/blogg/tag/foresp%C3%B8rselsprosess/</link>
-      <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/foresp%C3%B8rselsprosess/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reforhandling</title>
-      <link>https://ignite.no/blogg/tag/reforhandling/</link>
-      <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/reforhandling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gumpen Gruppen</title>
       <link>https://ignite.no/blogg/tag/gumpen-gruppen/</link>
       <pubDate>Wed, 23 Oct 2019 07:17:53 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/gumpen-gruppen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innkjøpskategori</title>
+      <link>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</link>
+      <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</guid>
       <description></description>
     </item>
     
@@ -273,16 +282,7 @@
     </item>
     
     <item>
-      <title>innkjøpskategori</title>
-      <link>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</link>
-      <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kategoristruktur</title>
+      <title>Kategoristruktur</title>
       <link>https://ignite.no/blogg/tag/kategoristruktur/</link>
       <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
       
@@ -291,7 +291,7 @@
     </item>
     
     <item>
-      <title>kategoristyring</title>
+      <title>Kategoristyring</title>
       <link>https://ignite.no/blogg/tag/kategoristyring/</link>
       <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
       
@@ -417,7 +417,7 @@
     </item>
     
     <item>
-      <title>Platform engineers</title>
+      <title>Platform Engineers</title>
       <link>https://ignite.no/blogg/tag/platform-engineers/</link>
       <pubDate>Mon, 23 Sep 2019 11:40:08 +0000</pubDate>
       
@@ -552,15 +552,6 @@
     </item>
     
     <item>
-      <title>Innkjøpspotensial</title>
-      <link>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</link>
-      <pubDate>Fri, 16 Aug 2019 12:17:11 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kalkulator</title>
       <link>https://ignite.no/blogg/tag/kalkulator/</link>
       <pubDate>Fri, 16 Aug 2019 12:17:11 +0000</pubDate>
@@ -575,6 +566,15 @@
       <pubDate>Fri, 16 Aug 2019 12:17:11 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/sparekalkulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>innkjøpspotensial</title>
+      <link>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</link>
+      <pubDate>Fri, 16 Aug 2019 12:17:11 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</guid>
       <description></description>
     </item>
     
@@ -624,20 +624,20 @@
     </item>
     
     <item>
+      <title>Avtalestyring</title>
+      <link>https://ignite.no/blogg/tag/avtalestyring/</link>
+      <pubDate>Wed, 07 Aug 2019 12:03:41 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/avtalestyring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kontraktsoppfølging</title>
       <link>https://ignite.no/blogg/tag/kontraktsoppf%C3%B8lging/</link>
       <pubDate>Wed, 07 Aug 2019 12:03:41 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/kontraktsoppf%C3%B8lging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>avtalestyring</title>
-      <link>https://ignite.no/blogg/tag/avtalestyring/</link>
-      <pubDate>Wed, 07 Aug 2019 12:03:41 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/avtalestyring/</guid>
       <description></description>
     </item>
     
