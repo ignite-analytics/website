@@ -3,10 +3,10 @@ author = "Ignite"
 categories = ["Innsikt"]
 date = 2019-12-09T12:02:33Z
 draft = true
-image = ""
+image = "/images/Innkjøpsstrategi - 8 steg.png"
 ingress = "Å ha en god innkjøpsstrategi er svært viktig for både virksomheten og innkjøpsfunksjonen. Prosessen med å lage en robust og relevant innkjøpsstrategi er imidlertid alt annet enn enkelt."
 showmainimg = false
-tags = []
+tags = ["Innkjøpsstrategi", "Kostnadsreduksjon", "Risikostyring", "Leverandørstyring", "Grønne innkjøp", "Global sourcing", "Kvalitetsstyring (TQM)", "Spendanalyser", "Ignite Analytics"]
 title = "Utarbeid en vellykket innkjøpsstrategi gjennom 8 steg"
 
 +++
