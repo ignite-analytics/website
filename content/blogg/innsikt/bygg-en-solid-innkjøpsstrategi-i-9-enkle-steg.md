@@ -49,7 +49,7 @@ For å bygge en innkjøpsstrategi som gir best mulige resultater, er det viktig 
 
 Diskusjoner som utfordrer status quo og stiller spørsmålstegn ved det åpenbare, vil kunne avdekke nye besparelsesmuligheter. Verktøy som [Kraljic-matrisen](https://www.ignite.no/blogg/innsikt/hvordan-adressere-strategiske-innkj%C3%B8pskategorier/ "Hvordan adressere strategiske innkjøpskategorier") kan hjelpe deg med å identifisere de viktigste forretningskravene som bør inngå i utviklingen av innkjøpsstrategien.
 
-#### 3. Vurdere markedsforhold
+#### 3. Vurder markedsforhold
 
 Når den interne analysen for å bestemme forretningsbehov er fullført, er det neste åpenbare trinnet å se på den ytre siden av ting: forsyningsmarkeder og deres forhold. Her må nødvendige data samles inn fra leverandører og potensielle leverandører.
 
