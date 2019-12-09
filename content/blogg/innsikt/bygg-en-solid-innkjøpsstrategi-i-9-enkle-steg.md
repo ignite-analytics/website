@@ -11,7 +11,7 @@ title = "Utarbeid en vellykket innkjøpsstrategi gjennom 8 steg"
 +++
 ### Hva er en innkjøpsstrategi?
 
-Begrepet innkjøpsstrategi refererer til en langsiktig plan for å sikre kostnadseffektive kjøp av varer og tjenester fra konkurransedyktige leverandører til avtalt kvalitet, tid og betingelser. Strategien skal videre bidra til å realisere virksomhetens overordnede strategier, målsetninger og visjoner. Vanligvis er innkjøpsstrategien avhengig av en rekke faktorer som tidslinje, tilgjengelig budsjett, totale eierkostnader (TCO), potensielle risikoer og mer.
+Begrepet innkjøpsstrategi refererer til en langsiktig plan for å sikre kostnadseffektive kjøp av varer og tjenester fra konkurransedyktige leverandører, til avtalt kvalitet, tid og betingelser. Strategien skal videre bidra til å realisere virksomhetens overordnede strategier, målsetninger og visjoner. Vanligvis er innkjøpsstrategien avhengig av en rekke faktorer som tidslinje, tilgjengelig budsjett, totale eierkostnader (TCO), potensielle risikoer og mer.
 
 ![](/images/Innkjøpsstrategi - sammenheng.png)
 
