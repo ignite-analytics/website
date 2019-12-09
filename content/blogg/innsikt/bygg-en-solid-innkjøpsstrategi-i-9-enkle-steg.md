@@ -73,16 +73,6 @@ Dere bør identifisere hvilke deler av innkjøpsprosessen hvor behovet for verkt
 
 ![Spendanalyser er kjernefunksjonalitet i Ignite Analytics](https://www.ignite.no/images/Ignite%20Analytics%20-%20Spendanalyser.png "Spendanalyser i Ignite Analytics")
 
-Organisasjoner som håndterer anskaffelsesprosessen manuelt, vil sannsynligvis bruke mer på grunn av menneskelige feil, forsinkelser og sene betalinger. Et anskaffelsessystem forbedrer ansattes produktivitet og reduserer feil ved å eliminere manuell dataregistrering og tilhørende ineffektivitet.
-
-Et anskaffelsesstyringssystem vil spore anskaffelser til betaling løpende til ende. Hvert trinn i anskaffelsesprosessen, fra å identifisere sourcingbehov til å fullføre betaling, vil bli strømlinjeformet. De beste funksjonene i en anskaffelsesprogramvare vil oppdage og adressere prosessgap og håndheve innkjøpsregler uten manuell inngripen.
-
-Effektiviser anskaffelsesprosessen din med Kissflow
-
-Gratis 14 dagers gratis prøveperiode
-
-Start gratis prøveperiode
-
 #### 7. Skissere en anskaffelsesstrategi
 
 Ved hjelp av dataene og informasjonen du har fått, utarbeider du en anskaffelsesstrategi. Dette må liste opp de ønskede målene, og taktikken som skal brukes for å oppnå dem.
