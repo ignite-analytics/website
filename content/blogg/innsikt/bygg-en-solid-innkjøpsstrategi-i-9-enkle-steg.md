@@ -7,7 +7,7 @@ image = ""
 ingress = "Å ha en god innkjøpsstrategi er svært viktig for både virksomheten og innkjøpsfunksjonen. Prosessen med å lage en robust og relevant innkjøpsstrategi er imidlertid alt annet enn enkelt."
 showmainimg = false
 tags = []
-title = "Bygg en vellykket innkjøpsstrategi i 8 enkle steg"
+title = "Utarbeid en vellykket innkjøpsstrategi gjennom 8 steg"
 
 +++
 ### Hva er en innkjøpsstrategi?
