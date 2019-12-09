@@ -97,6 +97,6 @@ Innkjøpsstrategien bør alltid dokumenteres, der følgende momenter kan inklude
 
 ***
 
-Spendanalyser er en del av kjernefunksjonaliteten i Ignite Analytics. Få mer informasjon om hvordan løsningen kan hjelpe deg og din virksomhet!
+Ignite Analytics støtter hele den strategiske innkjøpsprosessen. Få mer informasjon om hvordan løsningen kan hjelpe deg og din virksomhet!
 
 [![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
