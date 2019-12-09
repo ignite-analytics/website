@@ -43,11 +43,11 @@ Spendanalyser er fundamentet for arbeidet i alle innkjøpsfunksjoner og vil vær
 
 ![Spendanalyser er kjernefunksjonalitet i Ignite Analytics](https://www.ignite.no/images/Ignite%20Analytics%20-%20Spendanalyser.png "Spendanalyser i Ignite Analytics")
 
-#### 2. Forstå behovet
+#### 2. Forstå forretningsbehovet
 
-For å bygge en strategi som gir best mulige resultater, er det viktig å forstå virksomhetens behov - og gjerne opp mot virksomhetens overordnede forretningsstrategi. Denne innsikten vil hjelpe deg med å tilpasse og prioritere innkjøpsstrategien på tvers av andre funksjoner og mål.
+For å bygge en innkjøpsstrategi som gir best mulige resultater, er det viktig å forstå virksomhetens behov - og gjerne opp mot virksomhetens overordnede forretningsstrategi. Denne innsikten vil hjelpe deg med å tilpasse og prioritere strategien på tvers av andre funksjoner og mål.
 
-En enkel ‘hva om’ diskusjon som utfordrer status quo og stiller spørsmål ved det åpenbare, vil avdekke mye flere besparelsesmuligheter. Verktøy som en matriser for kategoriposisjonering kan hjelpe organisasjoner med å identifisere de viktigste forretningskravene som vil inngå i utviklingen av anskaffelsesstrategien.
+Diskusjoner som utfordrer status quo og stiller spørsmålstegn ved det åpenbare, vil kunne avdekke nye besparelsesmuligheter. Verktøy som [Kraljic-matrisen](https://www.ignite.no/blogg/innsikt/hvordan-adressere-strategiske-innkj%C3%B8pskategorier/ "Hvordan adressere strategiske innkjøpskategorier") kan hjelpe deg med å identifisere de viktigste forretningskravene som bør inngå i utviklingen av innkjøpsstrategien.
 
 #### 3. Vurdere markedsforhold
 
