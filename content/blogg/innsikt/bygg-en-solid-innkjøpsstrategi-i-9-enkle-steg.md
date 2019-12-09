@@ -43,7 +43,7 @@ Spendanalyser er fundamentet for arbeidet i alle innkjøpsfunksjoner og vil vær
 
 ![Spendanalyser er kjernefunksjonalitet i Ignite Analytics](https://www.ignite.no/images/Ignite%20Analytics%20-%20Spendanalyser.png "Spendanalyser i Ignite Analytics")
 
-#### 2. Forstå forretningsbehovet
+#### 2. Forstå behovet
 
 For å bygge en innkjøpsstrategi som gir best mulige resultater, er det viktig å forstå virksomhetens behov - og gjerne opp mot virksomhetens overordnede forretningsstrategi. Denne innsikten vil hjelpe deg med å tilpasse og prioritere strategien på tvers av andre funksjoner og mål.
 
@@ -51,23 +51,19 @@ Diskusjoner som utfordrer status quo og stiller spørsmålstegn ved det åpenbar
 
 #### 3. Vurder markedsforholdene
 
-Etter å ha sett nærmere på de interne behovene, er det neste åpenbare trinnet å se på eksterne forhold; leverandørmarkedet og markedsforholdene. Relevant data vil her typisk omfatte leverandør- og markedsinformasjon.
+Etter å ha sett nærmere på de interne behovene, er det neste åpenbare trinnet å se på eksterne forhold; leverandørmarkedet og markedsforholdene. Relevant data vil her typisk omfatte leverandør- og markedsinformasjon. En rekke verktøy kan være hensiktsmessige for å utarbeide denne typen analyser som for eksempel [Porter's Five Forces](https://www.mindtools.com/pages/article/newTMC_08.htm "Porter's Five Forces") og [PESTEL-metodikken](https://www.mindtools.com/pages/article/newTMC_09.htm "PESTEL-analyse"). 
 
-En rekke verktøy kan være hensiktsmessige for å utarbeide denne typen analyser som for eksempel Porter's Five Forces og PESTEL-metodikken.
+Om virksomheten din allerede har god kjennskap til leverandørmarkedene, som ofte blir sett på som beste-praksis metodikk på innkjøpsområdet, så vil dette steget være relativt enkelt.
 
-For å sikre relevans, må organisasjoner sørge for at innsamlet data holder seg oppdatert over tid. En rekke metodologier som Porters fem styrker og SCOPE-analyse vil være nyttige under denne analysen.
+#### 4. Sett klare mål
 
-Hvis du følger beste anskaffelser om anskaffelser for å kjenne markedet og leverandørene dine bedre, vil dette trinnet være relativt enkelt.
+Alle gode innkjøpsstrategier har tydelige mål om hva man ønsker å oppnå og hvordan disse kan/bør måles. Dataen og analysene fra de foregående trinnene bidrar typisk med verdifull input her.
 
-4\. Sett klare mål
+Målene bør rangeres og prioriteres basert på virkningen disse har på "bunnlinjen". Bruk gjerne en SWOT-analyse, eller andre verktøy, for å forstå styrker og svakheter med dagens innkjøpsfunksjon. Benytter for eksempel virksomheten din gode, [digitale verktøy](https://www.ignite.no/ignite-analytics/ "Ignite Analytics") i det strategiske innkjøpsarbeidet?
 
-Når forretningsbehovene er identifisert, er det på tide å komme med en klar visjon om hva som må oppnås. Dataene som er samlet inn i de foregående trinnene, kan brukes til å bestemme kneblene i anskaffelsesprosessen.
+#### 5. Definer policyer
 
-Når disse er bestemt, kan du sortere dem i synkende rekkefølge på virkningen hver har på organisasjonens bunnlinje. Verktøy som en SWOT-analyse kan brukes til å identifisere gjeldende status for anskaffelsesfunksjonene. For eksempel, hvis du trenger å redusere utgiftene til maverick, må du implementere anskaffelsesprogramvare som gjør prosessen transparent.
-
-5\. Definer anskaffelsespolitikk
-
-Nå som du vet hva som må adresseres, er det på tide å lage en liste over beste anskaffelser for anskaffelser som vil eliminere de eksisterende ineffektivitetene. Du kan starte prosessen ved å endre anskaffelsespolitikken for å adressere risikoer som er identifisert under SWOT-analysen.
+Basert på informasjonen om hva som må adresseres, så bør du lage en liste over beste-praksis metodikk for å forbedre prosessene og øke effektiviteten. For eksempel kan du starte med å tilpasse nåværende innkjøpspolicyer og rutiner for å adressere risikoene identifisert i trinn 4.
 
 Når du er i ferd med å skissere en anskaffelsespolitikk for virksomheten din, er det best å unngå å starte fra bunnen av. I stedet kan du tilpasse eksisterende anskaffelsespolitiske maler slik at de passer til organisasjonens forretningsbehov. Ideelt sett må anskaffelsespolitikk tilby veiledning om rettferdig praksis for alle som er involvert i prosessen, samt tiltak for mulige brudd.
 
