@@ -54,7 +54,7 @@ Om virksomheten din allerede har god kjennskap til leverandørmarkedene, noe all
 
 #### 4. Sett klare mål
 
-Alle gode innkjøpsstrategier har tydelige mål om hva man ønsker å oppnå og hvordan disse kan/bør måles. Dataen og analysene fra de foregående trinnene bidrar typisk med verdifull input her.
+Alle gode innkjøpsstrategier har tydelige mål om hva man ønsker å oppnå og hvordan disse kan/bør måles. Dataen og analysene fra de foregående trinnene bidrar typisk med verdifulle innspill her.
 
 Målene bør rangeres og prioriteres basert på virkningen disse har på "bunnlinjen". Bruk gjerne en SWOT-analyse, eller andre verktøy, for å forstå styrker og svakheter med dagens innkjøpsfunksjon. Benytter for eksempel virksomheten din [digitale verktøy](https://www.ignite.no/ignite-analytics/ "Ignite Analytics") i det strategiske innkjøpsarbeidet?
 
