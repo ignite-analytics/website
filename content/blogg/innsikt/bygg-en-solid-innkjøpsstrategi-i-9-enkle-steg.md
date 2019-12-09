@@ -36,7 +36,7 @@ En god innkjøpsstrategi identifiserer innsparingsmuligheter, minimerer feil, re
 
 #### 1. Analyser innkjøpet
 
-Start med å forstå hva dere kjøper inn og hvordan kjøpet fordeler seg ved å gjennomføre [innkjøps- og spendanalyser](https://www.ignite.no/blogg/innsikt/8-fordeler-med-spendanalyser/ "8 fordeler med innkjøps- og spendanalyser"). Til dette trenger du relevant [innkjøpsdata som finnes internt](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger"), samt eventuelt data direkte fra leverandørene.
+Start med å forstå hva dere kjøper inn og hvordan kjøpet fordeler seg ved å gjennomføre [innkjøps- og spendanalyser](https://www.ignite.no/blogg/innsikt/8-fordeler-med-spendanalyser/ "8 fordeler med innkjøps- og spendanalyser"). Til dette trenger du relevant [innkjøpsdata som finnes internt](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger"). Leverandørene kan også bidra med relevant data dersom dette er nødvendig.
 
 Spendanalyser er fundamentet for arbeidet i alle innkjøpsfunksjoner og vil være grunnlaget for å utarbeide en god - og faktabasert - innkjøpsstrategi. Analyser rundt totale eierkostnader (TCO) kan også utarbeides for å identifisere kostnader forbundet med varene/tjenestene utover selve kjøpsprisen.
 
