@@ -66,7 +66,7 @@ Merk at det kan være hensiktsmessig å justere eksisterende policyer i stedet f
 
 #### 6. Invester i digitale verktøy
 
-For å kunne hente ut det fulle potensialet er innkjøpsfunksjonen avhengige av verktøy for å støtte det strategiske arbeidet. Gode, digitale verktøy bidrar til å øke effektiviteten for innkjøpsfunksjonen. Dette vil gi dere mer tid til å fokusere på verdiskapende aktiviteter, altså de strategiske aktivitetene.
+For å kunne hente ut det fulle potensialet er innkjøpsfunksjonen avhengige av digitale verktøy i det strategiske arbeidet. Gode, digitale verktøy bidrar til å øke effektiviteten for innkjøpsfunksjonen. Dette vil gi dere mer tid til å fokusere på verdiskapende aktiviteter, altså de strategiske aktivitetene.
 
 Dere bør identifisere hvilke deler av innkjøpsprosessen hvor behovet for verktøystøtte er størst og prioritere implementeringen deretter. Eksempelvis er et spendanalyseverktøy en helt nødvendig forutsetning for å jobbe profesjonelt med innkjøp og anskaffelser.
 
