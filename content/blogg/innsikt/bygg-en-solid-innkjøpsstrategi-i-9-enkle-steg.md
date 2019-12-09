@@ -83,22 +83,15 @@ Målene må være målbare, tidssensitive og realistiske. Planen må inkludere t
 
 #### 8. Gjennomfør og følg opp
 
-Det siste - men viktigste - trinnet er å faktisk gjennomføre strategien. En vellykket implementering krever løpende oppfølging og måling av fremdriften for å sikre at prioriterte tiltak blir gjennomførte. Interne statusmøter og rapporteringer anbefales her for å holde 
+Det siste - men viktigste - trinnet er å faktisk gjennomføre strategien. En vellykket implementering krever løpende oppfølging av måloppnåelse og måling av fremdriften, for å sikre at prioriterte tiltak blir gjennomførte og med ønsket effekt. Interne statusmøter og rapporteringer anbefales for å sikre fokus og dele erfaringer på tvers av virksomheten.
 
-Når en digital strategi er opprettet, er neste trinn å utføre den. Når strategien blir utført, vil den kreve involvering fra andre forretningsfunksjoner (HR, admin, salg, finans). Etter å ha utført den digitale anskaffelsesstrategien, må du spore og måle fremdriften og suksessen med implementeringen.
+### Rammeverk for innkjøpsstrategier
 
-Ramme for anskaffelser
+Innkjøpsstrategien bør omfatte og inneholde følgende rammeverk:
 
-Et ideelt rammeverk for innkjøpsstrategi vil omfatte følgende:
-
-Strategiuttalelse: grunnlaget og begrunnelsen
-
-Ønskede resultater: leveranser
-
-Tidsramme: frister
-
-Taktisk plan: hvordan en strategi skal implementeres
-
-Tiltak: beregninger som brukes for å evaluere prosessen
-
-Verktøy som brukes: TCO, SWOT-analyse, Porters Five Forces, Category Positioning Matrix, SCOPE-analyse, Fishbone-analyse, etc.
+* Strategiuttalelse: grunnlaget og begrunnelsen
+* Ønskede resultater: leveranser
+* Tidsramme: frister
+* Taktisk plan: hvordan en strategi skal implementeres
+* Tiltak: beregninger som brukes for å evaluere prosessen
+* Verktøy som brukes: TCO, SWOT-analyse, Porters Five Forces, Category Positioning Matrix, SCOPE-analyse, Fishbone-analyse, etc.
