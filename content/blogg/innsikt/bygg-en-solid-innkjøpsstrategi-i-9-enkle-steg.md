@@ -56,7 +56,7 @@ Om virksomheten din allerede har god kjennskap til leverandørmarkedene, noe all
 
 Alle gode innkjøpsstrategier har tydelige mål om hva man ønsker å oppnå og hvordan disse kan/bør måles. Dataen og analysene fra de foregående trinnene bidrar typisk med verdifulle innspill her.
 
-Målene bør rangeres og prioriteres basert på virkningen, eller viktigheten, disse har på "bunnlinjen". Bruk gjerne en [SWOT-analyse](https://www.mindtools.com/pages/article/newTMC_05.htm "SWOT-analyse"), eller andre modeller, for å forstå styrker og svakheter med dagens innkjøpsfunksjon. 
+Målene bør rangeres og prioriteres basert på virkningen, eller viktigheten, disse har på "bunnlinjen". Bruk gjerne en [SWOT-analyse](https://www.mindtools.com/pages/article/newTMC_05.htm "SWOT-analyse"), eller andre modeller, for å forstå styrker og svakheter med dagens innkjøpsfunksjon. Eksempel på dette kan være kompetanse og bruk av digital verktøy.
 
 #### 5. Definer policyer
 
