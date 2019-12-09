@@ -69,7 +69,7 @@ Merk at det kan være hensiktsmessig å justere eksisterende policyer i stedet f
 
 For å kunne hente ut det fulle potensialet er innkjøpsfunksjonen avhengige av verktøy for å støtte det strategiske arbeidet. Gode, digitale verktøy bidrar til å øke effektiviteten for innkjøpsfunksjonen. Dette vil gi dere mer tid til å fokusere på verdiskapende aktiviteter, altså de strategiske aktivitetene.
 
-Eksempelvis er et spendanalyseverktøy en forutsetning for å jobbe profesjonelt med innkjøp og anskaffelser.
+Dere bør identifisere hvilke deler av innkjøpsprosessen hvor behovet for verktøystøtte er størst og prioritere implementeringen deretter. Eksempelvis er et spendanalyseverktøy en helt nødvendig forutsetning for å jobbe profesjonelt med innkjøp og anskaffelser.
 
 ![Spendanalyser er kjernefunksjonalitet i Ignite Analytics](https://www.ignite.no/images/Ignite%20Analytics%20-%20Spendanalyser.png "Spendanalyser i Ignite Analytics")
 
