@@ -77,7 +77,7 @@ Dere bør identifisere hvilke deler av innkjøpsprosessen hvor behovet for verkt
 
 Ved hjelp av dataene og informasjonen du har fått, kan nå utarbeide en innkjøpsstrategi. Strategien bør liste opp dagens situasjon, ønskede mål og en plan for å nå disse målene.
 
-Målene må være målbare, tidssensitive og realistiske. Planen bør inkludere tiltak og [virkemidler](https://www.ignite.no/blogg/innsikt/8-virkemidler-for-%C3%A5-redusere-innkj%C3%B8pskostnadene/ "8 virkemidler for å redusere innkjøpskostnadene") som skal gjennomføres for å nå de forhåndsdefinerte målene.
+Målene må være målbare, tidssensitive og realistiske, mens planen bør inkludere tiltak og [virkemidler](https://www.ignite.no/blogg/innsikt/8-virkemidler-for-%C3%A5-redusere-innkj%C3%B8pskostnadene/ "8 virkemidler for å redusere innkjøpskostnadene") som skal gjennomføres for å nå de forhåndsdefinerte målene.
 
 #### 8. Utvikle en digital anskaffelsesstrategi
 
