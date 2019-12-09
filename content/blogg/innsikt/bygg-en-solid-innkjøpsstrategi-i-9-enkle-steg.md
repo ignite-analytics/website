@@ -50,7 +50,7 @@ Diskusjoner som utfordrer status quo vil kunne avdekke nye besparelsesmuligheter
 
 Etter å ha sett nærmere på de interne behovene, er det neste åpenbare trinnet å se på eksterne forhold; leverandørmarkedet og markedsforholdene. Relevant data vil her typisk omfatte leverandør- og markedsinformasjon. En rekke verktøy kan være hensiktsmessige for å utarbeide denne typen analyser som for eksempel [Porter's Five Forces](https://www.mindtools.com/pages/article/newTMC_08.htm "Porter's Five Forces") og [PESTEL-metodikken](https://www.mindtools.com/pages/article/newTMC_09.htm "PESTEL-analyse"). 
 
-Om virksomheten din allerede har god kjennskap til leverandørmarkedene, noe alle innkjøpsfunksjoner bør løpende fokusere på, så vil dette steget være relativt enkelt.
+Om virksomheten din allerede har god kjennskap til leverandørmarkedene, noe alle innkjøpsfunksjoner bør ha løpende fokus på, så vil denne kunnskapen komme godt til rette i denne delen.
 
 #### 4. Sett klare mål
 
