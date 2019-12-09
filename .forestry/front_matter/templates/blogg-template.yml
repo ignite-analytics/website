@@ -76,6 +76,7 @@ fields:
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
 pages:
+- content/blogg/innsikt/bygg-en-solid-innkjøpsstrategi-i-9-enkle-steg.md
 - content/blogg/innsikt/8-fordeler-med-spendanalyser.md
 - content/blogg/nyheter/borregaard-ignite-analytics-sant.md
 - content/blogg/nyheter/mosaira-joiner-team-ignite.md
