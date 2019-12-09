@@ -75,23 +75,17 @@ Dersom behovene for verktøy er omfattende, kan det være hensiktsmessig å utar
 
 ![Spendanalyser er kjernefunksjonalitet i Ignite Analytics](https://www.ignite.no/images/Ignite%20Analytics%20-%20Spendanalyser.png "Spendanalyser i Ignite Analytics")
 
-#### 7. Skissere en strategi
+#### 7. Utarbeid strategien
 
-Ved hjelp av dataene og informasjonen du har fått, kan nå utarbeide en innkjøpsstrategi. Strategien bør liste opp dagens situasjon, ønskede mål og en plan for å nå disse målene.
+Ved hjelp av dataene og informasjonen du har fått, kan nå utarbeide en innkjøpsstrategi. Strategien bør liste opp dagens situasjon, ønskede mål og en plan for å nå disse målene med ansvarsfordeling.
 
 Målene må være målbare, tidssensitive og realistiske, mens planen bør inkludere tiltak og [virkemidler](https://www.ignite.no/blogg/innsikt/8-virkemidler-for-%C3%A5-redusere-innkj%C3%B8pskostnadene/ "8 virkemidler for å redusere innkjøpskostnadene") som skal gjennomføres for hvordan nå de ulike målene.
 
-#### 8. Utvikle en digital anskaffelsesstrategi
+#### 8. Gjennomfør og følg opp
 
-Ved hjelp av data og informasjon hentet fra de foregående trinnene, må du utarbeide en digital anskaffelsesstrategi. I dette trinnet må organisasjonene forny din anskaffelsesteknologi, strategi, prosess, talent, ferdighetssett og støttesystemer.
-
-Implementering av en digital anskaffelsesstrategi bør anses som en prioritet, siden det gjør det mulig for organisasjoner å tilbringe mer tid med leverandører og den strategiske delen av anskaffelser, snarere på administrative oppgaver og transaksjoner. En digital anskaffelsesstrategi vil hjelpe virksomheter å distribuere ressursene de trenger for å oppnå store fordeler og gjøre anskaffelsesprosessen smidig.
-
-#### 9. Utfør, administrer og avgrens strategien
+Det siste - men viktigste - trinnet er å faktisk gjennomføre strategien. En vellykket implementering krever løpende oppfølging og måling av fremdriften for å sikre at prioriterte tiltak blir gjennomførte. Interne statusmøter og rapporteringer anbefales her for å holde 
 
 Når en digital strategi er opprettet, er neste trinn å utføre den. Når strategien blir utført, vil den kreve involvering fra andre forretningsfunksjoner (HR, admin, salg, finans). Etter å ha utført den digitale anskaffelsesstrategien, må du spore og måle fremdriften og suksessen med implementeringen.
-
-Kissflows anskaffelsessky for å presentere et verktøy og en forenklet tilnærming til anskaffelser, og det er enkelt å finne dette som en smertefri måte å bli digital på.
 
 Ramme for anskaffelser
 
