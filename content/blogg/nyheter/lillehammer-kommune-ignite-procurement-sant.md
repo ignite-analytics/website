@@ -6,7 +6,7 @@ draft = true
 image = ""
 ingress = "Vi er stolte over å meddele at Lillehammer kommune tar i bruk løsningen vår for strategisk innkjøp."
 showmainimg = false
-tags = ["Lillehammer kommune", "Øyer kommune", "Gausdal kommune", "Strategisk innkjøp", "Digital løsning", "Ignite Procurement"]
+tags = ["Lillehammer kommune", "Øyer kommune", "Gausdal kommune", "Innkjøpssamarbeid", "Strategisk innkjøp", "Digital løsning", "Ignite Procurement"]
 title = "Lillehammer kommune + Ignite Procurement = Sant!"
 
 +++
