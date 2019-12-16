@@ -12,4 +12,12 @@ title = "Lillehammer kommune + Ignite Procurement = Sant!"
 +++
 ![](/images/Lillehammer kommune.png)
 
-Lillehammer kommune har ansvaret for innkjøpssamarbeidet mellom kommunene Lillehammer, Øyer og Gausdal.
+Lillehammer kommune har ansvaret for innkjøpssamarbeidet mellom kommunene Lillehammer, Øyer og Gausdal. 
+
+deres [hjemmeside](https://www.borregaard.no/ "Borregaard").
+
+***
+
+Få mer informasjon om funksjonaliteten i Ignite Analytics og hvordan plattformen kan hjelpe deg og din virksomhet!
+
+[![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
