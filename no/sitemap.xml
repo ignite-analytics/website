@@ -167,7 +167,7 @@
   
   <url>
     <loc>https://ignite.no/blogg/</loc>
-    <lastmod>2019-12-09T12:02:33+00:00</lastmod>
+    <lastmod>2019-12-16T09:52:18+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -175,7 +175,7 @@
   
   <url>
     <loc>https://ignite.no/categories/</loc>
-    <lastmod>2019-12-09T12:02:33+00:00</lastmod>
+    <lastmod>2019-12-16T09:52:18+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -187,6 +187,113 @@
                 hreflang="no"
                 href="https://ignite.no/categories/"
                 />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/digital-l%C3%B8sning/</loc>
+    <lastmod>2019-12-16T09:52:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/gausdal-kommune/</loc>
+    <lastmod>2019-12-16T09:52:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/ignite-procurement/</loc>
+    <lastmod>2019-12-16T09:52:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/</loc>
+    <lastmod>2019-12-16T09:52:18+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/"
+                />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pssamarbeid/</loc>
+    <lastmod>2019-12-16T09:52:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/lillehammer-kommune/</loc>
+    <lastmod>2019-12-16T09:52:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/nyheter/lillehammer-kommune-ignite-procurement-sant/</loc>
+    <lastmod>2019-12-16T09:52:18+00:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/nyheter/</loc>
+    <lastmod>2019-12-16T09:52:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/tags/</loc>
+    <lastmod>2019-12-16T09:52:18+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ignite.no/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://ignite.no/tags/"
+                />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/strategisk-innkj%C3%B8p/</loc>
+    <lastmod>2019-12-16T09:52:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/%C3%B8yer-kommune/</loc>
+    <lastmod>2019-12-16T09:52:18+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   
@@ -211,24 +318,6 @@
     <loc>https://ignite.no/blogg/tag/ignite-analytics/</loc>
     <lastmod>2019-12-09T12:02:33+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/</loc>
-    <lastmod>2019-12-09T12:02:33+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/"
-                />
   </url>
   
   
@@ -290,24 +379,6 @@
   
   
   <url>
-    <loc>https://ignite.no/tags/</loc>
-    <lastmod>2019-12-09T12:02:33+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignite.no/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://ignite.no/tags/"
-                />
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/innsikt/bygg-en-solid-innkj%C3%B8psstrategi-i-9-enkle-steg/</loc>
     <lastmod>2019-12-09T12:02:33+00:00</lastmod>
   </url>
@@ -356,14 +427,6 @@
   <url>
     <loc>https://ignite.no/blogg/nyheter/mosaira-joiner-team-ignite/</loc>
     <lastmod>2019-11-18T13:35:21+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/nyheter/</loc>
-    <lastmod>2019-11-18T13:35:21+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   
@@ -1170,14 +1233,6 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/source-to-contract/</loc>
-    <lastmod>2019-05-20T14:23:42+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/strategisk-innkj%C3%B8p/</loc>
     <lastmod>2019-05-20T14:23:42+00:00</lastmod>
     <priority>0</priority>
   </url>
