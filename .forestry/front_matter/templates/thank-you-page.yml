@@ -78,14 +78,14 @@ fields:
   label: Språk
   description: Velg srpåk
 pages:
-- content/ty/nyhetsbrev.md
-- content/ty/newsletter.en.md
-- content/ty/procurement-project.en.md
-- content/ty/procurement-measures.en.md
-- content/ty/innkjøpsvirkemidler.md
-- content/ty/innkjøpsprosjekt.md
-- content/ty/skreddersydde-kurs.md
 - content/ty/category-strategy-li.en.md
 - content/ty/customized-courses.en.md
+- content/ty/innkjøpsprosjekt.md
+- content/ty/innkjøpsvirkemidler.md
+- content/ty/newsletter.en.md
+- content/ty/nyhetsbrev.md
+- content/ty/procurement-measures.en.md
+- content/ty/procurement-project.en.md
 - content/ty/product-information.en.md
 - content/ty/produktinformasjon.md
+- content/ty/skreddersydde-kurs.md

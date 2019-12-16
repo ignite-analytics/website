@@ -97,7 +97,7 @@ fields:
   description: Ekstra felter
 pages:
 - content/ignite-academy/maler/category-strategy-li.en.md
-- content/ignite-academy/maler/procurement-project.en.md
 - content/ignite-academy/maler/innkjøpsprosjekt.md
-- content/ignite-academy/maler/procurement-measures.en.md
 - content/ignite-academy/maler/innkjøpsvirkemidler.md
+- content/ignite-academy/maler/procurement-measures.en.md
+- content/ignite-academy/maler/procurement-project.en.md
