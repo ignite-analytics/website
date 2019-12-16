@@ -2,7 +2,6 @@
 author = "Ignite"
 categories = ["Nyheter"]
 date = 2019-12-16T09:52:18Z
-draft = true
 image = "/images/Lillehammer kommune.png"
 ingress = "Vi er stolte over å meddele at Lillehammer kommune tar i bruk løsningen vår for strategisk innkjøp."
 showmainimg = false
