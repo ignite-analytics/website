@@ -12,9 +12,9 @@ title = "Lillehammer kommune + Ignite Procurement = Sant!"
 +++
 ![](/images/Lillehammer kommune.png)
 
-Lillehammer kommune, gjennom Fagenhet Innkjøp, har ansvaret for innkjøpssamarbeidet mellom kommunene Lillehammer, Øyer og Gausdal. Fagenhet Innkjøp er en fellesfunksjon i 3-1 samarbeidet for de tre kommunene, og er kommunenes ressurs- og kompetansesenter for offentlige anskaffelser. Fagenheten yter rådgivning, opplæring og informasjon om innkjøp og regelverket for offentlige anskaffelser.
+Lillehammer kommune, gjennom Fagenhet Innkjøp, har ansvaret for innkjøpssamarbeidet i kommunene Lillehammer, Øyer og Gausdal. Fagenhet Innkjøp er en fellesfunksjon i 3-1 samarbeidet for de tre kommunene, og er kommunenes ressurs- og kompetansesenter for offentlige anskaffelser. Fagenheten yter rådgivning, opplæring og informasjon om innkjøp og regelverket for offentlige anskaffelser.
 
-Du kan lese mer om innkjøpsfunksjonen og kommunene på deres [hjemmeside](https://www.borregaard.no/ "Borregaard").
+Du kan lese mer om innkjøp og Lillehammer kommune på deres [hjemmeside](https://www.lillehammer.kommune.no/kommunale-innkjoep.442822.no.html "Lillehammer kommune - Innkjøp").
 
 ***
 
