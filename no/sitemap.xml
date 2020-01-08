@@ -651,7 +651,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/kategorisering/</loc>
+    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</loc>
     <lastmod>2019-10-09T08:03:11+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -659,14 +659,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/</loc>
-    <lastmod>2019-10-09T08:03:11+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</loc>
+    <loc>https://ignite.no/blogg/tag/kategorisering/</loc>
     <lastmod>2019-10-09T08:03:11+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -677,6 +670,13 @@
     <loc>https://ignite.no/blogg/tag/kategoristruktur/</loc>
     <lastmod>2019-10-09T08:03:11+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/</loc>
+    <lastmod>2019-10-09T08:03:11+00:00</lastmod>
   </url>
   
   
@@ -818,21 +818,6 @@
     <loc>https://ignite.no/blogg/tag/platform-engineers/</loc>
     <lastmod>2019-09-23T11:40:08+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/dc-resources-norge/</loc>
-    <lastmod>2019-09-16T10:54:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/nyheter/innherred-innkj%C3%B8p-inng%C3%A5r-avtale-for-bruk-av-ignite-analytics/</loc>
-    <lastmod>2019-09-16T10:54:19+00:00</lastmod>
   </url>
   
   
