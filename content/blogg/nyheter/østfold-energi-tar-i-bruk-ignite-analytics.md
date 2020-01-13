@@ -12,13 +12,11 @@ title = "Østfold Energi tar i bruk Ignite Analytics"
 +++
 ![Østfold Energi inngår avtale med Ignite Procurement](/images/Østfold Energi.png "Østfold Energi")
 
-Østfold Energi eies av fylkeskommunen og 13 kommuner i Østfold, og en betydelig andel av verdiskapningen i selskapet går tilbake til samfunnet. Inntektene går blant annet til å finansiere skole, helse og andre viktige tjenester i lokalsamfunnene.
+Østfold Energi eies av fylkeskommunen og 13 kommuner i Østfold, og en betydelig andel av verdiskapningen i selskapet går tilbake til samfunnet. Inntektene går blant annet til å finansiere skole, helse og andre viktige tjenester i lokalsamfunnene. 
 
 Vannkraft er en viktig ressurs i Norge, og også for Østfold Energi. 95 prosent av energiproduksjonen kommer fra vannkraft fra de ti kraftverkene selskapet eier i Indre Sogn, Østfold og Nordland. Østfold Energi har også seks fjernvarmeanlegg i Østfold, og er deleiere i en vindpark på Vestlandet. 
 
-Samtidig jobber selskapet aktivt med forretningsutvikling og innovasjon for å skape nye inntekter i det grønne skiftet. Vi tror på store endringer og teknologiske muligheter i det fremtidige fornybare energimarkedet, og denne utviklingen vil vi være en del av.
-
-Østfold Energi forvalter både store naturressurser og finansielle verdier. Hensynet til natur, klima og samfunnet vi er en del av, gjennomsyrer alt vi gjør. Det er det vi kaller ren bærekraft.
+Samtidig jobber selskapet aktivt med forretningsutvikling og innovasjon for å skape nye inntekter i det grønne skiftet. Selskapet tror på store endringer og teknologiske muligheter i det fremtidige fornybare energimarkedet, og denne utviklingen vil de være en del av.
 
 Du kan lese mer om Østfold Energi på deres [hjemmeside](https://www.ostfoldenergi.no/ "Østfold Energi").
 
