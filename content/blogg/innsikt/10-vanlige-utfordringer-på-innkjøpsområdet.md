@@ -10,4 +10,8 @@ tags = ["Utfordringer innkjøp", "Innkjøpspotensial"]
 title = "10 vanlige utfordringer på innkjøpsområdet"
 
 +++
+Som en tjenesteleverandør til bedriftsmarkedet og innkjøpsfunksjonen, er vi daglig i kontakt med flere innkjøpsressurser på tvers av en rekke bransjer. Dette har gitt oss verdifull innsikt i en rekke utfordringer som innkjøpsteamet typisk står overfor.
+
+Til daglig er vi i kontakt med flere 
+
 I løpet av det siste året har vi vært i kontakt med flere
