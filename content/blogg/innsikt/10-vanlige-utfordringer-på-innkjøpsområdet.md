@@ -6,7 +6,7 @@ image = "/images/Innkjøp - utfordringer - 2.png"
 ingress = "Innkjøp utgjør ofte en vesentlig andel av kostnadene for de fleste virksomheter. Generelt ser vi et stort potensial på innkjøpsområdet, men også flere utfordringer."
 showmainimg = false
 tags = ["Utfordringer innkjøp", "Innkjøpspotensial", "Digitalt verktøy", "Strategisk innkjøp"]
-title = "10 vanlige utfordringer på innkjøpsområdet - og hvordan løse disse"
+title = "10 vanlige utfordringer på innkjøpsområdet og hvordan vi kan hjelpe dere"
 
 +++
 Som en tjenesteleverandør til bedriftsmarkedet og innkjøpsfunksjonen, er vi daglig i kontakt med flere innkjøpsressurser på tvers av en rekke bransjer. Dette har gitt oss verdifull innsikt i en rekke utfordringer som innkjøpsteamene typisk står overfor. 
