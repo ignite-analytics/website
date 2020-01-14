@@ -79,7 +79,7 @@ Les mer om hva som kreves for å [realisere ditt innkjøpspotensial](https://www
 
 > Ikke tid eller ressurser til å jobbe strategisk og faktabasert
 
-Flere virksomheter investerer generelt for lite i innkjøpsfunksjonen. Typisk ser vi at et fåtall ressurser har ansvar for et bredt innkjøp og mange leverandører. Et strategisk fokus og en hensiktsmessig oppfølging blir da vanskelig. Dette er vanlige utfordringer i virksomheter der ledelsen har et manglende fokus på innkjøp som en strategisk verdidriver.
+Flere virksomheter investerer generelt for lite i innkjøpsfunksjonen. Typisk ser vi at et fåtall ressurser har ansvar for et bredt innkjøp og mange leverandører. Å jobbe med strategiske problemstillinger, og samtidig gjøre en hensiktsmessig oppfølging, blir da vanskelig. Dette er vanlige utfordringer i virksomheter der ledelsen har et manglende fokus på innkjøp som en strategisk verdidriver.
 
 Les mer om hvorfor vi mener det [investeres for lite i innkjøpsfunksjonen](https://www.ignite.no/blogg/innsikt/det-investeres-for-lite-i-innkj%C3%B8psfunksjonen/ "Det investeres for lite i innkjøpsfunksjonen").
 
