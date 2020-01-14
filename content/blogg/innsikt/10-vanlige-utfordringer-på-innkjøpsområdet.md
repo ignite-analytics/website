@@ -70,10 +70,30 @@ Børge??
 
 Innkjøpsavdelingen har ofte ansvaret for å identifisere og realisere (store) besparelser. Prosjekter og initiativer må følges opp både når det gjelder fremdrift og ønskede effekter. Dette går på bekostning av en allerede hektisk hverdag. Uten støtte fra ledelsen kan dette medføre at kostnadsreduserende tiltak ikke blir tilstrekkelig prioriterte.
 
+Les mer om hva som kreves for å [realisere ditt innkjøpspotensial](https://www.ignite.no/blogg/innsikt/innkj%C3%B8p-et-uforl%C3%B8st-potensial-i-ditt-selskap/ "Innkjøp — et uforløst potensial i ditt selskap?").
+
 #### 9. Kapasitet og ressurser
 
 > Ikke tid eller ressurser til å jobbe strategisk og faktabasert
 
+Flere virksomheter investerer generelt for lite i innkjøpsfunksjonen. Typisk ser vi at et fåtall ressurser har ansvar for et bredt innkjøp og mange leverandører. Et strategisk fokus og en hensiktsmessig oppfølging blir da vanskelig. Dette er vanlige utfordringer i virksomheter der ledelsen har et manglende fokus på innkjøp som en strategisk verdidriver.
+
+Les mer om hvorfor vi mener det [investeres for lite i innkjøpsfunksjonen](https://www.ignite.no/blogg/innsikt/det-investeres-for-lite-i-innkj%C3%B8psfunksjonen/ "Det investeres for lite i innkjøpsfunksjonen").
+
 #### 10. Verktøystøtte
 
 > Få eller ingen gode verktøy til å støtte innkjøpsarbeidet
+
+Relativt få virksomheter har, eller bruker gode verktøy som hjelpemidler i det strategiske innkjøpsarbeidet. Vi ser dessverre få brukervennlige verktøy i markedet som kan løse de ulike behovene til innkjøpsfunksjonen, noe som kan være en årsak til dette.
+
+Digitale verktøy er en premiss 
+
+kompensere for både begrenset kapasitet og kompetanse — og kan til og med øke kompetansen.
+
+* e etc.
+
+***
+
+Ignite Analytics støtter hele den strategiske innkjøpsprosessen. Få mer informasjon om hvordan løsningen kan hjelpe deg og din virksomhet!
+
+[![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
