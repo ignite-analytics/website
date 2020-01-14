@@ -16,13 +16,13 @@ Som en tjenesteleverandør til bedriftsmarkedet og innkjøpsfunksjonen, er vi da
 
 > Det er krevende å samle inn og harmonisere data fra ulike kilder
 
-Mange virksomheter bruker betydelige, og ofte dedikerte, ressurser på å strukturere og harmonisere innkjøpsdataen og andre data. Typisk observerer vi store investeringer i BI-løsninger som ikke støtter innkjøpsfunksjonens behov på en tilstrekkelig god måte. Lite brukervennlige løsninger med krevende teknisk brukergrensesnitt, uten muligheter til å forbedre datakvaliteten, resulterer i at brukerne ikke får tilgang til innsikten de trenger.
+Mange virksomheter bruker betydelige, og ofte dedikerte, ressurser på å strukturere og harmonisere innkjøpsdata og andre data. Typisk observerer vi store investeringer i BI-løsninger som ikke støtter innkjøpsfunksjonens behov på en tilstrekkelig god måte. Lite brukervennlige løsninger med krevende teknisk brukergrensesnitt, uten muligheter til å forbedre datakvaliteten, resulterer i at brukerne ikke får tilgang til innsikten de trenger.
 
- og som ikke legger til rette for å for
-
-The three most common **problems** in **BI** projects are slow query performance (technical), lack of interest from **business** users (people-related) and poor data quality (data-related).
+Les mer om de [mest vanlige kildene for innkjøpsdata](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger").
 
 #### 2. Oversikt
+
+DS
 
 #### 3. Kategorisering og klassifisering
 
