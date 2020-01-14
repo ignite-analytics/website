@@ -62,11 +62,13 @@ Les mer om [8 virkemidler for å redusere innkjøpskostnadene](https://www.ignit
 
 > Utfordrende å standardisere beste praksis internt
 
+Børge:
+
 #### 8. Kostnadsreduksjon
 
 > Press for å redusere kostnadene, men manglende ressursstøtte
 
-D
+Innkjøpsavdelingen har ofte ansvaret for å identifisere og realisere (store) besparelser. Prosjekter og initiativer må følges opp både når det gjelder fremdrift og ønskede effekter. 
 
 #### 9. Kapasitet og ressurser
 
