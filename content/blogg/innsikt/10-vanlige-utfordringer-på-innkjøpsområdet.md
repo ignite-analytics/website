@@ -3,16 +3,16 @@ author = "Ignite"
 categories = ["Innsikt"]
 date = 2020-01-14T08:42:31Z
 draft = true
-image = "/images/Innkjøp - utfordringer.png"
+image = "/images/Innkjøp - utfordringer - 2.png"
 ingress = "Innkjøp utgjør ofte en vesentlig andel av kostnadene for de fleste virksomheter. Generelt ser vi et stort potensial på innkjøpsområdet, men også flere utfordringer."
 showmainimg = false
-tags = ["Utfordringer innkjøp", "Innkjøpspotensial"]
+tags = ["Utfordringer innkjøp", "Innkjøpspotensial", "Digitalt verktøy", "Strategisk innkjøp"]
 title = "10 vanlige utfordringer på innkjøpsområdet og hvordan løse disse"
 
 +++
 Som en tjenesteleverandør til bedriftsmarkedet og innkjøpsfunksjonen, er vi daglig i kontakt med flere innkjøpsressurser på tvers av en rekke bransjer. Dette har gitt oss verdifull innsikt i en rekke utfordringer som innkjøpsteamene typisk står overfor. Heldigvis har vi utviklet et [digitalt verktøy](https://www.ignite.no/ignite-analytics/ "Digital løsning for strategisk innkjøp") som legger til rette for å hjelpe dere med disse utfordringene.
 
-![](/images/Innkjøp - utfordringer.png)
+![10 vanlige utfordringer på innkjøpsområdet](/images/Innkjøp - utfordringer - 2.png "10 vanlige utfordringer på innkjøpsområdet")
 
 #### 1. Datainnsamling
 
@@ -52,7 +52,7 @@ Les mer om [hvorfor kontraktsoppfølging er viktig](https://www.ignite.no/blogg/
 
 Med begrenset kontroll på avtalene, er det også vanskelig å følge opp avtalelojaliteten. En lav avtalelojalitet betyr lekkasjer på tvers av virksomheten, som igjen medfører at gevinstene som legges til rette for ikke blir realiserte. Innkjøpsdataen må derfor kobles mot de ulike avtalene slik at avtalelojaliteten enkelt kan måles og følges opp.
 
-![](/images/Funksjonalitet.png)
+![Digitalt verktøy for strategisk innkjøp](/images/Funksjonalitet.png "Ignite Procurement")
 
 #### 6. Forespørsler
 
