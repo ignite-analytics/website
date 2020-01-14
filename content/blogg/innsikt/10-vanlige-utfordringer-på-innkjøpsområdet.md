@@ -54,7 +54,7 @@ Med begrenset kontroll på avtalene, er det også vanskelig å følge opp avtale
 
 > Tidkrevende å gjennomføre forespørsler
 
-Å gjennomføre forespørsler, eller konkurransegjennomføring, er et sentralt strategisk virkemiddel for de fleste velfungerende innkjøpsfunksjoner. En slik prosess er vanligvis tidkrevende, hvor man er avhengige av strukturerte prosesser og gode verktøy for å støtte gjennomføringen.
+Å gjennomføre forespørsler, eller en konkurransegjennomføring, er et sentralt strategisk virkemiddel for de fleste velfungerende innkjøpsfunksjoner. En slik prosess er vanligvis tidkrevende, hvor man er avhengige av strukturerte prosesser og gode verktøy for å støtte gjennomføringen.
 
 Les mer om [8 virkemidler for å redusere innkjøpskostnadene](https://www.ignite.no/blogg/innsikt/8-virkemidler-for-%C3%A5-redusere-innkj%C3%B8pskostnadene/ "8 virkemidler for å redusere innkjøpskostnadene").
 
