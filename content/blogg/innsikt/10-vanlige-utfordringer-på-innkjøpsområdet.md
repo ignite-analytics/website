@@ -9,7 +9,7 @@ tags = ["Utfordringer innkjøp", "Innkjøpspotensial", "Digitalt verktøy", "Str
 title = "10 vanlige utfordringer på innkjøpsområdet - og hvordan løse disse"
 
 +++
-Som en tjenesteleverandør til bedriftsmarkedet og innkjøpsfunksjonen, er vi daglig i kontakt med flere innkjøpsressurser på tvers av en rekke bransjer. Dette har gitt oss verdifull innsikt i en rekke utfordringer som innkjøpsteamene typisk står overfor. 
+Som en tjenesteleverandør til bedriftsmarkedet og innkjøpsfunksjonen, er vi daglig i kontakt med flere innkjøpsressurser på tvers av en rekke bransjer. Dette har gitt oss verdifull innsikt i en rekke utfordringer som innkjøpsteamene vanligvis står overfor. 
 
 ![10 vanlige utfordringer på innkjøpsområdet](/images/Innkjøp - utfordringer - 2.png "10 vanlige utfordringer på innkjøpsområdet")
 
