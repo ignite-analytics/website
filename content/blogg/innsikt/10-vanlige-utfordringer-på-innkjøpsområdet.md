@@ -27,7 +27,7 @@ Les mer om de [mest vanlige kildene for innkjøpsdata](https://www.ignite.no/blo
 
 Ett av spørsmålene vi typisk spør om i innledende møter er; «hvor stort er innkjøpet i din virksomhet?». Det er overraskende få virksomheter som har god nok oversikt til å kunne svare på dette. Et kontinuerlig oppdatert faktagrunnlag er helt avgjørende for å gjennomføre datadrevne og smartere beslutninger.
 
-Les mer om [8 fordeler med innkjøps- og spendanalyser]().
+Les mer om [8 fordeler med innkjøps- og spendanalyser](https://www.ignite.no/blogg/innsikt/8-fordeler-med-spendanalyser/ "8 fordeler med innkjøps- og spendanalyser").
 
 #### 3. Kategorisering og klassifisering
 
