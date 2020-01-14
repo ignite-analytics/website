@@ -66,7 +66,7 @@ Les mer om [8 virkemidler for å redusere innkjøpskostnadene](https://www.ignit
 
 > Utfordrende å standardisere beste praksis internt
 
-Børge??
+Et fellestrekk for mange virksomheter som lykkes i sine bransjer, er at de er dyktige på å dele beste praksis internt og standardisere arbeidsmetodikk etter dette. Eksempler kan være å standardisere kategoridashboards for de ulike kategoriansvarlige, eller bygge en faktabasert metodikk til bruk i status- og forhandlingsmøter med leverandørene.
 
 #### 8. Kostnadsreduksjon
 
