@@ -10,7 +10,7 @@ tags = ["Utfordringer innkjøp", "Innkjøpspotensial", "Digitalt verktøy", "Str
 title = "10 vanlige utfordringer på innkjøpsområdet - og hvordan løse disse"
 
 +++
-Som en tjenesteleverandør til bedriftsmarkedet og innkjøpsfunksjonen, er vi daglig i kontakt med flere innkjøpsressurser på tvers av en rekke bransjer. Dette har gitt oss verdifull innsikt i en rekke utfordringer som innkjøpsteamene typisk står overfor. Heldigvis har vi utviklet et [digitalt verktøy](https://www.ignite.no/ignite-analytics/ "Digital løsning for strategisk innkjøp") som legger til rette for å hjelpe dere med disse utfordringene.
+Som en tjenesteleverandør til bedriftsmarkedet og innkjøpsfunksjonen, er vi daglig i kontakt med flere innkjøpsressurser på tvers av en rekke bransjer. Dette har gitt oss verdifull innsikt i en rekke utfordringer som innkjøpsteamene typisk står overfor. 
 
 ![10 vanlige utfordringer på innkjøpsområdet](/images/Innkjøp - utfordringer - 2.png "10 vanlige utfordringer på innkjøpsområdet")
 
@@ -88,12 +88,12 @@ Les mer om hvorfor vi mener det [investeres for lite i innkjøpsfunksjonen](http
 
 > Få eller ingen gode verktøy til å støtte innkjøpsarbeidet
 
-Relativt få virksomheter har, eller bruker gode verktøy som hjelpemidler i det strategiske innkjøpsarbeidet. Vi ser dessverre få brukervennlige verktøy i markedet som kan løse de ulike behovene, noe som kan være en årsak til dette. 
+Relativt få virksomheter har, eller bruker gode verktøy som hjelpemidler i det strategiske innkjøpsarbeidet. Vi ser dessverre få brukervennlige verktøy i markedet som kan løse de ulike behovene, noe som kan være en årsak til dette.
 
-Gode, digitale verktøy er helt avgjørende for alle profesjonelle innkjøpsfunksjoner. La oss hjelpe deg til en forenklet og forbedret arbeidshverdag!
+Gode, digitale verktøy er helt avgjørende for alle profesjonelle innkjøpsfunksjoner. Heldigvis har vi utviklet et [digitalt verktøy](https://www.ignite.no/ignite-analytics/ "Digital løsning for strategisk innkjøp") som legger til rette for å hjelpe dere med alle disse utfordringene!
 
 ***
 
-Ignite Analytics støtter hele den strategiske innkjøpsprosessen og bidrar til å løse deres utfordringer. Få mer informasjon om hvordan løsningen kan hjelpe deg og din virksomhet!
+Ignite Analytics støtter hele den strategiske innkjøpsprosessen. Få mer informasjon om hvordan løsningen kan hjelpe deg og din virksomhet!
 
 [![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
