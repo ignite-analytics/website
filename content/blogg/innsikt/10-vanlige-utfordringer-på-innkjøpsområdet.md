@@ -10,4 +10,26 @@ tags = ["Utfordringer innkjøp", "Innkjøpspotensial"]
 title = "10 vanlige utfordringer på innkjøpsområdet"
 
 +++
-Som en tjenesteleverandør til bedriftsmarkedet og innkjøpsfunksjonen, er vi daglig i kontakt med flere innkjøpsressurser på tvers av en rekke bransjer. Dette har gitt oss verdifull innsikt i en rekke utfordringer som innkjøpsteamene typisk står overfor. Heldigvis har vi utviklet et [digitalt verktøy](https://www.ignite.no/ignite-analytics/ "Digital løsning for strategisk innkjøp") som legger til rette for å løse disse utfordringene.
+Som en tjenesteleverandør til bedriftsmarkedet og innkjøpsfunksjonen, er vi daglig i kontakt med flere innkjøpsressurser på tvers av en rekke bransjer. Dette har gitt oss verdifull innsikt i en rekke utfordringer som innkjøpsteamene typisk står overfor. Heldigvis har vi utviklet et [digitalt verktøy](https://www.ignite.no/ignite-analytics/ "Digital løsning for strategisk innkjøp") som legger til rette for å hjelpe dere med disse utfordringene.
+
+#### 1. Datainnsamling
+
+DS
+
+#### 2. Oversikt
+
+#### 3. Kategorisering og klassifisering
+
+#### 4. Avtalekontroll
+
+#### 5. Avtalelojalitet
+
+#### 6. Forespørsler
+
+#### 7. Standardisering
+
+#### 8. Kostnadsreduksjon
+
+#### 9. Kapasitet og ressurser
+
+#### 10. Verktøystøtte
