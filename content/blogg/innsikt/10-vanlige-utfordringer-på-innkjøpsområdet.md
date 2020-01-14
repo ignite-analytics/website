@@ -88,7 +88,7 @@ Les mer om hvorfor vi mener det [investeres for lite i innkjøpsfunksjonen](http
 
 > Få eller ingen gode verktøy til å støtte innkjøpsarbeidet
 
-Relativt få virksomheter har, eller bruker gode verktøy som hjelpemidler i det strategiske innkjøpsarbeidet. Vi ser dessverre få brukervennlige verktøy i markedet som kan løse de ulike behovene, noe som kan være en årsak til dette.
+Relativt få virksomheter har, eller bruker gode verktøy som hjelpemidler i det strategiske innkjøpsarbeidet. Vi ser dessverre få brukervennlige verktøy i markedet som kan løse de ulike behovene, noe som kan være en årsak til dette. 
 
 Gode, digitale verktøy er helt avgjørende for alle profesjonelle innkjøpsfunksjoner. La oss hjelpe deg til en forenklet og forbedret arbeidshverdag!
 
