@@ -24,7 +24,7 @@ Les mer om de [mest vanlige kildene for innkjøpsdata](https://www.ignite.no/blo
 
 > Manglende oversikt over innkjøpet
 
-Ett av spørsmålene vi typisk spør om i innledende møter er; «hvor stort er innkjøpet i din virksomhet?». Det er overraskende få virksomheter som har god nok oversikt til å kunne svare på dette. Et kontinuerlig oppdatert faktagrunnlag er helt avgjørende for å ta datadrevne og smartere beslutninger.
+Ett av spørsmålene vi typisk spør om i innledende møter er; «hvor stort er innkjøpet i din virksomhet?». Det er overraskende få virksomheter som har god nok oversikt til å kunne svare på dette. Et kontinuerlig oppdatert faktagrunnlag er helt avgjørende for å gjøre datadrevne og smartere beslutninger.
 
 Les mer om [8 fordeler med innkjøps- og spendanalyser]().
 
@@ -40,11 +40,15 @@ Les våre [5 praktiske tips til kategoristruktur og kategorisering](https://www.
 
 > Begrenset kontroll på avtaler
 
-D
+Løpende oppfølging av avtaler og kontrakter er kritisk for å sikre gevinstrealisering. I tillegg bidrar det til et langsiktig samarbeid med leverandørene og å avverge mulige konflikter.
+
+Les mer om [hvorfor kontraktsoppfølging er viktig](https://www.ignite.no/blogg/innsikt/kontraktsoppf%C3%B8lging-er-kritisk-for-%C3%A5-realisere-gevinster/ "Kontraktsoppfølging er kritisk for å realisere gevinster").
 
 #### 5. Avtalelojalitet
 
 > Krevende å måle og følge opp avtalelojalitet
+
+Med begrenset kontroll på avtalene, 
 
 #### 6. Forespørsler
 
