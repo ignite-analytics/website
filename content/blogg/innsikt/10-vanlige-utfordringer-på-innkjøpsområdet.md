@@ -14,7 +14,7 @@ Som en tjenesteleverandør til bedriftsmarkedet og innkjøpsfunksjonen, er vi da
 
 #### 1. Datainnsamling
 
-> Det er krevende å samle inn og harmonisere data fra ulike kilder
+> Krevende å samle inn og harmonisere data fra ulike kilder
 
 Mange virksomheter bruker betydelige, og ofte dedikerte, ressurser på å strukturere og harmonisere innkjøpsdata og andre typer data. Typisk observerer vi store investeringer i BI-løsninger som ikke støtter innkjøpsfunksjonens behov på en tilstrekkelig god måte. Lite brukervennlige og statiske løsninger med et krevende teknisk brukergrensesnitt, uten muligheter til å forbedre datakvaliteten, resulterer i at brukerne ikke får tilgang til innsikten de trenger.
 
@@ -38,14 +38,34 @@ Les våre [5 praktiske tips til kategoristruktur og kategorisering](https://www.
 
 #### 4. Avtalekontroll
 
+> Begrenset kontroll på avtaler
+
+D
+
 #### 5. Avtalelojalitet
+
+> Krevende å måle og følge opp avtalelojalitet
 
 #### 6. Forespørsler
 
+> Tidkrevende å gjennomføre forespørsler
+
+DSD
+
 #### 7. Standardisering
+
+> Utfordrende å standardisere beste praksis internt
 
 #### 8. Kostnadsreduksjon
 
+> Press for å redusere kostnadene, men manglende ressursstøtte
+
+D
+
 #### 9. Kapasitet og ressurser
 
+> Ikke tid eller ressurser til å jobbe strategisk og faktabasert
+
 #### 10. Verktøystøtte
+
+> Få eller ingen gode verktøy til å støtte innkjøpsarbeidet
