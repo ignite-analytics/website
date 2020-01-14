@@ -14,7 +14,9 @@ Som en tjenesteleverandør til bedriftsmarkedet og innkjøpsfunksjonen, er vi da
 
 #### 1. Datainnsamling
 
-DS
+> Det er krevende å samle inn og harmonisere data fra ulike kilder
+
+Mange virksomheter bruker betydelige, og ofte dedikerte, ressurser på å strukturere og harmonisere innkjøpsdataen. Typisk observerer vi store investeringer i BI-løsninger som 
 
 #### 2. Oversikt
 
