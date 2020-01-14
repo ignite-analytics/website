@@ -48,7 +48,7 @@ Les mer om [hvorfor kontraktsoppfølging er viktig](https://www.ignite.no/blogg/
 
 > Krevende å måle og følge opp avtalelojalitet
 
-Med begrenset kontroll på avtalene, 
+Med begrenset kontroll på avtalene, er det også vanskelig å følge opp avtalelojaliteten. En lav avtalelojalitet betyr lekkasjer på tvers av virksomheten, som igjen medfører at gevinstene som legges til rette for ikke blir realiserte. Innkjøpsdataen må derfor kobles mot de ulike avtalene slik at avtalelojaliteten enkelt kan måles og følges opp.
 
 #### 6. Forespørsler
 
