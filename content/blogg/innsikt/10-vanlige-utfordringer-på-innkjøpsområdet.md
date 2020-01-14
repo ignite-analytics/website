@@ -32,7 +32,7 @@ Les mer om [8 fordeler med innkjøps- og spendanalyser]().
 
 > Vanskelig å kategorisere og klassifisere innkjøpsdataen
 
-En del virksomheter har ikke etablert en god kategoristruktur, mens flere sverger til lite egnede verktøy (for eksempel Excel) for å bygge og vedlikeholde en kategoristruktur. Typiske kjennetegn er komplekse formler, lite transparens og høye krav til kompetanse hos brukerne. Alt dette går på bekostning av kapasiteten til innkjøpsfunksjonen i en ellers så hektisk hverdag.
+En del virksomheter mangler eller har ikke etablert en god kategoristruktur. Andre sverger til lite egnede verktøy (for eksempel Excel) for å bygge og vedlikeholde en kategoristruktur. Typiske kjennetegn er komplekse formler, lite transparens og høye krav til kompetanse hos brukerne. Alt dette går på bekostning av kapasiteten til innkjøpsfunksjonen.
 
 Les våre [5 praktiske tips til kategoristruktur og kategorisering](https://www.ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/ "Kategoristruktur og kategorisering - fem praktiske tips").
 
