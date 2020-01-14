@@ -84,16 +84,12 @@ Les mer om hvorfor vi mener det [investeres for lite i innkjøpsfunksjonen](http
 
 > Få eller ingen gode verktøy til å støtte innkjøpsarbeidet
 
-Relativt få virksomheter har, eller bruker gode verktøy som hjelpemidler i det strategiske innkjøpsarbeidet. Vi ser dessverre få brukervennlige verktøy i markedet som kan løse de ulike behovene til innkjøpsfunksjonen, noe som kan være en årsak til dette.
+Relativt få virksomheter har, eller bruker gode verktøy som hjelpemidler i det strategiske innkjøpsarbeidet. Vi ser dessverre få brukervennlige verktøy i markedet som kan løse de ulike behovene, noe som kan være en årsak til dette.
 
-Digitale verktøy er en premiss 
-
-kompensere for både begrenset kapasitet og kompetanse — og kan til og med øke kompetansen.
-
-* e etc.
+Gode, digitale verktøy er helt avgjørende for alle profesjonelle innkjøpsfunksjoner. La oss hjelpe deg til en forenklet og forbedret arbeidshverdag!
 
 ***
 
-Ignite Analytics støtter hele den strategiske innkjøpsprosessen. Få mer informasjon om hvordan løsningen kan hjelpe deg og din virksomhet!
+Ignite Analytics støtter hele den strategiske innkjøpsprosessen og bidrar til å løse deres utfordringer. Få mer informasjon om hvordan løsningen kan hjelpe deg og din virksomhet!
 
 [![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
