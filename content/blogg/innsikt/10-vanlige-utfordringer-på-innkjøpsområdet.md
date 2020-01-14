@@ -2,7 +2,6 @@
 author = "Ignite"
 categories = ["Innsikt"]
 date = 2020-01-14T08:42:31Z
-draft = true
 image = "/images/Innkjøp - utfordringer - 2.png"
 ingress = "Innkjøp utgjør ofte en vesentlig andel av kostnadene for de fleste virksomheter. Generelt ser vi et stort potensial på innkjøpsområdet, men også flere utfordringer."
 showmainimg = false
