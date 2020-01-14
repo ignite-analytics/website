@@ -16,13 +16,17 @@ Som en tjenesteleverandør til bedriftsmarkedet og innkjøpsfunksjonen, er vi da
 
 > Det er krevende å samle inn og harmonisere data fra ulike kilder
 
-Mange virksomheter bruker betydelige, og ofte dedikerte, ressurser på å strukturere og harmonisere innkjøpsdata og andre data. Typisk observerer vi store investeringer i BI-løsninger som ikke støtter innkjøpsfunksjonens behov på en tilstrekkelig god måte. Lite brukervennlige løsninger med krevende teknisk brukergrensesnitt, uten muligheter til å forbedre datakvaliteten, resulterer i at brukerne ikke får tilgang til innsikten de trenger.
+Mange virksomheter bruker betydelige, og ofte dedikerte, ressurser på å strukturere og harmonisere innkjøpsdata og andre typer data. Typisk observerer vi store investeringer i BI-løsninger som ikke støtter innkjøpsfunksjonens behov på en tilstrekkelig god måte. Lite brukervennlige og statiske løsninger med et krevende teknisk brukergrensesnitt, uten muligheter til å forbedre datakvaliteten, resulterer i at brukerne ikke får tilgang til innsikten de trenger.
 
 Les mer om de [mest vanlige kildene for innkjøpsdata](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger").
 
 #### 2. Oversikt
 
-DS
+> Manglende oversikt over innkjøpet
+
+Ett av spørsmålene vi typisk spør om i innledende møter er; "hvor stort er innkjøpet i virksomheten din?". Det er overraskende få virksomheter og innkjøpssjefer som har god nok oversikt til å kunne svare på dette. Et kontinuerlig oppdatert faktagrunnlag er helt avgjørende for å ta datadrevne og smartere beslutninger.
+
+Les mer om [8 fordeler med innkjøps- og spendanalyser]().
 
 #### 3. Kategorisering og klassifisering
 
