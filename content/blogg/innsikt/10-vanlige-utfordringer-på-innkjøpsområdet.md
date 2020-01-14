@@ -24,7 +24,7 @@ Les mer om de [mest vanlige kildene for innkjøpsdata](https://www.ignite.no/blo
 
 > Manglende oversikt over innkjøpet
 
-Ett av spørsmålene vi typisk spør om i innledende møter er; "hvor stort er innkjøpet i din virksomhet?". Det er overraskende få virksomheter som har god nok oversikt til å kunne svare på dette. Et kontinuerlig oppdatert faktagrunnlag er helt avgjørende for å ta datadrevne og smartere beslutninger.
+Ett av spørsmålene vi typisk spør om i innledende møter er; «hvor stort er innkjøpet i din virksomhet?». Det er overraskende få virksomheter som har god nok oversikt til å kunne svare på dette. Et kontinuerlig oppdatert faktagrunnlag er helt avgjørende for å ta datadrevne og smartere beslutninger.
 
 Les mer om [8 fordeler med innkjøps- og spendanalyser]().
 
@@ -32,7 +32,9 @@ Les mer om [8 fordeler med innkjøps- og spendanalyser]().
 
 > Vanskelig å kategorisere og klassifisere innkjøpsdataen
 
-Det 
+En del virksomheter har ikke etablert en god kategoristruktur, mens flere sverger til lite egnede verktøy (for eksempel Excel) for å bygge og vedlikeholde en kategoristruktur. Typiske kjennetegn er komplekse formler, lite transparens og høye krav til kompetanse hos brukerne. Alt dette går på bekostning av kapasiteten til innkjøpsfunksjonen i en ellers så hektisk hverdag.
+
+Les våre [5 praktiske tips til kategoristruktur og kategorisering](https://www.ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/ "Kategoristruktur og kategorisering - fem praktiske tips").
 
 #### 4. Avtalekontroll
 
