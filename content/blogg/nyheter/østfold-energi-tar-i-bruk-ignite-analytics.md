@@ -2,14 +2,14 @@
 author = "Ignite"
 categories = ["Nyheter"]
 date = 2020-01-16T11:15:55Z
-image = "/images/Østfold Energi.png"
+image = "/images/Østfold Energi - 2.png"
 ingress = "Vi ønsker Østfold Energi velkommen som en av våre nyeste lisenskunder. Selskapet tar nå i bruk vår digitale løsning for strategisk innkjøp - og vi gleder oss til samarbeidet videre."
 showmainimg = false
 tags = ["Østfold Energi", "Ignite Procurement", "Strategisk innkjøp", "Digital løsning"]
 title = "Østfold Energi tar i bruk Ignite Analytics"
 
 +++
-![Østfold Energi inngår avtale med Ignite Procurement](/images/Østfold Energi.png "Østfold Energi")
+![Østfold Energi inngår avtale med Ignite Procurement](/images/Østfold Energi - 2.png "Østfold Energi")
 
 Østfold Energi eies av fylkeskommunen og 13 kommuner i Østfold, og en betydelig andel av verdiskapningen i selskapet går tilbake til samfunnet. Inntektene går blant annet til å finansiere skole, helse og andre viktige tjenester i lokalsamfunnene.
 
