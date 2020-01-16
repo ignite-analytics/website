@@ -166,15 +166,8 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/innsikt/10-vanlige-utfordringer-p%C3%A5-innkj%C3%B8psomr%C3%A5det/</loc>
-    <lastmod>2020-01-14T08:42:31+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/</loc>
-    <lastmod>2020-01-14T08:42:31+00:00</lastmod>
+    <lastmod>2020-01-16T11:15:55+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -182,7 +175,7 @@
   
   <url>
     <loc>https://ignite.no/categories/</loc>
-    <lastmod>2020-01-14T08:42:31+00:00</lastmod>
+    <lastmod>2020-01-16T11:15:55+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -199,8 +192,16 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/digitalt-verkt%C3%B8y/</loc>
-    <lastmod>2020-01-14T08:42:31+00:00</lastmod>
+    <loc>https://ignite.no/blogg/tag/digital-l%C3%B8sning/</loc>
+    <lastmod>2020-01-16T11:15:55+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/ignite-procurement/</loc>
+    <lastmod>2020-01-16T11:15:55+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -208,7 +209,7 @@
   
   <url>
     <loc>https://ignite.no/</loc>
-    <lastmod>2020-01-14T08:42:31+00:00</lastmod>
+    <lastmod>2020-01-16T11:15:55+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -225,8 +226,8 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/innsikt/</loc>
-    <lastmod>2020-01-14T08:42:31+00:00</lastmod>
+    <loc>https://ignite.no/blogg/nyheter/</loc>
+    <lastmod>2020-01-16T11:15:55+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -234,7 +235,7 @@
   
   <url>
     <loc>https://ignite.no/tags/</loc>
-    <lastmod>2020-01-14T08:42:31+00:00</lastmod>
+    <lastmod>2020-01-16T11:15:55+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -246,6 +247,52 @@
                 hreflang="no"
                 href="https://ignite.no/tags/"
                 />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/strategisk-innkj%C3%B8p/</loc>
+    <lastmod>2020-01-16T11:15:55+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/%C3%B8stfold-energi/</loc>
+    <lastmod>2020-01-16T11:15:55+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/nyheter/%C3%B8stfold-energi-tar-i-bruk-ignite-analytics/</loc>
+    <lastmod>2020-01-16T11:15:55+00:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/innsikt/10-vanlige-utfordringer-p%C3%A5-innkj%C3%B8psomr%C3%A5det/</loc>
+    <lastmod>2020-01-14T08:42:31+00:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/digitalt-verkt%C3%B8y/</loc>
+    <lastmod>2020-01-14T08:42:31+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/innsikt/</loc>
+    <lastmod>2020-01-14T08:42:31+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   
@@ -267,22 +314,6 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/strategisk-innkj%C3%B8p/</loc>
-    <lastmod>2020-01-14T08:42:31+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/digital-l%C3%B8sning/</loc>
-    <lastmod>2020-01-07T11:49:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/tag/felleskj%C3%B8pet/</loc>
     <lastmod>2020-01-07T11:49:45+00:00</lastmod>
     <priority>0</priority>
@@ -293,22 +324,6 @@
   <url>
     <loc>https://ignite.no/blogg/nyheter/felleskj%C3%B8pet-tar-i-bruk-v%C3%A5r-digitale-l%C3%B8sning-for-strategisk-innkj%C3%B8p/</loc>
     <lastmod>2020-01-07T11:49:45+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/ignite-procurement/</loc>
-    <lastmod>2020-01-07T11:49:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/nyheter/</loc>
-    <lastmod>2020-01-07T11:49:45+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   
@@ -651,7 +666,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/strategiske-partnere/</loc>
+    <loc>https://ignite.no/blogg/tag/virkemidler/</loc>
     <lastmod>2019-10-28T12:47:37+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -659,7 +674,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/virkemidler/</loc>
+    <loc>https://ignite.no/blogg/tag/strategiske-partnere/</loc>
     <lastmod>2019-10-28T12:47:37+00:00</lastmod>
     <priority>0</priority>
   </url>
