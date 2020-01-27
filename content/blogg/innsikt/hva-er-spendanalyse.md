@@ -18,15 +18,27 @@ Etter hvert som innkjøp blir en mer strategisk funksjon i organisasjonen, så v
 
 Les mer om de [viktigste fordelene med spendanalyse](https://www.ignite.no/blogg/innsikt/8-fordeler-med-spendanalyser/ "8 fordeler med innkjøps- og spendanalyser").
 
-#### Den moderne «spendkuben»
+#### Den moderne «innkjøpskuben»
 
-Spendkuben representerer en visuell forenkling av kjøpet langs flere dimensjoner. Den tradisjonelle, og noe utdaterte, spendkuben omfatter tre dimensjoner; 
+Innkjøpskuben (eller spend cube) representerer en visuell forenkling av kjøpet langs flere dimensjoner. Den tradisjonelle, og noe utdaterte, innkjøpskuben omfatter tre dimensjoner; 
 
 * Hva kjøper vi inn (hvilke kategorier, produkter/tjenester)
 * Hvem kjøper inn (hvilket selskap, avdeling, koststed) 
 * Hvem kjøpes det fra (hvilken leverandør)
 
-En forenklet, og noe utdatert, kuben 
+Legge inn hexagon-bilde
+
+Spendanalyse er et mye mer moderne, altomfattende og dynamisk verktøy sammenlignet med den tradisjonelle innkjøpskuben. Prinsippet er likevel det samme. Det handler om å visualisere, analysere og forstå sammensetningen og utviklingen av innkjøpet, som for eksempel;
+
+* Hva er det vi kjøper?
+* Hvem står for kjøpet?
+* Hvem kjøper vi fra?
+* Når kjøpes det inn?
+* Hvor ofte skjer kjøpet?
+* Hvor mye kjøpte vi for?
+* Hvilke priser betaler vi?
+* Hvor store volum kjøper vi?
+* Hvordan har utviklingen vært?
 
 #### Spend = adresserbart kjøp
 
