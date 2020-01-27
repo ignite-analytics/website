@@ -6,7 +6,7 @@ draft = true
 image = ""
 ingress = "Spendanalyse handler til syvende og sist om nødvendig innsikt for å kunne gjennomføre faktabaserte og smartere innkjøpsbeslutninger."
 showmainimg = false
-tags = ["Spendanalyse", "Innkjøpsanalyse"]
+tags = ["Spendanalyse", "Innkjøpsanalyse", "Spend management"]
 title = "Hva er spendanalyse?"
 
 +++
@@ -14,7 +14,7 @@ Spendanalyse går ut på å gjennomgå historisk innkjøpsdata for å få nødve
 
 Spendanalyser blir ofte sett på som en grunnmur i arbeidet med strategisk innkjøp, og bør være fundamentet i alle profesjonelle innkjøpsfunksjoner. Det er blant annet et viktig verktøy for å identifisere besparelsesmuligheter, håndtere risiko, [utarbeide innkjøpsstrategier](https://www.ignite.no/blogg/innsikt/bygg-en-solid-innkj%C3%B8psstrategi-i-9-enkle-steg/ "Utarbeid en vellykket innkjøpsstrategi gjennom 8 steg") og [implementere kategoristyring](https://www.ignite.no/blogg/innsikt/en-praktisk-tiln%C3%A6rming-til-kategoristyring/ "En praktisk tilnærming til kategoristyring"). I tillegg er det helt nødvendig for å gi mer transparens på tvers av hele virksomheten, som igjen kan være kritisk for forankring og prioritering internt.
 
-Etter hvert som innkjøp blir en mer strategisk funksjon i organisasjonen, så vil spendanalyse spille en nøkkelrolle mellom alle interessentene (stakeholders).
+Etter hvert som innkjøp blir en mer strategisk funksjon i organisasjonen, så vil spendanalyse spille en nøkkelrolle mellom alle de ulike interessentene (stakeholders).
 
 Les mer om de [viktigste fordelene med spendanalyse](https://www.ignite.no/blogg/innsikt/8-fordeler-med-spendanalyser/ "8 fordeler med innkjøps- og spendanalyser").
 
@@ -39,6 +39,8 @@ Spendanalyse er et mye mer moderne, altomfattende og dynamisk verktøy sammenlig
 * Hvilke priser betaler vi?
 * Hvor store volum kjøper vi?
 * Hvordan har utviklingen vært?
+
+Det er altså kun to ting som setter en begrensning for hva vi vil analysere; vår egen fantasi og dataen vi har tilgjengelig. Les mer om de [mest vanlige kildene for innkjøpsdata](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger").
 
 #### Spend = adresserbart kjøp
 
