@@ -18,6 +18,14 @@ Etter hvert som innkjøp blir en mer strategisk funksjon i organisasjonen, så v
 
 Les mer om de [viktigste fordelene med spendanalyse](https://www.ignite.no/blogg/innsikt/8-fordeler-med-spendanalyser/ "8 fordeler med innkjøps- og spendanalyser").
 
+#### Spend og adresserbart kjøp
+
+Spend er et samlebegrep som reflekterer alle interne og eksterne kjøp i hele virksomheten. Dette omfatter altså alt kjøp av varer og tjenester, uavhengig av om dette er investeringer eller gjentakende kjøp. 
+
+Innkjøpsfunksjonen bør likevel prioritere ressursene mot kjøpet som de har mulighet til å påvirke - både direkte og indirekte - nemlig **adresserbart kjøp**. I praksis betyr dette ofte alle eksterne kjøp med unntak av utvalgte skatter og avgifter.
+
+Bilde: Totale kostnader  -> Spend
+
 #### Den moderne «innkjøpskuben»
 
 Innkjøpskuben (eller spend cube) representerer en visuell forenkling av kjøpet langs flere dimensjoner. Den tradisjonelle, og noe utdaterte, innkjøpskuben omfatter tre dimensjoner; 
@@ -41,9 +49,5 @@ Spendanalyse er et mye mer moderne, altomfattende og dynamisk verktøy sammenlig
 * Hvordan har utviklingen vært?
 
 Det er altså kun to ting som setter en begrensning for hva vi vil analysere; vår egen fantasi og dataen vi har tilgjengelig. Les mer om de [mest vanlige kildene for innkjøpsdata](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger").
-
-#### Spend = adresserbart kjøp
-
-Bilde: Omsetning -> Spend
 
 #### Spendanalyse, innkjøpsanalyse og spend management
