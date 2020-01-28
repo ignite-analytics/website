@@ -5,7 +5,7 @@ date = 2020-01-28T13:54:39Z
 image = "/images/Hva er spendanalyse.png"
 ingress = "Spendanalyse handler til syvende og sist om nødvendig innsikt i kjøpet for å kunne gjennomføre faktabaserte og smartere innkjøpsbeslutninger."
 showmainimg = false
-tags = ["Spendanalyse", "Innkjøpsanalyse", "Spend management"]
+tags = ["Spendanalyse", "Innkjøpsanalyse", "Spend management", "Adresserbart kjøp"]
 title = "Hva er spendanalyse?"
 
 +++
