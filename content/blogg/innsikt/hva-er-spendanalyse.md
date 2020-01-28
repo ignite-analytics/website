@@ -36,7 +36,7 @@ Innkjøpskuben (eller spend cube) representerer en visuell forenkling av kjøpet
 
 ![Eksempler på dataparametere i spendanalyse](/images/Hva er spendanalyse.png "Hva er spendanalyse?")
 
-Spendanalyse er et mye mer moderne, altomfattende og dynamisk prosess sammenlignet med den tradisjonelle innkjøpskuben. Prinsippet er likevel det samme. Det handler om å visualisere, analysere og forstå sammensetningen og utviklingen av innkjøpet, som for eksempel;
+Spendanalyse er en mye mer moderne, altomfattende og dynamisk metodikk sammenlignet med den tradisjonelle innkjøpskuben. Prinsippet er likevel det samme. Det handler om å visualisere, analysere og forstå sammensetningen og utviklingen av kjøpet, som for eksempel;
 
 * Hva er det vi kjøper?
 * Hvem står for kjøpet?
