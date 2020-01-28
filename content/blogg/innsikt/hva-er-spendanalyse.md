@@ -52,7 +52,7 @@ Det er altså kun to ting som setter en begrensning for hva vi vil analysere; v�
 
 #### Spendanalyse, innkjøpsanalyse og spend management
 
-Ulik begrepsbruk kan noen ganger være gjenstand for uklarheter. Dette gjelder også på innkjøpsområdet. Vi ønsker derfor å gi en overordnet forklaring på begrepene spendanalyse, innkjøpsanalyse og spend management - og hvordan disse henger sammen.
+Ulik begrepsbruk kan noen ganger være gjenstand for uklarheter. Dette gjelder også på innkjøpsområdet. Vi ønsker derfor å gi en overordnet forklaring av begrepene spendanalyse, innkjøpsanalyse og spend management - og hvordan disse henger sammen.
 
 Bilde
 
