@@ -3,7 +3,7 @@ author = "Ignite"
 categories = ["Innsikt"]
 date = 2020-01-27T13:54:39Z
 draft = true
-image = ""
+image = "/images/Hva er spendanalyse.png"
 ingress = "Spendanalyse handler til syvende og sist om nødvendig innsikt i kjøpet for å kunne gjennomføre faktabaserte og smartere innkjøpsbeslutninger."
 showmainimg = false
 tags = ["Spendanalyse", "Innkjøpsanalyse", "Spend management"]
@@ -34,7 +34,7 @@ Innkjøpskuben (eller spend cube) representerer en visuell forenkling av kjøpet
 * Hvem kjøper inn (hvilket selskap, avdeling, koststed)
 * Hvem kjøpes det fra (hvilken leverandør)
 
-Legge inn hexagon-bilde
+![Eksempler på dataparametere i spendanalyse](/images/Hva er spendanalyse.png "Hva er spendanalyse?")
 
 Spendanalyse er et mye mer moderne, altomfattende og dynamisk prosess sammenlignet med den tradisjonelle innkjøpskuben. Prinsippet er likevel det samme. Det handler om å visualisere, analysere og forstå sammensetningen og utviklingen av innkjøpet, som for eksempel;
 
