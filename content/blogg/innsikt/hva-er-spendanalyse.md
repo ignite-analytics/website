@@ -74,3 +74,9 @@ Formålet med innkjøpsanalyser er likevel det samme, nemlig å få nødvendig i
 * Besparelsesanalyser - analyse av muligheter, initiativer og realiserte besparelser
 
 **Spend management** reflekterer alle prosesser og aktiviteter som kreves for å håndtere innkjøpet. Dette omfatter altså hele innkjøpsprosessen, hvor innkjøpsanalyser kun utgjør èn, men samtidig viktig, del av denne.
+
+***
+
+Ignite Procurement er en spend management løsning for strategisk innkjøp. Få mer informasjon om funksjonaliteten og hvordan løsningen kan hjelpe deg og din virksomhet!
+
+[![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
