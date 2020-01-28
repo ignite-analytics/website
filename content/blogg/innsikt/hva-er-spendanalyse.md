@@ -14,13 +14,13 @@ Spendanalyse går ut på å gjennomgå historisk innkjøpsdata for å få nødve
 
 Spendanalyser blir ofte sett på som en grunnmur i arbeidet med strategisk innkjøp, og bør være fundamentet i alle profesjonelle innkjøpsfunksjoner. Det er blant annet et viktig verktøy for å identifisere besparelsesmuligheter, håndtere risiko, [utarbeide innkjøpsstrategier](https://www.ignite.no/blogg/innsikt/bygg-en-solid-innkj%C3%B8psstrategi-i-9-enkle-steg/ "Utarbeid en vellykket innkjøpsstrategi gjennom 8 steg") og [implementere kategoristyring](https://www.ignite.no/blogg/innsikt/en-praktisk-tiln%C3%A6rming-til-kategoristyring/ "En praktisk tilnærming til kategoristyring"). I tillegg er det helt nødvendig for å gi mer transparens på tvers av hele virksomheten, som igjen kan være kritisk for både forankring og prioritering internt.
 
-Etter hvert som innkjøp blir en mer strategisk funksjon i organisasjonen, så vil spendanalyse spille en nøkkelrolle mellom alle de ulike interessentene (stakeholders).
+Etter hvert som innkjøp blir en mer strategisk funksjon internt, så vil spendanalyse spille en nøkkelrolle mellom alle de ulike interessentene i virksomheten (stakeholders).
 
 Les mer om de [viktigste fordelene med spendanalyse](https://www.ignite.no/blogg/innsikt/8-fordeler-med-spendanalyser/ "8 fordeler med innkjøps- og spendanalyser").
 
 #### Spend og adresserbart kjøp
 
-Spend er et samlebegrep som reflekterer alle interne og eksterne kjøp i hele virksomheten. Dette omfatter altså alt kjøp av varer og tjenester, uavhengig av om dette er investeringer eller gjentakende kjøp. 
+Spend er et samlebegrep som reflekterer alle interne og eksterne kjøp i hele virksomheten. Dette omfatter altså alt kjøp av varer og tjenester, uavhengig av om dette er investeringer eller gjentakende kjøp.
 
 Innkjøpsfunksjonen bør likevel prioritere ressursene mot kjøpet som de har mulighet til å påvirke - både direkte og indirekte - nemlig **adresserbart kjøp**. I praksis betyr dette ofte alle eksterne kjøp med unntak av utvalgte skatter og avgifter.
 
@@ -28,10 +28,10 @@ Bilde: Totale kostnader  -> Spend
 
 #### Den moderne «innkjøpskuben»
 
-Innkjøpskuben (eller spend cube) representerer en visuell forenkling av kjøpet langs flere dimensjoner. Den tradisjonelle, og noe utdaterte, innkjøpskuben omfatter tre dimensjoner; 
+Innkjøpskuben (eller spend cube) representerer en visuell forenkling av kjøpet langs flere dimensjoner. Den tradisjonelle, og noe utdaterte, innkjøpskuben omfatter tre dimensjoner;
 
 * Hva kjøper vi inn (hvilke kategorier, produkter/tjenester)
-* Hvem kjøper inn (hvilket selskap, avdeling, koststed) 
+* Hvem kjøper inn (hvilket selskap, avdeling, koststed)
 * Hvem kjøpes det fra (hvilken leverandør)
 
 Legge inn hexagon-bilde
