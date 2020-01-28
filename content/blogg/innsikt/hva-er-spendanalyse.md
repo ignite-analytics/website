@@ -1,8 +1,7 @@
 +++
 author = "Ignite"
 categories = ["Innsikt"]
-date = 2020-01-27T13:54:39Z
-draft = true
+date = 2020-01-28T13:54:39Z
 image = "/images/Hva er spendanalyse.png"
 ingress = "Spendanalyse handler til syvende og sist om nødvendig innsikt i kjøpet for å kunne gjennomføre faktabaserte og smartere innkjøpsbeslutninger."
 showmainimg = false
@@ -24,7 +23,7 @@ Spend er et samlebegrep som reflekterer alle interne og eksterne kjøp i hele vi
 
 Innkjøpsfunksjonen bør likevel prioritere ressursene mot kjøpet som de har mulighet til å påvirke - både direkte og indirekte - nemlig **adresserbart kjøp**. I praksis betyr dette ofte alle eksterne kjøp med unntak av skatter og avgifter som ikke kan påvirkes (eksempelvis skatter og MVA).
 
-Bilde: Totale kostnader  -> Spend
+![Sammenhengeng mellom kostnader, spend og adresserbart kjøp](/images/Spend og adresserbart kjøp.png "Spend og adresserbart kjøp")
 
 #### Den moderne «innkjøpskuben»
 
@@ -54,7 +53,7 @@ Det er altså kun to ting som setter en begrensning for hva vi vil analysere; v�
 
 Ulik begrepsbruk kan noen ganger være gjenstand for uklarheter. Dette gjelder også på innkjøpsområdet. Vi ønsker derfor å gi en overordnet forklaring av begrepene spendanalyse, innkjøpsanalyse og spend management - og hvordan disse henger sammen.
 
-Bilde
+![Sammenhengen mellom spendanalyse, innkjøpsanalyse og spend management](/images/Spendanalyse, innkjøpsanalyse og spend management.png "Spendanalyse, innkjøpsanalyse og spend management")
 
 **Spendanalyse** omfatter analyse av alle interne og eksterne kjøp (spend), og er et eksempel på en innkjøpsanalyse. 
 
