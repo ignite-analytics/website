@@ -66,18 +66,11 @@ Bilde
 * Samfunnsansvar (CSR) og miljøpåvirkning
 * Markedsinformasjon (f.eks. indekser)
 
-Formålet er likevel det samme, nemlig å få nødvendig innsikt til å gjennomføre bedre og smartere beslutninger. Noen vanlige eksempler på innkjøpsanalyser er;
+Formålet med innkjøpsanalyser er likevel det samme, nemlig å få nødvendig innsikt til å drive bedre og smartere beslutninger. Innkjøpsanalyser vil i likhet med datakildene variere, men noen vanlige eksempler på analyser er;
 
-**Spend management**
+* Spendanalyser - analyse av interne og eksterne kjøp i virksomheten
+* Kontraktsanalyser - analyse av kontrakter, avtalelojalitet og metadata
+* Leverandøranalyser - analyse av risiko og potensial på tvers av leverandørbasen
+* Besparelsesanalyser - analyse av muligheter, initiativer og realiserte besparelser
 
-å få ytterligere innsikt til å gjøre 
-
-Formålet er å få ytterligere 
-
-tre viktige begreper
-
-Sagt på en enkel måte; 
-
-Innkjøpsanalyser 
-
-Spendanalyser
+**Spend management** reflekterer alle prosesser og aktiviteter som kreves for å håndtere innkjøpet. Dette omfatter altså hele innkjøpsprosessen, hvor innkjøpsanalyser kun utgjør èn, men samtidig viktig, del av denne.
