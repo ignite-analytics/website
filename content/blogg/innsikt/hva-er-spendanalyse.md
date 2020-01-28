@@ -77,6 +77,6 @@ Formålet med innkjøpsanalyser er likevel det samme, nemlig å få nødvendig i
 
 ***
 
-Ignite Procurement er en spend management løsning for strategisk innkjøp. Få mer informasjon om funksjonaliteten og hvordan løsningen kan hjelpe deg og din virksomhet!
+Ignite Procurement er et spend management verktøy for strategisk innkjøp. Få mer informasjon om funksjonaliteten og hvordan løsningen kan hjelpe deg og din virksomhet!
 
 [![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
