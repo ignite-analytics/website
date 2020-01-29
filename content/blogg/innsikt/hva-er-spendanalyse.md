@@ -33,8 +33,6 @@ Innkjøpskuben (eller spend cube) representerer en visuell forenkling av kjøpet
 * Hvem kjøper inn (hvilket selskap, avdeling, koststed)
 * Hvem kjøpes det fra (hvilken leverandør)
 
-![Eksempler på dataparametere i spendanalyse](/images/Hva er spendanalyse.png "Hva er spendanalyse?")
-
 Spendanalyse er en mye mer moderne, altomfattende og dynamisk metodikk sammenlignet med den tradisjonelle innkjøpskuben. Prinsippet er likevel det samme. Det handler om å visualisere, analysere og forstå sammensetningen og utviklingen av kjøpet, som for eksempel;
 
 * Hva er det vi kjøper?
@@ -47,6 +45,8 @@ Spendanalyse er en mye mer moderne, altomfattende og dynamisk metodikk sammenlig
 * Hvor store volum kjøper vi?
 * Hvordan har utviklingen vært?
 
+![Eksempler på vanlige spendanalyser](/images/Hva er spendanalyse.png "Hva er spendanalyse?")
+
 Det er altså kun to ting som setter en begrensning for hva vi vil analysere; vår egen fantasi og dataen vi har tilgjengelig.
 
 Les mer om de [mest vanlige kildene for innkjøpsdata](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger").
@@ -54,8 +54,6 @@ Les mer om de [mest vanlige kildene for innkjøpsdata](https://www.ignite.no/blo
 #### Spendanalyse, innkjøpsanalyse og spend management
 
 Ulik begrepsbruk kan noen ganger være gjenstand for uklarheter. Dette gjelder også på innkjøpsområdet. Vi ønsker derfor å gi en overordnet forklaring av begrepene spendanalyse, innkjøpsanalyse og spend management - og hvordan disse henger sammen.
-
-![Sammenhengen mellom spendanalyse, innkjøpsanalyse og spend management](/images/Spendanalyse, innkjøpsanalyse og spend management - 3.png "Spendanalyse, innkjøpsanalyse og spend management")
 
 **Spendanalyse** omfatter analyse av alle interne og eksterne kjøp (spend), og er et eksempel på en innkjøpsanalyse.
 
@@ -74,7 +72,7 @@ Formålet med innkjøpsanalyser er likevel det samme, nemlig å få nødvendig i
 * Leverandøranalyser - analyse av risiko og potensial på tvers av leverandørbasen
 * Besparelsesanalyser - analyse av muligheter, initiativer og realiserte besparelser
 
-**Spend management** reflekterer alle prosesser og aktiviteter som kreves for å håndtere innkjøpet. Dette omfatter altså hele innkjøpsprosessen, hvor innkjøpsanalyser kun utgjør èn, men samtidig viktig, del av denne.
+**Spend management** reflekterer alle prosesser og aktiviteter som kreves for å håndtere innkjøpet. Dette omfatter altså hele innkjøpsprosessen, hvor innkjøpsanalyse kun utgjør èn, men samtidig viktig, del av denne.
 
 ***
 
