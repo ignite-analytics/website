@@ -15,7 +15,7 @@ Spendanalyser blir ofte sett på som en grunnmur i arbeidet med strategisk innkj
 
 Etter hvert som innkjøp blir en mer strategisk funksjon internt, så vil spendanalyse spille en nøkkelrolle mellom alle de ulike interessentene i virksomheten (stakeholders).
 
-Les mer om de [viktigste fordelene med spendanalyse](https://www.ignite.no/blogg/innsikt/8-fordeler-med-spendanalyser/ "8 fordeler med innkjøps- og spendanalyser").
+Finn ut mer om de [viktigste fordelene med spendanalyse](https://www.ignite.no/blogg/innsikt/8-fordeler-med-spendanalyser/ "8 fordeler med innkjøps- og spendanalyser").
 
 #### Spend og adresserbart kjøp
 
