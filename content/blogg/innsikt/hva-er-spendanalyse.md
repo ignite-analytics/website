@@ -47,7 +47,9 @@ Spendanalyse er en mye mer moderne, altomfattende og dynamisk metodikk sammenlig
 * Hvor store volum kjøper vi?
 * Hvordan har utviklingen vært?
 
-Det er altså kun to ting som setter en begrensning for hva vi vil analysere; vår egen fantasi og dataen vi har tilgjengelig. Les mer om de [mest vanlige kildene for innkjøpsdata](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger").
+Det er altså kun to ting som setter en begrensning for hva vi vil analysere; vår egen fantasi og dataen vi har tilgjengelig.
+
+Les mer om de [mest vanlige kildene for innkjøpsdata](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger").
 
 #### Spendanalyse, innkjøpsanalyse og spend management
 
@@ -55,7 +57,7 @@ Ulik begrepsbruk kan noen ganger være gjenstand for uklarheter. Dette gjelder o
 
 ![Sammenhengen mellom spendanalyse, innkjøpsanalyse og spend management](/images/Spendanalyse, innkjøpsanalyse og spend management.png "Spendanalyse, innkjøpsanalyse og spend management")
 
-**Spendanalyse** omfatter analyse av alle interne og eksterne kjøp (spend), og er et eksempel på en innkjøpsanalyse. 
+**Spendanalyse** omfatter analyse av alle interne og eksterne kjøp (spend), og er et eksempel på en innkjøpsanalyse.
 
 **Innkjøpsanalyse** («Procurement analytics») er et mer omfattende begrep enn spendanalyse. I teorien er dette et samlebegrep for alle relevante analyser langs hele innkjøpsprosessen. Dette vil typisk innebære innhenting og kobling av data fra flere kilder, og ofte sett opp mot kjøpet. Relevante datakilder kan være mange, og variere mellom virksomhetene, men vanlige kilder vil ofte være;
 
