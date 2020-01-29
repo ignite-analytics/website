@@ -55,7 +55,7 @@ Les mer om de [mest vanlige kildene for innkjøpsdata](https://www.ignite.no/blo
 
 Ulik begrepsbruk kan noen ganger være gjenstand for uklarheter. Dette gjelder også på innkjøpsområdet. Vi ønsker derfor å gi en overordnet forklaring av begrepene spendanalyse, innkjøpsanalyse og spend management - og hvordan disse henger sammen.
 
-![Sammenhengen mellom spendanalyse, innkjøpsanalyse og spend management](/images/Spendanalyse, innkjøpsanalyse og spend management.png "Spendanalyse, innkjøpsanalyse og spend management")
+![Sammenhengen mellom spendanalyse, innkjøpsanalyse og spend management](/images/Spendanalyse, innkjøpsanalyse og spend management - 2.png "Spendanalyse, innkjøpsanalyse og spend management")
 
 **Spendanalyse** omfatter analyse av alle interne og eksterne kjøp (spend), og er et eksempel på en innkjøpsanalyse.
 
