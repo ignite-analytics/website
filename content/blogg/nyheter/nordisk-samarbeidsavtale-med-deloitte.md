@@ -15,7 +15,7 @@ Som det fremgikk av [Finansavisen forrige uke](https://finansavisen.no/nyheter/t
 
 #### Vinn-vinn-muligheter for alle involverte parter
 
-Gjennom samarbeidet får nå Deloitte tilgang til vårt [digitale verktøy for strategisk innkjøp](https://www.ignite.no/ignite-analytics/ "Digitalt verktøy for strategisk innkjøp"). Dette vil blant annet forenkle den tidligere manuelle analysejobben som gjøres på innkjøpsprosjektene, samtidig som man raskt kan identifisere muligheter og risikoer.
+Gjennom samarbeidet får nå Deloitte tilgang til vår [løsning for strategisk innkjøp](https://www.ignite.no/ignite-analytics/ "Digital løsning for strategisk innkjøp"). Dette vil blant annet forenkle den tidligere manuelle analysejobben som gjøres på innkjøpsprosjektene, samtidig som man raskt kan identifisere muligheter og risikoer.
 
 > Verktøyet vil effektivisere det tidkrevende analysearbeidet, og det vil sørge for at vi får mer presis analyse, sier direktør for innkjøp og logistikk i Deloitte, Karl Martin Karlsen.
 
