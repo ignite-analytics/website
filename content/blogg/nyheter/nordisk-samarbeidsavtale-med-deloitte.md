@@ -2,7 +2,6 @@
 author = "Ignite"
 categories = ["Nyheter"]
 date = 2020-02-03T10:16:30Z
-draft = true
 image = "/images/Finansavisen - Deloitte - Crop.jpg"
 ingress = "Vi har inngått en strategisk samarbeidsavtale med Deloitte rundt vår digitale løsning for strategisk innkjøp."
 showmainimg = false
