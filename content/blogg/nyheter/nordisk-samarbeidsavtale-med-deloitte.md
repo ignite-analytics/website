@@ -27,7 +27,7 @@ Deloitte gjennomfører mange prosjekter på innkjøpsområdet. Per i dag har sel
 
 > Vi eksisterer fordi våre kunder skal lykkes med innkjøpsarbeidet, poengterer Nome. Deloitte sitter med en solid fagkompetanse som vil gi oss verdifull innsikt i videreutviklingen av løsningen. I tillegg har de ressurser og kapasitet til å kunne bistå eventuelle behov for ytterligere bistand på innkjøpsområdet.
 
-Avtalen vil i første omgang gjelde for Deloitte i hele norden. Det er likevel gode muligheter for å utvide samarbeidet globalt. 
+Avtalen vil i første omgang gjelde for Deloitte i hele Norden. Det er likevel gode muligheter for å utvide samarbeidet globalt.
 
 > Det vi ser er at verktøyet vil gi oss en god verdi i det vi skal levere til våre kunder. Hvis det blir en suksess vil vi kunne skape synlighet rundt løsningen globalt, avslutter Karlsen.
 
