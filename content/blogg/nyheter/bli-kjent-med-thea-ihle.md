@@ -6,7 +6,7 @@ draft = true
 image = "/images/Skjermbilde 2020-02-07 kl. 13.55.12.png"
 ingress = "Bli kjent med Ignite-teamet"
 showmainimg = false
-tags = ["Team ", "Ignite  ", "Ansatte "]
+tags = ["Team ", "Ignite  ", "Ansatte ", "News ", "Nyheter "]
 title = "Bli kjent med vårt nyeste tilskudd, Thea Ihle"
 
 +++
