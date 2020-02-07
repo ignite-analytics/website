@@ -76,7 +76,6 @@ fields:
   label: Tags
   description: Her putter du relevante nøkkelord for artikkelen
 pages:
-- content/blogg/bli-kjent-med-thea-ihle.md
 - content/blogg/cases/30-mnok-i-årlige-besparelser-for-obos-forvaltede-boligselskaper.md
 - content/blogg/cases/hvordan-bruke-bundling-til-å-redusere-innkjøpskostnadene.md
 - content/blogg/cases/reforhandling - et-undervurdert-strategisk-virkemiddel.md
