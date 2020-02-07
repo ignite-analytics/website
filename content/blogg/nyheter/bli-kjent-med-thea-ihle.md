@@ -40,6 +40,8 @@ Jeg liker at Ignite Procurement er et startup- selskap, så å være en del av r
 
 Positiv, engasjert, strukturert. 
 
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
 _Kort info om Thea:_ 
 
 _Thea er 22 år gammel og kommer fra Oslo, Norge. Hun studerer kommunikasjonsledelse ved Handelshøyskolen BI, Oslo. Hun interesserer seg for markedsføring og kommunikasjon og ser frem til å lære masse i denne jobben. På fritiden liker hun å trene, reise og være med venner._
