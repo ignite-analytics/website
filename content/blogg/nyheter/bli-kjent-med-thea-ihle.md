@@ -28,10 +28,6 @@ På fritiden liker jeg å trene, reise og være med venner.
 
 Jeg ser på Ignite Procurement som et interessant og spennende selskap å jobbe i. De tilbyr en utrolig spennende løsning, og det er kult å være en del av noe såpass"nytt". Det å jobbe her, ser jeg på som en kul utfordring og fin mulighet til å tilegne meg mer erfaring. I og med at jeg fortsatt er student, er dette en fin mulighet for meg til å benytte kunnskapen min i praksis.
 
-**Hva forventer du å få ut av jobben?**
-
-Jeg forventer at det blir hard jobbing og at jeg kommer til å lære masse på kort tid.
-
 **Hva liker du best med Ignite?**
 
 Jeg liker at Ignite Procurement er et startup- selskap, så å være en del av reisen fremover, blir utrolig spennende. I tillegg er er jeg en del av et ungt og uredd arbeidsmiljø med høye ambisjoner som er svært inspirerende å jobbe rundt.
@@ -39,6 +35,8 @@ Jeg liker at Ignite Procurement er et startup- selskap, så å være en del av r
 **Tre ord som beskriver deg?**
 
 Positiv, engasjert, strukturert.
+
+**Si en funfact om deg selv**
 
 ***
 
