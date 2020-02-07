@@ -12,7 +12,7 @@ title = "Bli kjent med vårt nyeste tilskudd, Thea Ihle"
 +++
 Vi ønsker velkommen til vårt nyeste tilskudd i teamet, Thea Ihle. Hun er en del av "marketing team", og vil bistå med digital markedsføring. 
 
-> _"Jeg liker at Ignite Procurement er et startup- selskap, så å være en del av reisen fremover, blir utrolig spennende"._
+> _"Jeg liker at Ignite Procurement er et startup- selskap, så å være en del av reisen fremover, blir utrolig spennende"_
 
 ![](/images/Skjermbilde 2020-02-07 kl. 13.55.12.png)
 
