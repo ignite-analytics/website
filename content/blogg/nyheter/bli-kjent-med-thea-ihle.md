@@ -4,13 +4,13 @@ categories = ["Nyheter"]
 date = 2020-02-07T10:25:15Z
 draft = true
 image = "/images/Skjermbilde 2020-02-07 kl. 13.55.12.png"
-ingress = "Bli bedre kjent med Ignite-teamet"
+ingress = "Vi ønsker velkommen til vårt nyeste tilskudd i teamet, Thea Ihle. Bli bedre kjent med henne og hennes rolle i Ignite Procurement."
 showmainimg = false
 tags = ["Team ", "Ignite  ", "Ansatte ", "News ", "Nyheter "]
 title = "Bli kjent med vårt nyeste tilskudd, Thea Ihle"
 
 +++
-Vi ønsker velkommen til vårt nyeste tilskudd i teamet, Thea Ihle. Hun er en del av "marketing team", og vil bistå med digital markedsføring. 
+Thea er en del av "marketing team", og vil bistå med digital markedsføring.
 
 > _"Jeg liker at Ignite Procurement er et startup- selskap, så å være en del av reisen fremover, blir utrolig spennende"_
 
