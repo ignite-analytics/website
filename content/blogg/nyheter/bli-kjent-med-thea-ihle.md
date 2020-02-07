@@ -10,7 +10,7 @@ tags = ["Team ", "Ignite  ", "Ansatte ", "News ", "Nyheter "]
 title = "Bli kjent med vårt nyeste tilskudd, Thea Ihle"
 
 +++
-Thea er en del av "marketing team", og vil bistå med digital markedsføring for Ignite Procurement. 
+Thea er en del av markedsføringsteamet, og vil bistå med digital markedsføring for Ignite Procurement. 
 
 > _"Jeg liker at Ignite Procurement er et startup- selskap, så å være en del av reisen fremover, blir utrolig spennende"_
 
@@ -24,7 +24,7 @@ Jeg studerer kommunikasjonsledelse ved Handelshøyskolen BI, Oslo, og er nå hal
 
 På fritiden liker jeg å trene, reise og være med venner. 
 
-**Hvorfor valgte du å jobbe i Ignite?**
+**Hvorfor valgte du å jobbe hos Ignite?**
 
 Jeg ser på Ignite Procurement som et interessant og spennende selskap å jobbe i. De tilbyr en utrolig spennende løsning, og det er kult å være en del av noe såpass"nytt". Det å jobbe her, ser jeg på som en kul utfordring og fin mulighet til å tilegne meg mer erfaring. I og med at jeg fortsatt er student, er dette en fin mulighet for meg til å benytte kunnskapen min i praksis. 
 
@@ -32,7 +32,7 @@ Jeg ser på Ignite Procurement som et interessant og spennende selskap å jobbe 
 
 Jeg forventer at det blir hard jobbing og at jeg kommer til å lære masse på kort tid.
 
-**Hva liker du best ved jobben?** 
+**Hva liker du best med Ignite?** 
 
 Jeg liker at Ignite Procurement er et startup- selskap, så å være en del av reisen fremover, blir utrolig spennende. I tillegg er det et ungt og uredd arbeidsmiljø med høye ambisjoner som er svært inspirerende å jobbe rundt. 
 
