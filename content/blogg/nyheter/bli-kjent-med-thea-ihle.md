@@ -3,7 +3,7 @@ author = "Ignite"
 categories = ["Nyheter"]
 date = 2020-02-07T10:25:15Z
 draft = true
-image = ""
+image = "/images/Skjermbilde 2020-02-07 kl. 13.55.12.png"
 ingress = "Bli kjent med Ignite-teamet"
 showmainimg = false
 tags = ["Team ", "Ignite  ", "Ansatte "]
@@ -14,7 +14,7 @@ Vi ønsker velkommen til vårt nyeste tilskudd i teamet, Thea Ihle. Hun er en de
 
 > _"Jeg liker at Ignite Procurement er et startup- selskap, så å være en del av reisen fremover, blir utrolig spennende"._
 
-Forslag til spørsmål:  
+![](/images/Skjermbilde 2020-02-07 kl. 13.55.12.png)
 
 **Hva er din bakgrunn? (utdanning/jobb)**
 
