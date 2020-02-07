@@ -34,7 +34,7 @@ Jeg forventer at det blir hard jobbing og at jeg kommer til å lære masse på k
 
 **Hva liker du best med Ignite?** 
 
-Jeg liker at Ignite Procurement er et startup- selskap, så å være en del av reisen fremover, blir utrolig spennende. I tillegg er det et ungt og uredd arbeidsmiljø med høye ambisjoner som er svært inspirerende å jobbe rundt. 
+Jeg liker at Ignite Procurement er et startup- selskap, så å være en del av reisen fremover, blir utrolig spennende. I tillegg er er jeg en del av et ungt og uredd arbeidsmiljø med høye ambisjoner som er svært inspirerende å jobbe rundt. 
 
 **Tre ord som beskriver deg?**
 
