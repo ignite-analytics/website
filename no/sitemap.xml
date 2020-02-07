@@ -368,7 +368,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/utfordringer-innkj%C3%B8p/</loc>
+    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</loc>
     <lastmod>2020-01-14T08:42:31+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -376,7 +376,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</loc>
+    <loc>https://ignite.no/blogg/tag/utfordringer-innkj%C3%B8p/</loc>
     <lastmod>2020-01-14T08:42:31+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -502,16 +502,16 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/spendanalyser/</loc>
+    <loc>https://ignite.no/blogg/innsikt/bygg-en-solid-innkj%C3%B8psstrategi-i-9-enkle-steg/</loc>
     <lastmod>2019-12-09T12:02:33+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   
   
   <url>
-    <loc>https://ignite.no/blogg/innsikt/bygg-en-solid-innkj%C3%B8psstrategi-i-9-enkle-steg/</loc>
+    <loc>https://ignite.no/blogg/tag/spendanalyser/</loc>
     <lastmod>2019-12-09T12:02:33+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   
@@ -664,23 +664,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/bundling/</loc>
-    <lastmod>2019-10-28T12:47:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/tag/forbedre-spesifikasjoner/</loc>
-    <lastmod>2019-10-28T12:47:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/foresp%C3%B8rselsprosess/</loc>
     <lastmod>2019-10-28T12:47:37+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -745,6 +729,22 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/virkemidler/</loc>
+    <lastmod>2019-10-28T12:47:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/bundling/</loc>
+    <lastmod>2019-10-28T12:47:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/foresp%C3%B8rselsprosess/</loc>
     <lastmod>2019-10-28T12:47:37+00:00</lastmod>
     <priority>0</priority>
   </url>
