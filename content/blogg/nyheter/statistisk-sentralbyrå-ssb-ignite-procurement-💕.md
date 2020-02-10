@@ -12,11 +12,11 @@ title = "Statistisk sentralbyrå (SSB) + Ignite Procurement = 💕"
 +++
 ![](/images/Statistisk-sentralbyrå-SSB.png)
 
-**Statistisk sentralbyrå (SSB) er en statlig virksomhet med ansvar for innsamling, bearbeiding og formidling av statistikk om det norske samfunnet.** 
+**Statistisk sentralbyrå (SSB) er en statlig virksomhet med ansvar for innsamling, bearbeiding og formidling av statistikk om det norske samfunnet.**
 
-SSB er en faglig uavhengig institusjon ansvarlig for å samle inn, produsere og publisere offisiell statistikk relatert til økonomi, befolkning og samfunn på nasjonalt, regionalt og lokalt nivå. Virksomheten har i tillegg en omfattende forsknings- og analysevirksomhet. 
+SSB er en faglig uavhengig institusjon ansvarlig for å samle inn, produsere og publisere offisiell statistikk relatert til økonomi, befolkning og samfunn på nasjonalt, regionalt og lokalt nivå. Virksomheten har i tillegg en omfattende forsknings- og analysevirksomhet.
 
-Virksomheten sørger for at innbyggerne i Norge kan debattere, planlegge og ta beslutninger på grunnlag av pålitelig statistisk informasjon. 
+Virksomheten sørger for at innbyggerne i Norge kan debattere, planlegge og ta beslutninger på grunnlag av pålitelig statistisk informasjon.
 
 SSB er administrativt underlagt Finansdepartementet, og har eget styre. Faglig uavhengighet innebærer at virksomheten selv bestemmer hva som skal publiseres, og når og hvordan dette skal skje.
 
