@@ -1,12 +1,11 @@
 +++
 author = "Ignite"
 categories = ["Nyheter"]
-date = 2020-02-10T11:52:49Z
-draft = true
+date = 2020-02-11T11:52:49Z
 image = "/images/Statistisk-sentralbyrå-SSB.png"
 ingress = "Vi er stolte over å meddele at Statistisk sentralbyrå har inngått en lisensavtale for bruken av vår digitale løsning for strategisk innkjøp."
 showmainimg = false
-tags = ["Statistisk sentralbyrå", "SSB", "lisensavtale", "Ignite Procurement", "Strategisk innkjøp", "Digital løsning"]
+tags = ["Statistisk sentralbyrå", "SSB", "Ignite Procurement", "Strategisk innkjøp", "Digital løsning"]
 title = "Statistisk sentralbyrå (SSB) + Ignite Procurement = 💕"
 
 +++
@@ -24,8 +23,10 @@ Direktør Geir Axelsen har det faglige ansvaret og står for den daglige styring
 
 Du kan lese mer om SSB på deres [hjemmeside](https://www.ssb.no/ "Statistisk sentralbyrå (SSB)").
 
+SSB har nylig inngått en 1-årsavtale for bruken av vår digitale løsning for strategisk innkjøp - og vi gleder oss til samarbeidet fremover.
+
 ***
 
-Få mer informasjon om funksjonaliteten som finnes i løsningen vår for strategisk innkjøp og hvordan løsningen kan hjelpe deg og din virksomhet!
+Få mer informasjon om funksjonaliteten som finnes og hvordan løsningen kan hjelpe deg og din virksomhet!
 
 [![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
