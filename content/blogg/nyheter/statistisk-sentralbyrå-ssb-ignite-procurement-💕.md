@@ -21,7 +21,7 @@ SSB er administrativt underlagt Finansdepartementet, og har eget styre. Faglig u
 
 Direktør Geir Axelsen har det faglige ansvaret og står for den daglige styringen av SSB, som har rundt 850 ansatte fordelt på kontorer i Oslo og Kongsvinger. I tillegg er rundt 175 intervjuere tilknyttet virksomheten.
 
-Du kan lese mer om SSB på deres [hjemmeside](https://www.ssb.no/ "Statistisk sentralbyrå (SSB)").
+Du kan lese mer om SSB på deres [hjemmeside](https://www.ssb.no/ "SSB - hjemmeside").
 
 SSB har nylig inngått en 1-årsavtale for bruken av vår digitale løsning for strategisk innkjøp - og vi gleder oss til samarbeidet fremover.
 
