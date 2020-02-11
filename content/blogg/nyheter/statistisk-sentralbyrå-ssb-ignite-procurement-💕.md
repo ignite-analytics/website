@@ -27,6 +27,6 @@ SSB har nylig inngått en 1-årsavtale for bruken av vår digitale løsning for 
 
 ***
 
-Få mer informasjon om funksjonaliteten som finnes og hvordan løsningen kan hjelpe deg og din virksomhet!
+Få mer informasjon om funksjonaliteten og hvordan løsningen kan hjelpe deg og din virksomhet!
 
 [![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
