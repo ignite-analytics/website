@@ -5,7 +5,7 @@ date = 2020-02-14T10:26:38Z
 image = "/images/Datainnsamling og harmonisering - 2.png"
 ingress = "Èn av utfordringene til innkjøpsfunksjonen er å konsolidere og harmonisere dataen som finnes for å jobbe mer faktabasert i innkjøpsarbeidet."
 showmainimg = false
-tags = ["Datainnsamling", "Datakonsolidering", "Datakvalitet", "Dataharmonisering"]
+tags = ["Datakonsolidering", "Datakvalitet", "Dataharmonisering", "Innkjøpsdata"]
 title = "Hvordan løse utfordringene knyttet til konsolidering og harmonisering av innkjøpsdata"
 
 +++
