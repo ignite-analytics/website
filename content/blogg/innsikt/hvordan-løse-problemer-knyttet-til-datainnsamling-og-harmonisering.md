@@ -58,6 +58,8 @@ I vår digitale løsning legger vi til rette for datacleaning og -validering, i 
 
 Mange virksomheter bruker i dag utfordringene rundt datakvalitet ofte som en unnskyldning for å ikke bruke dataen i det store og hele. Vår erfaring tilsier at det er bedre å bruke den informasjonen man har, enn å ikke bruke noe i det hele tatt!
 
+![Datakonsolidering, datakvalitet og dataharmonisering](/images/Ignite Procurement - Data management.png "Ignite Procurement - Data management")
+
 #### Dataharmonisering
 
 En annen vanlig utfordring er knyttet til harmonisering av dataen, det vil si å bruke datagrunnlaget for formål som er relevante for innkjøpsfunksjonen. Eksempel på dette kan være å klassifisere kjøpet til en [hensiktsmessig kategoristruktur](https://www.ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/). Hvordan kan du harmonisere dataen for å få den nødvendige innsikten du trenger?
