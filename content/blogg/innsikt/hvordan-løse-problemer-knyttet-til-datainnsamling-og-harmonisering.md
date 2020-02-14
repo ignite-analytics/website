@@ -29,12 +29,12 @@ I flere virksomheter kan det være flere [kilder for innkjøpsdata](https://www.
 * Fordeler: Mulighet til å samle informasjon fra flere datakilder i èn felles database.
 * Ulemper: Krever investeringer, kompetanse og ressurser for å bygge opp og vedlikeholde databasen.
 
-**3. Bruke SaaS plug-and-play løsning**
+**3. Bruke plug-and-play SaaS-løsning**
 
-Dette er noe vi legger til rette for i vår løsning for strategisk innkjøp, og som skaper stor verdi for kundene våre.
+Datakonsolidering er noe vi legger til rette for i vår løsning for strategisk innkjøp, og som skaper stor verdi for kundene våre.
 
 * Fordel: Samler all data i en skybasert løsning, som krever minimale investeringer i kapasitet og ressurser. Kan enkelt integreres direkte mot datakildene.
-* Ulemper: Krever god digital sikkerhet for beskyttelse av informasjonen.
+* Ulemper: Krever god digital sikkerhet for beskyttelse av dataen.
 
 #### Datakvalitet
 
@@ -47,10 +47,10 @@ Noen selskaper opplever utfordringer knyttet til datakvaliteten. Eksempler på d
 
 **2. Standardisering av policyer**
 
-* Fordeler: Sikrer standardisering i bruk og logging av data på tvers av virksomheten, for eksempel policy for bruk av riktig regnskapskonto
+* Fordeler: Sikrer standardisering i bruk og logging av data på tvers av virksomheten, for eksempel policy for bruk av riktig regnskapskonto.
 * Ulemper: Vil kreve en gjennomgang på flere områder, samt kapasitet rundt oppfølging internt.
 
-**3. Bruke SaaS plug-and-play løsning**
+**3. Bruke plug-and-play SaaS-løsning**
 
 I vår digitale løsning legger vi til rette for datacleaning og -validering, i tillegg til at brukerne enkelt kan redigere dataen.
 
@@ -67,15 +67,15 @@ En annen vanlig utfordring er knyttet til harmonisering av dataen. Det vil si å
 
 **1. Bruk av Excel**
 
-* Fordeler: De fleste har tilgang til Excel og kan bruke dette på et overordnet nivå
-* Ulemper: Tidkrevende å bygge og vedlikeholde, der klassifiseringer vil kreve komplekse formler og gir lite transparens over tid
+* Fordeler: De fleste har tilgang til Excel og kan bruke dette på et overordnet nivå.
+* Ulemper: Tidkrevende å bygge og vedlikeholde, der klassifiseringer vil kreve komplekse formler og gir lite transparens over tid.
 
 **2. Bygge klassifiseringsalgoritmer i ERP-løsning**
 
-* Fordeler: Sikrer at informasjon er lett tilgjengelig i ERP-systemet
-* Ulemper: Bistand fra IT-ekspertise internt og eksternt, og lite dynamisk løsning for eventuelle justeringer og endringer fremover
+* Fordeler: Sikrer at informasjon er lett tilgjengelig i ERP-systemet.
+* Ulemper: Bistand fra IT-ekspertise internt og eksternt, og lite dynamisk løsning for eventuelle justeringer og endringer fremover.
 
-**3. Bruke SaaS plug-and-play løsning**
+**3. Bruke plug-and-play SaaS-løsning**
 
 Vår digitale løsning for strategisk innkjøp tilrettelegger for klassifisering og standardisering av data, hvor brukerne eksempelvis har full fleksibilitet til å utarbeide egne kategoristrukturer.
 
