@@ -257,14 +257,6 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/strategisk-innkj%C3%B8p/</loc>
-    <lastmod>2020-02-11T11:52:49+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/tags/</loc>
     <lastmod>2020-02-11T11:52:49+00:00</lastmod>
     <priority>0</priority>
@@ -278,6 +270,14 @@
                 hreflang="no"
                 href="https://ignite.no/tags/"
                 />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/strategisk-innkj%C3%B8p/</loc>
+    <lastmod>2020-02-11T11:52:49+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   
@@ -391,7 +391,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</loc>
+    <loc>https://ignite.no/blogg/tag/utfordringer-innkj%C3%B8p/</loc>
     <lastmod>2020-01-14T08:42:31+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -399,7 +399,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/utfordringer-innkj%C3%B8p/</loc>
+    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pspotensial/</loc>
     <lastmod>2020-01-14T08:42:31+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -525,16 +525,16 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/innsikt/bygg-en-solid-innkj%C3%B8psstrategi-i-9-enkle-steg/</loc>
+    <loc>https://ignite.no/blogg/tag/spendanalyser/</loc>
     <lastmod>2019-12-09T12:02:33+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/spendanalyser/</loc>
+    <loc>https://ignite.no/blogg/innsikt/bygg-en-solid-innkj%C3%B8psstrategi-i-9-enkle-steg/</loc>
     <lastmod>2019-12-09T12:02:33+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   
@@ -687,7 +687,23 @@
   
   
   <url>
+    <loc>https://ignite.no/blogg/tag/bundling/</loc>
+    <lastmod>2019-10-28T12:47:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/blogg/tag/forbedre-spesifikasjoner/</loc>
+    <lastmod>2019-10-28T12:47:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/foresp%C3%B8rselsprosess/</loc>
     <lastmod>2019-10-28T12:47:37+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -735,6 +751,14 @@
   
   
   <url>
+    <loc>https://ignite.no/blogg/tag/reforhandling/</loc>
+    <lastmod>2019-10-28T12:47:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/blogg/tag/strategiske-partnere/</loc>
     <lastmod>2019-10-28T12:47:37+00:00</lastmod>
     <priority>0</priority>
@@ -744,30 +768,6 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/virkemidler/</loc>
-    <lastmod>2019-10-28T12:47:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/bundling/</loc>
-    <lastmod>2019-10-28T12:47:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/foresp%C3%B8rselsprosess/</loc>
-    <lastmod>2019-10-28T12:47:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/reforhandling/</loc>
     <lastmod>2019-10-28T12:47:37+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -924,14 +924,6 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/kompetanse/</loc>
-    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/innsikt/key-takeaways-fra-digital-procurement-world-2019/</loc>
     <lastmod>2019-09-30T07:24:26+00:00</lastmod>
   </url>
@@ -940,6 +932,14 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/teknologi/</loc>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/kompetanse/</loc>
     <lastmod>2019-09-30T07:24:26+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1200,6 +1200,14 @@
   
   
   <url>
+    <loc>https://ignite.no/blogg/tag/avtalestyring/</loc>
+    <lastmod>2019-08-07T12:03:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/blogg/tag/kontraktsoppf%C3%B8lging/</loc>
     <lastmod>2019-08-07T12:03:41+00:00</lastmod>
     <priority>0</priority>
@@ -1210,14 +1218,6 @@
   <url>
     <loc>https://ignite.no/blogg/innsikt/kontraktsoppf%C3%B8lging-er-kritisk-for-%C3%A5-realisere-gevinster/</loc>
     <lastmod>2019-08-07T12:03:41+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/avtalestyring/</loc>
-    <lastmod>2019-08-07T12:03:41+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   
