@@ -12,59 +12,64 @@ title = "Tre barrierer for hvordan jobbe mer datadrevet med innkjøp - en prakti
 +++
 _Forslag tittel:_
 
-Tre barrierer for hvordan jobbe mer datadrevet med innkjøp - en praktisk guide for hvordan få tilgang til den innsikten man trenger. 
+Tre barrierer for hvordan jobbe mer datadrevet med innkjøp - en praktisk guide for hvordan få tilgang til den innsikten man trenger.
 
-_Forslag ingress:_ 
+_Forslag ingress:_
 
 Det er krevende å samle inn og harmonisere data fra ulike kilder. Vi har laget en praktisk guide for hvordan du kan få tilgang til den innsikten du trenger.
 
-**Datainnsamling**
+#### Datainnsamling
 
-Datainnsamling er en av de ti vanligste utfordringene på innkjøpsområdet. Lite brukervennlige og statiske løsninger med et krevende teknisk brukergrensesnitt, uten muligheter til å forbedre datakvaliteten, resulterer i at brukerne ikke får tilgang til den innsikten de trenger. 
+* DSDS
+* DSDS
+
+> DSDSDSDS, sier Sig
+
+Datainnsamling er en av de ti vanligste utfordringene på innkjøpsområdet. Lite brukervennlige og statiske løsninger med et krevende teknisk brukergrensesnitt, uten muligheter til å forbedre datakvaliteten, resulterer i at brukerne ikke får tilgang til den innsikten de trenger.
 
 _Les mer om andre utfordringer på innkjøpsområdet: (lenke til artikkel: 10 vanlige utfordringer på innkjøpsområdet,_ [https://www.ignite.no/blogg/innsikt/10-vanlige-utfordringer-på-innkjøpsområdet/]()
 
 1. **Datakonsolidering:**
 
-   Datakonsolidering er en barriere for å jobbe mer faktabasert når det gjelder datainnsamling. Datakonsolidering gjør det enklere for redigering og visning av informasjon, da dataen fra ulike systemer og kilder kan sees i samlet form. silotankegang. 
+   Datakonsolidering er en barriere for å jobbe mer faktabasert når det gjelder datainnsamling. Datakonsolidering gjør det enklere for redigering og visning av informasjon, da dataen fra ulike systemer og kilder kan sees i samlet form. silotankegang.
 
-   Data i ulike systemer og kilder. Silotankegang. Barriere for å jobbe faktabasert. 
+   Data i ulike systemer og kilder. Silotankegang. Barriere for å jobbe faktabasert.
 
 Tre alternativer for datakonsolidering er:
 
 _1) Samle alt i et ERP-system_
 
-Ved å gjøre dette, unngår man bruk av omfattende ressurser på systemer som ikke snakker sammen. 
+Ved å gjøre dette, unngår man bruk av omfattende ressurser på systemer som ikke snakker sammen.
 
- _2) Bygge datavarehus_ 
+_2) Bygge datavarehus_
 
-Noen fordeler med å strukturere dataene i et datavarehus er at data fra flere kilder samkjøres, du får bedre datakvalitet og bedre struktur. 
+Noen fordeler med å strukturere dataene i et datavarehus er at data fra flere kilder samkjøres, du får bedre datakvalitet og bedre struktur.
 
- _3) SaaS plug and play_ (Ignite + eksempel med Norlandia) 
+_3) SaaS plug and play_ (Ignite + eksempel med Norlandia)
 
-SaaS plug and play gjør det mulig å samle all dataen i en skybasert løsning. 
+SaaS plug and play gjør det mulig å samle all dataen i en skybasert løsning.
 
-2. **Datakvalitet og berikelse:** 
+1. **Datakvalitet og berikelse:**
 
-Datakvalitet: Detaljerte data gir større muligheter for bedre innsikt til å ta gode, faktabaserte beslutninger. 
+Datakvalitet: Detaljerte data gir større muligheter for bedre innsikt til å ta gode, faktabaserte beslutninger.
 
-Leverandører med ulike navn. Informasjon fra laverandørregisteret kan hjelpe deg med å få "samlet" kjøpet hos en reell leverandør. 
+Leverandører med ulike navn. Informasjon fra laverandørregisteret kan hjelpe deg med å få "samlet" kjøpet hos en reell leverandør.
 
-"bruke den dataen man har er bedre å ikke bruke den i det hele tatt". 
+"bruke den dataen man har er bedre å ikke bruke den i det hele tatt".
 
-Berikelse: berike det interne med eksterne informasjonskilder. 
+Berikelse: berike det interne med eksterne informasjonskilder.
 
 Typiske kilder for innkjøpsdata: Andre informasjonskilder, valuta, finansiell informasjon, ebevis, knytte spend mot kontraktsinformasjon.
 
-Datakildene, og detaljgraden i dataen, vil variere fra virksomhet til virksomhet. En mulighet er å kombinere to eller flere kilder for å få mest mulig ut av dataen sin.  
+Datakildene, og detaljgraden i dataen, vil variere fra virksomhet til virksomhet. En mulighet er å kombinere to eller flere kilder for å få mest mulig ut av dataen sin.
 
 [https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-å-ta-bedre-beslutninger/](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-å-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger")
 
-3. **Dataharmonisering:** 
+1. **Dataharmonisering:**
 
-_Klassifisere og standardisere dataen:_ En hensiktsmessig kategoristruktur gjør det mulig å knytte innkjøp opp mot produkter og/eller tjenester, som vil gi informasjon om innkjøpet og leverandørmarkedet. Kategorisering kan dermed være grunnlaget for en faktabasert tilnærming til innkjøp. 
+_Klassifisere og standardisere dataen:_ En hensiktsmessig kategoristruktur gjør det mulig å knytte innkjøp opp mot produkter og/eller tjenester, som vil gi informasjon om innkjøpet og leverandørmarkedet. Kategorisering kan dermed være grunnlaget for en faktabasert tilnærming til innkjøp.
 
-Et eksempel på dette er å bygge en kategoristruktur og knytte data opp mot ulike organisasjonsstrukturer for å få innsikt i innkjøpet og leverandørmarkedet i de ulike kategoriene. 
+Et eksempel på dette er å bygge en kategoristruktur og knytte data opp mot ulike organisasjonsstrukturer for å få innsikt i innkjøpet og leverandørmarkedet i de ulike kategoriene.
 
 Klassifsere og standardisere dataen, ref klassifisering og kategorisering. Eksempel: Bygge en kategoristruktur, knytte data mot org.struktur ++
 
