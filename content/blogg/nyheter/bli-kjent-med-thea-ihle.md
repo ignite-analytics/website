@@ -38,6 +38,8 @@ Positiv, engasjert, strukturert.
 
 **Si en funfact om deg selv**
 
+Jeg elsker taco. 
+
 ***
 
 _Kort info om Thea:_
