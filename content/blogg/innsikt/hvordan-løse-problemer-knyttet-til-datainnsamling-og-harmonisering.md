@@ -79,8 +79,8 @@ En annen vanlig utfordring er knyttet til harmonisering av dataen. Det vil si å
 
 Vår digitale løsning for strategisk innkjøp tilrettelegger for klassifisering og standardisering av data, hvor brukerne eksempelvis har full fleksibilitet til å utarbeide egne kategoristrukturer.
 
-* Fordeler: Data kan klassifiseres basert på èn eller flere dataparametere, i mange tilfeller ved hjelp av «drag and drop»-funksjonalitet og AI/ML. Klassifiseringsregler sørger for automatisk standardisering, som samtidig er lett å tilpasse ved behov
-* Ulemper: Vil typisk kreve en mindre tidsinvestering for å bygge gode klassifiseringsstrukturer
+* Fordeler: Data kan klassifiseres basert på èn eller flere dataparametere, i mange tilfeller ved hjelp av enkel «drag and drop»-funksjonalitet og AI/ML. Klassifiseringsregler sørger for automatisk harmonisering, som samtidig er lett å tilpasse ved behov.
+* Ulemper: Vil typisk kreve en mindre tidsinvestering for å bygge gode klassifiseringsstrukturer.
 
 ***
 
