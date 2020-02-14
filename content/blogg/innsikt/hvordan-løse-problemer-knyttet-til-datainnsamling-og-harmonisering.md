@@ -15,9 +15,9 @@ Innkjøpfunksjonen møter flere [utfordringer i innkjøpsarbeidet](https://www.i
 
 #### Datakonsolidering
 
-I flere virksomheter kan det være mange nyttige [kilder for innkjøpsdata](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger"). Relevant data kan ligge spredt mellom ulike systemer og systemløsninger. Ett eksempel på dette er bruk av ulike ERP-løsninger på tvers av en konsernstruktur. Dette blir ofte en barriere for å i det hele tatt ta i bruk den dataen man har.
+I flere virksomheter kan det være flere [kilder for innkjøpsdata](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger"), men relevant data kan ligge spredt mellom ulike systemer og systemløsninger. Ett eksempel på dette er bruk av ulike ERP-løsninger på tvers av en konsernstruktur. Dette blir ofte en barriere for å i det hele tatt ta i bruk den dataen man har.
 
-Å ha tilgang til konsolidert data, er likevel helt nødvendig for å få nødvendig innsikt i kjøpet – og totaliteten. Hvilke alternativer bør du vurdere for å konsolidere denne informasjonen?
+Å ha tilgang til konsolidert data, er likevel helt nødvendig for å få nødvendig innsikt i totaliteten av kjøpet. Hvilke alternativer bør du vurdere for å konsolidere denne informasjonen?
 
 **1. Investere i felles ERP-løsning**
 
