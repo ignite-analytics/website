@@ -3,14 +3,14 @@ author = "Ignite"
 categories = ["Innsikt"]
 date = 2020-02-14T10:26:38Z
 draft = true
-image = ""
+image = "/images/DATAINNSAMLING.png"
 ingress = "Èn av utfordringene til innkjøpsfunksjonen er å få tilgang til dataen som allerede finnes, for å jobbe mer faktabasert med innkjøpsarbeidet."
 showmainimg = false
 tags = ["Datainnsamling", "Datakonsolidering", "Datakvalitet", "Dataharmonisering"]
 title = "Hvordan løse problemer knyttet til datainnsamling og -harmonisering"
 
 +++
-Innkjøpfunksjonen møter flere [utfordringer i innkjøpsarbeidet](https://www.ignite.no/blogg/innsikt/10-vanlige-utfordringer-p%C3%A5-innkj%C3%B8psomr%C3%A5det/). Èn av de største flaskehalsene for å jobbe mer faktabasert med innkjøp er knyttet til selve datainnsamlingen og -harmoniseringen. I dette innlegget gir vi deg noen praktiske tips til hvordan du kan løse disse problemene.
+Innkjøpfunksjonen møter flere [utfordringer i innkjøpsarbeidet](https://www.ignite.no/blogg/innsikt/10-vanlige-utfordringer-p%C3%A5-innkj%C3%B8psomr%C3%A5det/). Èn av de største flaskehalsene for å jobbe mer faktabasert med innkjøp, er knyttet til selve datainnsamlingen og -harmoniseringen. I dette innlegget gir vi deg noen praktiske tips til hvordan du kan løse disse problemene.
 
 #### Datakonsolidering
 
@@ -66,20 +66,20 @@ En annen vanlig utfordring er knyttet til harmonisering av dataen. Det vil si å
 
 **1. Bruk av Excel**
 
-* Fordeler: De fleste har tilgang til Excel og kan bruke dette på et overordnet nivå.
-* Ulemper: Tidkrevende å bygge og vedlikeholde, der klassifiseringer vil kreve komplekse formler og gir lite transparens over tid.
+* Fordeler: De fleste har tilgang til Excel og kan bruke dette på et overordnet nivå
+* Ulemper: Tidkrevende å bygge og vedlikeholde, der klassifiseringer vil kreve komplekse formler og gir lite transparens over tid
 
 **2. Bygge klassifiseringsalgoritmer i ERP-løsning**
 
 * Fordeler: Sikrer at informasjon er lett tilgjengelig i ERP-systemet
-* Ulemper: Bistand fra IT-ekspertise internt og eksternt, og lite dynamisk løsning for eventuelle justeringer og endringer fremover.
+* Ulemper: Bistand fra IT-ekspertise internt og eksternt, og lite dynamisk løsning for eventuelle justeringer og endringer fremover
 
 **3. Bruke SaaS plug-and-play løsning**
 
 Vår digitale løsning for strategisk innkjøp tilrettelegger for klassifisering og standardisering av data, hvor brukerne eksempelvis har full fleksibilitet til å utarbeide egne kategoristrukturer.
 
-* Fordeler: Data kan klassifiseres basert på èn eller flere dataparametere, i mange tilfeller ved hjelp av «drag and drop»-funksjonalitet og AI/ML. Klassifiseringsregler sørger for automatisk standardisering, som samtidig er lett å tilpasse ved behov.
-* Ulemper: Vil typisk kreve en mindre tidsinvestering for å bygge gode klassifiseringsstrukturer.
+* Fordeler: Data kan klassifiseres basert på èn eller flere dataparametere, i mange tilfeller ved hjelp av «drag and drop»-funksjonalitet og AI/ML. Klassifiseringsregler sørger for automatisk standardisering, som samtidig er lett å tilpasse ved behov
+* Ulemper: Vil typisk kreve en mindre tidsinvestering for å bygge gode klassifiseringsstrukturer
 
 ***
 
