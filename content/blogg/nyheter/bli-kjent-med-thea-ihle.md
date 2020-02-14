@@ -6,13 +6,13 @@ draft = true
 image = "/images/Skjermbilde 2020-02-07 kl. 13.55.12.png"
 ingress = "Vi ønsker velkommen til vårt nyeste tilskudd i teamet, Thea Ihle. Bli bedre kjent med henne og hennes rolle i Ignite Procurement."
 showmainimg = false
-tags = ["Team ", "Ignite  ", "Ansatte ", "News ", "Nyheter "]
+tags = ["Team ", "Ignite  ", "Ansatte ", "News ", "Nyheter ", "Thea "]
 title = "Bli kjent med vårt nyeste tilskudd, Thea Ihle"
 
 +++
 Thea er en del av markedsføringsteamet, og vil bistå med digital markedsføring for Ignite Procurement.
 
-> _"Jeg liker at Ignite Procurement er et startup- selskap, så å være en del av reisen fremover, blir utrolig spennende"_
+> Det jeg liker best med Ignite Procurement er at det er et startup- selskap, så å være en del av reisen fremover, blir utrolig spennende
 
 ![](/images/Skjermbilde 2020-02-07 kl. 13.55.12.png)
 
@@ -30,7 +30,7 @@ Ignite Procurement er et interessant og spennende selskap å jobbe i. De tilbyr 
 
 **Hva liker du best med Ignite?**
 
-Jeg ser på Ignite Procurement er et startup- selskap, så å være en del av reisen fremover, blir utrolig spennende. I tillegg er er jeg en del av et ungt og uredd arbeidsmiljø med høye ambisjoner som er svært inspirerende å jobbe rundt.
+Det jeg liker best med Ignite Procurement er at det er et startup- selskap, så å være en del av reisen fremover, blir utrolig spennende. I tillegg er jeg en del av et ungt og uredd arbeidsmiljø med høye ambisjoner som er svært inspirerende å jobbe rundt.
 
 **Tre ord som beskriver deg?**
 
