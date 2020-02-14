@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Ansatte</title>
+      <title>Ansatte </title>
       <link>https://ignite.no/blogg/tag/ansatte/</link>
       <pubDate>Fri, 14 Feb 2020 15:25:15 +0000</pubDate>
       
@@ -543,6 +543,15 @@
     </item>
     
     <item>
+      <title>Strategiske partnere</title>
+      <link>https://ignite.no/blogg/tag/strategiske-partnere/</link>
+      <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/strategiske-partnere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Virkemidler</title>
       <link>https://ignite.no/blogg/tag/virkemidler/</link>
       <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
@@ -579,29 +588,11 @@
     </item>
     
     <item>
-      <title>strategiske partnere</title>
-      <link>https://ignite.no/blogg/tag/strategiske-partnere/</link>
-      <pubDate>Mon, 28 Oct 2019 12:47:37 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/strategiske-partnere/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gumpen Gruppen</title>
       <link>https://ignite.no/blogg/tag/gumpen-gruppen/</link>
       <pubDate>Wed, 23 Oct 2019 07:17:53 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/gumpen-gruppen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Innkjøpskategori</title>
-      <link>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</link>
-      <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</guid>
       <description></description>
     </item>
     
@@ -615,7 +606,16 @@
     </item>
     
     <item>
-      <title>Kategoristruktur</title>
+      <title>innkjøpskategori</title>
+      <link>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</link>
+      <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kategoristruktur</title>
       <link>https://ignite.no/blogg/tag/kategoristruktur/</link>
       <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
       
