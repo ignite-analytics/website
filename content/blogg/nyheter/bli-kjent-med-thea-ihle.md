@@ -9,9 +9,9 @@ tags = ["Team ", "Ignite  ", "Ansatte ", "News ", "Nyheter ", "Thea "]
 title = "Bli kjent med vårt nyeste tilskudd, Thea Ihle"
 
 +++
-Thea er en del av markedsføringsteamet, og vil bistå med digital markedsføring for Ignite Procurement.
+Thea er en del av Marketing-teamet, og vil bistå med digital markedsføring for Ignite Procurement.
 
-> Det jeg liker best med Ignite Procurement er at det er et startup- selskap, så å være en del av reisen fremover, blir utrolig spennende
+> Det jeg liker best med Ignite Procurement er at det er et startup-selskap. Å få være en del av denne reisen fremover, blir utrolig spennende.
 
 ![](/images/Skjermbilde 2020-02-07 kl. 13.55.12.png)
 
