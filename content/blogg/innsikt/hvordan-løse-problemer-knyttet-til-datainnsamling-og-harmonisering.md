@@ -21,20 +21,20 @@ I flere virksomheter kan det være flere [kilder for innkjøpsdata](https://www.
 
 **1. Investere i felles ERP-løsning**
 
-* Fordeler: All data er tilgjengelig i et felles system, og i samme format, på tvers av virksomhetene
-* Ulemper: Krever store investeringer i både interne og eksterne ressurser, og vil typisk være et tidsomfattende prosjekt
+* Fordeler: All data er tilgjengelig i et felles system, og i samme format, på tvers av virksomhetene.
+* Ulemper: Krever store investeringer i både interne og eksterne ressurser, og vil typisk være et omfattende prosjekt.
 
 **2. Bygge datavarehus**
 
-* Fordeler: Mulighet til å samle informasjon fra flere datakilder i èn felles database
-* Ulemper: Krever investeringer og ressurser for å bygge opp og vedlikeholde databasen
+* Fordeler: Mulighet til å samle informasjon fra flere datakilder i èn felles database.
+* Ulemper: Krever investeringer, kompetanse og ressurser for å bygge opp og vedlikeholde databasen.
 
 **3. Bruke SaaS plug-and-play løsning**
 
 Dette er noe vi legger til rette for i vår løsning for strategisk innkjøp, og som skaper stor verdi for kundene våre.
 
-* Fordel: Samler all data i en skybasert løsning, som krever minimale investeringer i kapasitet og ressurser. Kan enkelt integreres direkte mot datakildene
-* Ulemper: Krever god sikkerhet for beskyttelse av data
+* Fordel: Samler all data i en skybasert løsning, som krever minimale investeringer i kapasitet og ressurser. Kan enkelt integreres direkte mot datakildene.
+* Ulemper: Krever god sikkerhet for beskyttelse av data.
 
 #### Datakvalitet
 
