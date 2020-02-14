@@ -52,10 +52,10 @@ Noen selskaper opplever utfordringer knyttet til datakvaliteten. Eksempler på d
 
 **3. Bruke plug-and-play SaaS-løsning**
 
-I vår digitale løsning legger vi til rette for datacleaning og -validering, i tillegg til at brukerne enkelt kan redigere dataen.
+Vår skybaserte løsning gjør automatisk datacleaning og -validering, i tillegg til at brukerne enkelt kan redigere dataen.
 
 * Fordeler: Automatiske og manuelle kvalitetsforbedringer i enkle brukergrensesnitt. Eventuelle justeringer blir husket for ny data fremover.
-* Ulemper: For manuelle justeringer vil det kreve en minimal engangsinvestering.
+* Ulemper: Manuelle justeringer vil kreve en mindre engangsinvestering.
 
 Mange virksomheter bruker i dag utfordringene rundt datakvalitet som en unnskyldning for å ikke bruke dataen i det store og hele. Vår erfaring tilsier at det er bedre å bruke den informasjonen man har, enn å ikke bruke noe i det hele tatt!
 
