@@ -38,7 +38,7 @@ Dette er noe vi legger til rette for i vår løsning for strategisk innkjøp, og
 
 #### Datakvalitet
 
-Noen selskaper opplever utfordringer knyttet til datakvaliteten. Eksempler på dette kan være små forskjeller i rådataen for leverandørnavn eller manglende standardisering ved kontering i regnskapet (bruk av regnskapskontoer). Hva kan din virksomhet gjøre for å forbedre datakvaliteten?
+Noen selskaper opplever utfordringer knyttet til datakvaliteten. Eksempler på dette kan være små forskjeller i rådataen for leverandørnavn eller manglende standardisering for kontering i regnskapet (bruk av regnskapskontoer). Hva kan din virksomhet gjøre for å forbedre datakvaliteten?
 
 **1. Master data management**
 
