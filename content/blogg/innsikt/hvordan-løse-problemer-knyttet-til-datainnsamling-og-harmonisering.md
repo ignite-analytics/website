@@ -34,7 +34,7 @@ I flere virksomheter kan det være flere [kilder for innkjøpsdata](https://www.
 Dette er noe vi legger til rette for i vår løsning for strategisk innkjøp, og som skaper stor verdi for kundene våre.
 
 * Fordel: Samler all data i en skybasert løsning, som krever minimale investeringer i kapasitet og ressurser. Kan enkelt integreres direkte mot datakildene.
-* Ulemper: Krever god sikkerhet for beskyttelse av data.
+* Ulemper: Krever god digital sikkerhet for beskyttelse av informasjonen.
 
 #### Datakvalitet
 
@@ -42,8 +42,8 @@ Noen selskaper opplever utfordringer knyttet til datakvaliteten. Eksempler på d
 
 **1. Master data management**
 
-* Fordeler: Sikrer at rådataen blir oppdatert og kvalitetssikret med jevne mellomrom
-* Ulemper: Krever ofte èn eller flere dedikerte ressurser for å vedlikeholde, og vil aldri være løpende oppdatert
+* Fordeler: Sikrer at rådataen blir oppdatert og kvalitetssikret med jevne mellomrom.
+* Ulemper: Krever ofte èn eller flere dedikerte ressurser for å vedlikeholde, og vil aldri være løpende oppdatert.
 
 **2. Standardisering av policyer**
 
