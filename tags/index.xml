@@ -6,46 +6,10 @@
     <description>Recent content in Tags on Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 14 Feb 2020 10:26:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2020 11:52:49 +0000</lastBuildDate>
     
 	<atom:link href="https://ignite.no/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Dataharmonisering</title>
-      <link>https://ignite.no/blogg/tag/dataharmonisering/</link>
-      <pubDate>Fri, 14 Feb 2020 10:26:38 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/dataharmonisering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Datainnsamling</title>
-      <link>https://ignite.no/blogg/tag/datainnsamling/</link>
-      <pubDate>Fri, 14 Feb 2020 10:26:38 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/datainnsamling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Datakonsolidering</title>
-      <link>https://ignite.no/blogg/tag/datakonsolidering/</link>
-      <pubDate>Fri, 14 Feb 2020 10:26:38 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/datakonsolidering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Datakvalitet</title>
-      <link>https://ignite.no/blogg/tag/datakvalitet/</link>
-      <pubDate>Fri, 14 Feb 2020 10:26:38 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/datakvalitet/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Digital løsning</title>
@@ -372,7 +336,7 @@
     </item>
     
     <item>
-      <title>innkjøpsfunksjon</title>
+      <title>Innkjøpsfunksjon</title>
       <link>https://ignite.no/blogg/tag/innkj%C3%B8psfunksjon/</link>
       <pubDate>Mon, 11 Nov 2019 15:34:13 +0000</pubDate>
       
@@ -552,6 +516,15 @@
     </item>
     
     <item>
+      <title>Innkjøpskategori</title>
+      <link>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</link>
+      <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kategorisering</title>
       <link>https://ignite.no/blogg/tag/kategorisering/</link>
       <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
@@ -561,16 +534,7 @@
     </item>
     
     <item>
-      <title>innkjøpskategori</title>
-      <link>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</link>
-      <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kategoristruktur</title>
+      <title>Kategoristruktur</title>
       <link>https://ignite.no/blogg/tag/kategoristruktur/</link>
       <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
       
@@ -687,6 +651,15 @@
     </item>
     
     <item>
+      <title>Kompetanse</title>
+      <link>https://ignite.no/blogg/tag/kompetanse/</link>
+      <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/kompetanse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Teknologi</title>
       <link>https://ignite.no/blogg/tag/teknologi/</link>
       <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
@@ -696,16 +669,7 @@
     </item>
     
     <item>
-      <title>kompetanse</title>
-      <link>https://ignite.no/blogg/tag/kompetanse/</link>
-      <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/kompetanse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Platform Engineers</title>
+      <title>Platform engineers</title>
       <link>https://ignite.no/blogg/tag/platform-engineers/</link>
       <pubDate>Mon, 23 Sep 2019 11:40:08 +0000</pubDate>
       
