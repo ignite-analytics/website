@@ -2,18 +2,20 @@
 author = "Ignite"
 categories = ["Innsikt"]
 date = 2020-02-14T10:26:38Z
-image = "/images/DATAINNSAMLING.png"
+image = "/images/Datainnsamling og harmonisering.png"
 ingress = "Èn av utfordringene til innkjøpsfunksjonen er å få tilgang til dataen som allerede finnes, for å jobbe mer faktabasert med innkjøpsarbeidet."
 showmainimg = false
 tags = ["Datainnsamling", "Datakonsolidering", "Datakvalitet", "Dataharmonisering"]
 title = "Hvordan løse problemer knyttet til datainnsamling og -harmonisering"
 
 +++
-Innkjøpfunksjonen møter flere [utfordringer i innkjøpsarbeidet](https://www.ignite.no/blogg/innsikt/10-vanlige-utfordringer-p%C3%A5-innkj%C3%B8psomr%C3%A5det/). Èn av de største flaskehalsene for å jobbe mer faktabasert med innkjøp, er knyttet til selve datainnsamlingen og -harmoniseringen. I dette innlegget gir vi deg noen praktiske tips til hvordan du kan løse disse problemene.
+Innkjøpfunksjonen møter flere [utfordringer i innkjøpsarbeidet](https://www.ignite.no/blogg/innsikt/10-vanlige-utfordringer-p%C3%A5-innkj%C3%B8psomr%C3%A5det/ "10 vanlige utfordringer på innkjøpsområdet - og hvordan løse disse"). Èn av de største flaskehalsene for å jobbe mer faktabasert med innkjøp, er knyttet til selve datainnsamlingen og -harmoniseringen. I dette innlegget gir vi deg noen praktiske tips til hvordan du kan løse disse problemene.
+
+![Hvordan løse problemer knyttet til datadrevet innkjøp](/images/Datainnsamling og harmonisering.png "Datakonsolidering, datakvalitet og dataharmonisering")
 
 #### Datakonsolidering
 
-I flere virksomheter kan det være mange nyttige [kilder for innkjøpsdata](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/). Relevant data kan ligge spredt mellom ulike systemer og systemløsninger. Ett eksempel på dette er bruk av ulike ERP-løsninger på tvers av en konsernstruktur. Dette blir ofte en barriere for å i det hele tatt ta i bruk den dataen man har.
+I flere virksomheter kan det være mange nyttige [kilder for innkjøpsdata](https://www.ignite.no/blogg/innsikt/bruk-dataen-din-til-%C3%A5-ta-bedre-beslutninger/ "Bruk dataen din til å ta gode, faktabaserte beslutninger"). Relevant data kan ligge spredt mellom ulike systemer og systemløsninger. Ett eksempel på dette er bruk av ulike ERP-løsninger på tvers av en konsernstruktur. Dette blir ofte en barriere for å i det hele tatt ta i bruk den dataen man har.
 
 Å ha tilgang til konsolidert data, er likevel helt nødvendig for å få nødvendig innsikt i kjøpet – og totaliteten. Hvilke alternativer bør du vurdere for å konsolidere denne informasjonen?
 
@@ -61,7 +63,7 @@ Mange virksomheter bruker i dag utfordringene rundt datakvalitet som en unnskyld
 
 #### Dataharmonisering
 
-En annen vanlig utfordring er knyttet til harmonisering av dataen. Det vil si å bruke datagrunnlaget for formål som er relevante for innkjøpsfunksjonen. Eksempel på dette kan være å klassifisere kjøpet til en [hensiktsmessig kategoristruktur](https://www.ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/). Hvordan kan du harmonisere dataen for å få den nødvendige innsikten du trenger?
+En annen vanlig utfordring er knyttet til harmonisering av dataen. Det vil si å bruke datagrunnlaget for formål som er relevante for innkjøpsfunksjonen. Eksempel på dette kan være å klassifisere kjøpet til en [hensiktsmessig kategoristruktur](https://www.ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/ "Kategoristruktur og kategorisering - fem praktiske tips"). Hvordan kan du harmonisere dataen for å få den nødvendige innsikten du trenger?
 
 **1. Bruk av Excel**
 
