@@ -72,9 +72,15 @@ En annen vanlig utfordring er knyttet til harmonisering av dataen, det vil si å
 * Fordeler: Sikrer at informasjon er lett tilgjengelig i ERP-systemet
 * Ulemper: Bistand fra IT-ekspertise internt og eksternt, og lite dynamisk løsning for eventuelle justeringer og endringer fremover.
 
-**2. Bruke SaaS plug-and-play løsning**
+**3. Bruke SaaS plug-and-play løsning**
 
 Vår digitale løsning for strategisk innkjøp tilrettelegger for klassifisering og standardisering av data, hvor brukerne eksempelvis har full fleksibilitet til å utarbeide egne kategoristrukturer.
 
 * Fordeler: Data kan klassifiseres basert på èn eller flere dataparametere, i mange tilfeller ved hjelp av «drag and drop»-funksjonalitet og AI/ML. Klassifiseringsregler sørger for automatisk standardisering, som samtidig er lett å tilpasse ved behov.
 * Ulemper: Vil typisk kreve en mindre tidsinvestering for å bygge gode klassifiseringsstrukturer.
+
+***
+
+Vår løsning for strategisk innkjøp hjelper deg med dine utfordringer knyttet til datakonsolidering, -kvalitet og -harmonisering. Oppdag kraften i strategisk innkjøp gjort digitalt!
+
+[![](https://www.ignite.no/images/Pr%C3%B8v%20Ignite%20Analytics%20-%201200%20x100.png)](https://www.ignite.no/ignite-analytics/demo/ "Prøv Ignite Analytics")
