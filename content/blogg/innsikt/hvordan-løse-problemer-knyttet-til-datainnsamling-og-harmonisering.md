@@ -2,7 +2,6 @@
 author = "Ignite"
 categories = ["Innsikt"]
 date = 2020-02-14T10:26:38Z
-draft = true
 image = "/images/DATAINNSAMLING.png"
 ingress = "Èn av utfordringene til innkjøpsfunksjonen er å få tilgang til dataen som allerede finnes, for å jobbe mer faktabasert med innkjøpsarbeidet."
 showmainimg = false
