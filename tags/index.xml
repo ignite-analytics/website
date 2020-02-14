@@ -21,47 +21,11 @@
     </item>
     
     <item>
-      <title>Ignite  </title>
-      <link>https://ignite.no/blogg/tag/ignite/</link>
+      <title>Thea Ihle</title>
+      <link>https://ignite.no/blogg/tag/thea-ihle/</link>
       <pubDate>Fri, 14 Feb 2020 15:25:15 +0000</pubDate>
       
-      <guid>https://ignite.no/blogg/tag/ignite/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News </title>
-      <link>https://ignite.no/blogg/tag/news/</link>
-      <pubDate>Fri, 14 Feb 2020 15:25:15 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nyheter </title>
-      <link>https://ignite.no/blogg/tag/nyheter/</link>
-      <pubDate>Fri, 14 Feb 2020 15:25:15 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/nyheter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Team</title>
-      <link>https://ignite.no/blogg/tag/team/</link>
-      <pubDate>Fri, 14 Feb 2020 15:25:15 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/team/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thea </title>
-      <link>https://ignite.no/blogg/tag/thea/</link>
-      <pubDate>Fri, 14 Feb 2020 15:25:15 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/thea/</guid>
+      <guid>https://ignite.no/blogg/tag/thea-ihle/</guid>
       <description></description>
     </item>
     
@@ -588,6 +552,15 @@
     </item>
     
     <item>
+      <title>Innkjøpskategori</title>
+      <link>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</link>
+      <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kategorisering</title>
       <link>https://ignite.no/blogg/tag/kategorisering/</link>
       <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
@@ -597,16 +570,7 @@
     </item>
     
     <item>
-      <title>innkjøpskategori</title>
-      <link>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</link>
-      <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kategoristruktur</title>
+      <title>Kategoristruktur</title>
       <link>https://ignite.no/blogg/tag/kategoristruktur/</link>
       <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
       
@@ -723,20 +687,20 @@
     </item>
     
     <item>
+      <title>Kompetanse</title>
+      <link>https://ignite.no/blogg/tag/kompetanse/</link>
+      <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/kompetanse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Teknologi</title>
       <link>https://ignite.no/blogg/tag/teknologi/</link>
       <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/teknologi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kompetanse</title>
-      <link>https://ignite.no/blogg/tag/kompetanse/</link>
-      <pubDate>Mon, 30 Sep 2019 07:24:26 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/kompetanse/</guid>
       <description></description>
     </item>
     
@@ -1466,6 +1430,15 @@
       <pubDate>Mon, 27 Aug 2018 13:59:41 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/modul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://ignite.no/blogg/tag/team/</link>
+      <pubDate>Mon, 27 Aug 2018 13:59:41 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/team/</guid>
       <description></description>
     </item>
     
