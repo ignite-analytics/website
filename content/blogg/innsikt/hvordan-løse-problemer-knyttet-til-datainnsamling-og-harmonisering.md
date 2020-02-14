@@ -2,16 +2,16 @@
 author = "Ignite"
 categories = ["Innsikt"]
 date = 2020-02-14T10:26:38Z
-image = "/images/Datainnsamling og harmonisering.png"
-ingress = "Èn av utfordringene til innkjøpsfunksjonen er å få tilgang til dataen som allerede finnes, for å jobbe mer faktabasert med innkjøpsarbeidet."
+image = "/images/Datainnsamling og harmonisering - 2.png"
+ingress = "Èn av utfordringene til innkjøpsfunksjonen er å konsolidere og harmonisere dataen som finnes for å jobbe mer faktabasert i innkjøpsarbeidet."
 showmainimg = false
 tags = ["Datainnsamling", "Datakonsolidering", "Datakvalitet", "Dataharmonisering"]
-title = "Hvordan løse problemer knyttet til datainnsamling og -harmonisering"
+title = "Hvordan løse utfordringene knyttet til konsolidering og harmonisering av innkjøpsdata"
 
 +++
 Innkjøpfunksjonen møter flere [utfordringer i innkjøpsarbeidet](https://www.ignite.no/blogg/innsikt/10-vanlige-utfordringer-p%C3%A5-innkj%C3%B8psomr%C3%A5det/ "10 vanlige utfordringer på innkjøpsområdet - og hvordan løse disse"). Èn av de største flaskehalsene for å jobbe mer faktabasert med innkjøp, er knyttet til selve datainnsamlingen og -harmoniseringen. I dette innlegget gir vi deg noen praktiske tips til hvordan du kan løse disse problemene.
 
-![Hvordan løse problemer knyttet til datadrevet innkjøp](/images/Datainnsamling og harmonisering.png "Datakonsolidering, datakvalitet og dataharmonisering")
+![Tre barrierer for å jobbe mer datadrevet med innkjøp](/images/Datainnsamling og harmonisering - 2.png "Datakonsolidering, datakvalitet og dataharmonisering")
 
 #### Datakonsolidering
 
