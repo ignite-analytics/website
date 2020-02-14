@@ -57,7 +57,7 @@ Vår skybaserte løsning gjør automatisk datacleaning og -validering, i tillegg
 * Fordeler: Automatiske og manuelle kvalitetsforbedringer i enkle brukergrensesnitt. Eventuelle justeringer blir husket for ny data fremover.
 * Ulemper: Manuelle justeringer vil kreve en mindre engangsinvestering.
 
-Mange virksomheter bruker i dag utfordringene rundt datakvalitet som en unnskyldning for å ikke bruke dataen i det store og hele. Vår erfaring tilsier at det er bedre å bruke den informasjonen man har, enn å ikke bruke noe i det hele tatt!
+Mange virksomheter bruker i dag utfordringene rundt datakvalitet som en unnskyldning for å ikke bruke dataen i det store og hele. Vår erfaring tilsier at det er bedre å bruke den informasjonen man har, enn å ikke bruke den i det hele tatt!
 
 ![Datakonsolidering, datakvalitet og dataharmonisering](/images/Ignite Procurement - Data management.png "Ignite Procurement - Data management")
 
