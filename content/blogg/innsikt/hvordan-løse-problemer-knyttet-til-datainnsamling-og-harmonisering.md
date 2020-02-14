@@ -32,8 +32,8 @@ I flere virksomheter kan det være mange nyttige [kilder for innkjøpsdata](http
 
 Dette er noe vi legger til rette for i vår løsning for strategisk innkjøp, og som skaper stor verdi for kundene våre.
 
-* Fordel: Samler all data i en skybasert løsning, som krever minimale investeringer i kapasitet og ressurser. Kan enkelt integreres direkte mot datakildene.
-* Ulemper: Krever god sikkerhet for beskyttelse av data.
+* Fordel: Samler all data i en skybasert løsning, som krever minimale investeringer i kapasitet og ressurser. Kan enkelt integreres direkte mot datakildene
+* Ulemper: Krever god sikkerhet for beskyttelse av data
 
 #### Datakvalitet
 
@@ -56,13 +56,13 @@ I vår digitale løsning legger vi til rette for datacleaning og -validering, i 
 * Fordeler: Automatiske og manuelle kvalitetsforbedringer i enkle brukergrensesnitt. Eventuelle justeringer blir husket for ny data fremover.
 * Ulemper: For manuelle justeringer vil det kreve en minimal engangsinvestering.
 
-Mange virksomheter bruker i dag utfordringene rundt datakvalitet ofte som en unnskyldning for å ikke bruke dataen i det store og hele. Vår erfaring tilsier at det er bedre å bruke den informasjonen man har, enn å ikke bruke noe i det hele tatt!
+Mange virksomheter bruker i dag utfordringene rundt datakvalitet som en unnskyldning for å ikke bruke dataen i det store og hele. Vår erfaring tilsier at det er bedre å bruke den informasjonen man har, enn å ikke bruke noe i det hele tatt!
 
 ![Datakonsolidering, datakvalitet og dataharmonisering](/images/Ignite Procurement - Data management.png "Ignite Procurement - Data management")
 
 #### Dataharmonisering
 
-En annen vanlig utfordring er knyttet til harmonisering av dataen, det vil si å bruke datagrunnlaget for formål som er relevante for innkjøpsfunksjonen. Eksempel på dette kan være å klassifisere kjøpet til en [hensiktsmessig kategoristruktur](https://www.ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/). Hvordan kan du harmonisere dataen for å få den nødvendige innsikten du trenger?
+En annen vanlig utfordring er knyttet til harmonisering av dataen. Det vil si å bruke datagrunnlaget for formål som er relevante for innkjøpsfunksjonen. Eksempel på dette kan være å klassifisere kjøpet til en [hensiktsmessig kategoristruktur](https://www.ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/). Hvordan kan du harmonisere dataen for å få den nødvendige innsikten du trenger?
 
 **1. Bruk av Excel**
 
