@@ -6,10 +6,23 @@
     <description>Recent content in Bloggs on Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 14 Feb 2020 10:26:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2020 15:25:15 +0000</lastBuildDate>
     
 	<atom:link href="https://ignite.no/blogg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bli kjent med vårt nyeste tilskudd, Thea Ihle</title>
+      <link>https://ignite.no/blogg/nyheter/bli-kjent-med-thea-ihle/</link>
+      <pubDate>Fri, 14 Feb 2020 15:25:15 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/nyheter/bli-kjent-med-thea-ihle/</guid>
+      <description>Thea er en del av markedsføringsteamet, og vil bistå med digital markedsføring for Ignite Procurement.
+ Det jeg liker best med Ignite Procurement er at det er et startup- selskap, så å være en del av reisen fremover, blir utrolig spennende
+ Hva er din bakgrunn? (utdanning/jobb)
+For tiden studerer jeg kommunikasjonsledelse ved Handelshøyskolen BI, Oslo, og er nå halvveis i en bachelor.
+Hva liker du å gjøre på fritiden?</description>
+    </item>
     
     <item>
       <title>Hvordan løse problemer knyttet til datainnsamling og -harmonisering</title>
@@ -30,19 +43,6 @@ Datakonsolidering I flere virksomheter kan det være mange nyttige kilder for in
       <description>Statistisk sentralbyrå (SSB) er en statlig virksomhet med ansvar for innsamling, bearbeiding og formidling av statistikk om det norske samfunnet.
 SSB er en faglig uavhengig institusjon ansvarlig for å samle inn, produsere og publisere offisiell statistikk relatert til økonomi, befolkning og samfunn på nasjonalt, regionalt og lokalt nivå. Virksomheten har i tillegg en omfattende forsknings- og analysevirksomhet.
 Virksomheten sørger for at innbyggerne i Norge kan debattere, planlegge og ta beslutninger på grunnlag av pålitelig statistisk informasjon.</description>
-    </item>
-    
-    <item>
-      <title>Bli kjent med vårt nyeste tilskudd, Thea Ihle</title>
-      <link>https://ignite.no/blogg/nyheter/bli-kjent-med-thea-ihle/</link>
-      <pubDate>Fri, 07 Feb 2020 10:25:15 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/nyheter/bli-kjent-med-thea-ihle/</guid>
-      <description>Thea er en del av markedsføringsteamet, og vil bistå med digital markedsføring for Ignite Procurement.
- Det jeg liker best med Ignite Procurement er at det er et startup- selskap, så å være en del av reisen fremover, blir utrolig spennende
- Hva er din bakgrunn? (utdanning/jobb)
-For tiden studerer jeg kommunikasjonsledelse ved Handelshøyskolen BI, Oslo, og er nå halvveis i en bachelor.
-Hva liker du å gjøre på fritiden?</description>
     </item>
     
     <item>
