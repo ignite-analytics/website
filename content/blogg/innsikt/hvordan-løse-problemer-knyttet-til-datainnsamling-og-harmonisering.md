@@ -34,7 +34,7 @@ I flere virksomheter kan det være flere [kilder for innkjøpsdata](https://www.
 Datakonsolidering er noe vi legger til rette for i vår løsning for strategisk innkjøp, og som skaper stor verdi for kundene våre.
 
 * Fordel: Samler all data i en skybasert løsning, som krever minimale investeringer i kapasitet og ressurser. Kan enkelt integreres direkte mot datakildene.
-* Ulemper: Krever god digital sikkerhet for beskyttelse av dataen.
+* Ulemper: Krever god digital sikkerhet for beskyttelse av dataen. Dette er heldigvis noe alle seriøse SaaS-selskap prioriterer høyt.
 
 #### Datakvalitet
 
