@@ -9,7 +9,7 @@ tags = ["Thea Ihle", "Ansatte", "Team"]
 title = "Bli kjent med vårt nyeste tilskudd, Thea Ihle"
 
 +++
-Thea er en del av marketing-teamet, og vil bistå med digital markedsføring for Ignite Procurement.
+Thea er en del av marketing-teamet, og vil jobbe med digital markedsføring for Ignite Procurement.
 
 > Det jeg liker best med Ignite Procurement er at det er et startup-selskap. Å få være en del av denne reisen fremover, blir utrolig spennende.
 
@@ -43,7 +43,7 @@ Jeg elsker taco.
 
 _Kort info om Thea:_
 
-_Thea er 22 år gammel og kommer fra Oslo. Hun studerer kommunikasjonsledelse ved Handelshøyskolen BI i Oslo. Hun interesserer seg for markedsføring og kommunikasjon, og ser frem til å lære masse i denne stillingen. På fritiden liker hun å trene, reise og være med venner._
+_Thea er 22 år gammel og kommer fra Oslo. Hun studerer kommunikasjonsledelse ved Handelshøyskolen BI i Oslo. Hun interesserer seg for markedsføring og kommunikasjon, og ser frem til å lære mye i stillingen som digital marketer. På fritiden liker hun å trene, reise og være med venner._
 
 ***
 
