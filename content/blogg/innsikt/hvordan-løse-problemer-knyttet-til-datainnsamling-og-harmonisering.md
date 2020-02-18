@@ -9,7 +9,7 @@ tags = ["Datakonsolidering", "Datakvalitet", "Dataharmonisering", "Innkjøpsdata
 title = "Hvordan løse utfordringene knyttet til konsolidering og harmonisering av innkjøpsdata"
 
 +++
-Innkjøpfunksjonen møter flere [utfordringer i innkjøpsarbeidet](https://www.ignite.no/blogg/innsikt/10-vanlige-utfordringer-p%C3%A5-innkj%C3%B8psomr%C3%A5det/ "10 vanlige utfordringer på innkjøpsområdet - og hvordan løse disse"). Èn av de største flaskehalsene for å jobbe mer faktabasert med innkjøp, er knyttet til selve datainnsamlingen og -harmoniseringen. I dette innlegget gir vi deg noen praktiske tips til hvordan du kan løse disse problemene.
+Innkjøpfunksjonen møter flere [utfordringer i innkjøpsarbeidet](https://www.ignite.no/blogg/innsikt/10-vanlige-utfordringer-p%C3%A5-innkj%C3%B8psomr%C3%A5det/ "10 vanlige utfordringer på innkjøpsområdet - og hvordan løse disse"). Èn av de største flaskehalsene for å jobbe mer faktabasert med innkjøp, er knyttet til selve datainnsamlingen og -harmoniseringen. I dette innlegget gir vi deg noen praktiske tips til hvordan du kan løse disse problemene - både gjennom større virksomhetsovergripende tiltak til tilpassede løsninger basert på moderne teknologi.
 
 ![Tre barrierer for å jobbe mer datadrevet med innkjøp](/images/Datainnsamling og harmonisering - 2.png "Datakonsolidering, datakvalitet og dataharmonisering")
 
