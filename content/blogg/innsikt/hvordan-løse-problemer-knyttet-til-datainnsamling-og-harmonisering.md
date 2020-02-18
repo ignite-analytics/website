@@ -43,7 +43,7 @@ Noen selskaper opplever utfordringer knyttet til datakvaliteten. Eksempler på d
 **1. Master data management**
 
 * Fordeler: Sikrer at rådataen blir oppdatert og kvalitetssikret med jevne mellomrom.
-* Ulemper: Krever ofte èn eller flere dedikerte ressurser for å vedlikeholde, og vil aldri være løpende oppdatert.
+* Ulemper: Krever ofte èn eller flere dedikerte ressurser for å vedlikeholde, og vil sjelden være løpende oppdatert.
 
 **2. Standardisering av policyer**
 
@@ -57,7 +57,7 @@ Vår skybaserte løsning gjør automatisk datacleaning og -validering, i tillegg
 * Fordeler: Automatiske og manuelle kvalitetsforbedringer i enkle brukergrensesnitt. Eventuelle justeringer blir husket for ny data fremover.
 * Ulemper: Manuelle justeringer vil kreve en mindre engangsinvestering.
 
-Mange virksomheter bruker i dag utfordringene rundt datakvalitet som en unnskyldning for å ikke bruke dataen i det store og hele. Vår erfaring tilsier at det er bedre å bruke den informasjonen man har, enn å ikke bruke den i det hele tatt!
+For mange virksomheter oppleves utfordringene rundt datakvalitet som en barriere for å bruke dataen i det store og hele. Vår erfaring tilsier at det er mye bedre å bruke den informasjonen man har, enn å ikke bruke den i det hele tatt!
 
 ![Datakonsolidering, datakvalitet og dataharmonisering](/images/Ignite Procurement - Data management.png "Ignite Procurement - Data management")
 
@@ -68,7 +68,7 @@ En annen vanlig utfordring er knyttet til harmonisering av dataen. Det vil si å
 **1. Bruk av Excel**
 
 * Fordeler: De fleste har tilgang til Excel og kan bruke dette på et overordnet nivå.
-* Ulemper: Tidkrevende å bygge og vedlikeholde, der klassifiseringer vil kreve komplekse formler og gir lite transparens over tid.
+* Ulemper: Tidkrevende å bygge og vedlikeholde, der klassifiseringer vil kreve komplekse formler og avansert kompetanse som gir lite transparens over tid.
 
 **2. Bygge klassifiseringsalgoritmer i ERP-løsning**
 
