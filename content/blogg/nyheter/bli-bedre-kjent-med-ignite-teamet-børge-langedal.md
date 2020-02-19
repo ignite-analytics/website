@@ -24,7 +24,7 @@ Jeg har et årsstudium i Samfunnsøkonomi på UiB og en Master i Finansiell Øko
 
 På fritiden liker jeg å:
 
-* Bruke tid med familien hjemme – jeg har døtre på 2 og 3, som det er veldig moro å bruke tid med (må dog innrømme at det også er litt slitsomt!)
+* Bruke tid med familien hjemme – jeg har to døtre på 2 og 3, som det er veldig moro å bruke tid med (må dog innrømme at det også er litt slitsomt!)
 * Spille og se på fotball – ingenting er like god avkobling som å se Manchester United på TVen, selv om vi United-fans har litt tøffe dager for tiden.
 * Trene – enten det er løping, styrke, squash eller fotball som nevnt
 * Være med familie og venner – veldig glad i en god fest, men dessverre blitt lite av det de siste 3 årene...
