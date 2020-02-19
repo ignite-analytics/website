@@ -56,3 +56,7 @@ _Kort info om Børge:_
 Børge er 31 år gammel, utdannet økonom og er en av gründerne i Ignite. Han brenner for innkjøp, å hjelpe kunder å nå sine målsetninger og bygge team. Hjemme har han en samboer og to døtre, og prøver så godt han kan å sjonglere livet som gründer med å være en aktiv og tilstedeværende familiefar. I tillegg er han United-supporter.
 
 ***
+
+Få mer informasjon om funksjonaliteten i Ignite Analytics og hvordan plattformen kan hjelpe deg og din virksomhet!
+
+[![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
