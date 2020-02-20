@@ -10,8 +10,6 @@ tags = ["Kostnadsreduksjon "]
 title = "Hvordan identifisere muligheter for besparelser og kostnadsreduksjon"
 
 +++
-**Intro:**
-
 For å lykkes i å identifisere muligheter og kostnadsreduksjon, er det essensielt med riktige prioriteringer. Statistikk fra Deloitte, _Deloitte Global CPO Survey, 2019,_ viser at kostnadsreduksjon fortsatt er topp prioritert i nær fremtid. Hvordan kan man identifisere, og hva burde man tenke på for å realisere besparelser?
 
 Innkjøp med bredt ansvar for mange aktiviteter ++. Intro om statistikk fra Deloitte om at kostnadsreduksjon fortsatt er topp prioritert de neste 12 månedene. Hvordan identifisere og hva tenke på for å realisere besparelser?
