@@ -6,7 +6,7 @@ draft = true
 image = "/images/Reforhandling - Ignite-Matrisen 2-2.png"
 ingress = "En av utfordringene til innkjøpsfunksjonen er et stadig press for å realisere besparelser, hvor det er vanskelig å forankre og prioritere ressurser til dette. "
 showmainimg = false
-tags = []
+tags = ["Kostnadsreduksjon", "Besparelser", "Analyser "]
 title = "Hvordan identifisere muligheter for besparelser og kostnadsreduksjon"
 
 +++
