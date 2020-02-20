@@ -23,7 +23,7 @@ Nedenfor har vi gitt eksempler på virkemidler og analyser som kan være relevan
 
 Det finnes flere [strategiske virkemidler](https://www.ignite.no/blogg/innsikt/8-virkemidler-for-å-redusere-innkjøpskostnadene/ "8 virkemidler for å redusere innkjøpskostnadene") for å redusere innkjøpskostnader – bundling, eller konsolidering av kjøpet, er en av disse.
 
-Det er er stort potensial for besparelser ved bundling, _A van Weele, Purchasing and Supply Chain Management._ Bundling innebærer at man sikrer standardiserte avtalevilkår med samme leverandør på tvers av virksomheten, eller samler innkjøpsvolum hos én eller færre leverandører. Rapporten fra Deloitte viser at bundling er det viktigste virkemiddelet for innkjøpsfunksjonen.
+Det er er stort potensial for besparelser ved bundling (A., J. van Weele_, Purchasing and Supply Chain Management,_ 1998_)._ Bundling innebærer at man sikrer standardiserte avtalevilkår med samme leverandør på tvers av virksomheten, eller samler innkjøpsvolum hos én eller færre leverandører. Rapporten fra Deloitte viser at bundling er det viktigste virkemiddelet for innkjøpsfunksjonen.
 
 Du kan lese mer om hvordan du kan bruke bundling til å redusere innkjøpskostnadene [her](https://www.ignite.no/blogg/cases/hvordan-bruke-bundling-til-å-redusere-innkjøpskostnadene/ "Hvordan bruke bundling til å redusere innkjøpskostnadene ").
 
