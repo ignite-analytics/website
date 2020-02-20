@@ -166,31 +166,8 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/ansatte/</loc>
-    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/nyheter/bli-bedre-kjent-med-ignite-teamet-b%C3%B8rge-langedal/</loc>
-    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/</loc>
-    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/b%C3%B8rge/</loc>
-    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
+    <lastmod>2020-02-20T15:18:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -198,7 +175,7 @@
   
   <url>
     <loc>https://ignite.no/categories/</loc>
-    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
+    <lastmod>2020-02-20T15:18:50+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -215,16 +192,15 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/ignite/</loc>
-    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://ignite.no/blogg/innsikt/hvordan-identifisere-muligheter-for-besparelser-og-kostnadsreduksjon/</loc>
+    <lastmod>2020-02-20T15:18:50+00:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>https://ignite.no/</loc>
-    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
+    <lastmod>2020-02-20T15:18:50+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -241,8 +217,16 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/nyheter/</loc>
-    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
+    <loc>https://ignite.no/blogg/innsikt/</loc>
+    <lastmod>2020-02-20T15:18:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/kostnadsreduksjon/</loc>
+    <lastmod>2020-02-20T15:18:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -250,7 +234,7 @@
   
   <url>
     <loc>https://ignite.no/tags/</loc>
-    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
+    <lastmod>2020-02-20T15:18:50+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -262,6 +246,61 @@
                 hreflang="no"
                 href="https://ignite.no/tags/"
                 />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/analyser/</loc>
+    <lastmod>2020-02-20T15:18:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/besparelser/</loc>
+    <lastmod>2020-02-20T15:18:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/ansatte/</loc>
+    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/nyheter/bli-bedre-kjent-med-ignite-teamet-b%C3%B8rge-langedal/</loc>
+    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/b%C3%B8rge/</loc>
+    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/ignite/</loc>
+    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/nyheter/</loc>
+    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   
@@ -322,14 +361,6 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/innkj%C3%B8psdata/</loc>
-    <lastmod>2020-02-14T10:26:38+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/innsikt/</loc>
     <lastmod>2020-02-14T10:26:38+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -579,14 +610,6 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/innkj%C3%B8psstrategi/</loc>
-    <lastmod>2019-12-09T12:02:33+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/kostnadsreduksjon/</loc>
     <lastmod>2019-12-09T12:02:33+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1354,14 +1377,6 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/analyser/</loc>
-    <lastmod>2019-06-06T14:49:16+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/tag/forhandling/</loc>
     <lastmod>2019-06-06T14:49:16+00:00</lastmod>
     <priority>0</priority>
@@ -1689,14 +1704,6 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/startuplab/</loc>
-    <lastmod>2019-04-23T14:29:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/besparelser/</loc>
     <lastmod>2019-04-23T14:29:26+00:00</lastmod>
     <priority>0</priority>
   </url>
