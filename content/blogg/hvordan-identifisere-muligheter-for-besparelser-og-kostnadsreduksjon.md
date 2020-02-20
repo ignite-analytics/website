@@ -26,7 +26,7 @@ Nedenfor har vi gitt eksempler på virkemidler og analyser som kan være relevan
 
 Det finnes flere [strategiske virkemidler](https://www.ignite.no/blogg/innsikt/8-virkemidler-for-å-redusere-innkjøpskostnadene/) for å redusere kostnader –bundling (eller konsolidering av kjøpet) er en av disse.
 
-Det er er stort potensial for besparelser ved bundling, _A van Weele, Purchasing and Supply Chain Management._ Bundling innebærer at man sikrer standardiserte avtalevilkår med samme leverandør på tvers av virksomheten, eller samler innkjøpsvolum hos én eller færre leverandører. En undersøkelse av Deloitte, _Deloitte Global CPO Survey, 2019,_ viser at bundling/konsolidering av kjøp er det viktigste virkemiddelet.
+Det er er stort potensial for besparelser ved bundling, _A van Weele, Purchasing and Supply Chain Management._ Bundling innebærer at man sikrer standardiserte avtalevilkår med samme leverandør på tvers av virksomheten, eller samler innkjøpsvolum hos én eller færre leverandører. En undersøkelse gjort av Deloitte, _Deloitte Global CPO Survey, 2019,_ viser at bundling/konsolidering av kjøp er det viktigste virkemiddelet for organisasjoner. 
 
 Du kan lese mer om hvordan du kan bruke bundling til å redusere innkjøpskostnadene [her](https://www.ignite.no/blogg/cases/hvordan-bruke-bundling-til-å-redusere-innkjøpskostnadene/)
 
@@ -48,13 +48,13 @@ I tilfeller hvor produktene er relativt standardiserte på tvers av leverandørm
 
 #### Reforhandling av eksisterende avtaler
 
-Et kommersielt virkemiddel som er en typisk "quick win" for å redusere kostnadene, er å reforhandle eksisterende avtaler. En [reforhandling](https://www.ignite.no/blogg/cases/reforhandling-et-undervurdert-strategisk-virkemiddel/) kan resultere i betydelige besparelser gjennom forbedrede avtalevilkår.
+Et kommersielt virkemiddel som er en typisk "quick win" for å redusere kostnadene, er å [reforhandle](https://www.ignite.no/blogg/cases/reforhandling-et-undervurdert-strategisk-virkemiddel/) eksisterende avtaler. En reforhandling kan resultere i betydelige besparelser gjennom forbedrede avtalevilkår.
 
 **Eksempel på analyse: Vekst i kjøpet hos leverandørene**
 
 ![](/images/Reforhandling - Ignite-Matrisen 2.png)
 
-Av analysen i Ignite-matrisen kan se etter å fremforhandle betingelser enn dagens avtalevilkår hos nåværende leverandører med fokus på lavere priser. Her er det mulighet for å reforhandle med leverandører med å se på vekst i volum man har kjøpt nå kontra da avtalen ble inngått. 
+Fra analysen i Ignite-matrisen kan man se etter å fremforhandle betingelser enn dagens avtalevilkår hos nåværende leverandører med fokus på lavere priser. Her er det mulighet for å reforhandle med leverandører med å se på vekst i volum man har kjøpt nå kontra da avtalen ble inngått. 
 
 **Eksempel på analyse: Viktighet som kunde og leverandørens lønnsomhet**
 
@@ -66,7 +66,7 @@ I denne analysen kan man se på største leverandør basert på vekst i innkjøp
 
 For å få realisert besparelsene er det viktig med en god plan og oppfølging– det er kritisk at prosessen gjøres faktabasert og strukturert. Gjøres det ad-hoc uten god data og en plan som ligger til grunn, vil man neppe kunne hente ut det fulle potensialet man har behov for. 
 
-Viktige prioriteringer er: 
+Viktige tiltak er: 
 
 * Sikre tilstrekkelig prioritering. 
 * Synliggjøre og kommunisere besparelser internt – spesielt mot ledelsen for å sikre videre ressursallokering. Uten støtte fra ledelsen kan dette medføre at kostnadsreduserende tiltak ikke blir tilstrekkelig prioriterte.
