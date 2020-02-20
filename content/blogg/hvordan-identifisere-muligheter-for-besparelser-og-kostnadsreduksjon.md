@@ -64,11 +64,14 @@ I denne analysen kan man se på største leverandør basert på vekst i innkjøp
 
 ### Planlegg og følg opp initiativene
 
-For å få realisert så viktig med god plan og oppfølging +++
+For å få realisert besparelsene er det viktig med en god plan og oppfølging– det er kritisk at prosessen gjøres faktabasert og strukturert. Gjøres det ad-hoc uten god data og en plan som ligger til grunn, vil man neppe kunne hente ut det fulle potensialet man har behov for. 
 
-* Sikre tilstrekkelig prioritering
+Viktige prioriteringer er: 
 
-  Uten støtte fra ledelsen kan dette medføre at kostnadsreduserende tiltak ikke blir tilstrekkelig prioriterte.
+* Sikre tilstrekkelig prioritering. 
+* Synliggjøre og kommunisere besparelser internt – spesielt mot ledelsen for å sikre videre ressursallokering. Uten støtte fra ledelsen kan dette medføre at kostnadsreduserende tiltak ikke blir tilstrekkelig prioriterte.
+
+* 
   * **Planlegge, prioritere og oppfølging**
     * Skal man få til gode resultater/besparelser som monner, er det kritisk at prosessen gjøres faktabasert og strukturert. Gjøres det ad-hoc uten god data og en plan som ligger til grunn, vil man neppe kunne hente ut det fulle potensialet
 
