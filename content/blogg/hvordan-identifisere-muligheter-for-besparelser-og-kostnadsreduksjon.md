@@ -4,23 +4,15 @@ categories = ["Innsikt"]
 date = 2020-02-19T12:20:51Z
 draft = true
 image = ""
-ingress = ""
+ingress = "En av utfordringene til innkjøpsfunksjonen er et stadig press for å realisere besparelser, hvor det er vanskelig å forankre og prioritere ressurser til dette. "
 showmainimg = false
 tags = ["Kostnadsreduksjon "]
 title = "Hvordan identifisere muligheter for besparelser og kostnadsreduksjon"
 
 +++
-**Tittel:**
+**Intro:**
 
-**Hvordan identifisere muligheter besparelser og kostnadsreduksjon**
-
-**Ingress?**
-
-En av utfordringene til innkjøpsfunksjonen er et stadig press for å realisere besparelser, hvor vanskelig å forankre og prioritert ressurs. 
-
-Å identifisere besparelser og kostnadsreduksjon kan ofte gå på bekostning av en allerede hektisk hverdag. Det er altså et press for å redusere kostnadene, men manglende ressursstøtte til dette.
-
-**Intro:** 
+For å lykkes i å identifisere muligheter og kostnadsreduksjon, er det essensielt med riktige prioriteringer. Statistikk fra Deloitte, _Deloitte Global CPO Survey, 2019,_ viser at kostnadsreduksjon fortsatt er topp prioritert i nær fremtid. Hvordan kan man identifisere, og hva burde man tenke på for å realisere besparelser?
 
 Innkjøp med bredt ansvar for mange aktiviteter ++. Intro om statistikk fra Deloitte om at kostnadsreduksjon fortsatt er topp prioritert de neste 12 månedene. Hvordan identifisere og hva tenke på for å realisere besparelser?
 
@@ -28,23 +20,21 @@ Innkjøp med bredt ansvar for mange aktiviteter ++. Intro om statistikk fra Delo
 
 ### Spend- og innkjøpsanalyser – faktagrunnlaget for gode prioriteringer
 
-Spend- og innkjøpsanalyser gir deg faktagrunnlaget for gode prioriteringer. Spendanalyse går ut på å gjennomgå historisk kjøpsdata for å få nødvendig innsikt i kjøpet, redusere kostnadene, øke effektiviteten eller forbedre leverandørsamarbeidet. Innkjøpsanalyse er et samlebegrep for alle relevante analyser langs hele innkløpsprsessen, og innebærer innhenting og kobling av data fra flere kilder. Spend- og innkjøpsanalyser er blant annet viktige verktøy for å identifisere besparelsesmuligheter.
+Viktige verktøy for å identifisere besparelsesmuligheter er [Spend- og innkjøpsanalyser](https://www.ignite.no/blogg/innsikt/hva-er-spendanalyse/). Dette er verktøy som gir deg faktagrunnlaget for gode prioriteringer, som er en nødvendig innsikt når det gjelder å redusere kostnadene. 
 
-Nedenfor har vi gitt eksempel på virkemidler og analyser som kan være relevante for din vriksomhet.
+Nedenfor har vi gitt eksempler på virkemidler og analyser som kan være relevante for din virksomhet. 
 
 #### Kostnadsreduksjon gjennom bundling
 
-Finnes flere strategiske virkemidler for å redusere kostnader - bundling (eller konsolidering av kjøpet) en av disse.
+Det finnes flere [strategiske virkemidler](https://www.ignite.no/blogg/innsikt/8-virkemidler-for-å-redusere-innkjøpskostnadene/) for å redusere kostnader –bundling (eller konsolidering av kjøpet) er en av disse.
 
-Stort potensial for besparelser ved bundling _A van Weele, Purchasing and Supply Chain Management_
+Det er er stort potensial for besparelser ved bundling, _A van Weele, Purchasing and Supply Chain Management._ Bundling innebærer at man sikrer standardiserte avtalevilkår med samme leverandør på tvers av virksomheten, eller samler innkjøpsvolum hos én eller færre leverandører. En undersøkelse av Deloitte, _Deloitte Global CPO Survey, 2019,_ viser at bundling/konsolidering av kjøp er det viktigste virkemiddelet. 
+
+Du kan lese mer om hvordan du kan bruke bundling til å redusere innkjøpskostnadene [her](https://www.ignite.no/blogg/cases/hvordan-bruke-bundling-til-å-redusere-innkjøpskostnadene/)
 
 Link til blogg om bundling + linke til Deloitte CPO Survey hvor bundling / konsolidering av kjøp som viktigste virkemiddelet (ref Linkedin post 2.feb)
 
-Et virkemiddel som er en typisk "quick win" er å bundle, som vil si konsolidering av volum. Det innebærer at man sikrer standardiserte avtalevilkår med samme leverandør på tvers av virksomheten, og samler innkjøpsvolum hos én eller færre leverandører, en form for koblingshandel.
-
-Det er ofte en utfordring å forankre innkjøpsarbeidet i organisasjonen og få prioritert ressurser til arbeidet. Her er faktagrunnlaget gjennom gode analyser helt essensielt.
-
-Ignite Analytics kan benyttes ved å ta i bruk analyser for å få full oversikt over innkjøpsbasen. Dette gjør det mulig å få oversikt over hvor mange aktive leverandører man har innenfor geografiske lokasjoner og kategorier.
+Ofte er det en utfordring å forankre innkjøpsarbeidet i organisasjonen. Her er faktagrunnlaget gjennom gode analyser helt essensielt. Ignite Analytics kan benyttes ved å ta i bruk analyser for å få full oversikt over innkjøpsbasen. 
 
 **Eksempel på analyse: Antall leverandører per innkjøpskategori**
 
@@ -66,15 +56,13 @@ Et kommersielt virkemiddel for å redusere kostnadene er å reforhandle eksister
 
 * Fremforhandle bedre betingelser enn dagens avtalevilkår hos nåværende leverandører, med fokus på lavere priser
 * Vurdere avtaleforlengelse mot bedre prisbetingelser
-
-
 * Leverandørens lønnsomhet og vår viktighet som kunde
 
 F.eks: se på tidligere avtaler som er blitt gjort og se om det er noe man kan reforhandle i forhold til hvor mye volum man har kjøpt nå kontra da avtalen ble inngått.
 
-**Eksempel på analyse: Vekst i kjøpet hos leverandørene** 
+**Eksempel på analyse: Vekst i kjøpet hos leverandørene**
 
-**Eksempel på analyse: Viktighet som kunde og leverandørens lønnsomhet** 
+**Eksempel på analyse: Viktighet som kunde og leverandørens lønnsomhet**
 
 ### Planlegg og følg opp initiativene
 
@@ -89,3 +77,9 @@ For å få realisert så viktig med god plan og oppfølging +++
 Skal man få til gode resultater/besparelser som monner, er det kritisk at prosessen gjøres faktabasert og strukturert. Gjøres det ad-hoc uten god data og en plan som ligger til grunn, vil man neppe kunne hente ut det fulle potensialet man har behov for
 
 * Synliggjøre og kommunisere besparelser internt – spesielt mot ledelsen for å sikre videre ressursallokering
+
+[Spend- og innkjøpsanalyser](https://www.ignite.no/blogg/innsikt/hva-er-spendanalyse/) gir deg faktagrunnlaget for gode prioriteringer. Spendanalyse går ut på å gjennomgå historisk kjøpsdata for å få nødvendig innsikt i kjøpet, redusere kostnadene, øke effektiviteten eller forbedre leverandørsamarbeidet. Innkjøpsanalyse er et samlebegrep for alle relevante analyser langs hele innkløpsprsessen, og innebærer innhenting og kobling av data fra flere kilder. Spend- og innkjøpsanalyser er blant annet viktige verktøy for å identifisere besparelsesmuligheter.
+
+Det er ofte en utfordring å forankre innkjøpsarbeidet i organisasjonen og få prioritert ressurser til arbeidet. Her er faktagrunnlaget gjennom gode analyser helt essensielt.
+
+Ignite Analytics kan benyttes ved å ta i bruk analyser for å få full oversikt over innkjøpsbasen. Dette gjør det mulig å få oversikt over hvor mange aktive leverandører man har innenfor geografiske lokasjoner og kategorier.
