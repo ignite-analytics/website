@@ -14,7 +14,7 @@ Børge har i dag ansvaret for Salg og Kundesuksess i Ignite. Han har altså ansv
 
 > Da muligheten dukket opp til å starte Ignite sammen med Sigbjørn, var det noe jeg bare måtte gjøre!
 
-![](/images/Børge Kvalheim Langedal 30727 copy.jpg)
+![Børge Langedal](/images/Børge Kvalheim Langedal 30727 copy.jpg "Børge ")
 
 **Hva er din bakgrunn? (utdanning/jobb)**
 
@@ -57,6 +57,6 @@ _Børge er 31 år gammel, utdannet økonom og er en av gründerne i Ignite. Han 
 
 ***
 
-Få mer informasjon om funksjonaliteten i Ignite Analytics og hvordan plattformen kan hjelpe deg og din virksomhet!
+Ignite Procurement er et spend management verktøy for strategisk innkjøp. Få mer informasjon om hvordan løsningen kan hjelpe deg og din virksomhet!
 
 [![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
