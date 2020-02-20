@@ -20,23 +20,25 @@ Innkjøp med bredt ansvar for mange aktiviteter ++. Intro om statistikk fra Delo
 
 ### Spend- og innkjøpsanalyser – faktagrunnlaget for gode prioriteringer
 
-Viktige verktøy for å identifisere besparelsesmuligheter er [Spend- og innkjøpsanalyser](https://www.ignite.no/blogg/innsikt/hva-er-spendanalyse/). Dette er verktøy som gir deg faktagrunnlaget for gode prioriteringer, som er en nødvendig innsikt når det gjelder å redusere kostnadene. 
+Viktige verktøy for å identifisere besparelsesmuligheter er [Spend- og innkjøpsanalyser](https://www.ignite.no/blogg/innsikt/hva-er-spendanalyse/). Dette er verktøy som gir deg faktagrunnlaget for gode prioriteringer, som er en nødvendig innsikt når det gjelder å redusere kostnadene.
 
-Nedenfor har vi gitt eksempler på virkemidler og analyser som kan være relevante for din virksomhet. 
+Nedenfor har vi gitt eksempler på virkemidler og analyser som kan være relevante for din virksomhet.
 
 #### Kostnadsreduksjon gjennom bundling
 
 Det finnes flere [strategiske virkemidler](https://www.ignite.no/blogg/innsikt/8-virkemidler-for-å-redusere-innkjøpskostnadene/) for å redusere kostnader –bundling (eller konsolidering av kjøpet) er en av disse.
 
-Det er er stort potensial for besparelser ved bundling, _A van Weele, Purchasing and Supply Chain Management._ Bundling innebærer at man sikrer standardiserte avtalevilkår med samme leverandør på tvers av virksomheten, eller samler innkjøpsvolum hos én eller færre leverandører. En undersøkelse av Deloitte, _Deloitte Global CPO Survey, 2019,_ viser at bundling/konsolidering av kjøp er det viktigste virkemiddelet. 
+Det er er stort potensial for besparelser ved bundling, _A van Weele, Purchasing and Supply Chain Management._ Bundling innebærer at man sikrer standardiserte avtalevilkår med samme leverandør på tvers av virksomheten, eller samler innkjøpsvolum hos én eller færre leverandører. En undersøkelse av Deloitte, _Deloitte Global CPO Survey, 2019,_ viser at bundling/konsolidering av kjøp er det viktigste virkemiddelet.
 
 Du kan lese mer om hvordan du kan bruke bundling til å redusere innkjøpskostnadene [her](https://www.ignite.no/blogg/cases/hvordan-bruke-bundling-til-å-redusere-innkjøpskostnadene/)
 
 Link til blogg om bundling + linke til Deloitte CPO Survey hvor bundling / konsolidering av kjøp som viktigste virkemiddelet (ref Linkedin post 2.feb)
 
-Ofte er det en utfordring å forankre innkjøpsarbeidet i organisasjonen. Her er faktagrunnlaget gjennom gode analyser helt essensielt. Ignite Analytics kan benyttes ved å ta i bruk analyser for å få full oversikt over innkjøpsbasen. 
+Ofte er det en utfordring å forankre innkjøpsarbeidet i organisasjonen. Her er faktagrunnlaget gjennom gode analyser helt essensielt. Ignite Analytics kan benyttes ved å ta i bruk analyser for å få full oversikt over innkjøpsbasen.
 
 **Eksempel på analyse: Antall leverandører per innkjøpskategori**
+
+![](/images/Bundling - spend and suppliers per category.png)
 
 Eksempel på hva man kan se etter: man kan se på utvalgte kategorier og hvilke leverandører man bruker. Det er vanlig at man benytter flere ulike leverandører til de ulike kategoriene, til tross for at produktene er relativt like på tvers av leverandørmarkedet.
 
