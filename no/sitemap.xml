@@ -167,22 +167,30 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/ansatte/</loc>
-    <lastmod>2020-02-14T15:25:15+00:00</lastmod>
+    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   
   
   <url>
-    <loc>https://ignite.no/blogg/nyheter/bli-kjent-med-thea-ihle/</loc>
-    <lastmod>2020-02-14T15:25:15+00:00</lastmod>
+    <loc>https://ignite.no/blogg/nyheter/bli-bedre-kjent-med-ignite-teamet-b%C3%B8rge-langedal/</loc>
+    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>https://ignite.no/blogg/</loc>
-    <lastmod>2020-02-14T15:25:15+00:00</lastmod>
+    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/b%C3%B8rge/</loc>
+    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -190,7 +198,7 @@
   
   <url>
     <loc>https://ignite.no/categories/</loc>
-    <lastmod>2020-02-14T15:25:15+00:00</lastmod>
+    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -207,8 +215,16 @@
   
   
   <url>
+    <loc>https://ignite.no/blogg/tag/ignite/</loc>
+    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/</loc>
-    <lastmod>2020-02-14T15:25:15+00:00</lastmod>
+    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -226,7 +242,7 @@
   
   <url>
     <loc>https://ignite.no/blogg/nyheter/</loc>
-    <lastmod>2020-02-14T15:25:15+00:00</lastmod>
+    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -234,7 +250,7 @@
   
   <url>
     <loc>https://ignite.no/tags/</loc>
-    <lastmod>2020-02-14T15:25:15+00:00</lastmod>
+    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -252,8 +268,15 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/team/</loc>
-    <lastmod>2020-02-14T15:25:15+00:00</lastmod>
+    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/nyheter/bli-kjent-med-thea-ihle/</loc>
+    <lastmod>2020-02-14T15:25:15+00:00</lastmod>
   </url>
   
   
