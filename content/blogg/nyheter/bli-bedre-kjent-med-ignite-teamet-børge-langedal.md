@@ -26,7 +26,7 @@ På fritiden liker jeg å:
 
 * Bruke tid med familien hjemme – jeg har to døtre på 2 og 3, som det er veldig moro å bruke tid med (må dog innrømme at det også er litt slitsomt!)
 * Spille og se på fotball – ingenting er like god avkobling som å se Manchester United på TVen, selv om vi United-fans har litt tøffe dager for tiden.
-* Trene – enten det er løping, styrke, squash eller fotball som nevnt
+* Trene – enten det er løping, styrke, squash eller fotball som nevnt.
 * Være med familie og venner – veldig glad i en god fest, men dessverre blitt lite av det de siste 3 årene...
 
 **Hvorfor valgte du å jobbe hos Ignite?**
@@ -53,7 +53,7 @@ Som 3-åring knuste jeg klokken til min far fordi jeg ikke fikk en is, og solgte
 
 _Kort info om Børge:_
 
-Børge er 31 år gammel, utdannet økonom og er en av gründerne i Ignite. Han brenner for innkjøp, å hjelpe kunder å nå sine målsetninger og bygge team. Hjemme har han en samboer og to døtre, og prøver så godt han kan å sjonglere livet som gründer med å være en aktiv og tilstedeværende familiefar. I tillegg er han United-supporter.
+_Børge er 31 år gammel, utdannet økonom og er en av gründerne i Ignite. Han brenner for innkjøp, å hjelpe kunder å nå sine målsetninger og bygge team. Hjemme har han en samboer og to døtre, og prøver så godt han kan å sjonglere livet som gründer med å være en aktiv og tilstedeværende familiefar. I tillegg er han United-supporter._
 
 ***
 
