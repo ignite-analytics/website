@@ -68,7 +68,7 @@ For å få realisert besparelsene er det viktig med en god plan og oppfølging�
 
 Viktige tiltak er: 
 
-* Sikre tilstrekkelig prioritering. 
+* Sikre tilstrekkelig prioritering – ved å forankre og prioritere ressurser til dette.
 * Synliggjøre og kommunisere besparelser internt – spesielt mot ledelsen for å sikre videre ressursallokering. Uten støtte fra ledelsen kan dette medføre at kostnadsreduserende tiltak ikke blir tilstrekkelig prioriterte.
 
 * 
