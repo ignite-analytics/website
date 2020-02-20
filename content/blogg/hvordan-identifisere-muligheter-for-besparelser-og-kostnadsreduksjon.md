@@ -54,7 +54,7 @@ Et kommersielt virkemiddel som er en typisk "quick win" for å redusere kostnade
 
 ![](/images/Reforhandling - Ignite-Matrisen 2.png)
 
-Fra analysen i Ignite-matrisen kan man se etter å fremforhandle betingelser enn dagens avtalevilkår hos nåværende leverandører med fokus på lavere priser. Her er det mulighet for å reforhandle med leverandører med å se på vekst i volum man har kjøpt nå kontra da avtalen ble inngått. 
+Fra analysen i Ignite-matrisen kan man se etter å fremforhandle betingelser enn dagens avtalevilkår hos nåværende leverandører med fokus på lavere priser. Her er det mulighet for å reforhandle med leverandører ved å se på vekst i volum man har kjøpt nå kontra da avtalen ble inngått. 
 
 **Eksempel på analyse: Viktighet som kunde og leverandørens lønnsomhet**
 
