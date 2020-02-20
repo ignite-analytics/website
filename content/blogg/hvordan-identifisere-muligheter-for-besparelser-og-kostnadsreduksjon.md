@@ -42,6 +42,8 @@ Eksempel på hva man kan se etter: man kan se på utvalgte kategorier og hvilke 
 
 **Eksempel på analyse: Avtalelojalitet på tvers av kategorier og avdelinger**
 
+![](/images/Bundling - Avtalelojalitet per kategori og avdeling.png)
+
 Samle innkjøpsvolum for for å forbedre konkurransesituasjonen. Redusere antall aktive leverandører. I tilfeller hvor produktene er relativt standardiserte på tvers av leverandørmarkedet er det som regel ikke behov for mer enn én prioritert leverandør.
 
 Eksempel: vise til bruk av faktiske analyser fra Ignite Analytics. f.eks vise til analyse av antall leverandører og innkjøp per kategori (har man 10 leverandører på arbeidstøy og innkjøp på 50 mill, er det overhengende sannsynlig at det ligger et stort potensial i bundling)
