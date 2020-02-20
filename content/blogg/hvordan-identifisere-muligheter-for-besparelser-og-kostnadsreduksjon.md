@@ -3,14 +3,14 @@ author = "Ignite"
 categories = ["Innsikt"]
 date = 2020-02-19T12:20:51Z
 draft = true
-image = ""
+image = "/images/Reforhandling - Ignite-Matrisen 2-1.png"
 ingress = "En av utfordringene til innkjøpsfunksjonen er et stadig press for å realisere besparelser, hvor det er vanskelig å forankre og prioritere ressurser til dette. "
 showmainimg = false
 tags = ["Kostnadsreduksjon "]
 title = "Hvordan identifisere muligheter for besparelser og kostnadsreduksjon"
 
 +++
-For å lykkes i å identifisere muligheter og kostnadsreduksjon, er det essensielt med riktige prioriteringer. Statistikk fra Deloitte, _Deloitte Global CPO Survey, 2019,_ viser at kostnadsreduksjon fortsatt er topp prioritert i nær fremtid. Hvordan kan man identifisere, og hva burde man tenke på for å realisere besparelser?
+For å lykkes i å identifisere muligheter og kostnadsreduksjon, er det essensielt med riktige prioriteringer. Statistikk fra Deloitte, _Deloitte Global CPO Survey, 2019,_ viser at kostnadsreduksjon fortsatt er topp prioritert i nær fremtid. Hvordan kan man identifisere dette, og hva burde man tenke på for å realisere besparelser?
 
 Innkjøp med bredt ansvar for mange aktiviteter ++. Intro om statistikk fra Deloitte om at kostnadsreduksjon fortsatt er topp prioritert de neste 12 månedene. Hvordan identifisere og hva tenke på for å realisere besparelser?
 
@@ -38,33 +38,29 @@ Ofte er det en utfordring å forankre innkjøpsarbeidet i organisasjonen. Her er
 
 ![](/images/Bundling - spend and suppliers per category.png)
 
-Eksempel på hva man kan se etter: man kan se på utvalgte kategorier og hvilke leverandører man bruker. Det er vanlig at man benytter flere ulike leverandører til de ulike kategoriene, til tross for at produktene er relativt like på tvers av leverandørmarkedet.
+I denne analysen fra Ignite Analytics kan man se innkjøp og antall leverandører per kategori. Noe man kan se etter er utvalgte kategorier og antall leverandører man bruker innenfor hver kategori. Det er vanlig at man benytter flere ulike leverandører til de ulike kategoriene, til tross for at produktene er relativt like på tvers av leverandørmarkedet. Har man f.eks 10 leverandører på arbeidstøy og innkjøp på 50 millioner, er det sannsynlig at det ligger et stort potensial i bundling. 
 
 **Eksempel på analyse: Avtalelojalitet på tvers av kategorier og avdelinger**
 
 ![](/images/Bundling - Avtalelojalitet per kategori og avdeling.png)
 
-Samle innkjøpsvolum for for å forbedre konkurransesituasjonen. Redusere antall aktive leverandører. I tilfeller hvor produktene er relativt standardiserte på tvers av leverandørmarkedet er det som regel ikke behov for mer enn én prioritert leverandør.
-
-Eksempel: vise til bruk av faktiske analyser fra Ignite Analytics. f.eks vise til analyse av antall leverandører og innkjøp per kategori (har man 10 leverandører på arbeidstøy og innkjøp på 50 mill, er det overhengende sannsynlig at det ligger et stort potensial i bundling)
-
-* Antall leverandører som benyttes i kategoriene
+I tilfeller hvor produktene er relativt standardiserte på tvers av leverandørmarkedet, er det som regel ikke behov for mer enn én prioritert leverandør. I denne analysen er det mulig å se avtalelojaliteten på tvers av kategorier og avdelinger. Å samle innkjøpsvolum ved å redusere antall aktive leverandører vil man forbedre konkurransesituasjonen betraktelig. 
 
 #### Reforhandling av eksisterende avtaler
 
-Intro om hva + info om typisk en quick win
-
-Et kommersielt virkemiddel for å redusere kostnadene er å reforhandle eksisterende avtaler. En reforhandling kan resultere i betydelige besparelser gjennom forbedrede avtalevilkår.
-
-* Fremforhandle bedre betingelser enn dagens avtalevilkår hos nåværende leverandører, med fokus på lavere priser
-* Vurdere avtaleforlengelse mot bedre prisbetingelser
-* Leverandørens lønnsomhet og vår viktighet som kunde
-
-F.eks: se på tidligere avtaler som er blitt gjort og se om det er noe man kan reforhandle i forhold til hvor mye volum man har kjøpt nå kontra da avtalen ble inngått.
+Et kommersielt virkemiddel som er en typisk "quick win" for å redusere kostnadene, er å reforhandle eksisterende avtaler. En [reforhandling](https://www.ignite.no/blogg/cases/reforhandling-et-undervurdert-strategisk-virkemiddel/) kan resultere i betydelige besparelser gjennom forbedrede avtalevilkår.
 
 **Eksempel på analyse: Vekst i kjøpet hos leverandørene**
 
+![](/images/Reforhandling - Ignite-Matrisen 2.png)
+
+Av analysen i Ignite-matrisen kan se etter å fremforhandle betingelser enn dagens avtalevilkår hos nåværende leverandører med fokus på lavere priser. Her er det mulighet for å reforhandle med leverandører med å se på vekst i volum man har kjøpt nå kontra da avtalen ble inngått. 
+
 **Eksempel på analyse: Viktighet som kunde og leverandørens lønnsomhet**
+
+![](/images/Reforhandling - Supplier CAGR 2.png)
+
+I denne analysen kan man se på største leverandør basert på vekst i innkjøpet. Leverandører er interesserte i lojale kunder, og her er det mulig å reforhandle om vår viktighet som kunde og den aktuelle leverandørens lønnsomhet. 
 
 ### Planlegg og følg opp initiativene
 
@@ -85,3 +81,15 @@ Skal man få til gode resultater/besparelser som monner, er det kritisk at prose
 Det er ofte en utfordring å forankre innkjøpsarbeidet i organisasjonen og få prioritert ressurser til arbeidet. Her er faktagrunnlaget gjennom gode analyser helt essensielt.
 
 Ignite Analytics kan benyttes ved å ta i bruk analyser for å få full oversikt over innkjøpsbasen. Dette gjør det mulig å få oversikt over hvor mange aktive leverandører man har innenfor geografiske lokasjoner og kategorier.
+
+Eksempel: vise til bruk av faktiske analyser fra Ignite Analytics. f.eks vise til analyse av antall leverandører og innkjøp per kategori (har man 10 leverandører på arbeidstøy og innkjøp på 50 mill, er det overhengende sannsynlig at det ligger et stort potensial i bundling)
+
+* Antall leverandører som benyttes i kategoriene
+
+Samle innkjøpsvolum for for å forbedre konkurransesituasjonen. Redusere antall aktive leverandører. I tilfeller hvor produktene er relativt standardiserte på tvers av leverandørmarkedet er det som regel ikke behov for mer enn én prioritert leverandør. Kan man bruke en leverandør i flere avdelinger? 
+
+F.eks: se på tidligere avtaler som er blitt gjort og se om det er noe man kan reforhandle i forhold til hvor mye volum man har kjøpt nå kontra da avtalen ble inngått.
+
+* Fremforhandle bedre betingelser enn dagens avtalevilkår hos nåværende leverandører, med fokus på lavere priser
+* Vurdere avtaleforlengelse mot bedre prisbetingelser
+* Leverandørens lønnsomhet og vår viktighet som kunde
