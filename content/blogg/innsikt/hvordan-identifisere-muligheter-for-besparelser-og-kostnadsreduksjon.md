@@ -25,21 +25,23 @@ Det finnes flere [strategiske virkemidler](https://www.ignite.no/blogg/innsikt/8
 
 Det er er stort besparelsespotensial ved bruk av bundling som virkemiddel (A. van Weele, Purchasing and Supply Chain Management, 1998). Kort fortalt innebærer bundling å sikre standardiserte avtalevilkår med samme leverandør på tvers av virksomheten, eller samle innkjøpsvolum hos én eller færre leverandører enn status quo. [Deloitte Global CPO Survey for 2019](https://www2.deloitte.com/nl/nl/pages/strategy-analytics-and-ma/articles/global-cpo-survey.html "Deloitte Global CPO Survey 2019") viser at konsolidering av kjøpet er den viktigste strategiske prioriteringen for innkjøpssjefene i 2020.
 
-Så hvilke analyser bør man vurdere for å finne muligheter for bundling?
-
-**Eksempel på analyse: Antall leverandører per innkjøpskategori**
+**Eksempel på analyse: Spend og antall leverandører per innkjøpskategori**
 
 ![Antall leverandører per innkjøpskategori](/images/Bundling - spend and suppliers per category.png "Ignite Procurement - spend management løsning")
 
-Èn analyse 
+Èn analyse man bør se nærmere på for å finne muligheter for bundling, er antall leverandører som benyttes i de ulike innkjøpskategoriene og kjøp per kategori. Se eksempel på en slik analyse i bildet over.
 
-I denne analysen fra Ignite Analytics kan man se innkjøp og antall leverandører per kategori. Det er vanlig at man benytter flere ulike leverandører i de ulike kategoriene, til tross for at produktene er relativt like på tvers av leverandørmarkedet. Bruker man f.eks 10 leverandører på arbeidstøy og innkjøp på 50 millioner, er det sannsynlig at det ligger et stort potensial i å bundle kjøpet.
+I noen tilfeller kan det være hensiktsmessig å bruke flere leverandører per kategori, til tross for at produktene/tjenestene er relativt standardiserte på tvers av leverandørmarkedet. Men dette er absolutt ikke alltid tilfellet. Bruker man for eksempel 10 leverandører på arbeidstøy med et årlig innkjøp på 50 millioner, er det sannsynlig at det ligger et stort potensial i å bundle kjøpet.
 
 **Eksempel på analyse: Avtalelojalitet på tvers av kategorier og avdelinger**
 
 ![Avtalelojalitet på tvers av kategorier og avdelinger](/images/Bundling - Avtalelojalitet per kategori og avdeling.png "Spend management ")
 
-I tilfeller hvor produktene er relativt standardiserte på tvers av leverandørmarkedet, er det som regel ikke behov for mer enn én prioritert leverandør. I denne analysen er det mulig å se avtalelojaliteten på tvers av kategorier og avdelinger. Å samle innkjøpsvolum ved å redusere antall aktive leverandører vil man forbedre konkurransesituasjonen betraktelig.
+En annen relevant analyse å se nærmere på, er avtalelojaliteten på tvers av innkjøpskategorier og på tvers av virksomheten (for eksempel per avdeling). Se eksempel på slike analyser i bildet over.
+
+Mange virksomheter har leverandøravtaler som dekker alle behov i de ulike kategoriene, men har ofte utfordringer knyttet til avtalelekkasjer og lav avtalelojalitet (maverick spend). Om avtalelojaliteten er lav per kategori, og på tvers av virksomheten, er man helt avhengige av å konsolidere kjøpet hos prioriterte leverandører. Denne analysen gir deg altså kritisk informasjon om hvor du bør prioritere ressurser og oppfølging for å sikre konsolidering av kjøpet.
+
+Merk at denne typen analyser også kan avdekke kategorier som mangler tilstrekkelige avtaler i dag.
 
 #### Reforhandling av eksisterende avtaler
 
