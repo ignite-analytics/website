@@ -15,7 +15,7 @@ Innkjøpsavdelingen spiller en viktig rolle i utviklingen og implementeringen av
 
 ### Spend- og innkjøpsanalyser – faktagrunnlaget for gode prioriteringer
 
-Viktige verktøy for å identifisere besparelsesmuligheter er [spend- og innkjøpsanalyser](https://www.ignite.no/blogg/innsikt/hva-er-spendanalyse/ "Hva er spendanalyse?"). Dette er verktøy som gir deg faktagrunnlaget for gode prioriteringer, som er en nødvendig innsikt når det gjelder å redusere kostnadene.
+S[pend- og innkjøpsanalyser](https://www.ignite.no/blogg/innsikt/hva-er-spendanalyse/ "Hva er spendanalyse?"). Dette er verktøy som gir deg faktagrunnlaget for gode prioriteringer, som er en nødvendig innsikt når det gjelder å redusere kostnadene.
 
 Nedenfor har vi gitt eksempler på virkemidler og analyser som kan være relevante for din virksomhet.
 
