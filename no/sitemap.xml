@@ -267,32 +267,8 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/ansatte/</loc>
-    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/nyheter/bli-bedre-kjent-med-ignite-teamet-b%C3%B8rge-langedal/</loc>
     <lastmod>2020-02-19T08:13:19+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/b%C3%B8rge/</loc>
-    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/ignite/</loc>
-    <lastmod>2020-02-19T08:13:19+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   
@@ -308,6 +284,14 @@
   <url>
     <loc>https://ignite.no/blogg/tag/team/</loc>
     <lastmod>2020-02-19T08:13:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/ansatte/</loc>
+    <lastmod>2020-02-14T15:25:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -890,7 +874,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/kategorisering/</loc>
+    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</loc>
     <lastmod>2019-10-09T08:03:11+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -898,14 +882,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/</loc>
-    <lastmod>2019-10-09T08:03:11+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</loc>
+    <loc>https://ignite.no/blogg/tag/kategorisering/</loc>
     <lastmod>2019-10-09T08:03:11+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -916,6 +893,13 @@
     <loc>https://ignite.no/blogg/tag/kategoristruktur/</loc>
     <lastmod>2019-10-09T08:03:11+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/</loc>
+    <lastmod>2019-10-09T08:03:11+00:00</lastmod>
   </url>
   
   
@@ -1024,6 +1008,14 @@
   
   
   <url>
+    <loc>https://ignite.no/blogg/tag/kompetanse/</loc>
+    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/blogg/innsikt/key-takeaways-fra-digital-procurement-world-2019/</loc>
     <lastmod>2019-09-30T07:24:26+00:00</lastmod>
   </url>
@@ -1032,14 +1024,6 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/teknologi/</loc>
-    <lastmod>2019-09-30T07:24:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/kompetanse/</loc>
     <lastmod>2019-09-30T07:24:26+00:00</lastmod>
     <priority>0</priority>
   </url>
