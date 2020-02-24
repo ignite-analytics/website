@@ -25,9 +25,13 @@ Det finnes flere [strategiske virkemidler](https://www.ignite.no/blogg/innsikt/8
 
 Det er er stort besparelsespotensial ved bruk av bundling som virkemiddel (A. van Weele, Purchasing and Supply Chain Management, 1998). Kort fortalt innebærer bundling å sikre standardiserte avtalevilkår med samme leverandør på tvers av virksomheten, eller samle innkjøpsvolum hos én eller færre leverandører enn status quo. [Deloitte Global CPO Survey for 2019](https://www2.deloitte.com/nl/nl/pages/strategy-analytics-and-ma/articles/global-cpo-survey.html "Deloitte Global CPO Survey 2019") viser at konsolidering av kjøpet er den viktigste strategiske prioriteringen for innkjøpssjefene i 2020.
 
+Så hvilke analyser bør man vurdere for å finne muligheter for bundling?
+
 **Eksempel på analyse: Antall leverandører per innkjøpskategori**
 
-![Antall leverandører per innkjøpskategori](/images/Bundling - spend and suppliers per category.png "Spend management ")
+![Antall leverandører per innkjøpskategori](/images/Bundling - spend and suppliers per category.png "Ignite Procurement - spend management løsning")
+
+Èn analyse 
 
 I denne analysen fra Ignite Analytics kan man se innkjøp og antall leverandører per kategori. Det er vanlig at man benytter flere ulike leverandører i de ulike kategoriene, til tross for at produktene er relativt like på tvers av leverandørmarkedet. Bruker man f.eks 10 leverandører på arbeidstøy og innkjøp på 50 millioner, er det sannsynlig at det ligger et stort potensial i å bundle kjøpet.
 
