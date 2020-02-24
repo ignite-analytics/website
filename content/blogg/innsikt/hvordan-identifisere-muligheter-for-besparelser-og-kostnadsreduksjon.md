@@ -5,7 +5,7 @@ date = 2020-02-20T15:18:50Z
 image = "/images/Reforhandling - Ignite-Matrisen 2-2.png"
 ingress = "En av utfordringene til innkjøpsfunksjonen er et stadig press for å redusere kostnader og realisere besparelser på tvers av virksomheten."
 showmainimg = false
-tags = ["Kostnadsreduksjon"]
+tags = ["Kostnadsreduksjon", "Besparelser", "Spendanalyse", "Bundling", "Reforhandling"]
 title = "Hvordan identifisere muligheter for besparelser og kostnadsreduksjon"
 
 +++
