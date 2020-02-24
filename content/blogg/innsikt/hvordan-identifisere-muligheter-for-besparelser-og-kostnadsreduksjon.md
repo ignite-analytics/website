@@ -41,7 +41,7 @@ En annen relevant analyse å se nærmere på, er avtalelojaliteten på tvers av 
 
 Mange virksomheter har leverandøravtaler som dekker alle behov i de ulike kategoriene, men har ofte utfordringer knyttet til avtalelekkasjer og lav avtalelojalitet (maverick spend). Om avtalelojaliteten er lav per kategori, og på tvers av virksomheten, er man helt avhengige av å konsolidere kjøpet hos prioriterte leverandører. Denne analysen gir deg altså kritisk informasjon om hvor du bør prioritere ressurser og oppfølging for å sikre konsolidering av kjøpet.
 
-Merk at denne typen analyser også kan avdekke kategorier som mangler tilstrekkelige avtaler i dag.
+Merk at denne typen analyser også kan avdekke kategorier der vi ikke har tilstrekkelig avtaledekning i dag.
 
 #### Reforhandling av eksisterende avtaler
 
