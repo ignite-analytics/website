@@ -3,10 +3,10 @@ author = "Ignite"
 categories = ["Nyheter"]
 date = 2020-02-19T08:13:19Z
 image = "/images/Børge Kvalheim Langedal 30727 copy.jpg"
-ingress = "Børge er utdannet siviløkonom og er en av gründerne i Ignite. Bli bedre kjent med han og hans rolle i teamet."
+ingress = "Børge er utdannet siviløkonom og en av gründerne i Ignite Procurement. Bli bedre kjent med han og hans rolle i teamet."
 showmainimg = false
-tags = ["Team", "Ansatte", "Ignite", "Børge"]
-title = "Bli bedre kjent med Ignite-teamet, Børge Langedal"
+tags = ["Team"]
+title = "Bli bedre kjent med Ignite-teamet - Børge Langedal"
 
 +++
 Børge har i dag ansvaret for Salg og Kundesuksess i Ignite. Han har altså ansvaret for hvilke markeder som prioriteres, hvordan å gå frem for å selge verktøyet og ikke minst å best mulig legge til rette for at kundene skal ha suksess med Ignite.
