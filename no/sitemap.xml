@@ -274,6 +274,38 @@
   
   
   <url>
+    <loc>https://ignite.no/blogg/tag/spendanalyse/</loc>
+    <lastmod>2020-02-20T15:18:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/besparelser/</loc>
+    <lastmod>2020-02-20T15:18:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/bundling/</loc>
+    <lastmod>2020-02-20T15:18:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/reforhandling/</loc>
+    <lastmod>2020-02-20T15:18:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/blogg/tag/ansatte/</loc>
     <lastmod>2020-02-14T15:25:15+00:00</lastmod>
     <priority>0</priority>
@@ -438,14 +470,6 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/spend-management/</loc>
-    <lastmod>2020-01-28T13:54:39+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/spendanalyse/</loc>
     <lastmod>2020-01-28T13:54:39+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -755,23 +779,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/bundling/</loc>
-    <lastmod>2019-10-28T12:47:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://ignite.no/blogg/tag/forbedre-spesifikasjoner/</loc>
-    <lastmod>2019-10-28T12:47:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/foresp%C3%B8rselsprosess/</loc>
     <lastmod>2019-10-28T12:47:37+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -835,7 +843,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/reforhandling/</loc>
+    <loc>https://ignite.no/blogg/tag/foresp%C3%B8rselsprosess/</loc>
     <lastmod>2019-10-28T12:47:37+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1680,14 +1688,6 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/startuplab/</loc>
-    <lastmod>2019-04-23T14:29:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/besparelser/</loc>
     <lastmod>2019-04-23T14:29:26+00:00</lastmod>
     <priority>0</priority>
   </url>
