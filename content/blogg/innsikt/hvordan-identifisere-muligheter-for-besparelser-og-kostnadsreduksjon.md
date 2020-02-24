@@ -29,7 +29,7 @@ Det er er stort besparelsespotensial ved bruk av bundling som virkemiddel (A. va
 
 ![Antall leverandører per innkjøpskategori](/images/Bundling - spend and suppliers per category.png "Ignite Procurement - kategorianalyser")
 
-Èn analyse man bør se nærmere på for å finne muligheter for bundling, er antall leverandører som benyttes i de ulike innkjøpskategoriene og kjøp per kategori. Se eksempel på en slik analyse i bildet over.
+Èn analyse man bør se nærmere på for å finne muligheter for bundling, er antall leverandører som benyttes i de ulike innkjøpskategoriene og kjøp per kategori. Se eksempel på en slik analyse over.
 
 I noen tilfeller kan det være hensiktsmessig å bruke flere leverandører per kategori, til tross for at produktene/tjenestene er relativt standardiserte på tvers av leverandørmarkedet. Men dette er absolutt ikke alltid tilfellet. Bruker man for eksempel 10 leverandører på arbeidstøy med et årlig innkjøp på 50 millioner, er det sannsynlig at det ligger et stort potensial i å bundle kjøpet.
 
@@ -37,7 +37,7 @@ I noen tilfeller kan det være hensiktsmessig å bruke flere leverandører per k
 
 ![Avtalelojalitet på tvers av kategorier og avdelinger](/images/Bundling - Avtalelojalitet per kategori og avdeling.png "Ignite Procurement - avtalelojalitet")
 
-En annen relevant innkjøpsanalyse å se nærmere på, er avtalelojaliteten på tvers av innkjøpskategorier og på tvers av virksomheten (for eksempel per avdeling). Se eksempel på slike analyser i bildet over.
+En annen relevant innkjøpsanalyse å se nærmere på, er avtalelojaliteten på tvers av innkjøpskategorier og på tvers av virksomheten (for eksempel per avdeling). Se bildet over for eksempel på denne typen analyser.
 
 Mange virksomheter har leverandøravtaler som dekker alle behov i de ulike kategoriene, men har ofte utfordringer knyttet til avtalelekkasjer og lav avtalelojalitet (maverick spend). Om avtalelojaliteten er lav per kategori, og på tvers av virksomheten, er man helt avhengige av å konsolidere kjøpet hos prioriterte leverandører. Denne analysen gir deg altså kritisk informasjon om hvor du bør prioritere ressurser og oppfølging for å sikre konsolidering av kjøpet.
 
