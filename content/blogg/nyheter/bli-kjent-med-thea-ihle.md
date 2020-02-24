@@ -15,7 +15,7 @@ Thea er en del av marketing-teamet, og vil jobbe med digital markedsføring for 
 
 ![](/images/Skjermbilde 2020-02-07 kl. 13.55.12.png)
 
-**Hva er din bakgrunn? (utdanning/jobb)**
+**Hva er bakgrunnen din?**
 
 For tiden studerer jeg kommunikasjonsledelse ved Handelshøyskolen BI, Oslo, og er nå halvveis i en bachelor.
 
