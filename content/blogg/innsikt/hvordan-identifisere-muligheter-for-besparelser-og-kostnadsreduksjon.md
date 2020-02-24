@@ -17,7 +17,7 @@ Innkjøpsavdelingen spiller en viktig rolle i utviklingen og implementeringen av
 
 Tilstrekkelig innsikt i kjøpet, gjennom gode [spend- og innkjøpsanalyser](https://www.ignite.no/blogg/innsikt/hva-er-spendanalyse/ "Hva er spendanalyse?"), er helt avgjørende for å identifisere muligheter for kostnadsreduksjon. Slike analyser gir deg faktagrunnlaget du trenger for å gjøre smartere beslutninger og riktige prioriteringer.
 
-Nedenfor har vi gitt konkrete eksempler på spendanalyser for utvalgte strategiske virkemidler som kan si noe om potensialet for besparelser.
+Nedenfor har vi gitt konkrete eksempler på innkjøpsanalyser for utvalgte strategiske virkemidler som kan si noe om potensialet for besparelser i din virksomhet.
 
 #### Kostnadsreduksjon gjennom bundling
 
