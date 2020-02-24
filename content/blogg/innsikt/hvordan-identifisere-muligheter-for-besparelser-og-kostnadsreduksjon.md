@@ -45,7 +45,7 @@ Merk at denne typen analyser også kan avdekke kategorier som mangler tilstrekke
 
 #### Reforhandling av eksisterende avtaler
 
-Et kommersielt virkemiddel som er en typisk "quick win" for å redusere kostnadene, er å [reforhandle](https://www.ignite.no/blogg/cases/reforhandling-et-undervurdert-strategisk-virkemiddel/ "Reforhandling– et undervurdert strategisk virkemiddel?") eksisterende avtaler. En reforhandling kan resultere i betydelige besparelser gjennom forbedrede avtalevilkår.
+Et kommersielt virkemiddel, som ofte blir sett på som en "quick win" for å redusere kostnadene, er å [reforhandle eksisterende avtaler](https://www.ignite.no/blogg/cases/reforhandling-et-undervurdert-strategisk-virkemiddel/ "Reforhandling - et undervurdert strategisk virkemiddel?"). En reforhandling kan resultere i betydelige besparelser gjennom forbedrede avtalevilkår.
 
 **Eksempel på analyse: Vekst i kjøpet hos leverandørene**
 
