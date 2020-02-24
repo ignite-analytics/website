@@ -13,9 +13,9 @@ Børge har i dag ansvaret for Salg og Kundesuksess i Ignite Procurement. Han har
 
 > Da muligheten dukket opp til å starte Ignite Procurement sammen med Sigbjørn, var det noe jeg bare måtte gjøre!
 
-![Børge Langedal](/images/Børge Kvalheim Langedal 30727 copy.jpg "Børge ")
+![Børge Langedal - en av gründerne i Ignite Procurement](/images/Børge Kvalheim Langedal 30727 copy.jpg "Børge Langedal")
 
-**Utdanningsbakgrunn og erfaring?**
+**Hva er bakgrunnen din?**
 
 Jeg har et årsstudium i Samfunnsøkonomi på UiB og en Master i Finansiell Økonomi på NHH. Underveis i studiet, var jeg et halvt år på utveksling til San Diego sammen med Frank, og det var også da jeg møtte Sigbjørn for første gang. Før vi startet opp Ignite Procurement jobbet jeg som konsulent i BCG.
 
