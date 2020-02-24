@@ -3,13 +3,13 @@ author = "Ignite"
 categories = ["Innsikt"]
 date = 2020-02-24T15:18:50Z
 image = "/images/Reforhandling - Ignite-Matrisen 2-2.png"
-ingress = "En av utfordringene til innkjøpsfunksjonen er et stadig press for å redusere kostnader og realisere besparelser på tvers av virksomheten."
+ingress = "Èn av utfordringene til innkjøpsfunksjonen er et stadig press for å redusere kostnader og realisere besparelser på tvers av virksomheten."
 showmainimg = false
 tags = ["Kostnadsreduksjon", "Besparelser", "Spendanalyse", "Bundling", "Reforhandling"]
 title = "Hvordan identifisere muligheter for besparelser og kostnadsreduksjon"
 
 +++
-Innkjøpsavdelingen spiller en viktig rolle i utviklingen og implementeringen av forretningsstrategier, som blant annet vekst, nye produkter/tjenester og risikohåndtering. Kostnadsreduksjon er likevel fortsatt på [toppen av prioriteringslisten](https://www2.deloitte.com/nl/nl/pages/strategy-analytics-and-ma/articles/global-cpo-survey.html "Deloitte Global CPO Survey 2019") for mange innkjøpssjefer i tiden fremover. Hvordan kan man identifisere muligheter for besparelser, og hva er viktig å tenke på for å sikre realiseringen av disse?
+Innkjøpsavdelingen spiller en viktig rolle i utviklingen og implementeringen av forretningsstrategier, som blant annet vekst, nye produkter/tjenester og risikohåndtering. Kostnadsreduksjon er likevel fortsatt på [toppen av prioriteringslisten](https://www2.deloitte.com/nl/nl/pages/strategy-analytics-and-ma/articles/global-cpo-survey.html "Deloitte Global CPO Survey 2019") for mange innkjøpssjefer i tiden fremover. Hvordan kan du identifisere muligheter for besparelser og hva er viktig å tenke på for å sikre realiseringen av disse?
 
 ![Kostnadsreduksjon er på toppen av prioriteringslisten for innkjøpssjefene i tiden fremover](/images/Deloitte - CPO 2019 - Cost reduction-1.png "Kostnadsreduksjon")
 
