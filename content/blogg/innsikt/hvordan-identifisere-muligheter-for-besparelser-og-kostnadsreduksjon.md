@@ -17,17 +17,13 @@ Innkjøpsavdelingen spiller en viktig rolle i utviklingen og implementeringen av
 
 Tilstrekkelig innsikt i kjøpet, gjennom gode [spend- og innkjøpsanalyser](https://www.ignite.no/blogg/innsikt/hva-er-spendanalyse/ "Hva er spendanalyse?"), er helt avgjørende for å identifisere muligheter for kostnadsreduksjon. Slike analyser gir deg faktagrunnlaget du trenger for å gjøre smartere beslutninger og riktige prioriteringer.
 
-Nedenfor har vi gitt konkrete eksempler på spendanalyser for utvalgte strategiske virkemidler som kan være relevante for din virksomhet.
+Nedenfor har vi gitt konkrete eksempler på spendanalyser for utvalgte strategiske virkemidler som kan si noe om potensialet for besparelser.
 
 #### Kostnadsreduksjon gjennom bundling
 
-Det finnes flere [strategiske virkemidler](https://www.ignite.no/blogg/innsikt/8-virkemidler-for-å-redusere-innkjøpskostnadene/ "8 virkemidler for å redusere innkjøpskostnadene") for å redusere innkjøpskostnader – bundling, eller konsolidering av kjøpet, er en av disse.
+Det finnes flere [strategiske virkemidler](https://www.ignite.no/blogg/innsikt/8-virkemidler-for-å-redusere-innkjøpskostnadene/ "8 virkemidler for å redusere innkjøpskostnadene") for å redusere innkjøpskostnadene – [bundling](https://www.ignite.no/blogg/cases/hvordan-bruke-bundling-til-%C3%A5-redusere-innkj%C3%B8pskostnadene/ "Hvordan bruke bundling til å redusere innkjøpskostnadene"), eller konsolidering av kjøpet, er en av disse.
 
-Det er er stort potensial for besparelser ved bundling (A. van Weele_, Purchasing and Supply Chain Management,_ 1998_)._ Bundling innebærer at man sikrer standardiserte avtalevilkår med samme leverandør på tvers av virksomheten, eller samler innkjøpsvolum hos én eller færre leverandører. Rapporten fra Deloitte viser at bundling er det viktigste virkemiddelet for innkjøpsfunksjonen.
-
-Du kan lese mer om hvordan du kan bruke bundling til å redusere innkjøpskostnadene [her](https://www.ignite.no/blogg/cases/hvordan-bruke-bundling-til-å-redusere-innkjøpskostnadene/ "Hvordan bruke bundling til å redusere innkjøpskostnadene ").
-
-Innsiktsfulle analyser er helt essensielt og kan hjelpe deg med å identifisere muligheter for bundling.
+Det er er stort besparelsespotensial ved bruk av bundling som virkemiddel (A. van Weele, Purchasing and Supply Chain Management, 1998). Kort fortalt innebærer bundling å sikre standardiserte avtalevilkår med samme leverandør på tvers av virksomheten, eller samle innkjøpsvolum hos én eller færre leverandører enn status quo. [Deloitte Global CPO Survey for 2019](https://www2.deloitte.com/nl/nl/pages/strategy-analytics-and-ma/articles/global-cpo-survey.html "Deloitte Global CPO Survey 2019") viser at konsolidering av kjøpet er den viktigste strategiske prioriteringen for innkjøpssjefene i 2020.
 
 **Eksempel på analyse: Antall leverandører per innkjøpskategori**
 
