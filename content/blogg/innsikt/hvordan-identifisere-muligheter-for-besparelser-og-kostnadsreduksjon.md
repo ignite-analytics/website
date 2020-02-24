@@ -1,7 +1,7 @@
 +++
 author = "Ignite"
 categories = ["Innsikt"]
-date = 2020-02-20T15:18:50Z
+date = 2020-02-24T15:18:50Z
 image = "/images/Reforhandling - Ignite-Matrisen 2-2.png"
 ingress = "En av utfordringene til innkjøpsfunksjonen er et stadig press for å redusere kostnader og realisere besparelser på tvers av virksomheten."
 showmainimg = false
@@ -72,7 +72,7 @@ Viktige momenter å ta stilling til i denne prosessen er:
 * Sikre tilstrekkelig prioritering av ressurser og forankring internt i virksomheten. Eksempelvis kan manglende støtte fra ledelsen medføre at initiativene ikke blir tilstrekkelig prioriterte.
 * Synliggjøre og kommunisere realiserte besparelser internt, og kanskje spesielt mot ledelsen, for å skape suksesshistorier og sikre hensiktsmessig ressursallokering også i tiden fremover.
 
-Merk at du kan laste ned vår mal med ytterligere informasjon om [kritiske suksessfaktorer for å lykkes med et innkjøpsprosjekt](https://www.ignite.no/ignite-academy/maler/innkj%C3%B8psprosjekt/ "Innkjøpsprosjekt - kritiske suksessfaktorer").
+Merk at du kan laste ned malen vår med ytterligere informasjon om [kritiske suksessfaktorer for å lykkes med et innkjøpsprosjekt](https://www.ignite.no/ignite-academy/maler/innkj%C3%B8psprosjekt/ "Innkjøpsprosjekt - kritiske suksessfaktorer").
 
 ***
 
