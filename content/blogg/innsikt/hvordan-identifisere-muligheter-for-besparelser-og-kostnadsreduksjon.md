@@ -63,17 +63,19 @@ Alt annet like, så vil en høyere vekst i kjøpet tilsi større muligheter for 
 
 En større andel av omsetningen sier noe om vår viktighet som kunde, som igjen kan indikere noe om vår forhandlingsmakt. Dersom leverandøren i tillegg har relativt høye marginer, for eksempel sett opp mot sin aktuelle bransje, bør vi stille spørsmålstegn ved om det er balanse i handelen. Alt annet like, så vil vi ha bedre forhandlingskort mot leverandører vi er viktige for og/eller som nyter godt av høye driftsmarginer.
 
-### Planlegg og følg opp initiativene
+### Planlegging, prioritering og oppfølging
 
-For å få realisert besparelsene er det viktig med en strukturert plan og god oppfølging. Gjøres det ad-hoc uten god data og en plan som ligger til grunn, vil man neppe kunne hente ut det fulle potensialet.
+Skal man få til gode resultater og besparelser som monner, er det kritisk at prosessen gjøres faktabasert og strukturert. For å få realisert besparelsene er det viktig å ha en strukturert plan og samtidig sikre en hensiktsmessig oppfølging. Dersom arbeidet gjøres ad-hoc uten god data og en plan som ligger til grunn, vil man neppe kunne hente ut det fulle potensialet.
 
-Viktige momenter å ta stilling til er:
+Viktige momenter å ta stilling til i denne prosessen er:
 
-* Sikre tilstrekkelig prioritering av ressurser og god forankring internt i virksomheten. Eksempelvis kan manglende støtte fra ledelsen medføre at initiativene ikke blir tilstrekkelig prioriterte.
+* Sikre tilstrekkelig prioritering av ressurser og forankring internt i virksomheten. Eksempelvis kan manglende støtte fra ledelsen medføre at initiativene ikke blir tilstrekkelig prioriterte.
 * Synliggjøre og kommunisere realiserte besparelser internt, og kanskje spesielt mot ledelsen, for å skape suksesshistorier og sikre hensiktsmessig ressursallokering også i tiden fremover.
+
+Merk at du kan laste ned vår mal med ytterligere informasjon om [kritiske suksessfaktorer for å lykkes med et innkjøpsprosjekt](https://www.ignite.no/ignite-academy/maler/innkj%C3%B8psprosjekt/ "Innkjøpsprosjekt - kritiske suksessfaktorer").
 
 ***
 
-Vår løsning for strategisk innkjøp hjelper deg med å blant annet å identifisere muligheter for besparelser. Oppdag kraften i strategisk innkjøp gjort digitalt!
+Vår løsning for strategisk innkjøp hjelper deg med å identifisere muligheter for besparelser. Oppdag kraften i strategisk innkjøp gjort digitalt!
 
 [![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
