@@ -13,7 +13,7 @@ Thea er en del av marketing-teamet, og vil jobbe med digital markedsføring for 
 
 > Det jeg liker best med Ignite Procurement er at det er et startup-selskap. Å få være en del av denne reisen fremover, blir utrolig spennende.
 
-![](/images/Skjermbilde 2020-02-07 kl. 13.55.12.png)
+![Thea Ihle](/images/Skjermbilde 2020-02-07 kl. 13.55.12.png "Thea Ihle")
 
 **Hva er bakgrunnen din?**
 
@@ -23,11 +23,11 @@ For tiden studerer jeg kommunikasjonsledelse ved Handelshøyskolen BI, Oslo, og 
 
 På fritiden liker jeg å trene, reise og være med venner.
 
-**Hvorfor valgte du å jobbe hos Ignite?**
+**Hvorfor valgte du å begynne hos Ignite Procurement?**
 
 Ignite Procurement er et interessant og spennende selskap å jobbe i. De tilbyr en unik løsning for strategisk innkjøp, og det er kult å være en del av noe såpass "nytt". Det å jobbe her, ser jeg på som en fantastisk utfordring og fin mulighet for meg til å tilegne meg mer erfaring. I og med at jeg er student, er dette en super anledning til å benytte kunnskapen min i praksis.
 
-**Hva liker du best med Ignite?**
+**Hva liker du best med å jobbe her?**
 
 Det jeg liker best med Ignite Procurement er at det er et startup-selskap. Å få være en del av denne reisen fremover, blir utrolig spennende. I tillegg er jeg en del av et ungt og uredd arbeidsmiljø med høye ambisjoner som er svært inspirerende å jobbe rundt.
 
@@ -49,4 +49,4 @@ _Thea er 22 år gammel og kommer fra Oslo. Hun studerer kommunikasjonsledelse ve
 
 Ignite Procurement er et spend management verktøy for strategisk innkjøp. Få mer informasjon om hvordan løsningen kan hjelpe deg og din virksomhet!
 
-[![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Ignite Analytics - Last ned produktinformasjon")
+[![](https://www.ignite.no/images/Last%20ned%20produktinfo%20-%201200%20x100.png "Ignite Analytics - Last ned produktinformasjon")](https://www.ignite.no/ignite-analytics/produktinformasjon/ "Last ned produktinformasjon")
