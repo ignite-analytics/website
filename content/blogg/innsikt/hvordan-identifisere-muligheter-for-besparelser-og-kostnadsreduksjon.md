@@ -27,7 +27,7 @@ Det er er stort besparelsespotensial ved bruk av bundling som virkemiddel (A. va
 
 **Eksempel på analyse: Spend og antall leverandører per innkjøpskategori**
 
-![Antall leverandører per innkjøpskategori](/images/Bundling - spend and suppliers per category.png "Ignite Procurement - spend management løsning")
+![Antall leverandører per innkjøpskategori](/images/Bundling - spend and suppliers per category.png "Ignite Procurement - kategorianalyser")
 
 Èn analyse man bør se nærmere på for å finne muligheter for bundling, er antall leverandører som benyttes i de ulike innkjøpskategoriene og kjøp per kategori. Se eksempel på en slik analyse i bildet over.
 
@@ -35,9 +35,9 @@ I noen tilfeller kan det være hensiktsmessig å bruke flere leverandører per k
 
 **Eksempel på analyse: Avtalelojalitet på tvers av kategorier og avdelinger**
 
-![Avtalelojalitet på tvers av kategorier og avdelinger](/images/Bundling - Avtalelojalitet per kategori og avdeling.png "Spend management ")
+![Avtalelojalitet på tvers av kategorier og avdelinger](/images/Bundling - Avtalelojalitet per kategori og avdeling.png "Ignite Procurement - avtalelojalitet")
 
-En annen relevant analyse å se nærmere på, er avtalelojaliteten på tvers av innkjøpskategorier og på tvers av virksomheten (for eksempel per avdeling). Se eksempel på slike analyser i bildet over.
+En annen relevant innkjøpsanalyse å se nærmere på, er avtalelojaliteten på tvers av innkjøpskategorier og på tvers av virksomheten (for eksempel per avdeling). Se eksempel på slike analyser i bildet over.
 
 Mange virksomheter har leverandøravtaler som dekker alle behov i de ulike kategoriene, men har ofte utfordringer knyttet til avtalelekkasjer og lav avtalelojalitet (maverick spend). Om avtalelojaliteten er lav per kategori, og på tvers av virksomheten, er man helt avhengige av å konsolidere kjøpet hos prioriterte leverandører. Denne analysen gir deg altså kritisk informasjon om hvor du bør prioritere ressurser og oppfølging for å sikre konsolidering av kjøpet.
 
@@ -49,17 +49,19 @@ Et kommersielt virkemiddel, som ofte blir sett på som en "quick win" for å red
 
 **Eksempel på analyse: Vekst i kjøpet**
 
-![Vekst i kjøpet hos leverandørene](/images/Reforhandling - Supplier CAGR 2.png "Spend management")
+![Vekst i kjøpet hos leverandørene](/images/Reforhandling - Supplier CAGR 2.png "Ignite Procurement - innkjøpsvekst")
 
-I analysen over ser vi nærmere på innkjøpsvekst mot de ulike leverandørene, her målt ved CAGR per leverandør. 
+I spendanalysen over ser vi nærmere på innkjøpsvekst mot de ulike leverandørene, her målt ved CAGR per leverandør. 
 
 Alt annet like, så vil en høyere vekst i kjøpet tilsi større muligheter for å fremforhandle bedre betingelser. Dette må selvsagt sees i sammenheng med selve avtalen (dersom det i det hele tatt finnes en avtale) og andre underliggende forhold. Forhandlingskortene er uansett trolig bedre om man kan vise til en solid innkjøpsvekst hos leverandøren - og spesielt dersom faktisk volum er betydelig høyere enn det som var forutsetningen ved avtaleinngåelse.
 
 **Eksempel på analyse: Viktighet som kunde og leverandørens lønnsomhet**
 
-![Viktighet som kunde og leverandørens lønnsomhet](/images/Reforhandling - Ignite-Matrisen 2.png "Ignite-matrisen")
+![Ignite-Matrisen: Viktighet som kunde og leverandørens lønnsomhet](/images/Reforhandling - Ignite-Matrisen 2.png "Ignite Procurement - Ignite-Matrisen")
 
-Fra analysen av Ignite-matrisen kan man se på største leverandør basert på vekst i innkjøpet. Leverandører er interesserte i lojale kunder, og her er det mulig å reforhandle om vår viktighet som kunde og den aktuelle leverandørens lønnsomhet.
+Å kombinere eksterne datakilder med egen innkjøpsdata, gir ofte ytterligere perspektiver på muligheter for besparelser. I innkjøpsanalysen over ("Ignite-Matrisen") ser vi nærmere på vår andel av leverandørens omsetning og leverandørens lønnsomhet (EBIT-margin).
+
+En større andel av omsetningen sier noe om vår viktighet som kunde, som igjen kan indikere noe om vår forhandlingsmakt. Dersom leverandøren i tillegg har relativt høye marginer, for eksempel sett opp mot sin aktuelle bransje, bør vi stille spørsmålstegn ved om det er balanse i handelen. Alt annet like, så vil vi ha bedre forhandlingskort mot leverandører vi er viktige for og/eller som nyter godt av høye driftsmarginer.
 
 ### Planlegg og følg opp initiativene
 
