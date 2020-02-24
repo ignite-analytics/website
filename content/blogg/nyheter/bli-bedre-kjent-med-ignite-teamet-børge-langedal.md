@@ -11,13 +11,13 @@ title = "Bli bedre kjent med Børge Langedal"
 +++
 Børge har i dag ansvaret for Salg og Kundesuksess i Ignite Procurement. Han har altså ansvaret for hvilke markeder som prioriteres, hvordan å gå frem for å selge løsningen og ikke minst å best mulig legge til rette for at kundene får suksess med produktet.
 
-> Da muligheten dukket opp til å starte Ignite sammen med Sigbjørn, var det noe jeg bare måtte gjøre!
+> Da muligheten dukket opp til å starte Ignite Procurement sammen med Sigbjørn, var det noe jeg bare måtte gjøre!
 
 ![Børge Langedal](/images/Børge Kvalheim Langedal 30727 copy.jpg "Børge ")
 
-**Hva er din bakgrunn? (utdanning/jobb)**
+**Utdanningsbakgrunn og erfaring?**
 
-Jeg har et årsstudium i Samfunnsøkonomi på UiB og en Master i Finansiell Økonomi på NHH. Underveis i studiet, var jeg et halvt år på utveksling til San Diego sammen med Frank, og det var også da jeg møtte Sigbjørn for første gang.
+Jeg har et årsstudium i Samfunnsøkonomi på UiB og en Master i Finansiell Økonomi på NHH. Underveis i studiet, var jeg et halvt år på utveksling til San Diego sammen med Frank, og det var også da jeg møtte Sigbjørn for første gang. Før vi startet opp Ignite Procurement jobbet jeg som konsulent i BCG.
 
 **Hva liker du å gjøre på fritiden?**
 
