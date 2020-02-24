@@ -3,15 +3,15 @@ author = "Ignite"
 categories = ["Innsikt"]
 date = 2020-02-20T15:18:50Z
 image = "/images/Reforhandling - Ignite-Matrisen 2-2.png"
-ingress = "En av utfordringene til innkjøpsfunksjonen er et stadig press for å realisere besparelser, hvor det er vanskelig å forankre og prioritere ressurser til dette. "
+ingress = "En av utfordringene til innkjøpsfunksjonen er et stadig press for å redusere kostnadene og realisere besparelser på tvers av virksomheten."
 showmainimg = false
-tags = ["Kostnadsreduksjon", "Besparelser", "Analyser "]
+tags = ["Kostnadsreduksjon"]
 title = "Hvordan identifisere muligheter for besparelser og kostnadsreduksjon"
 
 +++
 For å lykkes med å identifisere muligheter for besparelser og kostnadsreduksjon, er det essensielt med riktige prioriteringer. Deloitte sin [Global CPO Survey for 2019](https://www2.deloitte.com/nl/nl/pages/strategy-analytics-and-ma/articles/global-cpo-survey.html "Deloitte Global CPO Survey 2019"), viser at kostnadsreduksjon fortsatt er på toppen av prioriteringslisten i tiden fremover. Hvordan kan man identifisere disse mulighetene, og hva burde man tenke på for å realisere disse?
 
-![Deloitte Global CPO Survey, 2019](/images/Deloitte - CPO 2019 - Cost reduction-1.png "Rapport fra Deloitte")
+![Kostnadsreduksjon er på toppen av prioriteringslisten for innkjøpssjefene i tiden fremover](/images/Deloitte - CPO 2019 - Cost reduction-1.png "Kostnadsreduksjon")
 
 ### Spend- og innkjøpsanalyser – faktagrunnlaget for gode prioriteringer
 
