@@ -15,11 +15,11 @@ Innkjøpsavdelingen spiller en viktig rolle i utviklingen og implementeringen av
 
 ### Spend- og innkjøpsanalyser – faktagrunnlaget for gode prioriteringer
 
-S[pend- og innkjøpsanalyser](https://www.ignite.no/blogg/innsikt/hva-er-spendanalyse/ "Hva er spendanalyse?"). Dette er verktøy som gir deg faktagrunnlaget for gode prioriteringer, som er en nødvendig innsikt når det gjelder å redusere kostnadene.
+Tilstrekkelig innsikt i kjøpet, gjennom gode [spend- og innkjøpsanalyser](https://www.ignite.no/blogg/innsikt/hva-er-spendanalyse/ "Hva er spendanalyse?"), er helt avgjørende for å identifisere muligheter for kostnadsreduksjon. Slike analyser gir deg faktagrunnlaget du trenger for å gjøre smartere beslutninger og riktige prioriteringer.
 
-Nedenfor har vi gitt eksempler på virkemidler og analyser som kan være relevante for din virksomhet.
+Nedenfor har vi gitt konkrete eksempler på spendanalyser for utvalgte strategiske virkemidler som kan være relevante for din virksomhet.
 
-#### **Kostnadsreduksjon gjennom bundling**
+#### Kostnadsreduksjon gjennom bundling
 
 Det finnes flere [strategiske virkemidler](https://www.ignite.no/blogg/innsikt/8-virkemidler-for-å-redusere-innkjøpskostnadene/ "8 virkemidler for å redusere innkjøpskostnadene") for å redusere innkjøpskostnader – bundling, eller konsolidering av kjøpet, er en av disse.
 
