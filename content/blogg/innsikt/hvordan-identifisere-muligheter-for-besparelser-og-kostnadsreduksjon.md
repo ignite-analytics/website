@@ -47,11 +47,13 @@ Merk at denne typen analyser også kan avdekke kategorier der vi ikke har tilstr
 
 Et kommersielt virkemiddel, som ofte blir sett på som en "quick win" for å redusere kostnadene, er å [reforhandle eksisterende avtaler](https://www.ignite.no/blogg/cases/reforhandling-et-undervurdert-strategisk-virkemiddel/ "Reforhandling - et undervurdert strategisk virkemiddel?"). En reforhandling kan resultere i betydelige besparelser gjennom forbedrede avtalevilkår.
 
-**Eksempel på analyse: Vekst i kjøpet hos leverandørene**
+**Eksempel på analyse: Vekst i kjøpet**
 
 ![Vekst i kjøpet hos leverandørene](/images/Reforhandling - Supplier CAGR 2.png "Spend management")
 
-I denne analysen kan man se etter å fremforhandle betingelser enn dagens avtalevilkår hos nåværende leverandører med fokus på lavere priser. Her er det mulighet for å reforhandle med leverandører ved å se på vekst i volum man har kjøpt nå kontra da avtalen ble inngått.
+I analysen over ser vi nærmere på innkjøpsvekst mot de ulike leverandørene, her målt ved CAGR per leverandør. 
+
+Alt annet like, så vil en høyere vekst i kjøpet tilsi større muligheter for å fremforhandle bedre betingelser. Dette må selvsagt sees i sammenheng med selve avtalen (dersom det i det hele tatt finnes en avtale) og andre underliggende forhold. Forhandlingskortene er uansett trolig bedre om man kan vise til en solid innkjøpsvekst hos leverandøren - og spesielt dersom faktisk volum er betydelig høyere enn det som var forutsetningen ved avtaleinngåelse.
 
 **Eksempel på analyse: Viktighet som kunde og leverandørens lønnsomhet**
 
