@@ -6,10 +6,12 @@ image = "/images/Reforhandling - Ignite-Matrisen 2-2.png"
 ingress = "Èn av utfordringene til innkjøpsfunksjonen er et stadig press for å redusere kostnader og realisere besparelser på tvers av virksomheten."
 showmainimg = false
 tags = ["Kostnadsreduksjon", "Besparelser", "Spendanalyse", "Bundling", "Reforhandling"]
-title = "Hvordan identifisere muligheter for besparelser og kostnadsreduksjon"
+title = "4 innkjøpsanalyser for å identifisere mulige besparelser"
 
 +++
-Innkjøpsavdelingen spiller en viktig rolle i utviklingen og implementeringen av forretningsstrategier, som blant annet vekst, nye produkter/tjenester og risikohåndtering. Kostnadsreduksjon er likevel fortsatt på [toppen av prioriteringslisten](https://www2.deloitte.com/nl/nl/pages/strategy-analytics-and-ma/articles/global-cpo-survey.html "Deloitte Global CPO Survey 2019") for mange innkjøpssjefer i tiden fremover. Hvordan kan du identifisere muligheter for besparelser og hva er viktig å tenke på for å sikre realiseringen av disse?
+Innkjøpsavdelingen spiller en viktig rolle i utviklingen og implementeringen av forretningsstrategier, som blant annet vekst, nye produkter/tjenester og risikohåndtering. Kostnadsreduksjon er likevel fortsatt på [toppen av prioriteringslisten](https://www2.deloitte.com/nl/nl/pages/strategy-analytics-and-ma/articles/global-cpo-survey.html "Deloitte Global CPO Survey 2019") for mange innkjøpssjefer i tiden fremover. 
+
+Hvordan kan du identifisere mulige besparelser og hva er viktig å tenke på for å sikre realiseringen av disse?
 
 ![Kostnadsreduksjon er på toppen av prioriteringslisten for innkjøpssjefene i tiden fremover](/images/Deloitte - CPO 2019 - Cost reduction-1.png "Kostnadsreduksjon")
 
@@ -51,7 +53,7 @@ Et kommersielt virkemiddel, som ofte blir sett på som en "quick win" for å red
 
 ![Vekst i kjøpet hos leverandørene](/images/Reforhandling - Supplier CAGR 2.png "Ignite Procurement - innkjøpsvekst")
 
-I spendanalysen over ser vi nærmere på innkjøpsvekst mot de ulike leverandørene, her målt ved CAGR per leverandør. 
+I spendanalysen over ser vi nærmere på innkjøpsvekst mot de ulike leverandørene, her målt ved CAGR per leverandør.
 
 Alt annet like, så vil en høyere vekst i kjøpet tilsi større muligheter for å fremforhandle bedre betingelser. Dette må selvsagt sees i sammenheng med selve avtalen (dersom det i det hele tatt finnes en avtale) og andre underliggende forhold. Forhandlingskortene er uansett trolig bedre om man kan vise til en solid innkjøpsvekst hos leverandøren - og spesielt dersom faktisk volum er betydelig høyere enn det som var forutsetningen ved avtaleinngåelse.
 
