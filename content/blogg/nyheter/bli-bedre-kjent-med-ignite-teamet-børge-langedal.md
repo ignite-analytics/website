@@ -52,7 +52,7 @@ Som 3-åring knuste jeg klokken til min far fordi jeg ikke fikk en is, og solgte
 
 _Kort info om Børge:_
 
-_Børge er 31 år gammel, utdannet siviløkonom og er en av gründerne i Ignite Procurement. Han brenner for innkjøp, hjelpe kunder med å nå sine målsetninger og bygge team. Hjemme har han en samboer og to døtre, og prøver så godt han kan å sjonglere livet som gründer med å være en aktiv og tilstedeværende familiefar. I tillegg er han United-supporter._
+_Børge er 31 år gammel, utdannet siviløkonom og er en av gründerne i Ignite Procurement. Han brenner for innkjøp, å hjelpe kunder med å nå sine målsetninger og bygge team. Hjemme har han en samboer og to døtre, og prøver så godt han kan å sjonglere livet som gründer med å være en aktiv og tilstedeværende familiefar. I tillegg er han United-supporter._
 
 ***
 
