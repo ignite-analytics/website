@@ -6,7 +6,7 @@ image = "/images/Reforhandling - Ignite-Matrisen 2-2.png"
 ingress = "Èn av utfordringene til innkjøpsfunksjonen er et stadig press for å redusere kostnader og realisere besparelser på tvers av virksomheten."
 showmainimg = false
 tags = ["Kostnadsreduksjon", "Besparelser", "Spendanalyse", "Bundling", "Reforhandling"]
-title = "4 innkjøpsanalyser for å identifisere besparelser"
+title = "Fire innkjøpsanalyser for å identifisere besparelser"
 
 +++
 Innkjøpsavdelingen spiller en viktig rolle i utviklingen og implementeringen av forretningsstrategier, som blant annet vekst, nye produkter/tjenester og risikohåndtering. Kostnadsreduksjon er likevel fortsatt på [toppen av prioriteringslisten](https://www2.deloitte.com/nl/nl/pages/strategy-analytics-and-ma/articles/global-cpo-survey.html "Deloitte Global CPO Survey 2019") for mange innkjøpssjefer i tiden fremover. 
