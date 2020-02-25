@@ -181,6 +181,14 @@
   
   
   <url>
+    <loc>https://ignite.no/blogg/tag/bundling/</loc>
+    <lastmod>2020-02-24T15:18:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/categories/</loc>
     <lastmod>2020-02-24T15:18:50+00:00</lastmod>
     <priority>0</priority>
@@ -233,6 +241,14 @@
   
   
   <url>
+    <loc>https://ignite.no/blogg/tag/reforhandling/</loc>
+    <lastmod>2020-02-24T15:18:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ignite.no/blogg/tag/spendanalyse/</loc>
     <lastmod>2020-02-24T15:18:50+00:00</lastmod>
     <priority>0</priority>
@@ -260,22 +276,6 @@
   
   <url>
     <loc>https://ignite.no/blogg/tag/besparelser/</loc>
-    <lastmod>2020-02-24T15:18:50+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/bundling/</loc>
-    <lastmod>2020-02-24T15:18:50+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/tag/reforhandling/</loc>
     <lastmod>2020-02-24T15:18:50+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -866,7 +866,7 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</loc>
+    <loc>https://ignite.no/blogg/tag/kategorisering/</loc>
     <lastmod>2019-10-09T08:03:11+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -874,7 +874,14 @@
   
   
   <url>
-    <loc>https://ignite.no/blogg/tag/kategorisering/</loc>
+    <loc>https://ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/</loc>
+    <lastmod>2019-10-09T08:03:11+00:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</loc>
     <lastmod>2019-10-09T08:03:11+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -885,13 +892,6 @@
     <loc>https://ignite.no/blogg/tag/kategoristruktur/</loc>
     <lastmod>2019-10-09T08:03:11+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://ignite.no/blogg/innsikt/kategoristruktur-og-kategorisering-en-praktisk-tiln%C3%A6rming/</loc>
-    <lastmod>2019-10-09T08:03:11+00:00</lastmod>
   </url>
   
   

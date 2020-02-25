@@ -12,11 +12,29 @@
     
     
     <item>
+      <title>Bundling</title>
+      <link>https://ignite.no/blogg/tag/bundling/</link>
+      <pubDate>Mon, 24 Feb 2020 15:18:50 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/bundling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kostnadsreduksjon</title>
       <link>https://ignite.no/blogg/tag/kostnadsreduksjon/</link>
       <pubDate>Mon, 24 Feb 2020 15:18:50 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/kostnadsreduksjon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reforhandling</title>
+      <link>https://ignite.no/blogg/tag/reforhandling/</link>
+      <pubDate>Mon, 24 Feb 2020 15:18:50 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/reforhandling/</guid>
       <description></description>
     </item>
     
@@ -35,24 +53,6 @@
       <pubDate>Mon, 24 Feb 2020 15:18:50 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/besparelser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bundling</title>
-      <link>https://ignite.no/blogg/tag/bundling/</link>
-      <pubDate>Mon, 24 Feb 2020 15:18:50 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/bundling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reforhandling</title>
-      <link>https://ignite.no/blogg/tag/reforhandling/</link>
-      <pubDate>Mon, 24 Feb 2020 15:18:50 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/reforhandling/</guid>
       <description></description>
     </item>
     
@@ -570,15 +570,6 @@
     </item>
     
     <item>
-      <title>Innkjøpskategori</title>
-      <link>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</link>
-      <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kategorisering</title>
       <link>https://ignite.no/blogg/tag/kategorisering/</link>
       <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
@@ -588,7 +579,16 @@
     </item>
     
     <item>
-      <title>Kategoristruktur</title>
+      <title>innkjøpskategori</title>
+      <link>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</link>
+      <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/innkj%C3%B8pskategori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kategoristruktur</title>
       <link>https://ignite.no/blogg/tag/kategoristruktur/</link>
       <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
       
