@@ -4,7 +4,7 @@ categories = ["Nyheter"]
 date = 2020-02-26T09:15:03Z
 draft = true
 image = "/images/team/Bendik_Johnsen_Molland.jpg"
-ingress = "Bendik har studert bachelor i Markedsføringsledelse. Bli bedre kjent med hans og hans rolle i Ignite-teamet."
+ingress = "Bendik har studert bachelor i Markedsføringsledelse og jobber nå i salgsteamet hos Ignite Procurement. Bli bedre kjent med hans og hans rolle i teamet."
 showmainimg = false
 tags = ["Team"]
 title = "Bli bedre kjent med Bendik Molland"
@@ -18,7 +18,7 @@ Hans hovedoppgave er å sette salgsteamet i kontakt med spennende selskaper, og 
 
 **Hva er bakgrunnen din?**
 
-Jeg har studert bachelor i Markedsføringsledelse ved Handelshøyskolen BI.
+Jeg har en bachelor i Markedsføringsledelse ved Handelshøyskolen BI.
 
 **Hva liker du å gjøre på fritiden?**
 
@@ -30,9 +30,9 @@ Jeg fikk en unik mulighet til å være med i en startup og Ignite var og er et u
 
 **Hva liker du best med å jobbe her?**
 
-* Jeg liker menneskene klart best, og å være i et motivert og sultent arbeidsmiljø der alle hjelper hverandre til å ta nye steg.
+* Jeg liker menneskene klart best, i tillegg til å være en del av et motivert og sultent arbeidsmiljø der alle hjelper hverandre til å ta nye steg.
 * Det at vi tilbyr et produkt som er med på å forenkle og hjelpe andre i å få en bedre hverdag.
-* Jeg vil også nevne at det mye god og dårlig humor, og jeg er stor fan av begge typene.
+* Jeg vil også nevne at det mye god og dårlig humor her, og jeg er stor fan av begge typene.
 
 **Tre ord som beskriver deg?**
 
