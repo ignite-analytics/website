@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Ignite Procurement - Oppdag kraften i strategisk innkjøp gjort digitalt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 24 Feb 2020 15:18:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 09:15:03 +0000</lastBuildDate>
     
 	<atom:link href="https://ignite.no/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Team</title>
+      <link>https://ignite.no/blogg/tag/team/</link>
+      <pubDate>Wed, 26 Feb 2020 09:15:03 +0000</pubDate>
+      
+      <guid>https://ignite.no/blogg/tag/team/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Besparelser</title>
@@ -53,15 +62,6 @@
       <pubDate>Mon, 24 Feb 2020 15:18:50 +0000</pubDate>
       
       <guid>https://ignite.no/blogg/tag/spendanalyse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Team</title>
-      <link>https://ignite.no/blogg/tag/team/</link>
-      <pubDate>Fri, 21 Feb 2020 08:13:19 +0000</pubDate>
-      
-      <guid>https://ignite.no/blogg/tag/team/</guid>
       <description></description>
     </item>
     
@@ -597,7 +597,7 @@
     </item>
     
     <item>
-      <title>Kategoristyring</title>
+      <title>kategoristyring</title>
       <link>https://ignite.no/blogg/tag/kategoristyring/</link>
       <pubDate>Wed, 09 Oct 2019 08:03:11 +0000</pubDate>
       
@@ -723,7 +723,7 @@
     </item>
     
     <item>
-      <title>Platform engineers</title>
+      <title>Platform Engineers</title>
       <link>https://ignite.no/blogg/tag/platform-engineers/</link>
       <pubDate>Mon, 23 Sep 2019 11:40:08 +0000</pubDate>
       
