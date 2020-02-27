@@ -26,13 +26,13 @@ På fritiden liker jeg å være i en eller annen form for aktivitet, om det er f
 
 **Hvorfor valgte du å jobbe hos Ignite Procurement?**
 
-Jeg fikk en unik mulighet til å være med i en startup og Ignite var og er et utrolig spennende selskap, så dette var noe jeg ikke kunne si nei til. Menneskene her er utrolig dyktige og jeg så mange muligheter til å videreutvikle meg i dette selskapet.
+Jeg fikk en unik mulighet til å være med i en startup og Ignite Procurement var og er et utrolig spennende selskap, så dette var noe jeg ikke kunne si nei til. Menneskene her er utrolig dyktige og jeg så mange muligheter til å videreutvikle meg i dette selskapet.
 
 **Hva liker du best med å jobbe her?**
 
 * Jeg liker menneskene klart best, i tillegg til å være en del av et motivert og sultent arbeidsmiljø der alle hjelper hverandre til å ta nye steg.
-* Det at vi tilbyr et produkt som er med på å forenkle og hjelpe andre i å få en bedre hverdag.
-* Jeg vil også nevne at det mye god og dårlig humor her, og jeg er stor fan av begge typene.
+* Det at vi tilbyr et produkt som er med på å forenkle og hjelpe andre til å få en bedre hverdag.
+* Til slutt vil jeg nevne at det mye god og dårlig humor her, og jeg er stor fan av begge deler. 
 
 **Tre ord som beskriver deg?**
 
