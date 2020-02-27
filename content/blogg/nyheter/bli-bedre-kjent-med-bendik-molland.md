@@ -2,7 +2,6 @@
 author = "Ignite"
 categories = ["Nyheter"]
 date = 2020-02-26T09:15:03Z
-draft = true
 image = "/images/team/Bendik_Johnsen_Molland.jpg"
 ingress = "Bendik har studert bachelor i Markedsføringsledelse og jobber nå i salgsteamet hos Ignite Procurement. Bli bedre kjent med hans og hans rolle i teamet."
 showmainimg = false
