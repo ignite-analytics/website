@@ -2,22 +2,22 @@
 author = "Ignite"
 categories = ["Nyheter"]
 date = 2020-02-26T09:15:03Z
-image = "/images/team/Bendik_Johnsen_Molland.jpg"
+image = "/images/Bendik Johnsen Molland 94996 WEB.jpg"
 ingress = "Bendik har studert bachelor i Markedsføringsledelse og jobber nå i salgsteamet hos Ignite Procurement. Bli bedre kjent med hans og hans rolle i teamet."
 showmainimg = false
 tags = ["Team"]
-title = "Bli bedre kjent med Bendik Molland"
+title = "Bli kjent med Bendik Molland i Ignite Procurement"
 
 +++
-Hans hovedoppgave er å sette salgsteamet i kontakt med spennende selskaper, og å ta prosessen videre der det er naturlig. Han legger også tilrette for at vi alltid har interessante selskaper å ta kontakt med.
+Hans hovedoppgave er å sette salgsteamet i kontakt med spennende selskaper, og å ta prosessen videre der det er naturlig. Bendik legger også til rette for at vi alltid har interessante selskaper i pipelinen.
 
 > Menneskene her er utrolig dyktige og jeg så mange muligheter til å videreutvikle meg i dette selskapet.
 
-![Ignite-teamet](/images/team/Bendik_Johnsen_Molland.jpg "Bendik Molland")
+![Bendik Molland i Ignite Procurement](/images/Bendik Johnsen Molland 94996 WEB.jpg "Bendik Molland")
 
 **Hva er bakgrunnen din?**
 
-Jeg har en bachelor i Markedsføringsledelse ved Handelshøyskolen BI.
+Jeg har en bachelor i Markedsføringsledelse ved Handelshøyskolen BI. Før jeg begynte i Ignite Procurement jobbet jeg med salg i Innovation Support. 
 
 **Hva liker du å gjøre på fritiden?**
 
@@ -31,7 +31,7 @@ Jeg fikk en unik mulighet til å være med i en startup og Ignite Procurement va
 
 * Jeg liker menneskene klart best, i tillegg til å være en del av et motivert og sultent arbeidsmiljø der alle hjelper hverandre til å ta nye steg.
 * Det at vi tilbyr et produkt som er med på å forenkle og hjelpe andre til å få en bedre hverdag.
-* Til slutt vil jeg nevne at det mye god og dårlig humor her, og jeg er stor fan av begge deler. 
+* Til slutt vil jeg nevne at det mye god og dårlig humor her, og jeg er stor fan av begge deler.
 
 **Tre ord som beskriver deg?**
 
