@@ -3,7 +3,7 @@ author = "Ignite"
 categories = ["Nyheter"]
 date = 2020-02-26T09:15:03Z
 image = "/images/Bendik Johnsen Molland 94996 WEB.jpg"
-ingress = "Bendik har en bachelor i Markedsføringsledelse og jobber nå i salgsteamet hos Ignite Procurement. Bli bedre kjent med han og hva han jobber med hos oss."
+ingress = "Bendik har studert Markedsføringsledelse og jobber nå i salgsteamet hos Ignite Procurement. Bli bedre kjent med han og hva han jobber med hos oss."
 showmainimg = false
 tags = ["Team"]
 title = "Bli kjent med Bendik Molland i Ignite Procurement"
@@ -17,7 +17,7 @@ En av hovedoppgavene hans er å sette salgsteamet i kontakt med relevante og spe
 
 **Hva er bakgrunnen din?**
 
-Jeg har en bachelor i Markedsføringsledelse ved Handelshøyskolen BI. Før jeg begynte i Ignite Procurement jobbet jeg med salg i Innovation Support. 
+Jeg har studert Markedsføringsledelse ved Handelshøyskolen BI. Før jeg begynte i Ignite Procurement jobbet jeg med salg i Innovation Support.
 
 **Hva liker du å gjøre på fritiden?**
 
